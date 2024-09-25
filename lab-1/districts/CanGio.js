@@ -1,5 +1,5 @@
 // Chỉnh tên đia điểm
-const name = "Huyện testing"
+const name = "Huyện Cần Giờ"
 // Chỉnh số dân ở đây
 const population = 100000
 // Chỉnh diện tích ở đây

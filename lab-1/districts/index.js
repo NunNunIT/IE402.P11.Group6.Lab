@@ -1,9 +1,11 @@
 // import Template from "./template.js";
-import CanGio from "./can-gio.js";
+import CanGio from "./CanGio.js";
+import NhaBe from "./NhaBe.js";
+import BinhChanh from "./BinhChanh.js";
 
 import { POINT_TEMPLATE_AREA } from "../utils/constant.js";
 
-const districts = [CanGio].map(data => ({
+const districts = [CanGio, NhaBe, BinhChanh].map(data => ({
   type: "polygon",
   popupTemplate: POINT_TEMPLATE_AREA,
   ...data,
