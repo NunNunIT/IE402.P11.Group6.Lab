@@ -1,111 +1,20 @@
-import QLAH1 from "./QL-AH1.js";
-import DT825 from "./DT.825.js";
-import TL787 from "./TL787.js";
-import QL22B from "./QL22B.js";
-import DT821 from "./DT821_DT825_QL22.js";
-import DT2 from "./DT.2.js";
-import DT792 from "./DT.792.js";
-import DT782 from "./DT782.js";
+// import { POINT_TEMPLATE_LINE } from "../utils/constant.js";
 
-import { POINT_TEMPLATE_LINE } from "../utils/constant.js";
+// const streets = [
+//   {
+//     type: "polyline",
+//     paths: QLAH1,
+//     symbol: {
+//       type: "simple-line",
+//       color: [226, 119, 40],
+//       width: 2,
+//     },
+//     Name: "QL-AH1",
+//     Location: "Tỉnh Tây Ninh",
+//     popupTemplate: POINT_TEMPLATE_LINE,
+//   },
+// ];
 
-const streets = [
-  {
-    type: "polyline",
-    paths: QLAH1,
-    symbol: {
-      type: "simple-line",
-      color: [226, 119, 40],
-      width: 2,
-    },
-    Name: "QL-AH1",
-    Location: "Tỉnh Tây Ninh",
-    popupTemplate: POINT_TEMPLATE_LINE,
-  },
-  {
-    type: "polyline",
-    paths: DT825,
-    symbol: {
-      type: "simple-line",
-      color: [111, 119, 2],
-      width: 2,
-    },
-    Name: "DT.825",
-    Location: "Tỉnh Tây Ninh",
-    popupTemplate: POINT_TEMPLATE_LINE,
-  },
-  {
-    type: "polyline",
-    paths: TL787,
-    symbol: {
-      type: "simple-line",
-      color: [50, 150, 80],
-      width: 2,
-    },
-    Name: "TL 787",
-    Location: "Tỉnh Tây Ninh",
-    popupTemplate: POINT_TEMPLATE_LINE,
-  },
-  {
-    type: "polyline",
-    paths: QL22B,
-    symbol: {
-      type: "simple-line",
-      color: [180, 40, 40],
-      width: 2,
-    },
-    Name: "QL 22B",
-    Location: "Tỉnh Tây Ninh",
-    popupTemplate: POINT_TEMPLATE_LINE,
-  },
-  {
-    type: "polyline",
-    paths: DT821,
-    symbol: {
-      type: "simple-line",
-      color: [255, 192, 203],
-      width: 2,
-    },
-    Name: "DT821 - DT825 - QL22",
-    Location: "Tỉnh Tây Ninh",
-    popupTemplate: POINT_TEMPLATE_LINE,
-  },
-  {
-    type: "polyline",
-    paths: DT2,
-    symbol: {
-      type: "simple-line",
-      color: [55, 2, 200],
-      width: 2,
-    },
-    Name: "DT2",
-    Location: "Tỉnh Tây Ninh",
-    popupTemplate: POINT_TEMPLATE_LINE,
-  },
-  {
-    type: "polyline",
-    paths: DT792,
-    symbol: {
-      type: "simple-line",
-      color: [51, 21, 111],
-      width: 2,
-    },
-    Name: "DT792",
-    Location: "Tỉnh Tây Ninh",
-    popupTemplate: POINT_TEMPLATE_LINE,
-  },
-  {
-    type: "polyline",
-    paths: DT782,
-    symbol: {
-      type: "simple-line",
-      color: [253, 232, 49],
-      width: 2,
-    },
-    Name: "DT 782",
-    Location: "Tỉnh Tây Ninh",
-    popupTemplate: POINT_TEMPLATE_LINE,
-  },
-];
+const streets = []
 
 export default streets;
