@@ -1,14 +1,7 @@
-var school_symbol = {
-  type: "picture-marker",
-  url: "./symbols/school.png",
-  width: "24px",
-  height: "24px",
-};
-
-var point_template_school = {
-  title: "{Name}",
-  content: "Trường học này ở <b>{Location}</b>.",
-};
+import {
+  POINT_TEMPLATE_SCHOOL,
+  SCHOOL_SYMBOL
+} from "../utils/constant.js";
 
 const schools = [
   {
@@ -17,8 +10,8 @@ const schools = [
     latitude: 10.996603108555467,
     Name: "Trường mẫu giáo Phước Chỉ",
     Location: "X6WJ+FVF, Phước Chỉ, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -26,8 +19,8 @@ const schools = [
     latitude: 11.020938145687925,
     Name: "Trường THPT Phước Bình A",
     Location: "26CJ+7F3, Phước Bình, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -36,8 +29,8 @@ const schools = [
     Name: "Bình Thạnh Primary School",
     Location:
       "26FG+FW6, ẤP BÌNH HÒA, Xã BÌNH THẠNH,, HUYỆN TRẢNG BÀNG,, TÂY NINH, Bình Hòa, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -45,8 +38,8 @@ const schools = [
     latitude: 11.018899301132627,
     Name: "Mầm non Song Hương",
     Location: "269C+8CG, Bình Phú, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -54,8 +47,8 @@ const schools = [
     latitude: 11.007617265072026,
     Name: "Trường THCS Phước Chỉ",
     Location: "264J+XR2, Unnamed Rd,, Phước Chỉ, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -63,8 +56,8 @@ const schools = [
     latitude: 11.029365250470523,
     Name: "Trường Mầm Non Sao Mai",
     Location: "Tổ 06, Ấp Đức A, Xã Phước, Gò Dầu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -72,8 +65,8 @@ const schools = [
     latitude: 11.05480175095288,
     Name: "Trường Tiểu Học Bình Quới",
     Location: "3639+R85, Phước Bình, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -81,8 +74,8 @@ const schools = [
     latitude: 11.033335353518545,
     Name: "Trường Tiểu Học Hòa Bình ( Phước Hội )",
     Location: "27MC+5Q9, Unnamed Road, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -90,8 +83,8 @@ const schools = [
     latitude: 11.051110369748566,
     Name: "Trường Tiểu Học Phước Giang",
     Location: "3726+CJW, Unnamed, Road, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -99,8 +92,8 @@ const schools = [
     latitude: 11.080486067193364,
     Name: "Quang Trung High School",
     Location: "74 Lê Văn Thới, Gò Dầu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -108,8 +101,8 @@ const schools = [
     latitude: 11.0821496194133,
     Name: "Thanh Bình Primary School",
     Location: "37JC+MQM, Gò Dầu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -117,8 +110,8 @@ const schools = [
     latitude: 11.09218666799507,
     Name: "Trường học Lê Văn Thới",
     Location: "37R9+RQ3, Gò Dầu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -127,8 +120,8 @@ const schools = [
     Name: "Trường THPT Dương Minh Châu",
     Location:
       "96HH+FFQ, TT. Dương Minh Châu, Dương Minh Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -137,8 +130,8 @@ const schools = [
     Name: "Trường tiểu học Phước Hội",
     Location:
       "10 ấp Phước Lợi 1 Khédol - Suối Đá, TT. Dương Minh Châu, Dương Minh Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -146,8 +139,8 @@ const schools = [
     latitude: 11.360274868100678,
     Name: "Trường TH Suối Đá A",
     Location: "965C+XXP, Suối Đá, Dương Minh Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -155,8 +148,8 @@ const schools = [
     latitude: 11.086935291301803,
     Name: "Trường THPT Lộc Hưng",
     Location: "39PM+JWP, HL2, Lộc Hưng, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -164,8 +157,8 @@ const schools = [
     latitude: 11.080432786470324,
     Name: "Trường Tiểu Học Chánh Vĩnh Phước",
     Location: "39JV+3J8, Lộc Hưng, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -173,8 +166,8 @@ const schools = [
     latitude: 11.086397304122299,
     Name: "Trường THCS Lộc Hưng",
     Location: "39PP+G9M, Lộc Hưng, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -182,8 +175,8 @@ const schools = [
     latitude: 11.038570048203539,
     Name: "Trường Tiểu Học Trảng Bàng",
     Location: "Gia Huỳnh, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -191,8 +184,8 @@ const schools = [
     latitude: 11.039581841166932,
     Name: "Trung Tâm Tư Vấn và Phát Triển Giáo Dục (Trẻ chậm Nói Tây Ninh)",
     Location: "Đ. Bờì Lời, Gia Huỳnh, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -200,8 +193,8 @@ const schools = [
     latitude: 11.03794619467652,
     Name: "Trung Tâm Tư Vấn và Phát Triển Giáo Dục (Trẻ chậm Nói Tây Ninh)",
     Location: "69 Nguyễn Trọng Cát, Lộc Du, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -209,8 +202,8 @@ const schools = [
     latitude: 11.044989475771244,
     Name: "Trường MN An Lợi 3",
     Location: "28VH+XXR, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -218,8 +211,8 @@ const schools = [
     latitude: 11.057297292337566,
     Name: "Trường Tiểu học Bình Nguyên",
     Location: "3842+V3W, Unnamed Road, Gia Bình, Trảng Bàng, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -227,8 +220,8 @@ const schools = [
     latitude: 11.130411228115873,
     Name: "Trường tiểu học Cây Da",
     Location: "47J8+3V7, Hiệp Thạnh, Gò Dầu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -236,8 +229,8 @@ const schools = [
     latitude: 11.124493811863452,
     Name: "Trường THCS Phước Thạnh",
     Location: "47FV+J9Q, Phước Thạnh, Gò Dầu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -245,8 +238,8 @@ const schools = [
     latitude: 11.123089833175976,
     Name: "Trường Trung Cấp Á Châu",
     Location: "236, ĐT782, Phước Đông, Gò Dầu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -254,8 +247,8 @@ const schools = [
     latitude: 11.163748236807491,
     Name: "Trường Tiểu học Ấp 4 Bàu Đồn",
     Location: "5876+9H9, Đường 47, Bầu Đồn, Gò Dầu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -263,8 +256,8 @@ const schools = [
     latitude: 11.16935655997107,
     Name: "Trường THPT Nguyễn Văn Trỗi",
     Location: "Ấp 7, Gò Dầu District, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -272,8 +265,8 @@ const schools = [
     latitude: 11.176208829041421,
     Name: "Trường THCS Bàu Đồn",
     Location: "58G7+6JV, Đường số 2, ấp Cây Da, Gò Dầu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -281,8 +274,8 @@ const schools = [
     latitude: 11.171831114041135,
     Name: "Trường TH Ấp Rộc A",
     Location: "56CR+G6R, Thạnh Đức, Gò Dầu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -290,8 +283,8 @@ const schools = [
     latitude: 11.16833813106277,
     Name: "Trường THPT Ngô Gia Tự",
     Location: "5697+538, QL22B, Thạnh Đức, Gò Dầu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -299,8 +292,8 @@ const schools = [
     latitude: 11.188792096955785,
     Name: "Trường mầm non tư thục Huỳnh Châu",
     Location: "55Q6+HCM, Unnamed Road, Cẩm Giàng, Gò Dầu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -309,8 +302,8 @@ const schools = [
     Name: "Trường tiểu học Trường Đông",
     Location:
       "479 Nguyễn Lương Bằng, Trường Đông, Hoà Thành, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -318,8 +311,8 @@ const schools = [
     latitude: 11.220933236562866,
     Name: "Trường Tiểu Học Trường Đông B",
     Location: "1207 QL22B, Long Thành Trung, Hoà Thành, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -327,8 +320,8 @@ const schools = [
     latitude: 11.238641673649656,
     Name: "Trường Mẫu Giáo Trường Tây",
     Location: "65Q2+F34, Ấp Trường Lộc, Hoà Thành, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -336,8 +329,8 @@ const schools = [
     latitude: 11.258556322022907,
     Name: "Trường tiểu học Nguyễn Văn Trỗi",
     Location: "24 Trường Xuân, Trường Hoà, Hoà Thành, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -345,8 +338,8 @@ const schools = [
     latitude: 11.241484814807732,
     Name: "Mầm Non Thuận Hòa",
     Location: "66RX+JP2, ĐT784, Truông Mít, Dương Minh Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -355,8 +348,8 @@ const schools = [
     Name: "Trường Tiểu học Truông Mít B",
     Location:
       "Trường Tiểu Học Thuận An, Truông Mít, Dương Minh Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -364,8 +357,8 @@ const schools = [
     latitude: 11.207035431765497,
     Name: "Trường THCS Truông Mít",
     Location: "674M+VFC, Truông Mít, Dương Minh Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -374,8 +367,8 @@ const schools = [
     Name: "Trường Tiểu Học Bến Củi",
     Location:
       "ẤP 1, XÃ BẾN CỦI,, HUYỆN DƯƠNG MINH CHÂU,, TÂY NINH, Bến Củi, Dương Minh Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -383,8 +376,8 @@ const schools = [
     latitude: 11.312647621614545,
     Name: "THCS Phước Minh",
     Location: "Ấp B1,, Phước Minh, Dương Minh Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -393,8 +386,8 @@ const schools = [
     Name: "Trường Thcs. Phước Ninh",
     Location:
       "87P2+WRR, Tân Phước, Phước Ninh, Dương Minh Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -402,8 +395,8 @@ const schools = [
     latitude: 11.315309470029606,
     Name: "Trường Tiểu Học Bàu Năng B",
     Location: "8586+4C8, Bàu Năng, Dương Minh Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -411,8 +404,8 @@ const schools = [
     latitude: 11.318648764388806,
     Name: "Trường tiểu học Võ Trường Toản",
     Location: "67 Trường Chinh, Ninh Thạnh, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -421,8 +414,8 @@ const schools = [
     Name: "Trường THPT LÊ QUÍ ĐÔN",
     Location:
       "74W8+J4X, Lạc Long Quân, Khu phố 4, Tp. Tây Ninh, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -431,8 +424,8 @@ const schools = [
     Name: "Trường THPT Lý Thường Kiệt",
     Location:
       "74PG+RH9, Lý Thường Kiệt, TT. Hoà Thành, Hoà Thành, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -440,8 +433,8 @@ const schools = [
     latitude: 11.268299461503576,
     Name: "Trường THCS Cầu Khởi",
     Location: "769G+356, Khởi Hà, Dương Minh Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -449,8 +442,8 @@ const schools = [
     latitude: 11.311285588785351,
     Name: "Trường Trung cấp Kinh tế - Kỹ thuật Tây Ninh",
     Location: "467 Trưng Nữ Vương, Bình Hòa, Châu Thành, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -459,8 +452,8 @@ const schools = [
     Name: "Trường Tiểu học THỊ TRẤN CHÂU THÀNH B",
     Location:
       "826G+G8P, Hoàng Lê Kha, TT. Châu Thành, Châu Thành, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -468,8 +461,8 @@ const schools = [
     latitude: 11.31074681229622,
     Name: "Trường THCS Trí Bình",
     Location: "8267+42H, Hoàng Lê Kha, Trí Bình, Châu Thành, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -477,8 +470,8 @@ const schools = [
     latitude: 11.267582074092731,
     Name: "Trường tiểu học Thành Bắc",
     Location: "7X86+QGM, 781, Thành Long, Châu Thành, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -486,8 +479,8 @@ const schools = [
     latitude: 11.18450121616228,
     Name: "Trường Tiểu Học Long Chữ - H.Bến Cầu",
     Location: "54M5+M8V, Long Chữ, Bến Cầu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -496,8 +489,8 @@ const schools = [
     Name: "Trường Tiểu học Long Khánh B",
     Location:
       "43XV+JR2, ấp Long Thịnh xã, Long Khánh, Bến Cầu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -505,8 +498,8 @@ const schools = [
     latitude: 11.54576856984701,
     Name: "Trường THCS thị trấn Tân Biên",
     Location: "G2W6+5RQ, Tân Biên, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -514,8 +507,8 @@ const schools = [
     latitude: 11.538937415356806,
     Name: "Trường THPT Trần Phú",
     Location: "G2P6+XR5, Tân Biên, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -523,8 +516,8 @@ const schools = [
     latitude: 11.54433705165589,
     Name: "Trường Tiểu Học Thạnh Bình A",
     Location: "Thạnh Bình, Tân Biên District, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -533,8 +526,8 @@ const schools = [
     Name: "Trung tâm giáo dục thường xuyên",
     Location:
       "H535+93R, 460 Nguyễn Thị Định, Khu phố 1, Tân Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -542,8 +535,8 @@ const schools = [
     latitude: 11.519886717638073,
     Name: "Trường TH Tân Phú A (điểm Tân Tiến)",
     Location: "Đường huyện 4, Tân Hòa, Tân Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -551,8 +544,8 @@ const schools = [
     latitude: 11.514266189176691,
     Name: "Trường TH Tân Phú A (điểm Tân Tiến)",
     Location: "Đường huyện 4, Tân Hòa, Tân Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -560,8 +553,8 @@ const schools = [
     latitude: 11.504615732325718,
     Name: "Trường TH Tân Phú A (điểm Tân Tiến)",
     Location: "Đường huyện 4, Tân Hòa, Tân Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -569,8 +562,8 @@ const schools = [
     latitude: 11.46586736849804,
     Name: "Trường TH Tân Phú A (điểm Tân Tiến)",
     Location: "Đường huyện 4, Tân Hòa, Tân Châu, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -578,8 +571,8 @@ const schools = [
     latitude: 11.544790391247236,
     Name: "Trường Tiểu Học Thạnh Sơn",
     Location: "G2VF+QVH, ĐT795, Thạnh Tây, Tân Biên, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -587,8 +580,8 @@ const schools = [
     latitude: 11.538119814854879,
     Name: "Trường THPT Trần Phú",
     Location: "G2P6+XR5, Tân Biên, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -596,8 +589,8 @@ const schools = [
     latitude: 11.591383222883339,
     Name: "THCS Thiện Ngôn",
     Location: "HXRQ+G2R, Tân Bình, Tân Biên, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -605,8 +598,8 @@ const schools = [
     latitude: 11.58817633120068,
     Name: "Trường mầm non Phạm Ngọc Thạch",
     Location: "HXPH+WC8, ẤP TÂN THANH, Tân Biên, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -614,8 +607,8 @@ const schools = [
     latitude: 11.448144115493818,
     Name: "Trường tiểu học Thanh An",
     Location: "C2X3+37R, Mỏ Công, Tân Biên, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
   {
     type: "point",
@@ -623,8 +616,8 @@ const schools = [
     latitude: 11.401529130010307,
     Name: "Trường Tiểu Học Phước Hòa 2",
     Location: "CW27+3M9, Phước Vinh, Châu Thành, Tây Ninh, Vietnam",
-    symbol: school_symbol,
-    popupTemplate: point_template_school,
+    symbol: SCHOOL_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_SCHOOL,
   },
 ];
 

@@ -1,14 +1,7 @@
-var town_symbol = {
-  type: "picture-marker",
-  url: "./symbols/location.png",
-  width: "24px",
-  height: "24px",
-};
-
-var point_template_town = {
-  title: "{Name}",
-  content: "Thị xã <b>{Name}</b>, <b>{Location}</b>.",
-};
+import {
+  POINT_TEMPLATE_TOWN,
+  TOWN_SYMBOL
+} from "../utils/constant.js";
 
 const town = [
   {
@@ -17,8 +10,8 @@ const town = [
     latitude: 11.028483276330478,
     Name: "Trảng Bàng",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -26,8 +19,8 @@ const town = [
     latitude: 11.283086933756913,
     Name: "Hòa Thành",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -35,8 +28,8 @@ const town = [
     latitude: 11.117147745843495,
     Name: "Tiên Thuận",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -44,8 +37,8 @@ const town = [
     latitude: 11.122747272244482,
     Name: "Lợi Thuận",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -53,8 +46,8 @@ const town = [
     latitude: 11.138923166879504,
     Name: "Long Khánh",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -62,8 +55,8 @@ const town = [
     latitude: 11.277009673020398,
     Name: "Thành Long",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -71,8 +64,8 @@ const town = [
     latitude: 11.39792644445035,
     Name: "Phước Vinh",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -80,8 +73,8 @@ const town = [
     latitude: 11.28490682321397,
     Name: "Thanh Điền",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -89,8 +82,8 @@ const town = [
     latitude: 11.35237954446974,
     Name: "Đồng Khởi",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -98,8 +91,8 @@ const town = [
     latitude: 11.397230098401304,
     Name: "An Cơ",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -107,8 +100,8 @@ const town = [
     latitude: 11.363727640380446,
     Name: "Hảo Đước",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -116,8 +109,8 @@ const town = [
     latitude: 11.246260700590698,
     Name: "Ninh Điền",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -125,8 +118,8 @@ const town = [
     latitude: 11.278915786150838,
     Name: "An Bình",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -134,8 +127,8 @@ const town = [
     latitude: 11.48891254738843,
     Name: "Hòa Hiệp",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -143,8 +136,8 @@ const town = [
     latitude: 11.561295366315436,
     Name: "Thanh Tây",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -152,8 +145,8 @@ const town = [
     latitude: 11.548689273897551,
     Name: "Thanh Bình",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -161,8 +154,8 @@ const town = [
     latitude: 11.491459284375814,
     Name: "Tân Phong",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -170,8 +163,8 @@ const town = [
     latitude: 11.452722896270844,
     Name: "Mỏ Công",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -179,8 +172,8 @@ const town = [
     latitude: 11.413252131915806,
     Name: "Trà Vong",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -188,8 +181,8 @@ const town = [
     latitude: 11.554349785765197,
     Name: "Thạnh Đông",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -197,8 +190,8 @@ const town = [
     latitude: 11.58654571361615,
     Name: "Tân Hiệp",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -206,8 +199,8 @@ const town = [
     latitude: 11.609768474672789,
     Name: "Tân Lập",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -215,8 +208,8 @@ const town = [
     latitude: 11.637738414747538,
     Name: "Tân Hội",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -224,8 +217,8 @@ const town = [
     latitude: 11.554046212952882,
     Name: "Suôi dây",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -233,8 +226,8 @@ const town = [
     latitude: 11.67264135145863,
     Name: "Tân Đông",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -242,8 +235,8 @@ const town = [
     latitude: 11.719860359779272,
     Name: "Tân Hà",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -251,8 +244,8 @@ const town = [
     latitude: 11.593724652164477,
     Name: "Suối Ngô",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -260,8 +253,8 @@ const town = [
     latitude: 11.510902858549873,
     Name: "Tân Thành",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -269,8 +262,8 @@ const town = [
     latitude: 11.59294235635779,
     Name: "Tân Hòa",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -278,8 +271,8 @@ const town = [
     latitude: 11.308933414632566,
     Name: "Chà Là",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -287,8 +280,8 @@ const town = [
     latitude: 11.329113956883793,
     Name: "Phước Ninh",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -296,8 +289,8 @@ const town = [
     latitude: 11.254798009948015,
     Name: "Lộc Ninh",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
 
   {
@@ -306,8 +299,8 @@ const town = [
     latitude: 11.3144813655294,
     Name: "Phước Minh",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -315,8 +308,8 @@ const town = [
     latitude: 11.377991132442673,
     Name: "Suối Đá",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -324,8 +317,8 @@ const town = [
     latitude: 11.27001990462916,
     Name: "Trường Hòa",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -333,8 +326,8 @@ const town = [
     latitude: 11.244042760604541,
     Name: "Trường Đông",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -342,8 +335,8 @@ const town = [
     latitude: 11.26289981746442,
     Name: "Long Thành Trung",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -351,8 +344,8 @@ const town = [
     latitude: 11.248183349918918,
     Name: "Long Thành Nam",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -360,8 +353,8 @@ const town = [
     latitude: 11.218352573841948,
     Name: "Long Vĩnh",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -369,8 +362,8 @@ const town = [
     latitude: 11.17321852585821,
     Name: "Thạnh Đức",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -378,8 +371,8 @@ const town = [
     latitude: 11.205959158203477,
     Name: "Cẩm Giang",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -387,8 +380,8 @@ const town = [
     latitude: 11.127058065130104,
     Name: "Phước Trạch",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -396,8 +389,8 @@ const town = [
     latitude: 11.134049618356075,
     Name: "Hiệp Thạnh",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -405,8 +398,8 @@ const town = [
     latitude: 11.167863807480295,
     Name: "Bàu Đồn",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -414,8 +407,8 @@ const town = [
     latitude: 11.116762693484521,
     Name: "Phước Đông",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -423,8 +416,8 @@ const town = [
     latitude: 11.109647004662069,
     Name: "Phước Thạnh",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -432,8 +425,8 @@ const town = [
     latitude: 11.089154332344325,
     Name: "Gò Dầu",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -441,8 +434,8 @@ const town = [
     latitude: 11.074524151988237,
     Name: "Thanh Phước",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -450,8 +443,8 @@ const town = [
     latitude: 11.06003839963388,
     Name: "Gia Bình",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -459,8 +452,8 @@ const town = [
     latitude: 11.031555365306671,
     Name: "An Hòa",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -468,8 +461,8 @@ const town = [
     latitude: 11.011371736790762,
     Name: "Phước Chỉ",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -477,8 +470,8 @@ const town = [
     latitude: 11.041497553809355,
     Name: "Phước Lưu",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
   {
     type: "point",
@@ -486,8 +479,8 @@ const town = [
     latitude: 11.022524138082847,
     Name: "Bình Thạnh",
     Location: "Tỉnh Tây Ninh, Vietnam",
-    symbol: town_symbol,
-    popupTemplate: point_template_town,
+    symbol: TOWN_SYMBOL,
+    popupTemplate: POINT_TEMPLATE_TOWN,
   },
 ];
 

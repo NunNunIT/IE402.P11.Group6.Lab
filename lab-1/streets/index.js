@@ -6,10 +6,8 @@ import DT821 from "./DT821_DT825_QL22.js";
 import DT2 from "./DT.2.js";
 import DT792 from "./DT.792.js";
 import DT782 from "./DT782.js";
-var point_template_line = {
-  title: "{Name}",
-  content: "Đường <b>{Name} - {Location}</b>.",
-};
+
+import { POINT_TEMPLATE_LINE } from "../utils/constant.js";
 
 const streets = [
   {
@@ -22,7 +20,7 @@ const streets = [
     },
     Name: "QL-AH1",
     Location: "Tỉnh Tây Ninh",
-    popupTemplate: point_template_line,
+    popupTemplate: POINT_TEMPLATE_LINE,
   },
   {
     type: "polyline",
@@ -34,7 +32,7 @@ const streets = [
     },
     Name: "DT.825",
     Location: "Tỉnh Tây Ninh",
-    popupTemplate: point_template_line,
+    popupTemplate: POINT_TEMPLATE_LINE,
   },
   {
     type: "polyline",
@@ -46,7 +44,7 @@ const streets = [
     },
     Name: "TL 787",
     Location: "Tỉnh Tây Ninh",
-    popupTemplate: point_template_line,
+    popupTemplate: POINT_TEMPLATE_LINE,
   },
   {
     type: "polyline",
@@ -58,7 +56,7 @@ const streets = [
     },
     Name: "QL 22B",
     Location: "Tỉnh Tây Ninh",
-    popupTemplate: point_template_line,
+    popupTemplate: POINT_TEMPLATE_LINE,
   },
   {
     type: "polyline",
@@ -70,7 +68,7 @@ const streets = [
     },
     Name: "DT821 - DT825 - QL22",
     Location: "Tỉnh Tây Ninh",
-    popupTemplate: point_template_line,
+    popupTemplate: POINT_TEMPLATE_LINE,
   },
   {
     type: "polyline",
@@ -82,7 +80,7 @@ const streets = [
     },
     Name: "DT2",
     Location: "Tỉnh Tây Ninh",
-    popupTemplate: point_template_line,
+    popupTemplate: POINT_TEMPLATE_LINE,
   },
   {
     type: "polyline",
@@ -94,7 +92,7 @@ const streets = [
     },
     Name: "DT792",
     Location: "Tỉnh Tây Ninh",
-    popupTemplate: point_template_line,
+    popupTemplate: POINT_TEMPLATE_LINE,
   },
   {
     type: "polyline",
@@ -106,7 +104,7 @@ const streets = [
     },
     Name: "DT 782",
     Location: "Tỉnh Tây Ninh",
-    popupTemplate: point_template_line,
+    popupTemplate: POINT_TEMPLATE_LINE,
   },
 ];
 
