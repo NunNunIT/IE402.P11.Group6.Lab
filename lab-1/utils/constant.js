@@ -26,15 +26,60 @@ const POINT_TEMPLATE_SCHOOL = {
   content: "Trường học này ở <b>{Location}</b>.",
 };
 
+const POINT_TEMPLATE_HOSPITAL = {
+  title: "{Name}",
+  content: "Bệnh viện này ở <b>{Location}</b>.",
+};
+
+const POINT_TEMPLATE_DEFAULT = {
+  title: "{Name}",
+  content: "Địa điểm này ở <b>{Location}</b>.",
+};
+
+const POINT_TEMPLATE_SHOP = {
+  title: "{Name}",
+  content: "Cửa hàng này ở <b>{Location}</b>.",
+};
+
+const POINT_TEMPLATE_TEMPLE = {
+  title: "{Name}",
+  content: "Chùa này ở <b>{Location}</b>.",
+};
+
+const POINT_TEMPLATE_DRINK = {
+  title: "{Name}",
+  content: "Quán nước này ở <b>{Location}</b>.",
+};
+
+const POINT_TEMPLATE_FOOD = {
+  title: "{Name}",
+  content: "Quán ăn này ở <b>{Location}</b>.",
+};
+
+const POINT_TEMPLATE_REAL_ESTATE = {
+  title: "{Name}",
+  content: "Bất động sản này ở <b>{Name} - {Location}</b>.",
+};
+
+const POINT_TEMPLATE_PARK = {
+  title: "{Name}",
+  content: "Công viên này ở <b>{Name} - {Location}</b>.",
+};
+
+const POINT_TEMPLATE_THEATER = {
+  title: "{Name}",
+  content: "Rạp phim này ở <b>{Name} - {Location}</b>.",
+};
+
 const POINT_TEMPLATE_LINE = {
   title: "{Name}",
   content: "Đường <b>{Name} - {Location}</b>.",
 };
 
+
 const POINT_TEMPLATE_AREA = {
   title: "{name}",
-  content:
-    "Diện tích: <b>{area} km<sup>2</sup></b>.<br>" +
+  content: "Diện tích: <b>{area} km<sup>2</sup></b>.<br>" +
     "Dân số: <b>{population} người</b>.",
 };
 
@@ -54,9 +99,18 @@ export {
   DISTRICT_TEMPLATE_INFO,
   MAP_VIEW_TEMPLATE_INFO,
   POINT_TEMPLATE_AREA,
-  POINT_TEMPLATE_SCHOOL,
   POINT_TEMPLATE_DISTRICT,
   POINT_TEMPLATE_LINE,
   POINT_TEMPLATE_CITY,
   POINT_TEMPLATE_TOWN,
+  POINT_TEMPLATE_DEFAULT,
+  POINT_TEMPLATE_DRINK,
+  POINT_TEMPLATE_FOOD,
+  POINT_TEMPLATE_HOSPITAL,
+  POINT_TEMPLATE_HOTEL,
+  POINT_TEMPLATE_PARK,
+  POINT_TEMPLATE_REAL_ESTATE,
+  POINT_TEMPLATE_SCHOOL,
+  POINT_TEMPLATE_SHOP,
+  POINT_TEMPLATE_THEATER,
 };
