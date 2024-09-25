@@ -1,10 +1,12 @@
 import {
   POINT_TEMPLATE_SCHOOL,
+} from "../../utils/constant.js";
+import {
   SCHOOL_SYMBOL
-} from "../utils/constant.js";
+} from "../../utils/symbol.js";
 import datas from './data.js';
 
-const hotels = datas.map((data) => ({
+const drinks = datas.map((data) => ({
   type: "point",
   longitude: data["location/lng"],
   latitude: data["location/lat"],
@@ -14,4 +16,4 @@ const hotels = datas.map((data) => ({
   popupTemplate: POINT_TEMPLATE_SCHOOL,
 }))
 
-export default hotels;
+export default drinks;

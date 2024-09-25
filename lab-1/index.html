@@ -20,7 +20,8 @@
 
   <script type="module">
     // import
-    import schools from "./schools/index.js";
+    // import schools from "./schools/index.js";
+    import places from "./places/index.js";
     import streets from "./streets/index.js";
     import districts from "./districts/index.js";
     import cities from "./cities/index.js";
@@ -76,20 +77,11 @@
       // create points layer
       var pointsLayer = new GraphicsLayer();
 
-      // add schools
-      schools.forEach(function (data) {
-        pointsLayer.add(createGraphic(data));
-      });
-
-      // add cities
-      cities.forEach(function (data) {
-        pointsLayer.add(createGraphic(data));
-      });
-
-      // add towns
-      towns.forEach(function (data) {
-        pointsLayer.add(createGraphic(data));
-      });
+      places.forEach(function (place) {
+        place.forEach(function (data) {
+          pointsLayer.add(createGraphic(data));
+        });
+      })
 
       map.add(pointsLayer);
 
