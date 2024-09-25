@@ -3,10 +3,11 @@ import ChauThanh from "./ChauThanh.js";
 import DuongMinhChau from "./DuongMinhChau.js";
 import GoDau from "./GoDau.js";
 import TayNinh from "./TayNinh.js";
+import NhaBe from "./NhaBe.js";
 
 import { POINT_TEMPLATE_AREA } from "../utils/constant.js";
 
-const districts = [BenCau, ChauThanh, GoDau, DuongMinhChau, TayNinh].map(data => ({
+const districts = [BenCau, ChauThanh, GoDau, DuongMinhChau, TayNinh, NhaBe].map(data => ({
   type: "polygon",
   popupTemplate: POINT_TEMPLATE_AREA,
   ...data,
