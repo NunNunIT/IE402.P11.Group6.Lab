@@ -6,7 +6,7 @@ const population = 100000
 const area = 123.45
 const symbol = {
   // Chỉnh vùng màu ở chỗ này
-  color: [150, 75, 0, 0.4],
+  color: [150, 75, 0, 0.35],
 }
 
 // Thêm ranh giới ở đây
