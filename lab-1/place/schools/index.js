@@ -1,7 +1,9 @@
 import {
   POINT_TEMPLATE_SCHOOL,
+} from "../../utils/constant.js";
+import {
   SCHOOL_SYMBOL
-} from "../utils/constant.js";
+} from "../../utils/symbol.js";
 import datas from './file.js';
 
 // const datas = await fetch('/IE402.P11.Group6.Lab/lab-1/schools/file.json')
