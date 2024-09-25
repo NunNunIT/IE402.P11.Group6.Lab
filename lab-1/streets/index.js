@@ -1,20 +1,15 @@
-// import { POINT_TEMPLATE_LINE } from "../utils/constant.js";
+import Template from "./template.js";
+import { POINT_TEMPLATE_LINE } from "../utils/constant.js";
 
-// const streets = [
-//   {
-//     type: "polyline",
-//     paths: QLAH1,
-//     symbol: {
-//       type: "simple-line",
-//       color: [226, 119, 40],
-//       width: 2,
-//     },
-//     Name: "QL-AH1",
-//     Location: "Tỉnh Tây Ninh",
-//     popupTemplate: POINT_TEMPLATE_LINE,
-//   },
-// ];
-
-const streets = []
+const streets = [Template].map(data => ({
+  type: "polyline",
+  popupTemplate: POINT_TEMPLATE_LINE,
+  ...data,
+  symbol: {
+    type: "simple-line",
+    width: 2,
+    ...data.symbol
+  },
+}))
 
 export default streets;
