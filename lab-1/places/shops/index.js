@@ -1,8 +1,8 @@
 import {
-  POINT_TEMPLATE_SCHOOL,
+  POINT_TEMPLATE_SHOP,
 } from "../../utils/constant.js";
 import {
-  SCHOOL_SYMBOL
+  SHOP_SYMBOL
 } from "../../utils/symbol.js";
 import datas from './data.js';
 
@@ -12,8 +12,8 @@ const shops = datas.map((data) => ({
   latitude: data["location/lat"],
   Name: data.title,
   Location: data.address,
-  symbol: SCHOOL_SYMBOL,
-  popupTemplate: POINT_TEMPLATE_SCHOOL,
+  symbol: SHOP_SYMBOL,
+  popupTemplate: POINT_TEMPLATE_SHOP,
 }))
 
 export default shops;

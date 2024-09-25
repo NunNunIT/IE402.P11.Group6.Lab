@@ -1,5 +1,5 @@
 import {
-  POINT_TEMPLATE_SCHOOL,
+  POINT_TEMPLATE_HOSPITAL,
 } from "../../utils/constant.js";
 import {
   HOSPITAL_SYMBOL
@@ -13,7 +13,7 @@ const hospitals = datas.map((data) => ({
   Name: data.title,
   Location: data.address,
   symbol: HOSPITAL_SYMBOL,
-  popupTemplate: POINT_TEMPLATE_SCHOOL,
+  popupTemplate: POINT_TEMPLATE_HOSPITAL,
 }))
 
 export default hospitals;
