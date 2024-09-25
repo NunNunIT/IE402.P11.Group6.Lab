@@ -6,31 +6,9 @@ const MAP_VIEW_TEMPLATE_INFO = {
   },
 }
 
-const TOWN_SYMBOL = {
-  type: "picture-marker",
-  url: "./symbols/location.png",
-  width: "24px",
-  height: "24px",
-};
-
 const POINT_TEMPLATE_TOWN = {
   title: "{Name}",
   content: "Thị xã <b>{Name}</b>, <b>{Location}</b>.",
-};
-
-
-const SCHOOL_SYMBOL = {
-  type: "picture-marker",
-  url: "./symbols/school.png",
-  width: "24px",
-  height: "24px",
-};
-
-const CITY_SYMBOL = {
-  type: "picture-marker",
-  url: "./symbols/city.png",
-  width: "36px",
-  height: "36px",
 };
 
 const POINT_TEMPLATE_CITY = {
@@ -76,12 +54,9 @@ export {
   DISTRICT_TEMPLATE_INFO,
   MAP_VIEW_TEMPLATE_INFO,
   POINT_TEMPLATE_AREA,
-  SCHOOL_SYMBOL,
   POINT_TEMPLATE_SCHOOL,
-  CITY_SYMBOL,
   POINT_TEMPLATE_DISTRICT,
   POINT_TEMPLATE_LINE,
   POINT_TEMPLATE_CITY,
-  TOWN_SYMBOL,
   POINT_TEMPLATE_TOWN,
 };
