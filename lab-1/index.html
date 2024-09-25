@@ -1,0 +1,146 @@
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <title>Nhóm 6 - ... </title>
+  <style>
+    html,
+    body,
+    #viewDiv {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+
+  <link rel="stylesheet" href="https://js.arcgis.com/4.15/esri/themes/light/main.css" />
+  <script src="https://js.arcgis.com/4.15/"></script>
+
+  <script type="module">
+    // import
+    import schools from "./schools/index.js";
+    import streets from "./streets/index.js";
+    import districts from "./districts/index.js";
+    import cities from "./cities/index.js";
+    import towns from "./towns/index.js";
+
+    require(["esri/Map", "esri/views/MapView", "esri/Graphic", "esri/layers/GraphicsLayer"], function (Map, MapView, Graphic, GraphicsLayer) {
+      // create map
+      var map = new Map({
+        basemap: "topo-vector",
+      });
+
+      // enable mouse event on map
+      map.on("load", function () {
+        map.graphics.enableMouseEvents();
+      });
+
+      // create view
+      var view = new MapView({
+        container: "viewDiv",
+        map: map,
+        center: [106.12218230229296, 11.368515844547606],
+        zoom: 10,
+        highlightOptions: {
+          color: "rgb(123, 211, 234)",
+        },
+      });
+
+      // create graphic
+      var createGraphic = function (data) {
+        return new Graphic({
+          geometry: data,
+          symbol: data.symbol,
+          attributes: data,
+          popupTemplate: data.popupTemplate,
+        });
+      };
+
+      // create graphics layer
+      var graphicsLayer = new GraphicsLayer();
+
+      // add districts
+      districts.forEach(function (data) {
+        graphicsLayer.add(createGraphic(data));
+      });
+
+      // add streets
+      streets.forEach(function (data) {
+        graphicsLayer.add(createGraphic(data));
+      });
+
+      map.add(graphicsLayer);
+
+      // create points layer
+      var pointsLayer = new GraphicsLayer();
+
+      // add schools
+      schools.forEach(function (data) {
+        pointsLayer.add(createGraphic(data));
+      });
+
+      // add cities
+      cities.forEach(function (data) {
+        pointsLayer.add(createGraphic(data));
+      });
+
+      // add towns
+      towns.forEach(function (data) {
+        pointsLayer.add(createGraphic(data));
+      });
+
+      map.add(pointsLayer);
+
+      // hide pont layer when zoom out
+      pointsLayer.visible = false;
+      var minZoomToShowPoints = 11;
+      view.watch("zoom", function (newValue, oldValue, propertyName, target) {
+        if (newValue >= minZoomToShowPoints) {
+          pointsLayer.visible = true;
+        } else if (newValue < minZoomToShowPoints) {
+          pointsLayer.visible = false;
+        }
+      });
+
+      // get point
+      var map;
+      var list_points = [];
+      var string_points = "";
+
+      function copyTextToClipboard(text) {
+        if (!navigator.clipboard) {
+          fallbackCopyTextToClipboard(text);
+          return;
+        }
+        navigator.clipboard.writeText(text).then(
+          function () {
+            console.log("Async: Copying to clipboard was successful!");
+          },
+          function (err) {
+            console.error("Async: Could not copy text: ", err);
+          }
+        );
+      }
+
+      view.popup.autoOpenEnabled = true; // Disable the default popup behavior
+      view.on("click", function (event) {
+        view.hitTest(event).then(function (hitTestResults) {
+          if (hitTestResults.results) {
+            list_points.push([event.mapPoint.longitude, event.mapPoint.latitude]);
+            string_points += "[" + event.mapPoint.longitude + ", " + event.mapPoint.latitude + "],";
+            copyTextToClipboard("[" + event.mapPoint.longitude + ", " + event.mapPoint.latitude + "],");
+          }
+        });
+      });
+    });
+  </script>
+</head>
+
+<body>
+  <div id="viewDiv"></div>
+</body>
+<script></script>
+
+</html>

@@ -1,0 +1,174 @@
+import BenCau from "./BenCau.js";
+import ChauThanh from "./ChauThanh.js";
+import DuongMinhChau from "./DuongMinhChau.js";
+import GoDau from "./GoDau.js";
+import TayNinh from "./TayNinh.js";
+
+import { POINT_TEMPLATE_AREA } from "../utils/constant.js";
+
+const districts = [BenCau, ChauThanh, GoDau, DuongMinhChau, TayNinh].map(data => ({
+  type: "polygon",
+  rings: [],
+  name: "Huyện Testing",
+  population: 1000000,
+  area: 123,
+  popupTemplate: POINT_TEMPLATE_AREA,
+  ...data,
+  symbol: {
+    type: "simple-fill",
+    outline: {
+      color: [255, 255, 255],
+      width: 1,
+    },
+    ...data.symbol,
+  },
+}))
+
+// const districts = [
+//   {
+//     type: "polygon",
+//     rings: TrangBang,
+//     name: "Huyện Trảng Bàng",
+//     population: 161831,
+//     area: 340.14,
+//     symbol: {
+//       type: "simple-fill",
+//       color: [150, 75, 0, 0.4],
+//       outline: {
+//         color: [255, 255, 255],
+//         width: 1,
+//       },
+//     },
+//     popupTemplate: POINT_TEMPLATE_AREA,
+//   },
+//   {
+//     type: "polygon",
+//     rings: BenCau,
+//     name: "Huyện Bến Cầu",
+//     population: 69849,
+//     area: 264,
+//     symbol: {
+//       type: "simple-fill",
+//       color: [248, 152, 128, 0.4],
+//       outline: {
+//         color: [255, 255, 255],
+//         width: 1,
+//       },
+//     },
+//     popupTemplate: POINT_TEMPLATE_AREA,
+//   },
+//   {
+//     type: "polygon",
+//     rings: TanBien,
+//     name: "Huyện Tân Biên",
+//     population: 102.19,
+//     area: 861,
+//     symbol: {
+//       type: "simple-fill",
+//       color: [235, 232, 52, 0.4],
+//       outline: {
+//         color: [255, 255, 255],
+//         width: 1,
+//       },
+//     },
+//     popupTemplate: POINT_TEMPLATE_AREA,
+//   },
+//   {
+//     type: "polygon",
+//     rings: TanChau,
+//     name: "Huyện Tân Châu",
+//     population: 134.743,
+//     area: 1.103,
+//     symbol: {
+//       type: "simple-fill",
+//       color: [235, 64, 52, 0.4],
+//       outline: {
+//         color: [255, 255, 255],
+//         width: 1,
+//       },
+//     },
+//     popupTemplate: POINT_TEMPLATE_AREA,
+//   },
+//   {
+//     type: "polygon",
+//     rings: ChauThanh,
+//     name: "Huyện  Châu Thành",
+//     population: 140769,
+//     area: 580.94,
+//     symbol: {
+//       type: "simple-fill",
+//       color: [66, 135, 245, 0.4],
+//       outline: {
+//         color: [255, 255, 255],
+//         width: 1,
+//       },
+//     },
+//     popupTemplate: POINT_TEMPLATE_AREA,
+//   },
+//   {
+//     type: "polygon",
+//     rings: HoaThanh,
+//     name: "Thị xã  Hòa Thành",
+//     population: 152339,
+//     area: 82.88,
+//     symbol: {
+//       type: "simple-fill",
+//       color: [32, 247, 100, 0.4],
+//       outline: {
+//         color: [255, 255, 255],
+//         width: 1,
+//       },
+//     },
+//     popupTemplate: POINT_TEMPLATE_AREA,
+//   },
+//   {
+//     type: "polygon",
+//     rings: GoDau,
+//     name: "Huyện Gò Dầu",
+//     population: 158711,
+//     area: 260,
+//     symbol: {
+//       type: "simple-fill",
+//       color: [0, 255, 255, 0.4],
+//       outline: {
+//         color: [255, 255, 255],
+//         width: 1,
+//       },
+//     },
+//     popupTemplate: POINT_TEMPLATE_AREA,
+//   },
+//   {
+//     type: "polygon",
+//     rings: DuongMinhChau,
+//     name: "Huyện Dương Minh Châu",
+//     population: 123792,
+//     area: 435.6,
+//     symbol: {
+//       type: "simple-fill",
+//       color: [26, 100, 30, 0.4],
+//       outline: {
+//         color: [255, 255, 255],
+//         width: 1,
+//       },
+//     },
+//     popupTemplate: POINT_TEMPLATE_AREA,
+//   },
+//   {
+//     type: "polygon",
+//     rings: TayNinh,
+//     name: "Thành phố Tây Ninh",
+//     population: 135254,
+//     area: 139.92,
+//     symbol: {
+//       type: "simple-fill",
+//       color: [235, 52, 229, 0.4],
+//       outline: {
+//         color: [255, 255, 255],
+//         width: 1,
+//       },
+//     },
+//     popupTemplate: POINT_TEMPLATE_AREA,
+//   },
+// ];
+
+export default districts;
