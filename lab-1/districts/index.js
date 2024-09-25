@@ -27,6 +27,7 @@ import Quan4 from "./Quan4.js";
 import { POINT_TEMPLATE_AREA } from "../utils/constant.js";
 
 const districts = [CanGio, NhaBe, BinhChanh, Quan3, HocMon, Quan11, Quan5, QuanTanBinh, QuanBinhTan, Quan10, Quan9, TPThuDuc, Quan4,].map(data => ({
+const districts = [CanGio, NhaBe, BinhChanh, Quan3, HocMon, Quan11, Quan5, QuanTanBinh, QuanBinhTan, Quan10, Quan9, TPThuDuc, Quan4].map(data => ({
   type: "polygon",
   popupTemplate: POINT_TEMPLATE_AREA,
   ...data,
