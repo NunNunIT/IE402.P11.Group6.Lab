@@ -76,6 +76,10 @@ const POINT_TEMPLATE_LINE = {
   content: "Đường <b>{Name} - {Location}</b>.",
 };
 
+const POINT_TEMPLATE_HOTEL = {
+  title: "{Name}",
+  content: "Khách sạn này ở <b>{Location}</b>.",
+};
 
 const POINT_TEMPLATE_AREA = {
   title: "{name}",
@@ -108,6 +112,7 @@ export {
   POINT_TEMPLATE_FOOD,
   POINT_TEMPLATE_HOSPITAL,
   POINT_TEMPLATE_HOTEL,
+  POINT_TEMPLATE_TEMPLE,
   POINT_TEMPLATE_PARK,
   POINT_TEMPLATE_REAL_ESTATE,
   POINT_TEMPLATE_SCHOOL,
