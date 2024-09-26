@@ -1,9 +1,9 @@
 // Chỉnh tên đia điểm
 const name = "Huyện Bình Chánh"
 // Chỉnh số dân ở đây
-const population = 100000
+const population = 	744508 
 // Chỉnh diện tích ở đây
-const area = 123.45
+const area = 252.56
 const symbol = {
   // Chỉnh vùng màu ở chỗ này
   color: [255, 255, 0, 0.35],
