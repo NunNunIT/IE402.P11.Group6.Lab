@@ -1,9 +1,9 @@
 // Chỉnh tên đia điểm
 const name = "Quận Bình Tân"
 // Chỉnh số dân ở đây
-const population = 100000
+const population = 822173
 // Chỉnh diện tích ở đây
-const area = 123.45
+const area = 52.02
 const symbol = {
   // Chỉnh vùng màu ở chỗ này
   color: [30, 144, 255, 0.35],

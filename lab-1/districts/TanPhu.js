@@ -1,9 +1,9 @@
 // Chỉnh tên đia điểm
 const name = "Quận Tân Phú"
 // Chỉnh số dân ở đây
-const population = 100000
+const population = 485348
 // Chỉnh diện tích ở đây
-const area = 123.45
+const area = 15.97
 const symbol = {
   // Chỉnh vùng màu ở chỗ này
   color: [75, 83, 32, 0.35],
