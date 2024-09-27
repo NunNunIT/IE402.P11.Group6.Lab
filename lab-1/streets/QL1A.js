@@ -1,7 +1,7 @@
 // Chỉnh tên ở đây
-const Name = "QL-AH1";
+const Name = "Quốc lộ 1A";
 // Chỉnh tên ở đây
-const Location = "Quốc lộ 1A";
+const Location = "Thành phố Hồ Chí Minh";
 const symbol = {
   // Chỉnh màu ở đây
   color: [255, 0, 255],

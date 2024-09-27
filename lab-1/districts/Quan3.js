@@ -1,9 +1,9 @@
 // Chỉnh tên đia điểm
 const name = "Quận 3"
 // Chỉnh số dân ở đây
-const population = 100000
+const population = 220375
 // Chỉnh diện tích ở đây
-const area = 123.45
+const area = 4.92
 const symbol = {
   // Chỉnh vùng màu ở chỗ này
   color: [212, 0, 0, 0.35],
