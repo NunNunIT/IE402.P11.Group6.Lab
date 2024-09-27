@@ -27,6 +27,15 @@
     import cities from "./cities/index.js";
     import towns from "./towns/index.js";
 
+    // Debounce function for scroll events
+    function debounce(func, delay) {
+      let debounceTimeout;
+      return function (...args) {
+        clearTimeout(debounceTimeout);
+        debounceTimeout = setTimeout(() => func.apply(this, args), delay);
+      };
+    }
+
     require(["esri/Map", "esri/views/MapView", "esri/Graphic", "esri/layers/GraphicsLayer"], function (Map, MapView, Graphic, GraphicsLayer) {
       // create map
       var map = new Map({
@@ -76,28 +85,25 @@
 
       // create points layer
       var pointsLayer = new GraphicsLayer();
+      // pointsLayer.visible = false;
+      pointsLayer.visible = false;
 
-      places.forEach(function (place) {
-        place.forEach(function (data) {
-          pointsLayer.add(createGraphic(data));
-        });
-      })
+      // places.forEach(function (place) {
+      //   place.forEach(function (data) {
+      //     pointsLayer.add(createGraphic(data));
+      //   });
+      // })
 
       map.add(pointsLayer);
 
       // hide pont layer when zoom out
-      pointsLayer.visible = false;
-      var minZoomToShowPoints = 11;
-      view.watch("zoom", function (newValue, oldValue, propertyName, target) {
-        if (newValue >= minZoomToShowPoints) {
-          pointsLayer.visible = true;
-        } else if (newValue < minZoomToShowPoints) {
-          pointsLayer.visible = false;
-        }
-      });
+      const MIN_ZOOM_TO_SHOW_POINTS = 11;
+      view.watch("zoom", debounce(function (newValue) {
+        pointsLayer.visible = newValue >= MIN_ZOOM_TO_SHOW_POINTS;
+      }, 500)); // Adjust delay as needed
 
       // get point
-      var map;
+      // var map;
       var list_points = [];
       var string_points = "";
 
