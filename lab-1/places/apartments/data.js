@@ -8,6 +8,7 @@ const data = [
         "address":"198A Mã Lò, Bình Trị Đông A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+L%C3%AA+Th%C3%A0nh\/@10.7667672,106.6039283,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c4737c977e1:0x9bf428c4d164d98d!8m2!3d10.7667672!4d106.6039283!16s%2Fg%2F11hcdvndrc?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -19,6 +20,7 @@ const data = [
         "address":"900 QL1A, P, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+chung+c%C6%B0+T%C3%A2n+Mai+(Kh%E1%BB%91i+B)\/@10.7626241,106.5917964,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d7d90407e23:0x158c67e851dfe1fa!8m2!3d10.7626241!4d106.5917964!16s%2Fg%2F11mw7hh8bc?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -30,6 +32,7 @@ const data = [
         "address":"510 Đ. Kinh Dương Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C4%83n+h%E1%BB%99+Moonlight+Boulevard\/@10.7374477,106.6135753,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d5a0acf9025:0x529dbe05637088e!8m2!3d10.7374477!4d106.6135753!16s%2Fg%2F11j5hydtns?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -41,6 +44,7 @@ const data = [
         "address":"QJ49+7H7, An Lạc A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+Da+S%C3%A0\/@10.7556722,106.6189215,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c2e74e1a871:0xa983fe7052ad258!8m2!3d10.7556722!4d106.6189215!16s%2Fg%2F11ckkyzpz9?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -52,6 +56,7 @@ const data = [
         "address":"Hẻm 96 Đ. Trần Đại Nghĩa, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Vision+1+B%C3%ACnh+T%C3%A2n\/@10.7273631,106.5963181,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d97ab8a4787:0x5d634c72ddcd7e80!8m2!3d10.7273631!4d106.5963181!16s%2Fg%2F11hb5tsmds?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ, Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -63,6 +68,7 @@ const data = [
         "address":"131\/6\/1\/37\/33 Đ. Tây Lân, Bình Trị Đông A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%C3%A2y+L%C3%A2n\/@10.7707718,106.5875385,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d50656f2e23:0x3f73ef865c721538!8m2!3d10.7707718!4d106.5875385!16s%2Fg%2F11swqr6mbq?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -74,6 +80,7 @@ const data = [
         "address":"RH6Q+X6W, Đường 8A, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Green+Town+B%C3%ACnh+T%C3%A2n+Block+B1\/@10.8124902,106.5880795,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b0015b2babd:0x644d84bdc993b058!8m2!3d10.8124902!4d106.5880795!16s%2Fg%2F11vpykmw72?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -85,6 +92,7 @@ const data = [
         "address":"85\/112\/26 Bình Thành, Khu Phố 4, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Khu+d%C3%A2n+c%C6%B0+v%C4%A9nh+l%E1%BB%99c\/@10.8042284,106.5844306,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b9192fd5379:0xd9f3abadf67393f8!8m2!3d10.8042284!4d106.5844306!16s%2Fg%2F11v13c9vgj?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -96,6 +104,7 @@ const data = [
         "address":"4449 Nguyễn Cửu Phú, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+TECCO+TOWN+Qu%E1%BA%ADn+B%C3%ACnh+T%C3%A2n\/@10.7539857,106.5840017,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dc385dddecb:0xa0804971aae76623!8m2!3d10.7539857!4d106.5840017!16s%2Fg%2F11f5dtgjsh?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -107,6 +116,7 @@ const data = [
         "address":"4449 Nguyễn Cửu Phú, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CHUNG+C%C6%AF+TECCO+B%C3%8CNH+T%C3%82N\/@10.7526245,106.5858213,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c551ae82295:0xffc3e1db4921140a!8m2!3d10.7526245!4d106.5858213!16s%2Fg%2F11f3n224sl?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -118,6 +128,7 @@ const data = [
         "address":"Chung cư Vĩnh Tường, Lộ Tẻ, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+T%C3%A2n+T%E1%BA%A1o+-+V%C4%A9nh+T%C6%B0%E1%BB%9Dng\/@10.750616,106.59037,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dacc4e56edf:0x4599d63107839bb4!8m2!3d10.750616!4d106.59037!16s%2Fg%2F11gc9glc1c?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -129,6 +140,7 @@ const data = [
         "address":"99 Đường Số 1, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Green+Town+B%C3%ACnh+T%C3%A2n\/@10.8056585,106.5940169,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b6eb4e77ab1:0x66ec4829550b5e71!8m2!3d10.8056585!4d106.5940169!16s%2Fg%2F11h3yg_w67?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -140,6 +152,7 @@ const data = [
         "address":"68, ĐH80, Vĩnh Lộc A, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/c%C4%83n+h%E1%BB%99+v%C4%A9nh+l%E1%BB%99c+d'gold\/@10.8185429,106.5850714,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ba1bb27bd75:0x70747d42402381c4!8m2!3d10.8185429!4d106.5850714!16s%2Fg%2F11ghzp63pc?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -151,6 +164,7 @@ const data = [
         "address":"39 Đ. số 1, An Lạc, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KDC+L%C3%AA+Th%C3%A0nh\/@10.7197683,106.6183223,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dfd995124d5:0x5241379eb2c88ca3!8m2!3d10.7197683!4d106.6183223!16s%2Fg%2F11qyv47sps?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -162,6 +176,7 @@ const data = [
         "address":"7 Thanh Đa, Cư xá Thanh Đa, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Thanh+%C4%90a+View\/@10.8160124,106.7201156,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752927330bbe65:0xa08bd97200f8f996!8m2!3d10.8160124!4d106.7201156!16s%2Fg%2F11hf2jfvh4?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -173,6 +188,7 @@ const data = [
         "address":"208 Đ. Nguyễn Hữu Cảnh, Vinhomes Tân Cảng, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CENTRAL+3+-+Vinhomes+Central+Park\/@10.7930927,106.720196,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e281280b6d:0xafe28b12ca1c4774!8m2!3d10.7930927!4d106.720196!16s%2Fg%2F11h05rvlkj?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -184,6 +200,7 @@ const data = [
         "address":"QPRF+826, Tân Cảng, Vinhomes Tân Cảng, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vinhomes+Central+Park+%E2%80%93+Park+1\/@10.790944,106.72216,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752781efa1fa5d:0xe26a7b4f953d9761!8m2!3d10.790944!4d106.72216!16s%2Fg%2F11h_jqpj84?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -195,6 +212,7 @@ const data = [
         "address":"12ab Thanh Đa, Cư xá Thanh Đa, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+D%E1%BA%A7u+Kh%C3%AD+-+PETROVIETNAM\/@10.8123392,106.7205626,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529acf4265f07:0xc45e0341349cf3d4!8m2!3d10.8123392!4d106.7205626!16s%2Fg%2F11nfw6ysds?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -206,6 +224,7 @@ const data = [
         "address":"30\/57B Đ. Nguyễn Cửu Vân, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Y%C3%8AN+Living+Binh+Thanh+(Block+A+%26+B)\/@10.7973554,106.7082474,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529b595ac10a7:0x28260f5f0204485b!5m2!4m1!1i2!8m2!3d10.7973554!4d106.7082474!16s%2Fg%2F11pwnqh5nv?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ, Khu phức hợp nhà ở, Biệt thự",
         "category_group":"df_apartments"
     },
     {
@@ -217,6 +236,7 @@ const data = [
         "address":"71\/3 Nguyễn Văn Thương, Phường 25, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%C3%B2a+nh%C3%A0+Wilton+Tower\/@10.8021391,106.7180048,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297196406153:0xd9abdfc2f3490462!8m2!3d10.8021391!4d106.7180048!16s%2Fg%2F11v5fyy4bb?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -228,6 +248,7 @@ const data = [
         "address":"92 Đ. Nguyễn Hữu Cảnh, Saigon Pearl, Bình Thạnh, Thành phố Hồ Chí Minh 848888, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Saigon+Pearl+Topaz\/@10.7909581,106.7197449,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a6d8a74a9f:0x4ab69b317820a026!8m2!3d10.7909581!4d106.7197449!16s%2Fg%2F11hy_ps_qc?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -239,6 +260,7 @@ const data = [
         "address":"QPRC+HF4, Vinhomes Tân Cảng, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Central+2\/@10.791388,106.7212182,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b18995ae03:0x1ee2398da95cafdc!8m2!3d10.791388!4d106.7212182!16s%2Fg%2F11swn2q75w?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -250,6 +272,7 @@ const data = [
         "address":"208 Đ. Nguyễn Hữu Cảnh, Vinhomes Tân Cảng, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Park+2+Vinhomes+Central+Park\/@10.7920042,106.7227042,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752980dfc1c17d:0x69225963f0a4da7a!8m2!3d10.7920042!4d106.7227042!16s%2Fg%2F11f6244df_?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -261,6 +284,7 @@ const data = [
         "address":"26 Đ. Đinh Bộ Lĩnh, Phường 24, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Nam+An\/@10.8056235,106.7096771,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528bc9990eeb9:0xfa526e29b4280171!8m2!3d10.8056235!4d106.7096771!16s%2Fg%2F11f3brzwtl?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -272,6 +296,7 @@ const data = [
         "address":"720A Đ. Điện Biên Phủ, Vinhomes Tân Cảng, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Landmark+1\/@10.7937237,106.7220665,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175298be4b72f09:0x518f5a5f68d9c974!8m2!3d10.7937237!4d106.7220665!16s%2Fg%2F11lbcyr8cz?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -283,6 +308,7 @@ const data = [
         "address":"24AB, 24ab Đường D5, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+24AB\/@10.8058921,106.7128456,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a557ccc615:0xcc0fdd7778627e71!8m2!3d10.8058921!4d106.7128456!16s%2Fg%2F11f5tt35_w?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -294,6 +320,7 @@ const data = [
         "address":"91 Đ. Nguyễn Hữu Cảnh, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Manor+1\/@10.7938761,106.7179309,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528a954ddb2f3:0xe50efd2aa3c8cc42!8m2!3d10.7938761!4d106.7179309!16s%2Fg%2F11f53h2sp1?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -305,6 +332,7 @@ const data = [
         "address":"QPV9+WXQ, Vinhomes Tân Cảng, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Landmark+Plus\/@10.7948125,106.7199375,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fd738027cd1:0x5f215fae30c1ef11!8m2!3d10.7948125!4d106.7199375!16s%2Fg%2F11l1m9_wrv?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -316,6 +344,7 @@ const data = [
         "address":"207 Nguyễn Xí, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Richmond+City+-+Nguy%E1%BB%85n+X%C3%AD\/@10.8162933,106.706451,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529da93b4e303:0x4dc0c2840347c9aa!8m2!3d10.8162933!4d106.706451!16s%2Fg%2F11gy46hxjx?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -327,6 +356,7 @@ const data = [
         "address":"86 Nguyên Hồng, Phường 1, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cao+%C3%94%CC%81c+Samland+Airport\/@10.8183726,106.691644,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528eee7b3ae79:0x223ce6eb3facaac7!8m2!3d10.8183726!4d106.691644!16s%2Fg%2F11fzf4_00h?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -338,6 +368,7 @@ const data = [
         "address":"312 Nguyễn Thượng Hiền, Phường 5, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Botanic+Towers\/@10.8056938,106.6851881,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175295d80c14359:0x7456406a67bc6bf7!8m2!3d10.8056938!4d106.6851881!16s%2Fg%2F11g1fvqd57?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -349,6 +380,7 @@ const data = [
         "address":"RPC2+JCW, Hẻm 351 đường Nơ Trang Long, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+C%E1%BB%ADu+Long\/@10.8216175,106.7010697,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752892a1059407:0x89000777a555119!8m2!3d10.8216175!4d106.7010697!16s%2Fg%2F11cs2h66wr?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -360,6 +392,7 @@ const data = [
         "address":"Đ. Số 23, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh 720300, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hi%E1%BB%87p+B%C3%ACnh+Ch%C3%A1nh+Apartment\/@10.827876,106.7279205,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527babaccb8f1:0xfc59b6830b0c6bb1!8m2!3d10.827876!4d106.7279205!16s%2Fg%2F11h3z5r93n?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -371,6 +404,7 @@ const data = [
         "address":"Unnamed Road, 59 Ng. Tất Tố, Phường 21, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/City+Garden,+Boulevard+Tower+2\/@10.7940205,106.7120954,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752993943a1af3:0x15cff890a71e1300!8m2!3d10.7940205!4d106.7120954!16s%2Fg%2F11fk1b5ckm?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -382,6 +416,7 @@ const data = [
         "address":"207c Nguyễn Xí, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Richmond+City+-+To%C3%A0+Glory\/@10.8152538,106.7060247,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529703de9dbd9:0xbd2372dc2114a506!8m2!3d10.8152538!4d106.7060247!16s%2Fg%2F11ft5h6fcm?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -393,6 +428,7 @@ const data = [
         "address":"A39 Xô Viết Nghệ Tĩnh, Phường 21, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+M%E1%BB%B9+%C4%90%E1%BB%A9c\/@10.7983296,106.7133249,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d8d932e22d:0x94918ab50f903308!8m2!3d10.7983296!4d106.7133249!16s%2Fg%2F11qgg9xccp?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -404,6 +440,7 @@ const data = [
         "address":"96\/9 Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+Kim+S%C6%A1n\/@10.8286539,106.7038307,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175288bb8f7d72d:0x36d50c9042822756!8m2!3d10.8286539!4d106.7038307!16s%2Fg%2F11cs32bnwz?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -415,6 +452,7 @@ const data = [
         "address":"57 QL13, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+The+Morning+Star\/@10.8119278,106.711819,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289823996a2d:0x1a0e47889d7195e4!8m2!3d10.8119278!4d106.711819!16s%2Fg%2F11csqcjkh_?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -426,6 +464,7 @@ const data = [
         "address":"Đ. số 10, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Opal+Riverside\/@10.8248022,106.7257247,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752629bd79c225:0x7a96a56813e992c7!8m2!3d10.8248022!4d106.7257247!16s%2Fg%2F11dflblxgz?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -437,6 +476,7 @@ const data = [
         "address":"Đường 17, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/4S+Riverside+Garden\/@10.8221348,106.7179488,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528835dcc9ab1:0xba6b0aeaef83e736!8m2!3d10.8221348!4d106.7179488!16s%2Fg%2F11csplls76?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -448,6 +488,7 @@ const data = [
         "address":"616\/41 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+40+c%C4%83n+L%C3%AA+%C4%90%E1%BB%A9c+Th%E1%BB%8D\/@10.8460558,106.6734165,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b261bf4a33:0xd969d2a553020230!8m2!3d10.8460558!4d106.6734165!16s%2Fg%2F11b75mnl26?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -459,6 +500,7 @@ const data = [
         "address":"213\/4\/18G Đ. Số 28, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ken's+home\/@10.8461181,106.6839069,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175293c64784c9b:0x73835054d67fafd9!8m2!3d10.8461181!4d106.6839069!16s%2Fg%2F11mb0m9nl0?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -470,6 +512,7 @@ const data = [
         "address":"Đường số 57, Phường 14, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Dream+Home+1\/@10.8544782,106.6493226,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529945603604f:0xb6cb07a4c49b50cb!8m2!3d10.8544782!4d106.6493226!16s%2Fg%2F11cm108mvb?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -481,6 +524,7 @@ const data = [
         "address":"86 Nguyên Hồng, Phường 1, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cao+%C3%94%CC%81c+Samland+Airport\/@10.8183726,106.691644,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528eee7b3ae79:0x223ce6eb3facaac7!8m2!3d10.8183726!4d106.691644!16s%2Fg%2F11fzf4_00h?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -492,6 +536,7 @@ const data = [
         "address":"736\/186\/18, Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh 00700, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%C3%B2ng+tr%E1%BB%8D+nh%C3%A0+xanh\/@10.8512161,106.6739624,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a7c3fc41f9:0x881ebdc7d8a770d2!8m2!3d10.8512161!4d106.6739624!16s%2Fg%2F11fjt3stlb?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -503,6 +548,7 @@ const data = [
         "address":"Hẻm 688\/57, 42 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Osimi+Tower\/@10.8496995,106.674072,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b371e68d2d:0x131dc9269a41c4e3!8m2!3d10.8496995!4d106.674072!16s%2Fg%2F11f0x0sqj0?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -514,6 +560,7 @@ const data = [
         "address":"Hẻm 688\/57, 99 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+S%C3%A0i+G%C3%B2n+Co.op+Home\/@10.8500495,106.6738049,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529463654fc35:0xb2a1e05725fdf1f3!8m2!3d10.8500495!4d106.6738049!16s%2Fg%2F11mwybgd14?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -525,6 +572,7 @@ const data = [
         "address":"Chung cư Phú Gia Hưng, hẻm 730, 126 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+Ph%C3%BA+Gia+H%C6%B0ng\/@10.8505451,106.6733382,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752992ee0a29c9:0x503e80e4b8412e4a!8m2!3d10.8505451!4d106.6733382!16s%2Fg%2F11p_3dj8g1?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -536,6 +584,7 @@ const data = [
         "address":"Đường số 20, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+H%C3%A0+Ki%E1%BB%81u\/@10.8356354,106.6884253,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752857875ce163:0x3e05c9575d38cef9!8m2!3d10.8356354!4d106.6884253!16s%2Fg%2F11cmd0xtwh?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -547,6 +596,7 @@ const data = [
         "address":"110a Phạm Văn Đồng, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sunny+Plaza\/@10.8150088,106.6827337,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529c121a4c897:0xdedc041f908465d8!8m2!3d10.8150088!4d106.6827337!16s%2Fg%2F11s0cymmw6?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -558,6 +608,7 @@ const data = [
         "address":"12 Nguyễn Bỉnh Khiêm, Phường 1, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M-One+Gia+%C4%90%E1%BB%8Bnh\/@10.8166215,106.6878087,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528e5de99d917:0x39944d9f3ea877e!8m2!3d10.8166215!4d106.6878087!16s%2Fg%2F11f03s13_j?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -569,6 +620,7 @@ const data = [
         "address":"Hẻm 416 Dương Quảng Hàm, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/L%C3%B4+C+chung+c%C6%B0+H%C3%A0+Ki%E1%BB%81u\/@10.836219,106.6876366,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752947b00da8af:0x133a59215bf37521!8m2!3d10.836219!4d106.6876366!16s%2Fg%2F11fjx_839v?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -580,6 +632,7 @@ const data = [
         "address":"Đ. Dương Quảng Hàm, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CH%C3%82U\/@10.8311534,106.6856766,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528f856e761d9:0x180431ca9ba5e4cf!8m2!3d10.8311534!4d106.6856766!16s%2Fg%2F11h9wnsb1g?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -591,6 +644,7 @@ const data = [
         "address":"RMJP+GP6, Đ. Dương Quảng Hàm, Phường 7, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+K26\/@10.8329046,106.6853869,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e2bfbe1d0d:0xe79ca13d93b1a7e9!8m2!3d10.8329046!4d106.6853869!16s%2Fg%2F11kjm8llj8?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -602,6 +656,7 @@ const data = [
         "address":"Resco An Hội 3, Phường 14, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/An+H%E1%BB%99i+3\/@10.8528894,106.6468316,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290711b67f33:0x5a82a312b96fa215!8m2!3d10.8528894!4d106.6468316!16s%2Fg%2F11tww4c3yq?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -613,6 +668,7 @@ const data = [
         "address":"359 Phạm Văn Chiêu, Phường 14, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+I-Home+Ph%E1%BA%A1m+V%C4%83n+Chi%C3%AAu\/@10.8508016,106.6536148,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529de3de727d9:0x2db36a8310e5c050!8m2!3d10.8508016!4d106.6536148!16s%2Fg%2F11fv4tjt6t?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -624,6 +680,7 @@ const data = [
         "address":"29\/6, 4, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJb5K-4IordTERcewwTZETFj0",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -635,6 +692,7 @@ const data = [
         "address":"VH8J+58G, Đ. Võ Thị Hồi, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJu_ABcsUrdTERKP-lrDk9pfI",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -646,6 +704,7 @@ const data = [
         "address":"RHPV+GRQ, Ngã tư Phan Văn Hớn, Nguyễn Ảnh Thủ, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJs-98urErdTERDi0m6NEwtA4",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -657,6 +716,7 @@ const data = [
         "address":"11 Nguyễn Văn Bứa, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrwbr3AsndTERiZwM18qdiCc",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -668,6 +728,7 @@ const data = [
         "address":"134 Đường Thới Tam Thôn 16, Thới Tam Thôn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ41EANADVdDERTlfeEDjIJtQ",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -679,6 +740,7 @@ const data = [
         "address":"VJ62+8H6, 14\/7A Nguyễn Thị Sóc, Xuân Thới Đông, Hóc Môn, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJcdBibmoqdTERfG8vJGQRmD8",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -690,6 +752,7 @@ const data = [
         "address":"10\/7 Hẻm 419, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-YI98Rc7dTERON2psFSZNLc",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -701,6 +764,7 @@ const data = [
         "address":"MPVJ+RQ8, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJSbOshq46dTERMW3d-cApkZM",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -712,6 +776,7 @@ const data = [
         "address":"312 Nguyễn Thượng Hiền, Phường 5, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Botanic+Towers\/@10.8056938,106.6851881,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175295d80c14359:0x7456406a67bc6bf7!8m2!3d10.8056938!4d106.6851881!16s%2Fg%2F11g1fvqd57?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -723,6 +788,7 @@ const data = [
         "address":"20 Hoàng Minh Giám, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%C3%B2a+Cao+%E1%BB%90c+Ph%C3%BA+Nhu%E1%BA%ADn\/@10.8083897,106.6728355,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292120ee0971:0x61c44ee185caedee!8m2!3d10.8083897!4d106.6728355!16s%2Fg%2F1hc4b96z3?hl=vi&entry=ttu",
+        "categories":"Chung cư, Khu tổ hợp công quản",
         "category_group":"df_apartments"
     },
     {
@@ -734,6 +800,7 @@ const data = [
         "address":"223 Đ. Hoàng Văn Thụ, Ward 15, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C4%83n+h%E1%BB%99+Kingston+Residence\/@10.7997402,106.6706258,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fced864906d:0xf15f951584aaa2d2!8m2!3d10.7997402!4d106.6706258!16s%2Fg%2F11h_p9_qp3?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -745,6 +812,7 @@ const data = [
         "address":"RM2F+XHV, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/PH%C3%9A+V%E1%BA%A4P\/@10.8024785,106.673922,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d85f6ce47d:0xf0462335ab5d0d7d!8m2!3d10.8024785!4d106.673922!16s%2Fg%2F11l682z9h1?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -756,6 +824,7 @@ const data = [
         "address":"51 Đ. Thành Thái, Phường 14, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+%C4%90%C3%A0o+Duy+T%E1%BB%AB\/@10.7714989,106.6631749,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ec2dbce3df5:0x6e738aeedef841b7!8m2!3d10.7714989!4d106.6631749!16s%2Fg%2F11csrpjxfq?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -767,6 +836,7 @@ const data = [
         "address":"Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%C3%A0+%C4%90%C3%B4+Orchid+2\/@10.7758544,106.6785192,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f745998a99d:0x14b707c0b01966a!8m2!3d10.7758544!4d106.6785192!16s%2Fg%2F11h07t8p0w?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -778,6 +848,7 @@ const data = [
         "address":"284 Lý Thường Kiệt, Phường 14, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Xi+Grand+-+C%E1%BB%ADa+B\/@10.7677728,106.6600192,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f7770eb6243:0xc4fce7c3bb5be605!8m2!3d10.7677728!4d106.6600192!16s%2Fg%2F11fr73y2l9?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -789,6 +860,7 @@ const data = [
         "address":"163A Đ. Trường Chinh, Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+8X+Plus+Tr%C6%B0%E1%BB%9Dng+Chinh\/@10.831217,106.6210149,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bfad8499fe5:0x30cd2f3093b7c4f7!8m2!3d10.831217!4d106.6210149!16s%2Fg%2F11dxqdvylv?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -800,6 +872,7 @@ const data = [
         "address":"14 Phan Văn Hớn, Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh 119415, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C4%83n+H%E1%BB%99+Prosper+Plaza\/@10.830116,106.6187444,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eda5e05c567:0xa3d144512efb356f!8m2!3d10.830116!4d106.6187444!16s%2Fg%2F11dfswqt5b?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -811,6 +884,7 @@ const data = [
         "address":"Thới An 15, Thới An, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+V%C3%B5+%C4%90%C3%ACnh+Apartment\/@10.8805665,106.6492898,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d7bcea2d7ad1:0x49b218788716bbe1!8m2!3d10.8805665!4d106.6492898!16s%2Fg%2F11gnpxxfd1?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -822,6 +896,7 @@ const data = [
         "address":"Hẻm 282 Lê Thị Riêng, Thới An, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+H%C3%A0+%C4%90%C3%B4+Riverside\/@10.8721228,106.6600082,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752967b5035c01:0xf71a0f6002b9ec3b!8m2!3d10.8721228!4d106.6600082!16s%2Fg%2F11h5vjsth6?hl=vi&entry=ttu",
+        "categories":"Chung cư, Chỗ trọ trong nhà",
         "category_group":"df_apartments"
     },
     {
@@ -833,6 +908,7 @@ const data = [
         "address":"C3 Villa Tp, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Villa+An+Phu+Dong+quan+12+Ho+Chi+Minh+Ville+Vi%E1%BB%87t+Nam\/@10.8535673,106.708249,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752933c51c1c6b:0x5d9f554b3451d5fa!8m2!3d10.8535673!4d106.708249!16s%2Fg%2F11fqzrt221?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -844,6 +920,7 @@ const data = [
         "address":"470\/10 Đ. Lê Thị Riêng, Thới An, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Y%E1%BA%BFn\/@10.8782944,106.6550826,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529007e4aab8b:0xb3cd01bef4f9ee93!8m2!3d10.8782944!4d106.6550826!16s%2Fg%2F11vpz5pzfg?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -855,6 +932,7 @@ const data = [
         "address":"National Road No, QL1A, Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+Th%C3%A1i+An\/@10.8497059,106.6243578,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752a266eb397a9:0x3dc5e2db8f0b8d61!8m2!3d10.8497059!4d106.6243578!16s%2Fg%2F11c1szz1bn?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -866,6 +944,7 @@ const data = [
         "address":"35 QL1A, Thới An, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Zen+Tower\/@10.8608374,106.6541922,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529827fd91eff:0x1187c731ccdc5255!8m2!3d10.8608374!4d106.6541922!16s%2Fg%2F11fmd9xm_w?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -877,6 +956,7 @@ const data = [
         "address":"9A Đường Thạnh Xuân 13, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Picity+High+Park\/@10.8648762,106.6647812,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e630b61163:0x9633c448d6c065fe!8m2!3d10.8648762!4d106.6647812!16s%2Fg%2F11gycy728m?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -888,6 +968,7 @@ const data = [
         "address":"Tháp 3.1, khu nhà ở Gò Sao, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%C3%A1p+C3.1+-+Picity+High+Park\/@10.8669397,106.6646139,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294f6ab33815:0x8a1c5ab2868b5d4d!8m2!3d10.8669397!4d106.6646139!16s%2Fg%2F11t410165n?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -899,6 +980,7 @@ const data = [
         "address":"VMC6+93P, Thới An, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+S%C3%A0i+G%C3%B2n+Gia+%C4%90%E1%BB%8Bnh\/@10.8709579,106.6601943,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529dc2323d78d:0xaf625379548b83a0!8m2!3d10.8709579!4d106.6601943!16s%2Fg%2F11g1p2g3vg?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -910,6 +992,7 @@ const data = [
         "address":"21\/3C khu phố 4, Nguyễn Thị Búp, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+The+Park+Land+Qu%E1%BA%ADn+12\/@10.876604,106.6297617,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752a02007305db:0x6f0adb936baa60cf!8m2!3d10.876604!4d106.6297617!16s%2Fg%2F11hcj807_s?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -921,6 +1004,7 @@ const data = [
         "address":"VJFJ+J92, Nguyễn Thị Búp, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+Hi%E1%BB%87p+Th%C3%A0nh+City\/@10.8740135,106.6308876,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529180f3adad3:0x7d3971488d0dd553!8m2!3d10.8740135!4d106.6308876!16s%2Fg%2F11t2xzsrll?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -932,6 +1016,7 @@ const data = [
         "address":"56 Đ. Bến Vân Đồn, Phường 12, Quận 4, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJkbotYGovdTERXVUL7XaoN0g",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -943,6 +1028,7 @@ const data = [
         "address":"1 Đ. Tôn Thất Thuyết, Phường 1, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/De+La+Sol+Qu%E1%BA%ADn+4\/@10.7531154,106.6927751,17z\/data=!3m1!4b1!4m6!3m5!1s0x310a9bb15887a329:0x5d6df14dec6dd88f!8m2!3d10.7531154!4d106.6927751!16s%2Fg%2F1pztkgydn?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ, Xưởng sửa chữa ô tô, Văn phòng công ty",
         "category_group":"df_apartments"
     },
     {
@@ -954,6 +1040,7 @@ const data = [
         "address":"1 Đ. Tôn Thất Thuyết, Phường 1, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+s%E1%BB%91+1+T%C3%B4n+Th%E1%BA%A5t+Thuy%E1%BA%BFt\/@10.7548967,106.6920437,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f88b571d173:0x2382a8a15b3cc1ea!8m2!3d10.7548967!4d106.6920437!16s%2Fg%2F11h6fmqz_d?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -965,6 +1052,7 @@ const data = [
         "address":"12 Tôn Đản, Phường 13, Quận 4, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%C3%B2a+nh%C3%A0+Copac+Square\/@10.7622443,106.7078929,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f692ff25535:0x5f81d1b3fc1fddf0!8m2!3d10.7622443!4d106.7078929!16s%2Fg%2F11y9tycsw?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -976,6 +1064,7 @@ const data = [
         "address":"PPPR+VXM, Nguyễn Văn Quỳ, Cầu Phú Mỹ, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Utopia+residence,+Kita-Group+C%E1%BA%A7u+Ph%C3%BA+M%E1%BB%B9,+Qu%E1%BA%ADn+7\/@10.7372197,106.7424169,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175257008d8ac43:0x9155eb0a76f29125!8m2!3d10.7372197!4d106.7424169!16s%2Fg%2F11gzs45vw0?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -987,6 +1076,7 @@ const data = [
         "address":"14 Đường NB1, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Block+M2+chung+c%C6%B0+Jamona\/@10.7358487,106.7389956,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525e0a7b1ca39:0xed19741d88973e26!8m2!3d10.7358487!4d106.7389956!16s%2Fg%2F11h2h6tt_9?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -998,6 +1088,7 @@ const data = [
         "address":"Khu Biệt thự Tấn Trường, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+V-Star\/@10.7322803,106.7389985,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175256cef8bfabd:0x54e5414e26a7c565!8m2!3d10.7322803!4d106.7389985!16s%2Fg%2F11g0lc5f_7?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1009,6 +1100,7 @@ const data = [
         "address":"216 Đ. Trần Văn Trà, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Panorama\/@10.7213467,106.7134627,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752561d67fa91b:0x9ac992fb30a8964c!8m2!3d10.7213467!4d106.7134627!16s%2Fg%2F11g9jdvsx9?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1020,6 +1112,7 @@ const data = [
         "address":"6 Bùi Văn Ba, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Khu+l%C6%B0u+tr%C3%BA+c%C3%B4ng+nh%C3%A2n+khu+ch%E1%BA%BF+xu%E1%BA%A5t+T%C3%A2n+Thu%E1%BA%ADn+(SADECO)\/@10.7473988,106.7380993,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175254f48b270d1:0x12e93d8a397a74e7!8m2!3d10.7473988!4d106.7380993!16s%2Fg%2F11fr2qs_q7?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1031,6 +1124,7 @@ const data = [
         "address":"320\/18C Đ. Nguyễn Văn Linh, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Ph%C3%BA+M%E1%BB%B9+An\/@10.740659,106.7198934,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f811ebe5f6f:0xae6843f46d6a4901!8m2!3d10.740659!4d106.7198934!16s%2Fg%2F11c1s1kgx5?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1042,6 +1136,7 @@ const data = [
         "address":"210 Bùi Văn Ba, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Jamona+Heights\/@10.7503714,106.7357245,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525e48759d8ad:0x8b79e99b4b92bac6!8m2!3d10.7503714!4d106.7357245!16s%2Fg%2F11j0nff9l9?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1053,6 +1148,7 @@ const data = [
         "address":"Việt Nam, Thành phố Hồ Chí Minh, Quận 7, Nguyễn Thị Thập, docklands",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Docklands+Saigon\/@10.735131,106.7268992,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f916b03f465:0x3801425de95a6cd9!8m2!3d10.735131!4d106.7268992!16s%2Fg%2F11c6dz_fn1?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1064,6 +1160,7 @@ const data = [
         "address":"2 Nguyễn Văn Tưởng, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 760000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+View+at+Riviera+Point,+Tower+6\/@10.7326327,106.7292155,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175251080c992f1:0x4bc127f766291ecc!8m2!3d10.7326327!4d106.7292155!16s%2Fg%2F11hdqyccj6?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1075,6 +1172,7 @@ const data = [
         "address":"Đường D, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Ho%C3%A0ng+Anh+Thanh+B%C3%ACnh\/@10.7452347,106.699118,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9a36aab581:0x4f97b8b0d5574120!8m2!3d10.7452347!4d106.699118!16s%2Fg%2F11kqdmyxx1?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1086,6 +1184,7 @@ const data = [
         "address":"Nguyễn Văn Tưởng, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 760000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Riviera+Point+Qu%E1%BA%ADn+7\/@10.7318744,106.7291847,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259cce06d6b1:0xb39030f117b9f5f!8m2!3d10.7318744!4d106.7291847!16s%2Fg%2F11h93lvhcy?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1097,6 +1196,7 @@ const data = [
         "address":"Nguyễn Văn Tưởng, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/D%E1%BB%B1+%C3%A1n+The+Infiniti+Qu%E1%BA%ADn+7\/@10.7327225,106.728626,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ec1900b9e9b:0x250b435c1015347d!8m2!3d10.7327225!4d106.728626!16s%2Fg%2F11c5stk25s?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1108,6 +1208,7 @@ const data = [
         "address":"2 Nguyễn Văn Tưởng, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Infinity+-+Riviera+Point\/@10.7339699,106.7279663,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752539dbedce7f:0xf5c52ac358974c5f!8m2!3d10.7339699!4d106.7279663!16s%2Fg%2F11gxs5rhq_?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1119,6 +1220,7 @@ const data = [
         "address":"Đường Đ. Nguyễn Văn Linh, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KHU+D%C3%82N+C%C6%AF+PH%C6%AF%C6%A0NG+NAM\/@10.7359255,106.7222217,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fae24093419:0xd3ff94c22323d0f1!8m2!3d10.7359255!4d106.7222217!16s%2Fg%2F11jdz8bk7q?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1130,6 +1232,7 @@ const data = [
         "address":"58B Nguyễn Thị Thập, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+THE+GOLDEN+STAR\/@10.7382932,106.7263656,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f1d397a2753:0xe914ccd213aee616!8m2!3d10.7382932!4d106.7263656!16s%2Fg%2F11ty766df2?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1141,6 +1244,7 @@ const data = [
         "address":"PPM4+R96, Nguyễn Đổng Chi, Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SkyGarden+3\/@10.7345314,106.705904,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f81031671f3:0x57fd345011ca0ce2!8m2!3d10.7345314!4d106.705904!16s%2Fg%2F11rxtdq6cw?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1152,6 +1256,7 @@ const data = [
         "address":"Sc14-12 khu phố skygarden 2 phong quận 7, Quận7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sky+Garden+2+Buildings\/@10.7305992,106.705825,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f90d4e08b7d:0x2a0017363cbc7191!8m2!3d10.7305992!4d106.705825!16s%2Fg%2F11clwhj9vh?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1163,6 +1268,7 @@ const data = [
         "address":"15 Nguyễn Cao, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Happy+Valley+Premier\/@10.7314612,106.7125814,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fddea8aa127:0x7e31546b3daab949!8m2!3d10.7314612!4d106.7125814!16s%2Fg%2F11fjzb7p6b?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1174,6 +1280,7 @@ const data = [
         "address":"PPC4+W8X, Unnamed Road, Phước Kiển, Nhà Bè, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+SUNRISE+RIVERSIDE+L%C3%94+E1\/@10.7223658,106.7058597,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ff4fdebef0b:0x7b1483b85aef9ed5!8m2!3d10.7223658!4d106.7058597!16s%2Fg%2F11fl45pvd9?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1185,6 +1292,7 @@ const data = [
         "address":"I-01.04, chung cư Sunrise Riverside, Phước Kiển, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+Sunrise+Riverside+Block+I\/@10.7225632,106.7051204,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fa21f633099:0xe750495938a4d301!8m2!3d10.7225632!4d106.7051204!16s%2Fg%2F11ljrq693x?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1196,6 +1304,7 @@ const data = [
         "address":"PPF3+8F3, Unnamed Road, Phước Kiển, Nhà Bè, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sunrise+Riverside,+Block+G\/@10.7232516,106.7036624,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fd77b690d3b:0x5b59a391256a8b33!8m2!3d10.7232516!4d106.7036624!16s%2Fg%2F11h2g1b3vt?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1207,6 +1316,7 @@ const data = [
         "address":"240 Nguyễn Lương Bằng, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%C6%B0ng+Ph%C3%BAc+Premier+Ph%C3%BA+M%E1%BB%B9+H%C6%B0ng\/@10.7160274,106.7291868,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752532525b9a59:0x115d78edca9000f!8m2!3d10.7160274!4d106.7291868!16s%2Fg%2F11g0sw2tl6?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1218,6 +1328,7 @@ const data = [
         "address":"PP9G+7C3, Phú Mỹ hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Riverside+Residence+A\/@10.7181379,106.7260328,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175255f217c03f7:0x5fe932605d353ea2!8m2!3d10.7181379!4d106.7260328!16s%2Fg%2F11g6976h2w?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1229,6 +1340,7 @@ const data = [
         "address":"PP9G+JRP, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Riverside+Residence+Block+C\/@10.7190802,106.7270652,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525bd0655276d:0xdc4c2f60ce6f3521!8m2!3d10.7190802!4d106.7270652!16s%2Fg%2F11r68rdt6g?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1240,6 +1352,7 @@ const data = [
         "address":"Đường Nguyễn Lương Bằng, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+The+Antonia\/@10.7196329,106.7277642,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525771c2517c9:0x2fb480b08a0ced08!8m2!3d10.7196329!4d106.7277642!16s%2Fg%2F11k45s47k3?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1251,6 +1364,7 @@ const data = [
         "address":"Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nam+Ph%C3%BAc+Le+Jardin\/@10.7207384,106.7295053,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175255dd2a43c1f:0xfb43aef6e2080c55!8m2!3d10.7207384!4d106.7295053!16s%2Fg%2F11c5_bxqhl?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1262,6 +1376,7 @@ const data = [
         "address":"194 Hà Huy Tập, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nikko+Apartments\/@10.726472,106.7062656,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ff90d864cd3:0xc1bef49d3d1bc948!8m2!3d10.726472!4d106.7062656!16s%2Fg%2F11nsh6vd1f?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1273,6 +1388,7 @@ const data = [
         "address":"528 Huỳnh Tấn Phát, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+Luxcity\/@10.7387122,106.7299709,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175257eab647af9:0x8383c28b1a501b15!8m2!3d10.7387122!4d106.7299709!16s%2Fg%2F11c882knfj?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1284,6 +1400,7 @@ const data = [
         "address":"14 Số 1, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/An+Residence\/@10.7419279,106.7257422,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175257fafdeefbd:0x6b4a341aa3874bc3!8m2!3d10.7419279!4d106.7257422!16s%2Fg%2F11gf9ql826?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1295,6 +1412,7 @@ const data = [
         "address":"PPH5+QQ9, Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%C6%B0ng+V%C6%B0%E1%BB%A3ng+1\/@10.7294164,106.7094829,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f095110eb6b:0x626670a0a0c3da93!8m2!3d10.7294164!4d106.7094829!16s%2Fg%2F11lgf5lzmr?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1306,6 +1424,7 @@ const data = [
         "address":"PPHF+5J3, Đường D - Bắc, Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cardinal+Court+Block+A\/@10.7278862,106.7240459,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175250030c4fb1d:0xcf3c731af995e37d!8m2!3d10.7278862!4d106.7240459!16s%2Fg%2F11vptw9w97?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1317,6 +1436,7 @@ const data = [
         "address":"Việt Nam, Thành phố Hồ Chí Minh, Quận 7, Tân Phú, Khu đô thị Phú Mỹ Hưng",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Peak+Midtown\/@10.7262779,106.7285862,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f97e37e5e41:0x1a069647859ee854!8m2!3d10.7262779!4d106.7285862!16s%2Fg%2F11sc2zkndm?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1328,6 +1448,7 @@ const data = [
         "address":"Đ. D-Nam, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Midtown+M6+-+The+Symphony,+Qu%E1%BA%ADn+7\/@10.7236894,106.7266883,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175252280a84337:0x38ccbab499c8d20b!8m2!3d10.7236894!4d106.7266883!16s%2Fg%2F11n09xp0d_?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1339,6 +1460,7 @@ const data = [
         "address":"Căn hộ Florita Quận 7, Đ. D4, Khu đô thị Him Lam, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Florita\/@10.7446904,106.6949016,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f85a26b4fa5:0xb9a0551c808e93f!8m2!3d10.7446904!4d106.6949016!16s%2Fg%2F11sb3rfzkp?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1350,6 +1472,7 @@ const data = [
         "address":"PMVW+J6P, Unnamed, Road, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Him+Lam+Riverside\/@10.744088,106.6955693,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f58f05c1563:0x497545a0fa430704!8m2!3d10.744088!4d106.6955693!16s%2Fg%2F11jm3wdkmj?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1361,6 +1484,7 @@ const data = [
         "address":"23 Đ. Nguyễn Hữu Thọ, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V5+tower,+sunrise+city\/@10.7393971,106.7004157,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f98a59c48e5:0x65bbf364eada60d4!8m2!3d10.7393971!4d106.7004157!16s%2Fg%2F11c5rvdn3p?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1372,6 +1496,7 @@ const data = [
         "address":"23-25-27, Đ. Nguyễn Hữu Thọ, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sunrise+City\/@10.7413084,106.7005935,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9f99588e31:0xa3f5a643e55fdf77!8m2!3d10.7413084!4d106.7005935!16s%2Fg%2F11gddfb1dz?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1383,6 +1508,7 @@ const data = [
         "address":"370 Nguyễn Văn Quỳ, P. Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+Luxgarden\/@10.738621,106.7416191,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259dc8186879:0xc3ae5ef609f4b9f0!8m2!3d10.738621!4d106.7416191!16s%2Fg%2F11tgckpq0h?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1394,6 +1520,7 @@ const data = [
         "address":"370 Nguyễn Văn Quỳ, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/370+Nguy%E1%BB%85n+v%C4%83n+qu%E1%BB%B3\/@10.7379453,106.7415257,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175254abf6de9e9:0xf4e88a6d684781c5!8m2!3d10.7379453!4d106.7415257!16s%2Fg%2F11tcjk580m?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1405,6 +1532,7 @@ const data = [
         "address":"Đường số 16, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M7+The+Signature\/@10.7238606,106.728415,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175252f80cab671:0x90e87a2c2eea763a!8m2!3d10.7238606!4d106.728415!16s%2Fg%2F11grbv2fs6?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1416,6 +1544,7 @@ const data = [
         "address":"PPFG+XHR, Đ. Số 15, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Peak+M8+Midtown\/@10.7256944,106.728034,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527e43dc63cff:0xc0a9013e9fa9ad36!8m2!3d10.7256944!4d106.728034!16s%2Fg%2F11lfh1g9sw?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1427,6 +1556,7 @@ const data = [
         "address":"Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Star+Hill+Apartment\/@10.7289127,106.7249276,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752563b4d23bc5:0x132e1b60b4a13095!8m2!3d10.7289127!4d106.7249276!16s%2Fg%2F11f3cj_1xm?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1438,6 +1568,7 @@ const data = [
         "address":"Đ. Phú Thuận, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KDC+EverRich+3\/@10.729273,106.7293687,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525638a755393:0xa80611d18433b3b2!8m2!3d10.729273!4d106.7293687!16s%2Fg%2F11g6bfk1yv?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1449,6 +1580,7 @@ const data = [
         "address":"15B Nguyễn Lương Bằng, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Block+A4+-+Khu+ca%CC%86n+ho%CC%A3%CC%82+Era+Town+-+%C4%90%E1%BB%A9c+Kh%E1%BA%A3i\/@10.7006989,106.7329876,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d0cb853ffc9:0x650e85dcd0c1557e!8m2!3d10.7006989!4d106.7329876!16s%2Fg%2F11j8c4lxy2?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1460,6 +1592,7 @@ const data = [
         "address":"15B Nguyễn Lương Bằng, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+%C4%90%E1%BB%A9c+Kh%E1%BA%A3i\/@10.701511,106.7329898,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752553219812db:0xac232219de55cfe8!8m2!3d10.701511!4d106.7329898!16s%2Fg%2F11f2wff0vd?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1471,6 +1604,7 @@ const data = [
         "address":"Nguyễn Cao, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Happy+Valley+(Block+D)\/@10.7294725,106.7133397,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8e137d39a7:0x4325ed5a9b44b83b!8m2!3d10.7294725!4d106.7133397!16s%2Fg%2F11dyzds4r9?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1482,6 +1616,7 @@ const data = [
         "address":"Happy Valley, Block I, 842 Đ. Nguyễn Văn Linh, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Happy+Valley+(Block+L)\/@10.730078,106.7133676,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8e3d177d6d:0xae9c54eb97dc3d00!8m2!3d10.730078!4d106.7133676!16s%2Fg%2F11h9x6pfhl?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1493,6 +1628,7 @@ const data = [
         "address":"808 Đ. Nguyễn Văn Linh, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Scenic+Valley+Suite\/@10.7307155,106.7181048,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f892926efc5:0xc5ddd9aef82fcdf2!8m2!3d10.7307155!4d106.7181048!16s%2Fg%2F11fnwht83l?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1504,6 +1640,7 @@ const data = [
         "address":"PPJ7+97Q, Đường N - Bắc, Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Happy+Valley+(Block+M)\/@10.7309945,106.7131146,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f4616db6879:0xbb11c8d294b592c9!8m2!3d10.7309945!4d106.7131146!16s%2Fg%2F11v19h3jqp?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1515,6 +1652,7 @@ const data = [
         "address":"Phường 9, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Scenic+Valley+2\/@10.7315531,106.7186329,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f88d03af2ff:0xbe4822d01b9563df!8m2!3d10.7315531!4d106.7186329!16s%2Fg%2F11gdm5pcb6?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1526,6 +1664,7 @@ const data = [
         "address":"Chung cư Tân Mỹ, Lô C Đường Số 8, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+T%C3%A2n+M%E1%BB%B9\/@10.7358228,106.718297,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f866bfc6f01:0xc63ef0919ebafef5!8m2!3d10.7358228!4d106.718297!16s%2Fg%2F11ckvbgdyf?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ, Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1537,6 +1676,7 @@ const data = [
         "address":"89 Hoàng Quốc Việt, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Skyline\/@10.7159457,106.7412045,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175256456e0e817:0x4d7db3973508d2d8!8m2!3d10.7159457!4d106.7412045!16s%2Fg%2F11g0znz2zc?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1548,6 +1688,7 @@ const data = [
         "address":"01 Đ. Lê Thị Chợ, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/An+Gia+Riverside\/@10.7152535,106.7430568,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752502b768b48d:0xe2077d5fe8a00861!8m2!3d10.7152535!4d106.7430568!16s%2Fg%2F11p_50fv61?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1559,6 +1700,7 @@ const data = [
         "address":"MJXF+HJ5, Khu dân cư Phú Lợi, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C4%83n+h%E1%BB%99+ven+s%C3%B4ng+Dream+Home+Riverside\/@10.6988801,106.6240949,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175320391bf2d33:0x1ee106f57d89d803!8m2!3d10.6988801!4d106.6240949!16s%2Fg%2F11ggc2g_t5?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1570,6 +1712,7 @@ const data = [
         "address":"3441 Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+thanh+nh%E1%BB%B1t\/@10.7060263,106.6235161,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175334eb2b6db6d:0xd6b7f0275a56fe96!8m2!3d10.7060263!4d106.6235161!16s%2Fg%2F11qvfk0cx7?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1581,6 +1724,7 @@ const data = [
         "address":"Chung cư C2, Ba Tơ, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Khu+D%C3%A2n+C%C6%B0+Him+Lam+-+Ba+T%C6%A1\/@10.7062484,106.621801,17z\/data=!3m1!4b1!4m6!3m5!1s0x317532075fc2e42b:0xf29618106e0ab3bf!8m2!3d10.7062484!4d106.621801!16s%2Fg%2F11bwkhpwf3?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1592,6 +1736,7 @@ const data = [
         "address":"59 Đ.Hồ Thành Biên, Phường 4, Quận 8, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+Khang+Gia+Ch%C3%A1nh+H%C6%B0ng\/@10.7409852,106.672867,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5386a2a05b:0xc2b3b4e267a2ba19!8m2!3d10.7409852!4d106.672867!16s%2Fg%2F11c574xvjm?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1603,6 +1748,7 @@ const data = [
         "address":"Lô C1 Chung cư Him Lam, 267B Ba Tơ, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+Him+Lam,+L%C3%B4+C1\/@10.7067669,106.6206955,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752df87d24f48f:0xabdabcfa8e950eda!8m2!3d10.7067669!4d106.6206955!16s%2Fg%2F11f381r77_?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1614,6 +1760,7 @@ const data = [
         "address":"201 Đường 35A Trịnh Quang Nghị, Khu dân cư Phú Lợi, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Ph%C3%BA+L%E1%BB%A3i+D2+-+5+t%E1%BA%A7ng\/@10.7043051,106.6229656,17z\/data=!3m1!4b1!4m6!3m5!1s0x317532072c64e32b:0x63653255befd02dc!8m2!3d10.7043051!4d106.6229656!16s%2Fg%2F11cjnp1dn_?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1625,6 +1772,7 @@ const data = [
         "address":"Số 12 Đ. An Dương Vương, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+An+D%C6%B0%C6%A1ng+V%C6%B0%C6%A1ng\/@10.712331,106.6215886,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dfbdd27dce1:0xcb54366b1c763baa!8m2!3d10.712331!4d106.6215886!16s%2Fg%2F11h9zt8__w?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1636,6 +1784,7 @@ const data = [
         "address":"2225 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Green+River\/@10.732813,106.6441163,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fef54ed4b09:0xafc8af014c6a875b!8m2!3d10.732813!4d106.6441163!16s%2Fg%2F11kq9251qv?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1647,6 +1796,7 @@ const data = [
         "address":"39 Đ. Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Topaz+City+Block+B2\/@10.7378986,106.6794875,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ff854d9fe29:0x4c607b0696ea0e73!8m2!3d10.7378986!4d106.6794875!16s%2Fg%2F11h5l789vn?hl=vi&entry=ttu",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1658,6 +1808,7 @@ const data = [
         "address":"PJ9P+CR3, Đ. 7, Phong Phú, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Conic+Riverside\/@10.718523,106.6369212,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6302f0ae83:0x82e69a8bcc1aafc2!8m2!3d10.718523!4d106.6369212!16s%2Fg%2F11ty8q159p?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1669,6 +1820,7 @@ const data = [
         "address":"266 Đ. Bùi Minh Trực, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+B%C3%B9i+Minh+Tr%E1%BB%B1c\/@10.7383446,106.6543612,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fd328f9a3ef:0xfcee77b90f7d5522!8m2!3d10.7383446!4d106.6543612!16s%2Fg%2F11fkzzls1v?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1680,6 +1832,7 @@ const data = [
         "address":"PMM4+W37, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B4%2F2+Chung+C%C6%B0+B%C3%ACnh+%C4%90%C4%83ng\/@10.734798,106.655169,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0045cadaef:0xbb4046b9b479c204!8m2!3d10.734798!4d106.655169!16s%2Fg%2F11y2nq7qkk?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1691,6 +1844,7 @@ const data = [
         "address":"1002 Đ. Tạ Quang Bửu, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Pegasuite\/@10.7342516,106.6533069,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fe0bb8730b9:0x8d72da5765b32a08!8m2!3d10.7342516!4d106.6533069!16s%2Fg%2F11hf06ct37?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1702,6 +1856,7 @@ const data = [
         "address":"PMJ3+WFH, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tara+Residence+-+Block+B2\/@10.732309,106.653734,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f76374e45f7:0xb92017955bdcf739!8m2!3d10.732309!4d106.653734!16s%2Fg%2F11ppd1wvcj?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1713,6 +1868,7 @@ const data = [
         "address":"Hẻm 45 Đ. Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Topaz+Elite+Phoenix+1B\/@10.7402555,106.6800319,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f593947ff6d:0xc573baf77708de8!8m2!3d10.7402555!4d106.6800319!16s%2Fg%2F11fv3q6lxf?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1724,6 +1880,7 @@ const data = [
         "address":"37 Đ. Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Topaz+Elite+-+Phoenix+2\/@10.7394725,106.6786461,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6ed3680401:0xfee5f4927ebb55b9!8m2!3d10.7394725!4d106.6786461!16s%2Fg%2F11nh3vh94p?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1735,6 +1892,7 @@ const data = [
         "address":"66 Đ. Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Topaz+Elite+-+Phoenix+1\/@10.7395068,106.6808497,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fe2e9872eb5:0xf6f384d9332213bd!8m2!3d10.7395068!4d106.6808497!16s%2Fg%2F11fvgyrq13?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1746,6 +1904,7 @@ const data = [
         "address":"PMQJ+R66, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Topaz+Elite+Block+P1A\/@10.7395303,106.6805197,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f7da14706df:0x41bcb0ce961975d8!8m2!3d10.7395303!4d106.6805197!16s%2Fg%2F11ppb42dlp?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1757,6 +1916,7 @@ const data = [
         "address":"39 Đ. Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Topaz+City\/@10.7387866,106.6789175,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fada9641f3b:0x95392c8c88ba9bc7!8m2!3d10.7387866!4d106.6789175!16s%2Fg%2F11f3jwrw57?hl=vi&entry=ttu",
+        "categories":"Chung cư, Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1768,6 +1928,7 @@ const data = [
         "address":"457-459 Đ. Tạ Quang Bửu, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+Topaz+Elite+-+Dragon+2C\/@10.7411153,106.6796969,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f006459269d:0xb0fe4e83cee0f830!8m2!3d10.7411153!4d106.6796969!16s%2Fg%2F11lcyskpkx?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1779,6 +1940,7 @@ const data = [
         "address":"Quách Văn Tuấn, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+K300\/@10.7978838,106.6522478,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752949d74c68df:0xeaf051c6e6eaa4c1!8m2!3d10.7978838!4d106.6522478!16s%2Fg%2F11g0w0kvgj?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1790,6 +1952,7 @@ const data = [
         "address":"104 Đ. Phổ Quang, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Botanica\/@10.8084371,106.6700987,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752923c1817ce3:0x52f8a8152d9cc7ac!8m2!3d10.8084371!4d106.6700987!16s%2Fg%2F11hb80xjxw?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1801,6 +1964,7 @@ const data = [
         "address":"31 Phan Huy Ích, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+Ph%C3%BAc+Y%C3%AAn+2\/@10.8254054,106.6301125,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297b11b3902d:0xd4cd627b5e126177!8m2!3d10.8254054!4d106.6301125!16s%2Fg%2F11h27znlw1?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1812,6 +1976,7 @@ const data = [
         "address":"70\/36 Nguyễn Sỹ Sách, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+T%C3%A2n+Tr%E1%BB%A5\/@10.8193231,106.6368999,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529669bd1e91d:0x3ae53d364522647e!8m2!3d10.8193231!4d106.6368999!16s%2Fg%2F11hd4wccgh?hl=vi&entry=ttu",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1823,6 +1988,7 @@ const data = [
         "address":"RRPJ+722, Nguyễn Xiển, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJX1ppeLghdTERJw_DroE8vw8",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1834,6 +2000,7 @@ const data = [
         "address":"Đ. Gò Dưa, Hiệp Bình Phước, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJid7xMeAndTERWVpADxqXzKU",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1845,6 +2012,7 @@ const data = [
         "address":"QRP4+7PW, Đường Nguyễn Thị Tư, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJY5bg2MYndTER07BdwSqifs8",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1856,6 +2024,7 @@ const data = [
         "address":"Hoàng Hữu Nam, P, Quận 9, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJa_l6RODZdDERbx19KhWYMyY",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1867,6 +2036,7 @@ const data = [
         "address":"65 Đ. Linh Đông, Linh Đông, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJgWOjNo8ndTERkhOIwwTXXlc",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1878,6 +2048,7 @@ const data = [
         "address":"Đường số 30, Thành Phố, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJL6O89eIndTER8w8D0jx5JyY",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1889,6 +2060,7 @@ const data = [
         "address":"702 Đ. Võ Nguyên Giáp, Hiệp Phú, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ6VbGIAondTERXZ6QnfbTHno",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1900,6 +2072,7 @@ const data = [
         "address":"1014 Phạm Văn Đồng, P, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJF9KsEhEndTERWVEvHiYsDJE",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1911,6 +2084,7 @@ const data = [
         "address":"2A Phan Chu Trinh, Hiệp Phú, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-Z8uzTMndTER-425kl8xXgE",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1922,6 +2096,7 @@ const data = [
         "address":"số 4 Đ. 6A, Phước Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJm1BwcVgmdTERUpbwilp42ac",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1933,6 +2108,7 @@ const data = [
         "address":"23 Đ. Lưu Đình Lễ, Bình Khánh, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJzdmeZuMldTERXE0MTbzt_-g",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1944,6 +2120,7 @@ const data = [
         "address":"QPJX+342, Canary Tower, Đ. Đảo Kim Cương, Phường Bình Trưng Tây, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbbl5BFEldTERsqHviuyZBl4",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1955,6 +2132,7 @@ const data = [
         "address":"Cầu Thời Đại, Phường Bình Trưng Tây, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWZCjhwoldTERSeXXJu3F4z0",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1966,6 +2144,7 @@ const data = [
         "address":"QPHW+4PF, Phường Bình Trưng Tây, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJi85kYucldTERhkIcZ2bxmXc",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -1977,6 +2156,7 @@ const data = [
         "address":"1 Võ Trường Toản, P, Quận 2, Thành phố Hồ Chí Minh 71107, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8ZFvSc4ndTERnzKsS7yqpJk",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1988,6 +2168,7 @@ const data = [
         "address":"32 Thủy Lợi, Phước Long A, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJq6R9rP8ndTERN12mykSRPf8",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -1999,6 +2180,7 @@ const data = [
         "address":"59 Đ. Số 4, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJBcGvbAomdTERbV9nJ03RaQs",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2010,6 +2192,7 @@ const data = [
         "address":"53 Võ Trường Toản; Thao Dien Ward: Discrict 2, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0QvdN2smdTERfEQbpef8L8A",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2021,6 +2204,7 @@ const data = [
         "address":"311 Đường H, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHQeCQmMndTERkT7gmXTxtc0",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2032,6 +2216,7 @@ const data = [
         "address":"628C Đ. Võ Nguyên Giáp, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPcyry2smdTERxEHX0-4cEVI",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2043,6 +2228,7 @@ const data = [
         "address":"QQRG+PJX, Bình Trưng, Dong residential area, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ__8PIoQmdTERjvKSROKAxBg",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2054,6 +2240,7 @@ const data = [
         "address":"Căn hộ Homyland Riverside (Homyland 3, 403a Đ. Nguyễn Duy Trinh, Phường Bình Trưng Tây, Quận 2, Thành phố Hồ Chí Minh 71113, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJF-FMUVIndTERSquDHLmW3Oc",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2065,6 +2252,7 @@ const data = [
         "address":"537 Đ. Nguyễn Duy Trinh, KP4, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJoaWx6MYndTERNeXeLsBkvhU",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2076,6 +2264,7 @@ const data = [
         "address":"1 Đường 63, Bình Trưng Đông, Quận 2, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe6nIZtEndTER2rFW5cRC8h8",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2087,6 +2276,7 @@ const data = [
         "address":"RRWW+R3H, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtyTaKOghdTERr3Ihq1hvWKA",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2098,6 +2288,7 @@ const data = [
         "address":"RRWQ+JRX, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3fGsFMwhdTERij2NtqNCFtw",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2109,6 +2300,7 @@ const data = [
         "address":"Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJjcy5v74hdTERS7qpPbjYIZU",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2120,6 +2312,7 @@ const data = [
         "address":"Vinhomes Grand Park - S8.03, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJy0ImA0IhdTERcQQj86eRfag",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2131,6 +2324,7 @@ const data = [
         "address":"S8 02 Origami, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJn-0YUdghdTERU3o0-SaIbIE",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2142,6 +2336,7 @@ const data = [
         "address":"39490 Phước Thiện, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJp60_89MhdTERU0k-rLk10So",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2153,6 +2348,7 @@ const data = [
         "address":"Unnamed Road, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiSmW_cMhdTER-NXxEa_8il8",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2164,6 +2360,7 @@ const data = [
         "address":"563 Tô Ngọc Vân, Tam Binh, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtSvPypcndTERgYwOHeB5zwc",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2175,6 +2372,7 @@ const data = [
         "address":"VPMC+W78, Đường số 3, Bình Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJz0ibI_jXdDERbvow6yHt8Dw",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2186,6 +2384,7 @@ const data = [
         "address":"88 Đường số 6, Bình Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJMW7MuuAndTERQJFycEh4OgU",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2197,6 +2396,7 @@ const data = [
         "address":"VPC9+PQ8, Đường 12, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJX91ILsgpdTERk9AidvrVntI",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2208,6 +2408,7 @@ const data = [
         "address":"Số 1 Đường D31, Khu Phố 6, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ709wU-wmdTERvfqcLJ69yxM",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2219,6 +2420,7 @@ const data = [
         "address":"454 Đ. Võ Chí Công, Phường Phú Hữu, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJuUPqyFYndTERpYblRqJIHNQ",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2230,6 +2432,7 @@ const data = [
         "address":"An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ78WaqG0mdTERvKHxe4aejjc",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2241,6 +2444,7 @@ const data = [
         "address":"QQX2+FQ2, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ26rXJ4kndTERzt6Vj05YA3I",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2252,6 +2456,7 @@ const data = [
         "address":"299 Đ. Liên Phường, Phường Phú Hữu, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2yjGnL8mdTERXVNPnAAq7cM",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2263,6 +2468,7 @@ const data = [
         "address":"69 Đ. Mai Chí Thọ, An Phú, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLWxTeXImdTERmbbxsA6RZSM",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2274,6 +2480,7 @@ const data = [
         "address":"chung cư sky9, Đường Số 1, Bình Trưng Đông, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ5awL0NgndTERQCwd-koO5xA",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2285,6 +2492,7 @@ const data = [
         "address":"11-14 Đường Trương Gia Mô, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpwBy-R0ldTERTVeYPJ4n_38",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2296,6 +2504,7 @@ const data = [
         "address":"RPGF+R7P, Đ. Số 20, Khu Phố 4, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJTce7GOAndTERP8wYTMMkLzw",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2307,6 +2516,7 @@ const data = [
         "address":"202 Đ. Nguyễn Duy Trinh, Phường Bình Trưng Tây, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJ35z8HgmdTER1MA1WPZFgJ8",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2318,6 +2528,7 @@ const data = [
         "address":"55 Đường Quách Giai, Phường Thạnh Mỹ Lợi, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJL6X1KLgldTERA8OpuhGLaHg",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2329,6 +2540,7 @@ const data = [
         "address":"Đ. Võ Chí Công, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2dDQotMldTER_YDqNzZz3jM",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2340,6 +2552,7 @@ const data = [
         "address":"RR7X+93, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJR5kzreshdTER_laicCyYUns",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2351,6 +2564,7 @@ const data = [
         "address":"170 Lò Lu, Trường Thạnh, Quận 9, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJoblA2dfIdTER7DJVYlCyUhs",
+        "categories":"Khu liên hợp căn hộ, Xưởng sửa chữa ô tô, Dịch vụ độ xe ô tô, Trường kinh doanh, Văn phòng công ty, Dự án nhà",
         "category_group":"df_apartments"
     },
     {
@@ -2362,6 +2576,7 @@ const data = [
         "address":"RRCG+QC8, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ339K9gIhdTERF3hQjL3wt4I",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2373,6 +2588,7 @@ const data = [
         "address":"Đường số 4, Đường Lò Lu, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJu-A4zYIndTERiM9s5vcz-jM",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2384,6 +2600,7 @@ const data = [
         "address":"23 Đ. Trần Bạch Đằng, An Khánh, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ84Db1wcmdTERFuraDMC49tU",
+        "categories":"Chung cư, Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2395,6 +2612,7 @@ const data = [
         "address":"36\/11 Lương Định Của, An Khánh, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpchXGYkvdTERSvDf7w2pPJU",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2406,6 +2624,7 @@ const data = [
         "address":"20 Nguyễn Thiện Thành, Thành Phố, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJI5oa1VMvdTERymu8tS_yFDg",
+        "categories":"Chung cư, Khu liên hợp căn hộ, Khu tổ hợp công quản",
         "category_group":"df_apartments"
     },
     {
@@ -2417,6 +2636,7 @@ const data = [
         "address":"36\/5C Lương Định Của, An Khánh, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbYEXQAAvdTEReIy9Ujn58hA",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2428,6 +2648,7 @@ const data = [
         "address":"2 Đường 13, An Lợi Đông, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJI4DE048ldTERmmMY7iZiJdY",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2439,6 +2660,7 @@ const data = [
         "address":"2 Đường 13, An Lợi Đông, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJucMFIzYldTERUaPQvcbPxmk",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2450,6 +2672,7 @@ const data = [
         "address":"Đ. D9, An Lợi Đông, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWQn2UEAldTERajuNeoxuRK0",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2461,6 +2684,7 @@ const data = [
         "address":"City, Đ. Man Thiện, Hiệp Phú, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ26lvllcndTERiX7MVVXvjT0",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2472,6 +2696,7 @@ const data = [
         "address":"9 Nguyễn Thị Định, An Phú, Quận 2, Thành phố Hồ Chí Minh 71106, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJIdrRMoQndTERNDAQ6JJW7O0",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2483,6 +2708,7 @@ const data = [
         "address":"312 Lạc Long Quân, Phường 5, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4c6OA5cudTER2VRm2Eseb4U",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2494,6 +2720,7 @@ const data = [
         "address":"262\/20 Lạc Long Quân, Phường 10, Quận 11, Thành phố Hồ Chí Minh 070000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0_SwOJcudTER5WLxnjsXXIY",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2505,6 +2732,7 @@ const data = [
         "address":"189 Nguyễn Thị Nhỏ, Phường 16, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ7a3_-owudTER_oneijX3sJs",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2516,6 +2744,7 @@ const data = [
         "address":"116 Đ. Lý Chiêu Hoàng, Phường 10, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJ9GKLBMvdTERq8PQNRCwqGk",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2527,6 +2756,7 @@ const data = [
         "address":"243 Tân Hòa Đông, Phường 14, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJr26uw2wtdTER6YNaUNCuOLo",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2538,6 +2768,7 @@ const data = [
         "address":"C9 Cư Xá Phú Lâm B, Khu phố 1, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1Q5PVwAvdTEREfyWgFsHnX8",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2549,6 +2780,7 @@ const data = [
         "address":"73100 Đ. Nguyễn Văn Luông, Phường 11, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLSGS8o8vdTERyBnmTlDQ37Y",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2560,6 +2792,7 @@ const data = [
         "address":"946 BL, Đ. Lò Gốm, Phường 8, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZakXxnwudTERhWgq7_uD6pw",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2571,6 +2804,7 @@ const data = [
         "address":"20 Đ. Nguyễn Văn Luông, Phường 12, Quận 6, Thành phố Hồ Chí Minh 73100, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRxduzmEvdTERD1FsPqYUHb4",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2582,6 +2816,7 @@ const data = [
         "address":"1472 Đ. Võ Văn Kiệt, Phường 3, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrSFyq2YudTERX-rJChVa4gE",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2593,6 +2828,7 @@ const data = [
         "address":"PJMF+M6F, Đường Số 1, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJSxOvVAAtdTERK4CV9zSfpCs",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2604,6 +2840,7 @@ const data = [
         "address":"318\/5 Trịnh Đình Trọng, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJo_4maaQudTER2PQtQ6lyyjc",
+        "categories":"Chung cư, Khu tổ hợp công quản",
         "category_group":"df_apartments"
     },
     {
@@ -2615,6 +2852,7 @@ const data = [
         "address":"377 Tân Hương, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRctuPgYsdTERB_irDOjP4UY",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2626,6 +2864,7 @@ const data = [
         "address":"4 Trịnh Đình Thảo, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1Vs0YtAvdTERCb7vS5j3L5s",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2637,6 +2876,7 @@ const data = [
         "address":"223 Trịnh Đình Trọng, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdRC-dyovdTERhlh5JsjdzMA",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2648,6 +2888,7 @@ const data = [
         "address":"36 Trịnh Đình Thảo, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJb6HO2qMudTERcMIxrxwfcXs",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2659,6 +2900,7 @@ const data = [
         "address":"262\/3 Đ. Lũy Bán Bích, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ27TPJV8vdTERdH2-u3efLmQ",
+        "categories":"Chung cư, Phòng cho thuê",
         "category_group":"df_apartments"
     },
     {
@@ -2670,6 +2912,7 @@ const data = [
         "address":"9 Lê Sát, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8wD7AO4tdTER0Bh32jDUepA",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2681,6 +2924,7 @@ const data = [
         "address":"68N1, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 72000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJC4to0dgrdTERHCTaYsVjbcM",
+        "categories":"Khu liên hợp căn hộ, Chung cư, Tòa nhà với các căn hộ đã được hoàn thiện, Đại lý bất động sản",
         "category_group":"df_apartments"
     },
     {
@@ -2692,6 +2936,7 @@ const data = [
         "address":"Đường N1, Celadon City, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJcxWIlV4rdTER0H-Tuw6qtVg",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2703,6 +2948,7 @@ const data = [
         "address":"Đường N3, Celadon City, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQxJAu2krdTERAyps5bm4pdY",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2714,6 +2960,7 @@ const data = [
         "address":"75 Tô Hiệu, Hiệp Tân, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKfZhNCAsdTER-atNdE7r9qQ",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2725,6 +2972,7 @@ const data = [
         "address":"QJPJ+GW2, Đ. Vườn Lài, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQYDp3uAvdTER54MewsGcYEc",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2736,6 +2984,7 @@ const data = [
         "address":"Tân Hương, Tân Quý, Thành phố Hồ Chí Minh, 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPzTfrgEsdTER1Ymo1ph7BLk",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2747,6 +2996,7 @@ const data = [
         "address":"787 Đ. Lũy Bán Bích, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJC8B_wq4udTERTLemfnDgzn4",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2758,6 +3008,7 @@ const data = [
         "address":"111B Lý Thánh Tông, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9f7K5tAtdTERcTLipAgr6BA",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2769,6 +3020,7 @@ const data = [
         "address":"278 Hòa Bình, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKfb3ox8sdTERKXPrNrqGMBU",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2780,6 +3032,7 @@ const data = [
         "address":"36 Đ. Tân Thắng, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 76000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ_2wyaPErdTER-9SQMhTPVRk",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2791,6 +3044,7 @@ const data = [
         "address":"Đường N1, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfcpAoYUrdTERi8H-hkAEm4w",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2802,6 +3056,7 @@ const data = [
         "address":"RJ37+79, Celadon City, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHwH5dtUrdTER5uoCjrvTuZ4",
+        "categories":"Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2813,6 +3068,7 @@ const data = [
         "address":"Chung cư Emerald, 2 Đ. N4, Celadon City, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW5A3z04rdTERaD-bMvkLa1g",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2824,6 +3080,7 @@ const data = [
         "address":"119 Bình Long, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJm4bA3vgtdTERXmnjM1vwkmI",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2835,6 +3092,7 @@ const data = [
         "address":"Chung cư Emerald, Celadon City, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJI4XWIIkrdTERNYVsx15ot1I",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2846,6 +3104,7 @@ const data = [
         "address":"Đ. N4, Celadon City, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJf9gPwlcrdTERIyZkS_b3rlQ",
+        "categories":"Chung cư, Văn phòng công ty",
         "category_group":"df_apartments"
     },
     {
@@ -2857,6 +3116,7 @@ const data = [
         "address":"RJ26+R9F, Celadon City, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJS0AqWgArdTERIfWBBt0Ifgs",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2868,6 +3128,7 @@ const data = [
         "address":"RJ27+8FX, Đ. N4, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN3FCyEcrdTER-bAo3pYo_eY",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2879,6 +3140,7 @@ const data = [
         "address":"27\/2B 27\/2B, Sơn Kỳ, Tân Phú, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdzKIR_ErdTERWSMETRDVSQk",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     },
     {
@@ -2890,6 +3152,7 @@ const data = [
         "address":"869 Đ. Âu Cơ, Phường 14, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJmybDSlIpdTERjM8TV3mKpac",
+        "categories":"Chung cư, Khu liên hợp căn hộ",
         "category_group":"df_apartments"
     },
     {
@@ -2901,6 +3164,7 @@ const data = [
         "address":"54 Đường DC9, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJyXux-uwrdTERkKzvqKNGQCw",
+        "categories":"Chung cư",
         "category_group":"df_apartments"
     }
 ]

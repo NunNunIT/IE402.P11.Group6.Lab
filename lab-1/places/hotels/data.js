@@ -8,6 +8,7 @@ const data = [
         "address":"15\/38 Đường Sinco, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%C6%B0ng+Ph%C3%A1t+2+Building\/@10.7339691,106.607851,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dfd38137bb9:0x8cf50f150fe011cb!8m2!3d10.7339691!4d106.607851!16s%2Fg%2F11g_x0z9xv?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -19,6 +20,7 @@ const data = [
         "address":"13-15 Đ. Số 38, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Thu%E1%BB%B3+Trang+Hotel\/@10.7530524,106.6049791,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752d86dd4e26cf:0xe4a1dd2b0df9af4!5m2!4m1!1i2!8m2!3d10.7530524!4d106.6049791!16s%2Fg%2F11frfdsmdg?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -30,6 +32,7 @@ const data = [
         "address":"54 Đường số 24A, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Qu%E1%BB%B3nh+Anh+Hotel\/@10.7546879,106.6117152,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752c33f453f23d:0x516d9b708e88d1cf!5m2!4m1!1i2!8m2!3d10.7546879!4d106.6117152!16s%2Fg%2F11b682n17r?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -41,6 +44,7 @@ const data = [
         "address":"336 ĐH80, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+S%E1%BA%A1n+Th%E1%BA%A3o+Nguy%C3%AAn+2\/@10.8194288,106.5864249,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752b13ed1303b3:0x25918316456250b7!5m2!4m1!1i2!8m2!3d10.8194288!4d106.5864249!16s%2Fg%2F11ghtn10tv?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -52,6 +56,7 @@ const data = [
         "address":"14 Đường Số 2, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+tr%E1%BB%8D+%C4%90o%C3%A0n+T%C3%BA\/@10.7996993,106.5951237,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b88b7e83871:0x6d903f5ec4dc121f!8m2!3d10.7996993!4d106.5951237!16s%2Fg%2F11f354hd8q?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -63,6 +68,7 @@ const data = [
         "address":"305 Đ. Võ Trần Chí, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Happy+Hotel\/@10.7407774,106.5802524,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752de56358bcfd:0x6efce3fdfc60408f!5m2!4m1!1i2!8m2!3d10.7407774!4d106.5802524!16s%2Fg%2F11v3mdvfzs?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -74,6 +80,7 @@ const data = [
         "address":"4 Đường số 53, Tân Tạo, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%C3%BAc+h%C6%B0ng+hotel\/@10.7515821,106.5993939,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752c4cadbfffff:0x6e37cd13766f4c3c!5m2!4m1!1i2!8m2!3d10.7515821!4d106.5993939!16s%2Fg%2F11dxf12hh8?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -85,6 +92,7 @@ const data = [
         "address":"720A Đ. Điện Biên Phủ, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vinpearl+Landmark+81,+Autograph+Collection\/@10.7952255,106.7218884,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529df2b91991f:0xf6f9c919a956aed0!5m2!4m1!1i2!8m2!3d10.7952255!4d106.7218884!16s%2Fg%2F11fgjgh2s9?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -96,6 +104,7 @@ const data = [
         "address":"Kunkin Luxury Apartment, 46\/24 Đ. Nguyễn Cửu Vân, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/all_places_no_search_ocr\/@10.7967657,106.7063073,17z\/data=!3m1!4b1!4m2!3m1!1s0x3175294da826d9a3:0x7cc7ee095ae51678?hl=vi&entry=ttu",
+        "categories":"Khách sạn lưu trú dài hạn, Chỗ ở được phục vụ",
         "category_group":"df_hotels"
     },
     {
@@ -107,6 +116,7 @@ const data = [
         "address":"64\/5C Đ. Trường Sa, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh 717000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Bear's+House\/@10.7935876,106.7028332,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175294a437e2bb7:0xab0f56f5f025863c!5m2!4m1!1i2!8m2!3d10.7935876!4d106.7028332!16s%2Fg%2F11rglkykw7?hl=vi&entry=ttu",
+        "categories":"Khách sạn, Đại lý cho thuê nhà chung cư, Nhà trọ, Công ty cho thuê căn hộ ngắn hạn",
         "category_group":"df_hotels"
     },
     {
@@ -118,6 +128,7 @@ const data = [
         "address":"174\/21 Đ. Điện Biên Phủ, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Maison+De+Camille+Boutique+Hotel\/@10.7972211,106.705415,17z\/data=!3m1!4b1!4m9!3m8!1s0x317528b7299932ef:0xaf42c4da78df3c54!5m2!4m1!1i2!8m2!3d10.7972211!4d106.705415!16s%2Fg%2F11fxvbkm4r?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -129,6 +140,7 @@ const data = [
         "address":"334 Chu Văn An, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+s%E1%BA%A1n+%C4%90a+L%E1%BB%99c\/@10.8115283,106.7009216,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752895440febe5:0x61946196352e908e!5m2!4m1!1i2!8m2!3d10.8115283!4d106.7009216!16s%2Fg%2F1hc21htw9?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -140,6 +152,7 @@ const data = [
         "address":"332\/42 Đ. Phan Văn Trị, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+s%E1%BA%A1n+Ng%E1%BB%8Dc+Linh\/@10.8187765,106.6968026,17z\/data=!3m1!4b1!4m9!3m8!1s0x317528ec542cdbb9:0x7835950469d14629!5m2!4m1!1i2!8m2!3d10.8187765!4d106.6968026!16s%2Fg%2F11b67n98dp?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -151,6 +164,7 @@ const data = [
         "address":"480\/65\/25, Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+tr%E1%BB%8D+c%C3%B4+B%E1%BA%A3y+Lan\/@10.8165869,106.7428016,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175279bacc5e49f:0x88ba98939805c9cd!8m2!3d10.8165869!4d106.7428016!16s%2Fg%2F11l2clv74v?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -162,6 +176,7 @@ const data = [
         "address":"480\/95d Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Tr%E1%BB%8D+Su+Su\/@10.8168319,106.7377825,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752700733f00c5:0xe27227131cf8bf7a!8m2!3d10.8168319!4d106.7377825!16s%2Fg%2F11lck3yf0y?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -173,6 +188,7 @@ const data = [
         "address":"480\/31\/12, Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Tr%E1%BB%8D+Ven+S%C3%B4ng\/@10.8233913,106.7434136,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527af5fd806df:0x8113a2600dc220d0!8m2!3d10.8233913!4d106.7434136!16s%2Fg%2F11nx3l7gv7?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -184,6 +200,7 @@ const data = [
         "address":"1 Nguyễn Xí, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%C3%B2ng+cho+thu%C3%AA+407%2F3+Nguy%E1%BB%85n+X%C3%AD\/@10.8235994,106.7009323,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752924e7c2591d:0x3f66d2273c317042!8m2!3d10.8235994!4d106.7009323!16s%2Fg%2F11mvrzgsk0?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -195,6 +212,7 @@ const data = [
         "address":"556 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Khu+Du+L%E1%BB%8Bch+B%C3%ACnh+Qu%E1%BB%9Bi+2\/@10.8328555,106.7420972,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752632e29ddf57:0x6a696c101f5b6469!5m2!4m1!1i2!8m2!3d10.8328555!4d106.7420972!16s%2Fg%2F11flt8_1nk?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -206,6 +224,7 @@ const data = [
         "address":"78 Bình Lợi, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 72311, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/kh%C3%A1ch+s%E1%BA%A1n+Thu+H%C3%A0\/@10.8294279,106.706303,17z\/data=!3m1!4b1!4m9!3m8!1s0x317528897c73143f:0xc561bb83388ca8b9!5m2!4m1!1i2!8m2!3d10.8294279!4d106.706303!16s%2Fg%2F11lgpppjdh?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -217,6 +236,7 @@ const data = [
         "address":"64\/27 Bình Quới, P 28, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Homestay+b%C3%ACnh+q%C6%B0%E1%BB%9Bi\/@10.8140151,106.7444828,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294fb5a7f741:0xc9f8c996bf8beb2c!8m2!3d10.8140151!4d106.7444828!16s%2Fg%2F11jnv2g8ff?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -228,6 +248,7 @@ const data = [
         "address":"330B Ung Văn Khiêm, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Oakwood+Hotel+%26+Apartments+Saigon\/@10.8013823,106.7224734,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752970987778c1:0xeacd0fb35d8a0e08!5m2!4m1!1i2!8m2!3d10.8013823!4d106.7224734!16s%2Fg%2F11rz74t162?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -239,6 +260,7 @@ const data = [
         "address":"14 Đ. Số 3, Khu phố 5, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sydney+Hotel+Th%E1%BB%A7+%C4%90%E1%BB%A9c\/@10.8291907,106.7300943,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175262ca54f5c45:0xa4904731f6e81991!5m2!4m1!1i2!8m2!3d10.8291907!4d106.7300943!16s%2Fg%2F11b8zf0pkc?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -250,6 +272,7 @@ const data = [
         "address":"219\/8 Ng. Tất Tố, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KunKin+Garden+ApartHotel+%26+Spa\/@10.790679,106.7157144,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529723ef96ccd:0x8eb124bf8e476b7b!5m2!4m1!1i2!8m2!3d10.790679!4d106.7157144!16s%2Fg%2F11my2ghc7g?hl=vi&entry=ttu",
+        "categories":"Khách sạn, Quán cà phê, Nhà hàng, Căn hộ được phục vụ",
         "category_group":"df_hotels"
     },
     {
@@ -261,6 +284,7 @@ const data = [
         "address":"292\/17 Đ. Điện Biên Phủ, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Terracotta+Villa+Saigon\/@10.799008,106.7076198,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529d72c99c937:0xcf3626dd3f632c8d!5m2!4m1!1i2!8m2!3d10.799008!4d106.7076198!16s%2Fg%2F11vdkk6csn?hl=vi&entry=ttu",
+        "categories":"Khách sạn, Biệt thự",
         "category_group":"df_hotels"
     },
     {
@@ -272,6 +296,7 @@ const data = [
         "address":"488A2 An Phú Tây - Hưng Long, Str, Ward, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C6%B0+Hu%E1%BB%B3nh+Hotel\/@10.7976342,106.7131961,17z\/data=!3m1!4b1!4m9!3m8!1s0x317528afbf569dd5:0x13cf81d855dc9e2d!5m2!4m1!1i2!8m2!3d10.7976342!4d106.7131961!16s%2Fg%2F11j1b1b43w?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -283,6 +308,7 @@ const data = [
         "address":"5\/24 Nơ Trang Long, Street, Ward 7, Bình Thạnh, Thành phố Hồ Chí Minh 72316, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Lotus+Laverne+Hotel\/@10.805928,106.694295,17z\/data=!3m1!4b1!4m9!3m8!1s0x317528c6aac55ae7:0x52155334d506c272!5m2!4m1!1i2!8m2!3d10.805928!4d106.694295!16s%2Fg%2F11gghdls79?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -294,6 +320,7 @@ const data = [
         "address":"05 Bình Quới, Phường 27, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/LEE+HOTEL\/@10.8151527,106.7182313,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752939f46e00c1:0xa1c4561b000a0d4e!5m2!4m1!1i2!8m2!3d10.8151527!4d106.7182313!16s%2Fg%2F11hzn4r1jl?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -305,6 +332,7 @@ const data = [
         "address":"37\/29 Vạn Kiếp, Phường 3, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+s%E1%BA%A1n+S%E1%BA%A0CH+V%E1%BA%A0N+KI%E1%BA%BEP\/@10.80103,106.693585,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529d60d572af7:0xb605e40ab6d0c1b3!5m2!4m1!1i2!8m2!3d10.80103!4d106.693585!16s%2Fg%2F11fmlffrkx?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -316,6 +344,7 @@ const data = [
         "address":"137\/8A, Bình Quới, Phường 27, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/GRAND+LEE+HOTEL\/@10.8192182,106.7235886,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529343ac01d75:0xda1e8a2bd333bb93!5m2!4m1!1i2!8m2!3d10.8192182!4d106.7235886!16s%2Fg%2F11kkb43089?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -327,6 +356,7 @@ const data = [
         "address":"Lô 5, Cư xá, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cong+Doan+Thanh+Da+Hotel\/@10.818632,106.7185992,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175289126aaaaab:0xbf99862f617dcd30!5m2!4m1!1i2!8m2!3d10.818632!4d106.7185992!16s%2Fg%2F11b6dpg6m5?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -338,6 +368,7 @@ const data = [
         "address":"Số 29 Đường Phan Thị Mọn, Ấp Ràng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Les+Hameaux+de+l'Orient\/@11.0619898,106.4402329,17z\/data=!3m1!4b1!4m9!3m8!1s0x310b2dd809223595:0x5c27c7e8c4330528!5m2!4m1!1i2!8m2!3d11.0619898!4d106.4402329!16s%2Fg%2F11b6dcr8fc?hl=vi&entry=ttu",
+        "categories":"Khách sạn, Trại hưu trí",
         "category_group":"df_hotels"
     },
     {
@@ -349,6 +380,7 @@ const data = [
         "address":"323 Hồ Văn Tắng, Tân Phú Trung, Củ Chi, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Paradise+Hotel\/@10.9701338,106.5507121,17z\/data=!3m1!4b1!4m9!3m8!1s0x3174d5e9759cc8ff:0x5ef9ff90f911be0e!5m2!4m1!1i2!8m2!3d10.9701338!4d106.5507121!16s%2Fg%2F11j2lp29q4?hl=vi&entry=ttu",
+        "categories":"Khách sạn, Khách sạn lưu trú dài hạn, Khách sạn nghỉ dưỡng",
         "category_group":"df_hotels"
     },
     {
@@ -360,6 +392,7 @@ const data = [
         "address":"342 Bàu Lách, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Homestay+v%C6%B0%E1%BB%9Dn+%E1%BB%9Bt+c%E1%BB%A7+chi\/@11.0365051,106.5003749,17z\/data=!3m1!4b1!4m9!3m8!1s0x310b2dafec826abd:0x8292e3f03cd7083d!5m2!4m1!1i2!8m2!3d11.0365051!4d106.5003749!16s%2Fg%2F11v3rg3b7w?hl=vi&entry=ttu",
+        "categories":"Khách sạn nghỉ dưỡng",
         "category_group":"df_hotels"
     },
     {
@@ -371,6 +404,7 @@ const data = [
         "address":"17\/4 Đường 458, Tổ 4 - Ấp Thạnh An, Củ Chi, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Tr%E1%BB%8D+Ph%C3%BA+Qu%C3%BD+-+N%C6%A1i+B%C3%ACnh+Y%C3%AAn+%C4%90%E1%BB%83+Tr%E1%BB%9F+V%E1%BB%81\/@10.9900493,106.5764973,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d30931c10d41:0x547d6a15eb8844d0!8m2!3d10.9900493!4d106.5764973!16s%2Fg%2F11vpv5mf1d?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -382,6 +416,7 @@ const data = [
         "address":"27 Đ. Trung An, Hoà Phú, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Ngh%E1%BB%89+Anh+Khoa\/@10.9858478,106.5940743,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d390ab4f7a83:0x405576df64b253e2!8m2!3d10.9858478!4d106.5940743!16s%2Fg%2F11kmp3_hjx?hl=vi&entry=ttu",
+        "categories":"Nhà nghỉ trượt tuyết",
         "category_group":"df_hotels"
     },
     {
@@ -393,6 +428,7 @@ const data = [
         "address":"5A-B Đường, Võ Văn Bích, Bình Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%C3%A0nh+Tuy+Hotel\/@10.922073,106.60176,17z\/data=!3m1!4b1!4m9!3m8!1s0x3174d50f0e6523e3:0xc474daced9141e9f!5m2!4m1!1i2!8m2!3d10.922073!4d106.60176!16s%2Fg%2F11rvl_dx7w?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -404,6 +440,7 @@ const data = [
         "address":"XJ5R+9JF, Bình Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+s%E1%BA%A1n+Minh+T%C3%BA\/@10.9584378,106.641537,17z\/data=!3m1!4b1!4m9!3m8!1s0x3174d6b02dc112bf:0x234645c9bb5a23d3!5m2!4m1!1i2!8m2!3d10.9584378!4d106.641537!16s%2Fg%2F11hb4w6188?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -415,6 +452,7 @@ const data = [
         "address":"25 đường 176, Bình Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Khu+Ngh%E1%BB%89+D%C6%B0%E1%BB%A1ng+Sinh+Th%C3%A1i+H%C6%B0%C6%A1ng+Sen+-+Ven+S%C3%B4ng+S%C3%A0i+G%C3%B2n+(Huong+Sen+Resort)\/@10.9603327,106.6484405,17z\/data=!3m1!4b1!4m9!3m8!1s0x3174d7fa4a78061d:0x270bc48827d50b31!5m2!4m1!1i2!8m2!3d10.9603327!4d106.6484405!16s%2Fg%2F11fkq79z8q?hl=vi&entry=ttu",
+        "categories":"Khách sạn, Khu trẻ em, Khách sạn nghỉ dưỡng, Nhà hàng, Hồ bơi",
         "category_group":"df_hotels"
     },
     {
@@ -426,6 +464,7 @@ const data = [
         "address":"31 Đường số 7, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Galaxy+Hotel+2+G%C3%B2+V%E1%BA%A5p\/@10.8464763,106.6765339,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529c38b6a39ed:0xee85f1e3fa19109a!5m2!4m1!1i2!8m2!3d10.8464763!4d106.6765339!16s%2Fg%2F11l2yc5ff7?hl=vi&entry=ttu",
+        "categories":"Khách sạn nghỉ dưỡng",
         "category_group":"df_hotels"
     },
     {
@@ -437,6 +476,7 @@ const data = [
         "address":"RMVC+FFM, Hẻm 57 Đường Số 10, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Aura+homestay\/@10.8437136,106.6711821,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e7b92adf41:0x15887590cc2f497e!8m2!3d10.8437136!4d106.6711821!16s%2Fg%2F11v0x7tfrq?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -448,6 +488,7 @@ const data = [
         "address":"164 Đ. Số 28, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Tr%E1%BB%8D+Data+Home\/@10.8453288,106.6835161,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f2a1d5fa4f:0x3f357d2ff9ed2ce6!8m2!3d10.8453288!4d106.6835161!16s%2Fg%2F11lccry4v9?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -459,6 +500,7 @@ const data = [
         "address":"86\/5\/5A Đ. Số 27, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+tr%E1%BB%8D+Ph%C3%BAc+Kh%C6%B0%C6%A1ng\/@10.8425729,106.6815242,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b48c6c5c3f:0xe1193d8811538506!8m2!3d10.8425729!4d106.6815242!16s%2Fg%2F11kpz_vnc3?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -470,6 +512,7 @@ const data = [
         "address":"26 Nguyễn Văn Lượng, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hotel+Ho%C3%A0ng+Qu%C3%A2n\/@10.8389917,106.6804384,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529c9955fdc4d:0xd25f9161e02e6ce!5m2!4m1!1i2!8m2!3d10.8389917!4d106.6804384!16s%2Fg%2F11rsvjkjfn?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -481,6 +524,7 @@ const data = [
         "address":"243 Đ. Số 8, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/TIA+N%E1%BA%AENG+H%E1%BB%92NG+-+PINK+SUNBEAM\/@10.8448254,106.6598482,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529a4b8bf7765:0x9ff477b16af13160!5m2!4m1!1i2!8m2!3d10.8448254!4d106.6598482!16s%2Fg%2F11btv6blkn?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -492,6 +536,7 @@ const data = [
         "address":"192\/25 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+tr%E1%BB%8D+b%C3%A0+Th%C6%B0\/@10.8514481,106.6745011,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752953965ce773:0x3b63b12f195fbc39!8m2!3d10.8514481!4d106.6745011!16s%2Fg%2F11qsjlcnks?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -503,6 +548,7 @@ const data = [
         "address":"69A Đ. TL 08, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+S%E1%BA%A1n+Tr%E1%BA%A7n+Long+-+CN+Th%E1%BA%A1nh+L%E1%BB%99c\/@10.8537067,106.6768087,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175296c96e75281:0x8cb86af4d9b6bb88!5m2!4m1!1i2!8m2!3d10.8537067!4d106.6768087!16s%2Fg%2F11jgghr7v8?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -514,6 +560,7 @@ const data = [
         "address":"66 Đ. Trần Bá Giao, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HANZ+Bao+Long+2+Hotel\/@10.831191,106.690742,17z\/data=!3m1!4b1!4m9!3m8!1s0x317528f7adf45a8d:0x70a09eea4ecb24cf!5m2!4m1!1i2!8m2!3d10.831191!4d106.690742!16s%2Fg%2F11ssfn92pj?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -525,6 +572,7 @@ const data = [
         "address":"164 Đường số 20, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+SUN+HOTEL\/@10.8364802,106.6893182,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752859c920c9c9:0xea53e3526ac252c0!5m2!4m1!1i2!8m2!3d10.8364802!4d106.6893182!16s%2Fg%2F11fd41ss_y?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -536,6 +584,7 @@ const data = [
         "address":"245 Đường số 20, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+s%E1%BA%A1n+B%E1%BB%9D+S%C3%B4ng\/@10.8369194,106.6893969,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529a4748780b5:0x3aa220fc55ec06a5!5m2!4m1!1i2!8m2!3d10.8369194!4d106.6893969!16s%2Fg%2F11hfhhwdhv?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -547,6 +596,7 @@ const data = [
         "address":"748\/89\/3 Đ. Thống Nhất, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nam+Ph%C6%B0%C6%A1ng+House+1\/@10.8532357,106.6671145,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a86339b603:0x53999bafc9974ff0!8m2!3d10.8532357!4d106.6671145!16s%2Fg%2F11j9f1vk_7?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -558,6 +608,7 @@ const data = [
         "address":"Hẻm 1\/15 Nguyễn Thái Sơn, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh 71409, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/L%C3%A1+Hotel\/@10.8206953,106.6821589,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752934b8dbd763:0x9bbed48c805eaf8f!5m2!4m1!1i2!8m2!3d10.8206953!4d106.6821589!16s%2Fg%2F11jnv511kz?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -569,6 +620,7 @@ const data = [
         "address":"138B Lê Lợi, Phường 4, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hon+En+Hotel+%26+Spa\/@10.818275,106.6840732,17z\/data=!3m1!4b1!4m9!3m8!1s0x317528e6cc65f639:0xfce3023b8652f7f4!5m2!4m1!1i2!8m2!3d10.818275!4d106.6840732!16s%2Fg%2F11h01dw_r?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -580,6 +632,7 @@ const data = [
         "address":"6 Đ. Dương Quảng Hàm, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+S%E1%BA%A1n+Bi%E1%BB%83n+Sao\/@10.8316603,106.6868552,17z\/data=!3m1!4b1!4m9!3m8!1s0x317528f8391daac1:0xf036f86332eecd8b!5m2!4m1!1i2!8m2!3d10.8316603!4d106.6868552!16s%2Fg%2F11b682nqjj?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -591,6 +644,7 @@ const data = [
         "address":"172 Đ. Số 1, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+S%E1%BA%A1n+Ng%E1%BB%8Dc+H%E1%BB%93i+1\/@10.8475091,106.658336,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529fb8f7905c1:0x79e0cc5a81041d79!5m2!4m1!1i2!8m2!3d10.8475091!4d106.658336!16s%2Fg%2F11gr609339?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -602,6 +656,7 @@ const data = [
         "address":"48 Đ. Lê Đức Thọ, Phường 13, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+tr%E1%BB%8D+Thu+Th%E1%BB%A7y\/@10.8554373,106.6589762,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529891f7f820f:0xa517ee6165c9e26e!8m2!3d10.8554373!4d106.6589762!16s%2Fg%2F11h3bn0c0s?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -613,6 +668,7 @@ const data = [
         "address":"1\/17 Đường Nguyễn Văn Dung, Phuong 06, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/PYNT+Hotel\/@10.8484291,106.6793056,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175298467b55e9f:0xd4b59a77c74f5879!5m2!4m1!1i2!8m2!3d10.8484291!4d106.6793056!16s%2Fg%2F11kqcx0x9r?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -624,6 +680,7 @@ const data = [
         "address":"113 Nguyễn Văn Khối, P.11, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cloud+9+Hotel+Nguy%E1%BB%85n+V%C4%83n+Kh%E1%BB%91i+%E2%98%91%EF%B8%8F\/@10.8421381,106.6589732,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529600554d549:0xd9ca999af4ca9b22!5m2!4m1!1i2!8m2!3d10.8421381!4d106.6589732!16s%2Fg%2F11vjpssq02?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -635,6 +692,7 @@ const data = [
         "address":"RMR9+3RG, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Z+Hotel\/@10.8401953,106.6695661,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529336a935b37:0xd9a3edadbf118478!5m2!4m1!1i2!8m2!3d10.8401953!4d106.6695661!16s%2Fg%2F11h1y8635s?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -646,6 +704,7 @@ const data = [
         "address":"566\/72\/67 Nguyễn Thái Sơn, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+tr%E1%BB%8D+Comie+House\/@10.8275615,106.6972356,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297618bc7fdb:0x6b8e0961acac0e17!8m2!3d10.8275615!4d106.6972356!16s%2Fg%2F11jclf385n?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -657,6 +716,7 @@ const data = [
         "address":"139 Đ. Số 8, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SUMI+HOTEL\/@10.8438158,106.6618339,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529b94b7c2d71:0xa417e9929d9312a2!5m2!4m1!1i2!8m2!3d10.8438158!4d106.6618339!16s%2Fg%2F11fn0lmbkr?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -668,6 +728,7 @@ const data = [
         "address":"566\/187 \/49, Nguyễn Thái Sơn, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh 71411, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Tr%E1%BB%8D+Happy+House\/@10.8294261,106.6963327,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529fa71e03309:0x14e2a6979f174e40!8m2!3d10.8294261!4d106.6963327!16s%2Fg%2F11vk328h61?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -679,6 +740,7 @@ const data = [
         "address":"80\/1\/20 Đ. Dương Quảng Hàm, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+S%E1%BA%A1n+Tr%E1%BA%A7n+Long\/@10.8256562,106.6948227,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752994fdbf6431:0x8a75548734f457a3!5m2!4m1!1i2!8m2!3d10.8256562!4d106.6948227!16s%2Fg%2F11j2c82jj4?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -690,6 +752,7 @@ const data = [
         "address":"7 Đường Số 5, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+s%E1%BA%A1n+Nh%E1%BA%ADt+Qu%E1%BB%B3nh+Anh\/@10.8245089,106.6954895,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529398a552731:0xdb2d9deb9abfae41!5m2!4m1!1i2!8m2!3d10.8245089!4d106.6954895!16s%2Fg%2F11s6fyb0r9?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -701,6 +764,7 @@ const data = [
         "address":"98\/5d Tân Hiệp 6, Tân Thới 3, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPXyMh43VdDER689T9tYBPLo",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -712,6 +776,7 @@ const data = [
         "address":"86-85 Trần Văn Mười, Xuân Thới Đông, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW0VWP2cqdTERVf1wsZLYj5k",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -723,6 +788,7 @@ const data = [
         "address":"11 Lê Văn Khương, Đông Thạnh, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdavppmzXdDEReR9SNV4BQ8s",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -734,6 +800,7 @@ const data = [
         "address":"95B Nguyễn Văn Bứa, ấp 5, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8QmsLWsrdTER5-QWxzIZbH0",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -745,6 +812,7 @@ const data = [
         "address":"126\/9A đường Tân Hiệp 18, Tân Thới 2, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJX-KezYTVdDERJBxoUqgn8Fw",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -756,6 +824,7 @@ const data = [
         "address":"1506 Đ. Đặng Thúc Vịnh, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJV401pgXXdDER1DJeRs6v684",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -767,6 +836,7 @@ const data = [
         "address":"2375 Huỳnh Tấn Phát, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJnborrLk6dTER6zUcnxm4c38",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -778,6 +848,7 @@ const data = [
         "address":"1716\/13\/39, 15\/9 Huỳnh Tấn Phát, khu phố 5, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW5Ny1Mk7dTERBvuwBXA0ML8",
+        "categories":"Khách sạn nghỉ dưỡng",
         "category_group":"df_hotels"
     },
     {
@@ -789,6 +860,7 @@ const data = [
         "address":"45\/3 KP6, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJl-LChLE6dTERu4TZkL0zH88",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -800,6 +872,7 @@ const data = [
         "address":"46\/4 Nhiêu Tứ, Phường 7, Phú Nhuận, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kha%CC%81ch+sa%CC%A3n+L%C3%B4%CC%A3c+Phu%CC%81\/@10.8004845,106.6885867,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175292651ff9bc1:0x34b5fe2d472a1d07!5m2!4m1!1i2!8m2!3d10.8004845!4d106.6885867!16s%2Fg%2F11fkqqd1_c?hl=vi&entry=ttu",
+        "categories":"Khách sạn, Lưu trú nhà dân",
         "category_group":"df_hotels"
     },
     {
@@ -811,6 +884,7 @@ const data = [
         "address":"206 Đ. Phan Đăng Lưu, Phường 3, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+s%E1%BA%A1n+Nam+B%E1%BA%AFc\/@10.8001759,106.6811418,17z\/data=!3m1!4b1!4m9!3m8!1s0x317528d7446ad921:0x2fdf0af780a81459!5m2!4m1!1i2!8m2!3d10.8001759!4d106.6811418!16s%2Fg%2F11c2l9fknq?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -822,6 +896,7 @@ const data = [
         "address":"158 Nguyễn Đình Chính, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Home+Hotel\/@10.796012,106.675831,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175296be108ef67:0x46d52c90cf3bdb99!5m2!4m1!1i2!8m2!3d10.796012!4d106.675831!16s%2Fg%2F11h1m433lq?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -833,6 +908,7 @@ const data = [
         "address":"145\/8 Đ. Nguyễn Văn Trỗi, Phường 11, Phú Nhuận, Thành phố Hồ Chí Minh 736112, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Massage+Minh+T%C3%A2m+Ph%C3%BA+Nhu%E1%BA%ADn\/@10.7947067,106.676515,17z\/data=!3m1!4b1!4m9!3m8!1s0x317528d5f30a6909:0x6fab2ddc2f4c206!5m2!4m1!1i2!8m2!3d10.7947067!4d106.676515!16s%2Fg%2F11c1rg79hr?hl=vi&entry=ttu",
+        "categories":"Khách sạn lưu trú dài hạn, Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -844,6 +920,7 @@ const data = [
         "address":"10k Tran Huu Trang, W.11, Phu Nhuan Dist, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Mai+Ngoi+Hostel\/@10.793734,106.675741,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529cee017b3fd:0xd216b55bd017d208!5m2!4m1!1i2!8m2!3d10.793734!4d106.675741!16s%2Fg%2F11txfppc3l?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -855,6 +932,7 @@ const data = [
         "address":"57 Trương Quốc Dung, Phường 10, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+s%E1%BA%A1n+Ho%C3%A0ng+H%C3%A0+Hotel+-+Nh%C3%A0+h%C3%A0ng+Sushi+House\/@10.7965803,106.672699,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175292bea7b8f91:0xc08e86cfa161b6e0!5m2!4m1!1i2!8m2!3d10.7965803!4d106.672699!16s%2Fg%2F1tdbbxpd?hl=vi&entry=ttu",
+        "categories":"Khách sạn, Nhà hàng Nhật Bản, Nhà hàng",
         "category_group":"df_hotels"
     },
     {
@@ -866,6 +944,7 @@ const data = [
         "address":"261C Đ. Nguyễn Văn Trỗi, Phường 10, Phú Nhuận, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+s%E1%BA%A1n+M%C6%B0%E1%BB%9Dng+Thanh+Luxury+S%C3%A0i+G%C3%B2n\/@10.7972325,106.6720168,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175294e1f81bde7:0x2a8eeb556a2cd1c7!5m2!4m1!1i2!8m2!3d10.7972325!4d106.6720168!16s%2Fg%2F11fwg4vrz7?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -877,6 +956,7 @@ const data = [
         "address":"197\/8 Đ. Hoàng Văn Thụ, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M+Village+Ho%C3%A0ng+V%C4%83n+Th%E1%BB%A5\/@10.798951,106.673331,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175291403a05661:0x457ffa4a126ab88!5m2!4m1!1i2!8m2!3d10.798951!4d106.673331!16s%2Fg%2F11y1mv5r94?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -888,6 +968,7 @@ const data = [
         "address":"202 Đ. Hoàng Văn Thụ, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+s%E1%BA%A1n+T%C3%A2n+S%C6%A1n+Nh%E1%BA%A5t+S%C3%A0i+G%C3%B2n+(5+sao)\/@10.8004961,106.6708908,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752928b7208c15:0xc7aa798b94e48f8d!5m2!4m1!1i2!8m2!3d10.8004961!4d106.6708908!16s%2Fg%2F1v8hyxyz?hl=vi&entry=ttu",
+        "categories":"Khách sạn, Nhà hàng châu Á, Nhà hàng cao cấp",
         "category_group":"df_hotels"
     },
     {
@@ -899,6 +980,7 @@ const data = [
         "address":"3 Hồ Văn Huê, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+S%E1%BA%A1n+Kim+Long\/@10.8026623,106.676243,17z\/data=!3m1!4b1!4m9!3m8!1s0x317528d80828539b:0x231eac07cd9267dc!5m2!4m1!1i2!8m2!3d10.8026623!4d106.676243!16s%2Fg%2F1tjyr2n8?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -910,6 +992,7 @@ const data = [
         "address":"280 Đ. Tô Hiến Thành, Phường 15, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Athena+Hotel\/@10.7776878,106.664955,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752edad6f20151:0xb7f722dccb49616b!5m2!4m1!1i2!8m2!3d10.7776878!4d106.664955!16s%2Fg%2F11cjkvwhl_?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -921,6 +1004,7 @@ const data = [
         "address":"252\/41 Đ. Cao Thắng, Phường 12, Quận 10, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HAO+Boutique+Hotel\/@10.7756497,106.6757489,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752f1838fd7e93:0x9ea1a212772b28e6!5m2!4m1!1i2!8m2!3d10.7756497!4d106.6757489!16s%2Fg%2F11tmw_93d4?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -932,6 +1016,7 @@ const data = [
         "address":"224\/27\/49\/19, 224 Vườn Lài, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh 71516, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%C3%B2ng+tr%E1%BB%8D+V%C6%B0%E1%BB%9Dn+L%C3%A0i,+Q12\/@10.8399268,106.6935626,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291c11e421c9:0x29da01d0af3e144e!8m2!3d10.8399268!4d106.6935626!16s%2Fg%2F11ftxstsfg?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -943,6 +1028,7 @@ const data = [
         "address":"367\/8 Vườn Lài, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Luxury+V%C6%B0%E1%BB%9Dn+L%C3%A0i+Hotel\/@10.8378678,106.6981972,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529d9d2120c0b:0x72c6dfcf04877e19!5m2!4m1!1i2!8m2!3d10.8378678!4d106.6981972!16s%2Fg%2F11j7n4h4h5?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -954,6 +1040,7 @@ const data = [
         "address":"29 Hẻm 338 Nguyễn Văn Quá, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hotel+Nh%C3%A2n+%C4%90%E1%BB%A9c\/@10.8353269,106.6297234,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529243d8665ef:0x1ec6f408b3fbd476!5m2!4m1!1i2!8m2!3d10.8353269!4d106.6297234!16s%2Fg%2F11jpc8bz2c?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -965,6 +1052,7 @@ const data = [
         "address":"149 Đ.Trung Mỹ Tây 2A, Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh 71000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+S%E1%BA%A1n+Ho%C3%A0ng+Thanh+Th%E1%BB%A7y+4\/@10.8517314,106.6164255,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752bc417d3f127:0x9709b05c4ba0210a!5m2!4m1!1i2!8m2!3d10.8517314!4d106.6164255!16s%2Fg%2F11r8lvj80x?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -976,6 +1064,7 @@ const data = [
         "address":"31\/3, Song Hành, Phường Trung Mỹ Tây, Quận 12, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh, Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hoang+Anh+Star+Hotel\/@10.85347,106.6119,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752a3bfb98c381:0x48e3b50bb24e9614!5m2!4m1!1i2!8m2!3d10.85347!4d106.6119!16s%2Fg%2F11d_ww6gvt?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -987,6 +1076,7 @@ const data = [
         "address":"193\/2 phường Trung mỹ Tây, Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/NH%C3%80+TR%E1%BB%8C+VI%C3%8AN+D%C6%AF%C6%A0NG\/@10.8520122,106.6219289,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b068537c1b1:0x7174c8c3b1196f36!8m2!3d10.8520122!4d106.6219289!16s%2Fg%2F11qyffgkf7?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -998,6 +1088,7 @@ const data = [
         "address":"21\/4 Trung Street Vinh Phu Ward Thuan An City, Bình Dương, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/An+Lam+Retreats+Saigon+River\/@10.8709526,106.6991153,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752821f688146b:0xbbecdb80f62e4a1e!5m2!4m1!1i2!8m2!3d10.8709526!4d106.6991153!16s%2Fg%2F1td3j2l8?hl=vi&entry=ttu",
+        "categories":"Khách sạn, Nơi tổ chức sự kiện, Nhà hàng cao cấp, Khách sạn nghỉ dưỡng",
         "category_group":"df_hotels"
     },
     {
@@ -1009,6 +1100,7 @@ const data = [
         "address":"129\/45 Đ. Thạnh Lộc 15, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+tr%E1%BB%8D+An+B%C3%ACnh+Qu%E1%BA%ADn+12+CN4\/@10.868768,106.6895672,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292281808291:0x70a70982e9f83462!8m2!3d10.868768!4d106.6895672!16s%2Fg%2F11txhnflvd?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -1020,6 +1112,7 @@ const data = [
         "address":"280\/42 Đ. TX 25, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Tr%E1%BB%8D+280%2F42+Th%E1%BA%A1nh+Xu%C3%A2n+25\/@10.8820225,106.6654245,17z\/data=!3m1!4b1!4m9!3m8!1s0x3174d628972c55c1:0x5c650e32df78c7a1!5m2!4m1!1i2!8m2!3d10.8820225!4d106.6654245!16s%2Fg%2F11hchrddm8?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -1031,6 +1124,7 @@ const data = [
         "address":"442\/119\/49\/13 quốc lộ 1A, Tổ 55 KP3, quận 1w, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Tr%E1%BB%8D+Hai+Th%C3%A0nh\/@10.8682675,106.6936139,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294573c4ac8d:0x704dbe9d53df3345!8m2!3d10.8682675!4d106.6936139!16s%2Fg%2F11ghpxxhmz?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1042,6 +1136,7 @@ const data = [
         "address":"41A, Vĩnh Phú, Thuận An, Bình Dương, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/TROPICAL+HOUSE+RIVERSIDE+RETREAT\/@10.8735948,106.6964518,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299aa7e6e2a3:0x76c90f980154e8!8m2!3d10.8735948!4d106.6964518!16s%2Fg%2F11jh92z76n?hl=vi&entry=ttu",
+        "categories":"Khách sạn, Khách sạn nghỉ dưỡng, Biệt thự",
         "category_group":"df_hotels"
     },
     {
@@ -1053,6 +1148,7 @@ const data = [
         "address":"Hẻm tổ 4, 259\/6 KP 1, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KTX+Tri%E1%BB%81u\/@10.8572195,106.6341527,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752929bd3ca62d:0x5e63816dc2e8a69d!8m2!3d10.8572195!4d106.6341527!16s%2Fg%2F11pcnls886?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -1064,6 +1160,7 @@ const data = [
         "address":"89-91 Street HT45, Quận 12, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Thanh+An+Hotel\/@10.8705355,106.6464896,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529e63b0e44d5:0xab79d9ac0289c7b4!5m2!4m1!1i2!8m2!3d10.8705355!4d106.6464896!16s%2Fg%2F11b73vbj00?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1075,6 +1172,7 @@ const data = [
         "address":"15 Đ. Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJhVoKJiQvdTERgTDgHl_sSUs",
+        "categories":"Khách sạn, Dịch vụ lên kế hoạch cuộc họp, Địa điểm tổ chức lễ cưới",
         "category_group":"df_hotels"
     },
     {
@@ -1086,6 +1184,7 @@ const data = [
         "address":"22-24 Đinh Công Tráng, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJhZ0QLGIpdTERbfdhlascdrM",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1097,6 +1196,7 @@ const data = [
         "address":"8A Đ. Mạc Đĩnh Chi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPcdyA0ovdTERURWaNNPN8Zg",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1108,6 +1208,7 @@ const data = [
         "address":"17 Đ. Lê Duẩn, Bến Nghé, Ward, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpV-7MUovdTERS3tmu3Rt9kw",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1119,6 +1220,7 @@ const data = [
         "address":"217 Đ. Nguyễn Văn Thủ, Đa Kao, Quận 1, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ6XuBLMkvdTERB00X2LlvhCM",
+        "categories":"Khách sạn lưu trú dài hạn",
         "category_group":"df_hotels"
     },
     {
@@ -1130,6 +1232,7 @@ const data = [
         "address":"63 Đ. Nguyễn Huệ, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ__-vy0YvdTERfJrGj3Om7bs",
+        "categories":"Khách sạn, Sân gôn, Nhà hàng",
         "category_group":"df_hotels"
     },
     {
@@ -1141,6 +1244,7 @@ const data = [
         "address":"131 Tôn Thất Đạm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVwmHsyEvdTERjHO5ZyppSas",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1152,6 +1256,7 @@ const data = [
         "address":"Corner Nguyen Du St. &, Lê Văn Hưu, St, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ5ZwSAZ8vdTER_T8c0FMHYfY",
+        "categories":"Khách sạn, Trung tâm hội thảo, Địa điểm tổ chức lễ cưới",
         "category_group":"df_hotels"
     },
     {
@@ -1163,6 +1268,7 @@ const data = [
         "address":"24 Đ. Lê Thánh Tôn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJIxTNELcvdTER9QHiIRrzIa8",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1174,6 +1280,7 @@ const data = [
         "address":"3C Đ. Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJwbgTGE8vdTERz3h0y18gFm0",
+        "categories":"Khách sạn, Dịch vụ lên kế hoạch cuộc họp, Địa điểm tổ chức lễ cưới",
         "category_group":"df_hotels"
     },
     {
@@ -1185,6 +1292,7 @@ const data = [
         "address":"2A-4A Đ. Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJq6tuBUQvdTERPrUo2ili-N4",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1196,6 +1304,7 @@ const data = [
         "address":"2 Công trường Lam Sơn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN6yML0YvdTERu3qIwePETD0",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1207,6 +1316,7 @@ const data = [
         "address":"4 D, Thi Sách, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRxtlp0gvdTERGg6rVLBCqXU",
+        "categories":"Khách sạn, Nhà hàng, Spa",
         "category_group":"df_hotels"
     },
     {
@@ -1218,6 +1328,7 @@ const data = [
         "address":"24\/22 Đông Du, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8Xx7n1kvdTERrdadSJgaQO8",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1229,6 +1340,7 @@ const data = [
         "address":"134 Đ. Đồng Khởi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJow2MCUgvdTERLmE-ZvwKvXE",
+        "categories":"Khách sạn, Trung tâm hội nghị, Nhà hàng Pháp, Nhà tổ chức buổi tiệc, Nhà hàng Việt Nam, Địa điểm tổ chức lễ cưới",
         "category_group":"df_hotels"
     },
     {
@@ -1240,6 +1352,7 @@ const data = [
         "address":"88 Đ. Đồng Khởi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJA0evAkgvdTERLNUql8b4ipU",
+        "categories":"Khách sạn, Dịch vụ lên kế hoạch cuộc họp, Địa điểm tổ chức lễ cưới",
         "category_group":"df_hotels"
     },
     {
@@ -1251,6 +1364,7 @@ const data = [
         "address":"36 Bis\/2 Le Loi Boulevard, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJez6Gw30OQjERUYh6VwTcFj4",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1262,6 +1376,7 @@ const data = [
         "address":"102\/22, 22 Đ. Cống Quỳnh, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVVWqBhcvdTERJaWu_ouru20",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1273,6 +1388,7 @@ const data = [
         "address":"88\/2 Đ. Đề Thám, Phường Cầu Ông Lãnh, Quận 1, Thành phố Hồ Chí Minh 71000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtR78zFUvdTERDw6R1tNdxDU",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1284,6 +1400,7 @@ const data = [
         "address":"13-15 Nguyễn Thái Học, Phường Cầu Ông Lãnh, Quận 1, Thành phố Hồ Chí Minh 712162, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJsxRICCUvdTERoJhugf1iu04",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1295,6 +1412,7 @@ const data = [
         "address":"100 Cô Giang, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN7a9SCcvdTER9Gqq1UU8stk",
+        "categories":"Khách sạn nghỉ dưỡng, Căn hộ nghỉ dưỡng cho thuê, Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1306,6 +1424,7 @@ const data = [
         "address":"171 171\/18 Đ. Cô Bắc, Street, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJqSRMkekvdTERbTKEWj_703w",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1317,6 +1436,7 @@ const data = [
         "address":"151 Đ. Bến Vân Đồn, Phường 6, Quận 4, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ7SzaQJcvdTER8XqkbjGp1HQ",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1328,6 +1448,7 @@ const data = [
         "address":"302 Đ. Võ Văn Kiệt, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOX3xdxQvdTER0L_Ol1P9o9c",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1339,6 +1460,7 @@ const data = [
         "address":"189 Đ. Bến Vân Đồn, Phường 5, Quận 4, Thành phố Hồ Chí Minh 72810, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJA1ArJBIvdTER88faTtjN2jo",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1350,6 +1472,7 @@ const data = [
         "address":"64\/6 Nguyễn Khoái, Phường 2, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/MOTHER'S+HOME\/@10.755029,106.694896,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752f5ec741d425:0x2d075b56a42eb94c!5m2!4m1!1i2!8m2!3d10.755029!4d106.694896!16s%2Fg%2F11shf2q8yf?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1361,6 +1484,7 @@ const data = [
         "address":"93\/1 Đ. Nguyễn Chí Thanh, Phường 9, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Valentine+Hotel\/@10.7599199,106.6699753,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752ee49b5f33b1:0x746964ce8a89b9cd!5m2!4m1!1i2!8m2!3d10.7599199!4d106.6699753!16s%2Fg%2F11b63bx9y8?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1372,6 +1496,7 @@ const data = [
         "address":"28 Đ. Sư Vạn Hạnh, Phường 9, Quận 5, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Zazz+Urban+Ho+Chi+Minh+Hotel\/@10.758245,106.6738703,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752fc712634553:0x8c1c92d49dc7c489!5m2!4m1!1i2!8m2!3d10.758245!4d106.6738703!16s%2Fg%2F11fm4scwds?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1383,6 +1508,7 @@ const data = [
         "address":"572b\/4 Đ. Trần Hưng Đạo, Phường 2, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+S%E1%BA%A1n+My+Friend\/@10.7560908,106.6800454,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752fa8f7ff9609:0x97b997a374e6850b!5m2!4m1!1i2!8m2!3d10.7560908!4d106.6800454!16s%2Fg%2F11fd_sz0rr?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1394,6 +1520,7 @@ const data = [
         "address":"487\/14 Huỳnh Tấn Phát, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+s%E1%BA%A1n+Tu%E1%BA%A5n+Long\/@10.7451403,106.7309851,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175254494e2737d:0xe43ae3481f81c03c!5m2!4m1!1i2!8m2!3d10.7451403!4d106.7309851!16s%2Fg%2F11cnxyvhy6?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1405,6 +1532,7 @@ const data = [
         "address":"PPJV+CVF, Ô Môi, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Khanh+Ha\/@10.7310626,106.7446666,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175256d00c9da71:0xa80ab8664cb17ddb!8m2!3d10.7310626!4d106.7446666!16s%2Fg%2F11mhg__99j?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1416,6 +1544,7 @@ const data = [
         "address":"KDC Siêu thị Vivo, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%C3%B2ng+tr%E1%BB%8D+V%C4%83n+Thanh\/@10.732552,106.7030489,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f031f7ff963:0xc88eb0e46cc3d121!8m2!3d10.732552!4d106.7030489!16s%2Fg%2F11hfr7kj8r?hl=vi&entry=ttu",
+        "categories":"Nhà trọ, Phòng cho thuê",
         "category_group":"df_hotels"
     },
     {
@@ -1427,6 +1556,7 @@ const data = [
         "address":"73 Hoàng Văn Thái, Str, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hotel+ibis+Saigon+South\/@10.7304962,106.7234369,17z\/data=!3m1!4b1!4m9!3m8!1s0x316e5a41469a9081:0x3fed1a51ed892f84!5m2!4m1!1i2!8m2!3d10.7304962!4d106.7234369!16s%2Fg%2F11b70cr9bm?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1438,6 +1568,7 @@ const data = [
         "address":"793\/54\/1\/15 Trần Xuân Soạn, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Trung+Long+Tower\/@10.7478678,106.699233,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ff6fc7a8fc5:0x5c4eb68331903850!8m2!3d10.7478678!4d106.699233!16s%2Fg%2F11n066nr1m?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -1449,6 +1580,7 @@ const data = [
         "address":"2 Số 3, Tân Kiểng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kudo+House\/@10.7480248,106.7099301,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fb9f406725f:0xeaad8dcdc12818d3!8m2!3d10.7480248!4d106.7099301!16s%2Fg%2F11fd6d96v0?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1460,6 +1592,7 @@ const data = [
         "address":"361 Trần Xuân Soạn, Tân Kiểng, Quận 7, Thành phố Hồ Chí Minh 72911, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/NG%E1%BB%8CC+T%C3%99NG+HOTEL\/@10.7516463,106.7115562,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752fb030f5b5fb:0xeeb15977b1308f92!5m2!4m1!1i2!8m2!3d10.7516463!4d106.7115562!16s%2Fg%2F11t5kmnxgx?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1471,6 +1604,7 @@ const data = [
         "address":"159 Phạm Thái Bường, P. Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Emerald+Serviced+Apartment\/@10.7272019,106.7057048,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752f9475e34a53:0x7ec6f0fc3af586eb!5m2!4m1!1i2!8m2!3d10.7272019!4d106.7057048!16s%2Fg%2F11h54z7th5?hl=vi&entry=ttu",
+        "categories":"Khách sạn lưu trú dài hạn, Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1482,6 +1616,7 @@ const data = [
         "address":"22 Nội Khu Phố Hưng Gia 1, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Royal+Homies+-+Phu+My+Hung\/@10.7334946,106.7096798,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752f10d3e9e683:0xc2bc5969c4bf5c1d!5m2!4m1!1i2!8m2!3d10.7334946!4d106.7096798!16s%2Fg%2F11n06nq6kp?hl=vi&entry=ttu",
+        "categories":"Khách sạn lưu trú dài hạn",
         "category_group":"df_hotels"
     },
     {
@@ -1493,6 +1628,7 @@ const data = [
         "address":"70 & 72, 70 Cao Triều Phát, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Simmi+Hotel+%26+Apartment\/@10.7321459,106.7076851,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752f6931ab2f1d:0xdff3e50cecb9ac64!5m2!4m1!1i2!8m2!3d10.7321459!4d106.7076851!16s%2Fg%2F11t5cljhm7?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1504,6 +1640,7 @@ const data = [
         "address":"36 Hưng Gia 3, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Diamond+Hotel+Apartments\/@10.7325786,106.7090532,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752fbbd20da7f1:0x962e012a13c0e664!5m2!4m1!1i2!8m2!3d10.7325786!4d106.7090532!16s%2Fg%2F11vs0_b7bl?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1515,6 +1652,7 @@ const data = [
         "address":"36 Đường Số 2, Hưng Gia 5, Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SECC+SAIGON\/@10.7338068,106.7084664,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752f7c854a1879:0x1a2de6bda035f302!5m2!4m1!1i2!8m2!3d10.7338068!4d106.7084664!16s%2Fg%2F11st6znzb1?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1526,6 +1664,7 @@ const data = [
         "address":"542A - 544, Huỳnh Tấn Phát, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh 72914, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HAPPY+LIFE+HOTEL+_+QU%E1%BA%ACN+7+_+G%E1%BA%A6N+SECC\/@10.738098,106.7301213,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175257be4476a45:0xe68a56926e79ba77!5m2!4m1!1i2!8m2!3d10.738098!4d106.7301213!16s%2Fg%2F11fhrz0y75?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1537,6 +1676,7 @@ const data = [
         "address":"7 Số 8, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Metropole+House\/@10.741764,106.7234862,17z\/data=!3m1!4b1!4m9!3m8!1s0x317525d69fde5c75:0x4530b0e72d4f65cf!5m2!4m1!1i2!8m2!3d10.741764!4d106.7234862!16s%2Fg%2F11h2hhr7xh?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1548,6 +1688,7 @@ const data = [
         "address":"121 Đ. Lý Phục Man, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+s%E1%BA%A1n+HappyHome\/@10.7424788,106.7229779,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175257f7048a54f:0x31c916b2523f60e0!5m2!4m1!1i2!8m2!3d10.7424788!4d106.7229779!16s%2Fg%2F11h1dshvg4?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1559,6 +1700,7 @@ const data = [
         "address":"160 Đ. D1, Khu đô thị Him Lam, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kim's+Hotel\/@10.7377186,106.6963842,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752f57343051dd:0x79362c3fd81458b8!5m2!4m1!1i2!8m2!3d10.7377186!4d106.6963842!16s%2Fg%2F11l26bwbsv?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1570,6 +1712,7 @@ const data = [
         "address":"155 Nguyễn Thị Thập, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/RedDoorz+Chin+Sao+Hotel+Nguyen+Thi+Thap\/@10.7407974,106.6955219,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752f026519141f:0x7232b2b825fddb49!5m2!4m1!1i2!8m2!3d10.7407974!4d106.6955219!16s%2Fg%2F11j0clwbpr?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1581,6 +1724,7 @@ const data = [
         "address":"71 Đường Chuyên Dùng Chính, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Ngh%E1%BB%89+Nam+%C4%90%C3%B4\/@10.7055393,106.7399174,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525d44e6a9c83:0xdbc821ab84e4aea5!8m2!3d10.7055393!4d106.7399174!16s%2Fg%2F11h7cqdgx6?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1592,6 +1736,7 @@ const data = [
         "address":"1549\/16, Huỳnh Tấn Phát, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Ngh%C4%A9a\/@10.7095427,106.7382915,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525fbc8de0733:0x98bf9118ba826635!8m2!3d10.7095427!4d106.7382915!16s%2Fg%2F11v18y601d?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -1603,6 +1748,7 @@ const data = [
         "address":"13 Nguyễn Lương Bằng, Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/MerPerle+Crystal+Palace\/@10.7266974,106.7236221,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752f8a74cf73c9:0xaa3133b00d64f650!5m2!4m1!1i2!8m2!3d10.7266974!4d106.7236221!16s%2Fg%2F11b7vznw4h?hl=vi&entry=ttu",
+        "categories":"Khách sạn, Trung tâm hội nghị, Địa điểm tổ chức lễ cưới",
         "category_group":"df_hotels"
     },
     {
@@ -1614,6 +1760,7 @@ const data = [
         "address":"PMPR+6QP, Bình Hưng, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hotel+Kim+Linh+8\/@10.7355875,106.6919641,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752fa4c93200f3:0x29d7828438edc675!5m2!4m1!1i2!8m2!3d10.7355875!4d106.6919641!16s%2Fg%2F11cjhc81t6?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1625,6 +1772,7 @@ const data = [
         "address":"93 Đường số 5, Khu dân cư Trung Sơn, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Monaco+Hotel\/@10.7353465,106.6911955,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752fa4d67120a5:0x5d70e2ddc1f2bea!5m2!4m1!1i2!8m2!3d10.7353465!4d106.6911955!16s%2Fg%2F11g8ybk3xh?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1636,6 +1784,7 @@ const data = [
         "address":"57 Đường số 1E, Bình Hưng, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ly+kim+lien\/@10.7330369,106.6913711,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fc4ee038f61:0x455d25717e5cc430!8m2!3d10.7330369!4d106.6913711!16s%2Fg%2F11r3vh6jvb?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -1647,6 +1796,7 @@ const data = [
         "address":"11 Đường số 10, Khu dân cư Trung Sơn, Bình Chánh, Thành phố Hồ Chí Minh 10, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+S%E1%BA%A1n+Queen+Victoria\/@10.7339161,106.6911493,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752edeea9e5eab:0x93b404f8a81fb3ba!5m2!4m1!1i2!8m2!3d10.7339161!4d106.6911493!16s%2Fg%2F1tfrpdrg?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1658,6 +1808,7 @@ const data = [
         "address":"42\/1\/12 Huỳnh Tấn Phát, KP5, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+sonic\/@10.7005177,106.735966,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525be94b3b5b9:0x2b1ee43f69648c1a!8m2!3d10.7005177!4d106.735966!16s%2Fg%2F11h0ydxjyd?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1669,6 +1820,7 @@ const data = [
         "address":"Đường số 4, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+S%E1%BA%A1n+S%C3%B3ng+Xanh\/@10.7367911,106.7205469,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752f8706bec8dd:0xb1d4ae68e85dcd5d!5m2!4m1!1i2!8m2!3d10.7367911!4d106.7205469!16s%2Fg%2F1hc3lz4s_?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1680,6 +1832,7 @@ const data = [
         "address":"806 Đ. Nguyễn Văn Linh, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Scenic+Valley+Apartment\/@10.7325885,106.7193578,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752f05b5ed2a4b:0xdd97d350bd4deb3b!5m2!4m1!1i2!8m2!3d10.7325885!4d106.7193578!16s%2Fg%2F11sskxr95w?hl=vi&entry=ttu",
+        "categories":"Khách sạn lưu trú dài hạn",
         "category_group":"df_hotels"
     },
     {
@@ -1691,6 +1844,7 @@ const data = [
         "address":"Huỳnh Tấn Phát\/132a Hẻm 994a, Chạy cuối hẻm sẽ thấy nhà, Huỳnh Tấn Phát\/132a Hẻm 994a, khu phố 4, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hanh+House\/@10.7222886,106.7330156,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525aa7d84cce3:0xe3abb89f545cbedd!8m2!3d10.7222886!4d106.7330156!16s%2Fg%2F11vh_c80yl?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -1702,6 +1856,7 @@ const data = [
         "address":"32c Rạch Lồng Đèn, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+s%E1%BA%A1n+Loan+s%E1%BB%B1\/@10.697351,106.610694,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175320db623693d:0xca29afc0aaf842af!5m2!4m1!1i2!8m2!3d10.697351!4d106.610694!16s%2Fg%2F11df0q7n_j?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1713,6 +1868,7 @@ const data = [
         "address":"43 Khu Dân Cư Phú Lợi, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+S%E1%BA%A1n+M%E1%BB%B9+Loan\/@10.7014311,106.6227512,17z\/data=!3m1!4b1!4m9!3m8!1s0x31753206ae364b8b:0x8d3abdc95cb24ec0!5m2!4m1!1i2!8m2!3d10.7014311!4d106.6227512!16s%2Fg%2F11g9jhvcpt?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1724,6 +1880,7 @@ const data = [
         "address":"3619 Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KH%C3%81CH+S%E1%BA%A0N+LENA+%EF%B8%8F+24%2F24\/@10.702173,106.623255,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175335557c7d47f:0xddbfbe4f939e6c5a!5m2!4m1!1i2!8m2!3d10.702173!4d106.623255!16s%2Fg%2F11s8d37k69?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1735,6 +1892,7 @@ const data = [
         "address":"99 Đ. An Dương Vương, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KTX+%C4%90%E1%BA%A1i+H%E1%BB%8Dc+S%C3%A0i+G%C3%B2n\/@10.7132568,106.6193107,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d03eeba22db:0x12dc63beab38992e!8m2!3d10.7132568!4d106.6193107!16s%2Fg%2F11hdvkgdgp?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -1746,6 +1904,7 @@ const data = [
         "address":"Nhà trọ tiện nghi, 47 Đ. Cao Lỗ, phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+tr%E1%BB%8D+ti%E1%BB%87n+nghi\/@10.7348879,106.6802007,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fc55697e9f7:0x3f6b114c94dc069f!8m2!3d10.7348879!4d106.6802007!16s%2Fg%2F11t17wg9yh?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -1757,6 +1916,7 @@ const data = [
         "address":"5 42\/1 Tân Phước, Phường 8, Tân Bình, Thành phố Hồ Chí Minh 99000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+S%E1%BA%A1n+Sao+Mai\/@10.7840649,106.6534636,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752fde8f52cfd7:0x17a806a5aab2eab6!5m2!4m1!1i2!8m2!3d10.7840649!4d106.6534636!16s%2Fg%2F11fpbv6cd9?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1768,6 +1928,7 @@ const data = [
         "address":"17 Trần Thái Tông, Phường 15, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+s%E1%BA%A1n+Th%C3%A0nh+T%C3%A0i+-+Thanh+Tai+Hotel\/@10.8198416,106.6316012,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529a24e591155:0x7855b69012ae4197!5m2!4m1!1i2!8m2!3d10.8198416!4d106.6316012!16s%2Fg%2F11j3s5x527?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1779,6 +1940,7 @@ const data = [
         "address":"58 Nguyễn Bá Tuyển, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%E1%BA%ADt+Minh+Anh+Hotel\/@10.798804,106.6478822,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175294946d6a3a1:0x425a409237672619!5m2!4m1!1i2!8m2!3d10.798804!4d106.6478822!16s%2Fg%2F11f5ly8987?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1790,6 +1952,7 @@ const data = [
         "address":"3 A1, Đ. Lam Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 72100, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Victory+Airport+Hotel\/@10.8075335,106.6662685,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529236175eadf:0x937ab6b970a5283a!5m2!4m1!1i2!8m2!3d10.8075335!4d106.6662685!16s%2Fg%2F11t8jvhr7s?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1801,6 +1964,7 @@ const data = [
         "address":"22 Tân Trụ, Street, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hotel+MTT\/@10.8239994,106.6314891,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752963046fb879:0xf9cf8f2af161ca6e!5m2!4m1!1i2!8m2!3d10.8239994!4d106.6314891!16s%2Fg%2F11f_c0_n0z?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1812,6 +1976,7 @@ const data = [
         "address":"175a Phan Huy Ích, Phường 15, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/MINH+H%E1%BB%92NG+HOTEL\/@10.8320918,106.6337085,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175297ebe4ae205:0xe1be47660ddbb6f7!5m2!4m1!1i2!8m2!3d10.8320918!4d106.6337085!16s%2Fg%2F1tf5mqdm?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1823,6 +1988,7 @@ const data = [
         "address":"18 Đ. Lam Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sunflowers+Hotel+Airport\/@10.808889,106.666903,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529187c913e5b:0x9ed3285adbd53df7!5m2!4m1!1i2!8m2!3d10.808889!4d106.666903!16s%2Fg%2F11xk4gy8s?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1834,6 +2000,7 @@ const data = [
         "address":"17 Đống Đa, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Le+Saigon+Hotel\/@10.809337,106.665477,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175291b32703737:0xacbb499b976ebc56!5m2!4m1!1i2!8m2!3d10.809337!4d106.665477!16s%2Fg%2F11j2zy5sjt?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1845,6 +2012,7 @@ const data = [
         "address":"51 Đ. Lam Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/New+Space+Hotel+Airport\/@10.81152,106.666827,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529228cdde127:0x9d19296272db3a19!5m2!4m1!1i2!8m2!3d10.81152!4d106.666827!16s%2Fg%2F11c60ntgyc?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1856,6 +2024,7 @@ const data = [
         "address":"2\/11 Đ. Hồng Hà, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/GIC+Airport+Hotel+Kh%C3%A1ch+S%E1%BA%A1n+G%E1%BA%A7n+S%C3%A2n+Bay+T%C3%A2n+S%C6%A1n+Nh%E1%BA%A5t\/@10.8127227,106.6666209,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529de16a0202d:0x437f4419e7717e35!5m2!4m1!1i2!8m2!3d10.8127227!4d106.6666209!16s%2Fg%2F11hbjhsn5m?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1867,6 +2036,7 @@ const data = [
         "address":"2 Đ. Hồng Hà, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ibis\/@10.8130095,106.6661833,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529180c147419:0x6f19169582f31ebb!5m2!4m1!1i2!8m2!3d10.8130095!4d106.6661833!16s%2Fg%2F11c0rpps7v?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1878,6 +2048,7 @@ const data = [
         "address":"44 Hồng Hà, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+s%E1%BA%A1n+Erato+Boutique\/@10.8131944,106.6678462,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529188412fd69:0xa96d412c4ef9a449!5m2!4m1!1i2!8m2!3d10.8131944!4d106.6678462!16s%2Fg%2F11cs3qj1sv?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1889,6 +2060,7 @@ const data = [
         "address":"B12 Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 00700, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/L%C3%A1+Airport+T%C3%A2n+B%C3%ACnh+Hotel\/@10.8146455,106.66746,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529a0491dc915:0xa65cf2c1bd4ac3d5!5m2!4m1!1i2!8m2!3d10.8146455!4d106.66746!16s%2Fg%2F11v5v1mptb?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1900,6 +2072,7 @@ const data = [
         "address":"11F\/2 Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/A+Villa+Hotel\/@10.8150996,106.6703374,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529ce9932d14f:0x4df22b8b229abd04!5m2!4m1!1i2!8m2!3d10.8150996!4d106.6703374!16s%2Fg%2F11jq8m5z3k?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1911,6 +2084,7 @@ const data = [
         "address":"B38A Bạch Đằng, Phường 02, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/MI+LINH+Hotel\/@10.815232,106.668373,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529aac8ace587:0xd830c65a6295e46b!5m2!4m1!1i2!8m2!3d10.815232!4d106.668373!16s%2Fg%2F11sh5f3fk8?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1922,6 +2096,7 @@ const data = [
         "address":"11 Đ. Trần Quốc Hoàn, Phường 4, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/RedDoorz+Rita+Hoang+Van+Thu+Hotel\/@10.8013277,106.6620749,17z\/data=!3m1!4b1!4m9!3m8!1s0x317529421cd8d9c7:0xd278579cc6c9bace!5m2!4m1!1i2!8m2!3d10.8013277!4d106.6620749!16s%2Fg%2F11srd31_fc?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1933,6 +2108,7 @@ const data = [
         "address":"2\/33 Thăng Long, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+tr%E1%BB%8D+Qu%C3%BD+%C4%90%C3%B4n\/@10.801452,106.661768,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529004a862827:0x2bbd8d216929fd8a!8m2!3d10.801452!4d106.661768!16s%2Fg%2F11vps9_rvm?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -1944,6 +2120,7 @@ const data = [
         "address":"18E Đ. Cộng Hòa, Street, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Holiday+Inn+%26+Suites+Saigon+Airport\/@10.80175,106.6548976,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175291ee78ce6fd:0x7b051a4a0013e895!5m2!4m1!1i2!8m2!3d10.80175!4d106.6548976!16s%2Fg%2F11g0m3cvrp?hl=vi&entry=ttu",
+        "categories":"Khách sạn, Trung tâm hội thảo, Địa điểm tổ chức lễ cưới",
         "category_group":"df_hotels"
     },
     {
@@ -1955,6 +2132,7 @@ const data = [
         "address":"94-96 Thăng Long, Phường 4, Tân Bình, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vivian+Airport+Hotel\/@10.8071406,106.6616079,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175293a540d35d9:0x2a2506efcb59c365!5m2!4m1!1i2!8m2!3d10.8071406!4d106.6616079!16s%2Fg%2F11fxzzpkp2?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1966,6 +2144,7 @@ const data = [
         "address":"101 Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Love+Hotel+Airport\/@10.8152109,106.6727737,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175291f01f14a2f:0x1f7b02d910b9930f!5m2!4m1!1i2!8m2!3d10.8152109!4d106.6727737!16s%2Fg%2F11fqsr_jbv?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1977,6 +2156,7 @@ const data = [
         "address":"252 Phạm Văn Bạch, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%A1ch+S%E1%BA%A1n+Anh+Anh\/@10.824012,106.6398122,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175296541a3dc53:0x7128c28389863843!5m2!4m1!1i2!8m2!3d10.824012!4d106.6398122!16s%2Fg%2F11b67p25x2?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -1988,6 +2168,7 @@ const data = [
         "address":"178\/11 Phạm Văn Bạch, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+tr%E1%BB%8D+178%2F11\/@10.8239536,106.6384429,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175296575c91383:0x46b1afc662236103!8m2!3d10.8239536!4d106.6384429!16s%2Fg%2F11g9w4rcvf?hl=vi&entry=ttu",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -1999,6 +2180,7 @@ const data = [
         "address":"32 Bàu Cát 1, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/LILLY+HOTEL\/@10.7945644,106.6418468,17z\/data=!3m1!4b1!4m9!3m8!1s0x3175294d79e9b7c7:0x3e20eb50d8ab6af8!5m2!4m1!1i2!8m2!3d10.7945644!4d106.6418468!16s%2Fg%2F11c2b1fy5p?hl=vi&entry=ttu",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2010,6 +2192,7 @@ const data = [
         "address":"20\/22\/24 Đ. 160, Tăng Nhơn Phú A, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJs2WZrTYndTERH1SY8qtApks",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -2021,6 +2204,7 @@ const data = [
         "address":"31\/4e, Đ. 160, Tăng Nhơn Phú A, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJNWih_L0ndTERSHK396h7dtI",
+        "categories":"Khách sạn, Nhà khách, Căn hộ được phục vụ",
         "category_group":"df_hotels"
     },
     {
@@ -2032,6 +2216,7 @@ const data = [
         "address":"76\/2a, Lê Văn Chí, Phường Linh Trung, Thủ Đức, Thành phố Hồ Chí Minh 720300, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ_xQEvnYndTER84cnCDP-EgY",
+        "categories":"Khách sạn, Khách sạn lưu trú dài hạn",
         "category_group":"df_hotels"
     },
     {
@@ -2043,6 +2228,7 @@ const data = [
         "address":"62A Đ. Số 2, khu phố 6, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJjWwX43sodTERO9W8dEyIvsI",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2054,6 +2240,7 @@ const data = [
         "address":"1742\/1, Đ. Nguyễn Duy Trinh, Trường Thạnh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJwTsiUVchdTERh5pEZrcW2ko",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2065,6 +2252,7 @@ const data = [
         "address":"7 Đường 11, Long Bình, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJl9nQmSLZdDERBIXvx4xh0bg",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2076,6 +2264,7 @@ const data = [
         "address":"Hẻm 526, Đường Kha Vạn Cân, Linh Đông, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQS77o24ndTERll6ncV-cAuw",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -2087,6 +2276,7 @@ const data = [
         "address":"104 Đình Phong Phú, Tăng Nhơn Phú B, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJESvuagUndTER11M0jmfHDv8",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2098,6 +2288,7 @@ const data = [
         "address":"63\/1-63\/3, Đường số 19, Bình An, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJXzYtyUEndTERJRz5FRiqxnc",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2109,6 +2300,7 @@ const data = [
         "address":"2-4 Đường số 10, An Phú, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtxV8ddAndTERKPQ3NQbfrwM",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2120,6 +2312,7 @@ const data = [
         "address":"414f Đ. Võ Nguyên Giáp, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJA9kBo9AndTERLXRO-oHQ3Qc",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -2131,6 +2324,7 @@ const data = [
         "address":"Đường Giáng Hương, Cát Lái, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbVNybz0ldTERGIYOAmhPcGM",
+        "categories":"Khách sạn nghỉ dưỡng",
         "category_group":"df_hotels"
     },
     {
@@ -2142,6 +2336,7 @@ const data = [
         "address":"200 Bưng Ông Thoàn, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-Ul4pk0ndTERY54u_qf5rfI",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -2153,6 +2348,7 @@ const data = [
         "address":"68 Đường 18, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh 71315, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQ_W8-wopdTERkeAU_7C5iBc",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2164,6 +2360,7 @@ const data = [
         "address":"10B3 Đ. Nhánh Phụ Ba Bò, Bình Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8c3fObjZdDERLdEgQMSLGtg",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2175,6 +2372,7 @@ const data = [
         "address":"167 Đ. Số 8, Linh Xuân, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9UaI84PYdDERNtPrWjVh5HE",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2186,6 +2384,7 @@ const data = [
         "address":"VPC8+GC3, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJU9ssSTIpdTEReGxOh-cZ2IU",
+        "categories":"Khách sạn, Dự án nhà",
         "category_group":"df_hotels"
     },
     {
@@ -2197,6 +2396,7 @@ const data = [
         "address":"25 Đ. Hồ Bá Phấn, Phước Long A, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ79QIQW4ndTERJDXHTwj_QZ8",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2208,6 +2408,7 @@ const data = [
         "address":"85-87 Đường Số 6, KDC, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1z6hMKcndTERWYDjaHmtDog",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2219,6 +2420,7 @@ const data = [
         "address":"480\/89 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJXVcCkR0ndTERNUOa0VZwAtc",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -2230,6 +2432,7 @@ const data = [
         "address":"36B Đ. số 28, P, Tp. Thủ Đức, Thành phố Hồ Chí Minh 700250, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJg4-rVdMldTERGVARaBFGpJw",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2241,6 +2444,7 @@ const data = [
         "address":"952 Nguyễn Xiển, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0_25AkkhdTERJOe7wT2JNCM",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2252,6 +2456,7 @@ const data = [
         "address":"32 Đ. 47-BTT, Phường Bình Trưng Tây, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9UJi1MwldTERXVQJNfnBWao",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2263,6 +2468,7 @@ const data = [
         "address":"Đ. Số 106, Hiệp Phú, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJwZb3UGsndTER15df7fgtx7o",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2274,6 +2480,7 @@ const data = [
         "address":"số 9 đường 87-TML, khu dân cư số 5, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJE_7jS9AldTERj1KJ8udDUwc",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -2285,6 +2492,7 @@ const data = [
         "address":"RQVW+C3M, Tăng Nhơn Phú A, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVRiW4D0ndTERhLuWzEgzWpQ",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -2296,6 +2504,7 @@ const data = [
         "address":"QQ53+49M, Đường số 103-TML, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpfvwxuYldTERRm1c745wisU",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -2307,6 +2516,7 @@ const data = [
         "address":"21 đường 68, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJlXZ8uY4ldTER2y1RYGPO-Io",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2318,6 +2528,7 @@ const data = [
         "address":"QQF6+6PJ, Đường Số 7, Phường Thạnh Mỹ Lợi, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0w9Ms88ldTERcDuQtFO0HyY",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2329,6 +2540,7 @@ const data = [
         "address":"16\/61\/2a đường số 6, Đường Lò Lu, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ05XxQtUgdTERMo8g2lGKn7k",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2340,6 +2552,7 @@ const data = [
         "address":"190 Nguyễn Xiển, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJp3m8I-4hdTERAsg89240UXo",
+        "categories":"Khách sạn nghỉ dưỡng",
         "category_group":"df_hotels"
     },
     {
@@ -2351,6 +2564,7 @@ const data = [
         "address":"TP, Đường Số 270\/33 Đỗ Xuân Hợp, Phước Long B, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJd3dj3vYndTERDiXy1K_q4qo",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2362,6 +2576,7 @@ const data = [
         "address":"280 Đ. Nam Kỳ Khởi Nghĩa, Phường 8, Quận 3, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ59lcHy0vdTERz58yQGlLKNI",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2373,6 +2588,7 @@ const data = [
         "address":"197 Đ. Điện Biên Phủ, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW6vvXFIvdTER6fSfn9lYXfk",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2384,6 +2600,7 @@ const data = [
         "address":"Level 10, 157 Pasteur, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJDTuXOTsvdTERo2yQxJB_U0s",
+        "categories":"Khách sạn, Đại lý du lịch",
         "category_group":"df_hotels"
     },
     {
@@ -2395,6 +2612,7 @@ const data = [
         "address":"192 Đ. Nam Kỳ Khởi Nghĩa, Phường 6, Quận 3, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdd3vFTEvdTERX57s35iv2Xo",
+        "categories":"Khách sạn, Chung cư, Căn hộ nghỉ dưỡng cho thuê, Phòng cho thuê, Chỗ ở được phục vụ",
         "category_group":"df_hotels"
     },
     {
@@ -2406,6 +2624,7 @@ const data = [
         "address":"76 78 Đ. Nguyễn Thị Minh Khai, St, Quận 3, Thành phố Hồ Chí Minh 070000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJSXwyXDYvdTERjIuhQKiCCqM",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2417,6 +2636,7 @@ const data = [
         "address":"1 Ngô Thời Nhiệm, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZfg1SZwvdTERDnigNkg9xaI",
+        "categories":"Khách sạn, Căn hộ được phục vụ",
         "category_group":"df_hotels"
     },
     {
@@ -2428,6 +2648,7 @@ const data = [
         "address":"192 Pasteur, Phường 6, Quận 3, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJeYOoCOUvdTERDmQEQunuUz8",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2439,6 +2660,7 @@ const data = [
         "address":"14 Võ Văn Tần, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJT8VzzzAvdTERyVactXSsuCI",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2450,6 +2672,7 @@ const data = [
         "address":"73 Trần Văn Đang, Phường 9, Quận 3, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJqyE23CkvdTERL_t02x6RIAY",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2461,6 +2684,7 @@ const data = [
         "address":"28 Rạch Bùng Binh, Phường 10, Quận 3, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJMZyefSgvdTERJ_EH49av-gY",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2472,6 +2696,7 @@ const data = [
         "address":"1017\/56AB, Thành phố Hồ Chí Minh 74000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPcCoNzovdTERWfNu7bG-FLY",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -2483,6 +2708,7 @@ const data = [
         "address":"số 22-24, 59 Đ. An Dương Vương, Phường 10, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9YLVjdktdTER_yhEf1I2Ih0",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2494,6 +2720,7 @@ const data = [
         "address":"71 Song Hành, Phường 10, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJFZh-29gtdTERHgCo9DLxCDw",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2505,6 +2732,7 @@ const data = [
         "address":"62 Đường B, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJcXHv8IwndTERjbWlScOJITQ",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2516,6 +2744,7 @@ const data = [
         "address":"Bình Hưng Hòa A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW3Q2Xg8sdTERsivIwjx4-sM",
+        "categories":"Nhà nghỉ trượt tuyết",
         "category_group":"df_hotels"
     },
     {
@@ -2527,6 +2756,7 @@ const data = [
         "address":"140F Lê Thiệt, Ward, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJnUHQsAUsdTERwHIvcbVFotE",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2538,6 +2768,7 @@ const data = [
         "address":"225 Bình Long, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJNxIZyVwtdTER7KtZqhvBdSg",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2549,6 +2780,7 @@ const data = [
         "address":"12\/32 Đ. Tân Kỳ Tân Quý, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJodtWpvsrdTERQryxTwhwB7s",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2560,6 +2792,7 @@ const data = [
         "address":"51 Gò Dầu, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOZlA9K8rdTER5VHHo-3Lk3U",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2571,6 +2804,7 @@ const data = [
         "address":"36\/6 D. Đức Hiền, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJba19eIrdTERdY9U2dncwu4",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -2582,6 +2816,7 @@ const data = [
         "address":"77 Hoàng Ngọc Phách, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiwDKrwMsdTERm8swJBWplu0",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2593,6 +2828,7 @@ const data = [
         "address":"102\/37\/3 Bình Long, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4fjAg2wtdTERKvd4TaLMTPw",
+        "categories":"Nhà trọ",
         "category_group":"df_hotels"
     },
     {
@@ -2604,6 +2840,7 @@ const data = [
         "address":"145-145B Thạch Lam, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJzXH_wB0sdTERfKLQnkX_MNc",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2615,6 +2852,7 @@ const data = [
         "address":"72 Đ. Nguyễn Văn Yến, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-ZrU5iYsdTERpbJ1JltEHCQ",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2626,6 +2864,7 @@ const data = [
         "address":"202\/18 Tô Hiệu, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN1d60R8sdTERbNgET5Onak0",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2637,6 +2876,7 @@ const data = [
         "address":"137 Đường CN11, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJp1zUFOwrdTERCNfBiGEa5hM",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     },
     {
@@ -2648,6 +2888,7 @@ const data = [
         "address":"9 Đường CN11, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJV8pJqO0rdTER5GJ6RI7aZtI",
+        "categories":"Khách sạn",
         "category_group":"df_hotels"
     }
 ]

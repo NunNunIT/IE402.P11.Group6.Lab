@@ -8,6 +8,7 @@ const data = [
         "address":"18\/49 Khu Phố 1, QL1A, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chi+nh%C3%A1nh+C%C3%B4ng+ty+4+Oranges+HCM\/@10.7834326,106.5954832,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c7002caed03:0xecf7a92a828273aa!8m2!3d10.7834326!4d106.5954832!16s%2Fg%2F1hc79bx_g?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -19,6 +20,7 @@ const data = [
         "address":"2078 Đ. Võ Văn Kiệt, An Lạc, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Toyota+B%E1%BA%BFn+Th%C3%A0nh+-+CS+B%C3%ACnh+T%C3%A2n\/@10.7206773,106.6076101,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d38b7e873ed:0x5d427195318b8601!8m2!3d10.7206773!4d106.6076101!16s%2Fg%2F11t29gn8zp?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty, Đại lý ô tô",
         "category_group":"df_company"
     },
     {
@@ -30,6 +32,7 @@ const data = [
         "address":"3-5 Tên Lửa, An Lạc, Bình Tân, Thành phố Hồ Chí Minh 763430, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+L%E1%BA%A1c+T%E1%BB%B7\/@10.7394159,106.6144978,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dcb018c0b6b:0xf34a97d39578aa34!8m2!3d10.7394159!4d106.6144978!16s%2Fg%2F11f6ycv0vb?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -41,6 +44,7 @@ const data = [
         "address":"QH8V+P8Q, Bình Trị Đông A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SuperShip+B%C3%ACnh+T%C3%A2n\/@10.7668259,106.5933639,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d0039fc9ce5:0x25449b9e99c3525d!8m2!3d10.7668259!4d106.5933639!16s%2Fg%2F11vrjxw0sj?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -52,6 +56,7 @@ const data = [
         "address":"159 Hồ Học Lãm, An Lạc, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Jet+Studio\/@10.7238185,106.6093098,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dc0102af31b:0xc57cd5514e561082!8m2!3d10.7238185!4d106.6093098!16s%2Fg%2F1tdnbr7g?hl=vi&entry=ttu",
+        "categories":"Công ty truyền thông",
         "category_group":"df_company"
     },
     {
@@ -63,6 +68,7 @@ const data = [
         "address":"RH9R+CFX, Đ. Số 2A, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+New+Hope\/@10.8186214,106.5912223,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ba2f4590029:0xe8f4943c24609600!8m2!3d10.8186214!4d106.5912223!16s%2Fg%2F1tk_g60r?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -74,6 +80,7 @@ const data = [
         "address":"22 Đường số 2, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/RKW+Vietnam+Ltd\/@10.7442814,106.5924883,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dae3926d7cf:0x3dd340060e748cb4!8m2!3d10.7442814!4d106.5924883!16s%2Fg%2F11bccml0rf?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -85,6 +92,7 @@ const data = [
         "address":"Lô 28 Đường số 2, Khu công nghiệp, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+S%E1%BA%A3n+Xu%E1%BA%A5t+Bao+B%C3%AC+Nam+Vi%E1%BB%87t\/@10.7442392,106.5915743,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dae44e48145:0x5a838b53408a1c41!8m2!3d10.7442392!4d106.5915743!16s%2Fg%2F11b7qx_l9w?hl=vi&entry=ttu",
+        "categories":"Công ty đóng gói",
         "category_group":"df_company"
     },
     {
@@ -96,6 +104,7 @@ const data = [
         "address":"92 Đ. Nguyễn Văn Cự, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CK+XD+HONG+PHAT\/@10.7512294,106.577024,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d0073bd27dd:0xe9063168360e3c9b!8m2!3d10.7512294!4d106.577024!16s%2Fg%2F11vpt1zh7v?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -107,6 +116,7 @@ const data = [
         "address":"56\/55 Liên Khu 4-5, khu phố 5, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+Quang+Minh\/@10.7982677,106.5943414,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b00071cb041:0x74d14a925f7e0004!8m2!3d10.7982677!4d106.5943414!16s%2Fg%2F11ld5f0gbx?hl=vi&entry=ttu",
+        "categories":"Công ty xây dựng nhà ở",
         "category_group":"df_company"
     },
     {
@@ -118,6 +128,7 @@ const data = [
         "address":"68 Đ. 10B, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+C%E1%BB%95+Ph%E1%BA%A7n+T%E1%BA%ADp+%C4%90o%C3%A0n+Th%C3%A0nh+Nam+-+CN+HCM\/@10.7519901,106.5773416,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d01e70a6ba3:0xeff0a0cfa281d3a9!8m2!3d10.7519901!4d106.5773416!16s%2Fg%2F11cspvddzm?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -129,6 +140,7 @@ const data = [
         "address":"Lô 30 - 31I, Đường Số 2B, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+m%C3%A1y+Apollo+-+QHACorp\/@10.8209663,106.5896735,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b21bedf959d:0x538e20912e8b3631!8m2!3d10.8209663!4d106.5896735!16s%2Fg%2F11gl21hqjb?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -140,6 +152,7 @@ const data = [
         "address":"93\/8 Đường Lê Ngung, P, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/AUTOSS+ROBOTICS\/@10.7414679,106.5771933,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d66c1716793:0xacf07a70f5417d54!8m2!3d10.7414679!4d106.5771933!16s%2Fg%2F11r8_y7l2d?hl=vi&entry=ttu",
+        "categories":"Công ty tự động hóa",
         "category_group":"df_company"
     },
     {
@@ -151,6 +164,7 @@ const data = [
         "address":"56 Đường Phùng Hưng, Phường 13, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%E1%BA%A5y+in+Delus+H%E1%BB%93ng+H%C3%A0\/@10.7407922,106.5878053,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d007e391481:0x1eaa9ae7b2f7c653!8m2!3d10.7407922!4d106.5878053!16s%2Fg%2F11vp_f326h?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -162,6 +176,7 @@ const data = [
         "address":"4331\/1, Nguyễn Cửu Phú, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+Hyogo+Shoes+Vi%E1%BB%87t+Nam\/@10.7360449,106.5801194,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d0994bd66cb:0xd4b26e3f3ac0c21a!8m2!3d10.7360449!4d106.5801194!16s%2Fg%2F11f1c5_rpl?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -173,6 +188,7 @@ const data = [
         "address":"Lô 22, Đường Số 7, KCN Tân Tạo P, Tân Tạo A, Bình Tân, 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+Ki%E1%BA%BFn+V%C6%B0%C6%A1ng\/@10.7370502,106.5858314,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d2aa3f81031:0x145f66a911fcaebf!8m2!3d10.7370502!4d106.5858314!16s%2Fg%2F11fkn06zkj?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -184,6 +200,7 @@ const data = [
         "address":"PHQV+P96, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+uy%C3%AAn+ph%C3%A1t\/@10.7392917,106.5933798,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752da5498be98b:0xab2e19fde02af442!8m2!3d10.7392917!4d106.5933798!16s%2Fg%2F11gbfc3rqg?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -195,6 +212,7 @@ const data = [
         "address":"991 QL1A, Bình Trị Đông A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/TH%C3%89P+H%C6%AFNG+L%E1%BB%98C+PH%C3%81T\/@10.7769639,106.5929729,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dbe20c83a97:0x2b7761268ffc0e47!8m2!3d10.7769639!4d106.5929729!16s%2Fg%2F11qnd48r00?hl=vi&entry=ttu",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -206,6 +224,7 @@ const data = [
         "address":"26 QL1A, Bình Trị Đông A, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%A0nh+Xe\/@10.7777429,106.5966958,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c68d80b46a9:0x5db9158247395b8c!8m2!3d10.7777429!4d106.5966958!16s%2Fg%2F11flt91757?hl=vi&entry=ttu",
+        "categories":"Công ty vận tải đường bộ",
         "category_group":"df_company"
     },
     {
@@ -217,6 +236,7 @@ const data = [
         "address":"QPWF+F7W, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Villas+Vinhomes+Central+Park\/@10.7962267,106.7232074,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527b7b311efe3:0x27f8bba2d95dd64a!8m2!3d10.7962267!4d106.7232074!16s%2Fg%2F11fj5s6tbj?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -228,6 +248,7 @@ const data = [
         "address":"106 Đ. Điện Biên Phủ, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BA%A3o+Hi%E1%BB%83m+Th%E1%BA%A5t+Nghi%E1%BB%87p\/@10.7966731,106.708471,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291ea8103965:0x85215630a5657882!8m2!3d10.7966731!4d106.708471!16s%2Fg%2F11g4fzv4ky?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -239,6 +260,7 @@ const data = [
         "address":"101 Đ. Nguyễn Cửu Vân, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh 72321, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/To%C3%A0+nh%C3%A0+GGA+-+Long+Tower\/@10.7958938,106.706303,17z\/data=!3m1!4b1!4m6!3m5!1s0x201078120d0ca859:0xe821c2ec7ede9f74!8m2!3d10.7958938!4d106.706303!16s%2Fg%2F11vs36b3ng?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -250,6 +272,7 @@ const data = [
         "address":"9X Chu Văn An, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BA%ADt+Vi+Di%E1%BB%87u+Studio\/@10.8118002,106.6977085,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290006b99e13:0xa05c33089ab3816e!8m2!3d10.8118002!4d106.6977085!16s%2Fg%2F11vs105x3b?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -261,6 +284,7 @@ const data = [
         "address":"630 Đ. Điện Biên Phủ, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BA%BFn+Xe+Th%C3%A0nh+B%C6%B0%E1%BB%9Fi,+H%C3%A0ng+Xanh\/@10.7987798,106.7186007,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528a5e536de91:0xabff4687cc339ce9!8m2!3d10.7987798!4d106.7186007!16s%2Fg%2F11g9qj8csn?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -272,6 +296,7 @@ const data = [
         "address":"667 Đ. Điện Biên Phủ, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Metro+Tower\/@10.7991261,106.7218238,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752989389fc0c5:0xbdad2d5fd6fbbad2!8m2!3d10.7991261!4d106.7218238!16s%2Fg%2F11fnb1xbs6?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -283,6 +308,7 @@ const data = [
         "address":"N13, Chợ phường 25, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%99i+Tr%C6%B0%E1%BB%9Dng+N13+D%E1%BA%A1+C%E1%BA%A7u+S%C3%A0i+G%C3%B2n\/@10.7992188,106.7246825,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175261d4894adb5:0xb23d3687bcda85b6!8m2!3d10.7992188!4d106.7246825!16s%2Fg%2F11gc1f23_s?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -294,6 +320,7 @@ const data = [
         "address":"685 Đ. Điện Biên Phủ, P.25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/EBM+Tower\/@10.7991976,106.7226544,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528a0ce233dbd:0x53196d717fefc931!8m2!3d10.7991976!4d106.7226544!16s%2Fg%2F11dztssn91?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -305,6 +332,7 @@ const data = [
         "address":"31\/2\/14 hẻm, 480 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cty+TNHH+DV+VT+Minh+%C4%90%E1%BA%A1t\/@10.8255253,106.7427399,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175276678985b1d:0xa2edef53c3626b78!8m2!3d10.8255253!4d106.7427399!16s%2Fg%2F11gj74krf6?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -316,6 +344,7 @@ const data = [
         "address":"RPFQ+RGC, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Qu%E1%BA%ADn+B%C3%ACnh+Th%E1%BA%A1nh+-+Thu%E1%BB%91c+l%C3%A0o+Ph%C3%BA+Gia\/@10.82456,106.7387657,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527783e99bbf1:0x188f8656234c0868!8m2!3d10.82456!4d106.7387657!16s%2Fg%2F11jyb3f242?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -327,6 +356,7 @@ const data = [
         "address":"14\/1A Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+NXV\/@10.8275409,106.7490778,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175264aee6e55cb:0xc446a357a56b6c3!8m2!3d10.8275409!4d106.7490778!16s%2Fg%2F11c6sqyjq9?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -338,6 +368,7 @@ const data = [
         "address":"480\/31\/7\/9A, Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nam+Ten+Sadu\/@10.8237192,106.7440408,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752724836d27bd:0x68450d5a5be958d4!8m2!3d10.8237192!4d106.7440408!16s%2Fg%2F11l328hbv7?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -349,6 +380,7 @@ const data = [
         "address":"RP8W+933, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/galio\/@10.8158847,106.7451641,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527f059369aa3:0x3d2db773e9dd4ac9!8m2!3d10.8158847!4d106.7451641!16s%2Fg%2F11t3lq5zp2?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -360,6 +392,7 @@ const data = [
         "address":"160 Hẻm 47 Bùi Đình Túy, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+T%C3%ADn+B%E1%BA%A3o+Lan\/@10.8086106,106.7044456,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528be6883bd71:0xcbebf1ac80c5ca61!8m2!3d10.8086106!4d106.7044456!16s%2Fg%2F11hb653wkk?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty, Nhà cung cấp thiết bị nghe nhìn, Dịch vụ sửa chữa máy tính, Hỗ trợ và dịch vụ máy tính, Dịch vụ khảo thí giáo dục, Nhà cung cấp hệ thống an ninh",
         "category_group":"df_company"
     },
     {
@@ -371,6 +404,7 @@ const data = [
         "address":"2W Ung Văn Khiêm, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+C%E1%BB%95+Ph%E1%BA%A7n+T%E1%BA%ADp+%C4%91o%C3%A0n+%C4%90%E1%BA%A5t+Xanh\/@10.8050052,106.72159,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528bb7a11cfaf:0xc880bdcee5bf078e!8m2!3d10.8050052!4d106.72159!16s%2Fg%2F11c203jt7y?hl=vi&entry=ttu",
+        "categories":"Công ty tổ chức đấu giá bất động sản",
         "category_group":"df_company"
     },
     {
@@ -382,6 +416,7 @@ const data = [
         "address":"196\/7\/1, Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%C3%A1y+%E1%BA%A2nh+Cam\/@10.8316408,106.7028718,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752954f9fbadf3:0xf7eda5bd413da7ad!8m2!3d10.8316408!4d106.7028718!16s%2Fg%2F11k6xttmh3?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -393,6 +428,7 @@ const data = [
         "address":"9\/23 Võ Trường Toản, phường 2, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VP%C4%90D+Cty+%C4%90%C4%83ng+Vi%E1%BB%87t+Construction\/@10.801581,106.699695,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752900631d7751:0x5c656ca36ec47e1c!8m2!3d10.801581!4d106.699695!16s%2Fg%2F11vrzhfflz?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -404,6 +440,7 @@ const data = [
         "address":"3C7F+4M7, Unnamed Road, Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+m%C3%A1y+c%C3%B4ng+Ty+T%C3%A0i+Nguy%C3%AAn\/@11.0627809,106.4241851,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2fd4dbe6648d:0xa866f2c48c1da4d8!8m2!3d11.0627809!4d106.4241851!16s%2Fg%2F11flbd_64p?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -415,6 +452,7 @@ const data = [
         "address":"Cổng số 1, 697 Tĩnh Lộ 2, Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%E1%BB%A5+s%E1%BB%9F+C%C3%B4ng+ty+D%C3%A2y+c%C3%A1p+%C4%91i%E1%BB%87n+V%C4%A9nh+Th%E1%BB%8Bnh\/@11.0398609,106.441908,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752a85a308ad0b:0xfc9af85b1a89c55e!8m2!3d11.0398609!4d106.441908!16s%2Fg%2F1hhlr81qj?hl=vi&entry=ttu",
+        "categories":"Công ty điện dân dụng",
         "category_group":"df_company"
     },
     {
@@ -426,6 +464,7 @@ const data = [
         "address":"Đường Võ Văn Điều, Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Binh+Minh+Koi+Farm\/@11.0413662,106.4347808,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f164c26b525:0x15d63b2bf9bfff25!8m2!3d11.0413662!4d106.4347808!16s%2Fg%2F11h94j26h7?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -437,6 +476,7 @@ const data = [
         "address":"2 Đường 430, Phước Vĩnh An, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+%C4%90%C3%B4ng+Nam+D%C6%B0%E1%BB%A3c+B%E1%BA%A3o+Long\/@10.9653161,106.5383025,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d4ac50a6ac2b:0x26ab088cdc5de4c!8m2!3d10.9653161!4d106.5383025!16s%2Fg%2F11gh0p4cl1?hl=vi&entry=ttu",
+        "categories":"Công ty dược phẩm",
         "category_group":"df_company"
     },
     {
@@ -448,6 +488,7 @@ const data = [
         "address":"2HHR+RQG, Trung An, Củ Chi, Bình Dương, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Thalia+%E2%80%98s+CuChi+Holiday+Home\/@11.0295734,106.5919448,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d3d88f2946c1:0x6ce3b3299aa804db!8m2!3d11.0295734!4d106.5919448!16s%2Fg%2F11fgh2nbvc?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -459,6 +500,7 @@ const data = [
         "address":"2H5H+MCG, Trung An, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+H%C6%B0ng+Th%E1%BB%8Bnh+C%E1%BB%A7+Chi\/@11.0091912,106.5785696,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d3b5235adf07:0xf74b95fdbfc697e!8m2!3d11.0091912!4d106.5785696!16s%2Fg%2F11l5nc332y?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -470,6 +512,7 @@ const data = [
         "address":"2H4M+WVG, Unnamed, Road, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ao+c%C3%A1+s%E1%BA%A5u+Hai+L%C3%A2n\/@11.0073028,106.5847038,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d3b3421fe173:0xca270232cda68abc!8m2!3d11.0073028!4d106.5847038!16s%2Fg%2F11h9h81c84?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -481,6 +524,7 @@ const data = [
         "address":"30 Phú Thuận, Phú Mỹ Hưng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CTy+TNHH+n%C3%B4ng+s%E1%BA%A3n+LANGA\/@11.1129114,106.4664281,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2ddb288eaa43:0x4b31adc603b3ff63!8m2!3d11.1129114!4d106.4664281!16s%2Fg%2F11h7dwv3cc?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -492,6 +536,7 @@ const data = [
         "address":"4FG5+53V, Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Fashion+Designer+%26+Architect+Lan+Th%C6%B0\/@11.1254808,106.4576674,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33c3e51a4ec7:0x4f3ac0ae2774b7ed!8m2!3d11.1254808!4d106.4576674!16s%2Fg%2F11fy4tvdwh?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -503,6 +548,7 @@ const data = [
         "address":"X9JP+VC, Thái Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%F0%9D%97%9F%F0%9D%97%AE%CC%80%F0%9D%97%BB%F0%9D%97%B4+%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B5+%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%AE%CC%81%F0%9D%97%B6+%F0%9D%97%BB%F0%9D%97%B4%F0%9D%97%B5%F0%9D%97%B6%CC%89+%F0%9D%97%B1%F0%9D%98%82%CC%9B%F0%9D%97%BC%CC%9B%CC%83%F0%9D%97%BB%F0%9D%97%B4+%F0%9D%97%96%F0%9D%98%82%CC%89+%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%B6\/@10.9820856,106.3860054,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f445228705d:0xfd15df9600f94af9!8m2!3d10.9820856!4d106.3860054!16s%2Fg%2F11sfrr9chc?hl=vi&entry=ttu",
+        "categories":"Công ty quản lý bất động sản",
         "category_group":"df_company"
     },
     {
@@ -514,6 +560,7 @@ const data = [
         "address":"Thái Mỹ, Củ Chi, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/THANH+THANH+WOOD+INDUSTRY+COMPANY+LIMITED+-+FSC+FACTORY\/@10.9827912,106.379711,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2ffd7600e329:0xbd9a4075d2ff347e!8m2!3d10.9827912!4d106.379711!16s%2Fg%2F11hyxpqzhs?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -525,6 +572,7 @@ const data = [
         "address":"3FGJ+6CP, An Nhơn Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/D%C6%B0a+L%C6%B0%E1%BB%9Bi+Vu%C3%B4ng+Tr%C3%B2n\/@11.0755836,106.481068,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b3326e163059b:0x7c418a8d67c408bb!8m2!3d11.0755836!4d106.481068!16s%2Fg%2F11hybwbvch?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -536,6 +584,7 @@ const data = [
         "address":"XCJ5+Q3F, Thái Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/K12+K%C3%AAnh+ch%C3%ADnh+%C4%90%E1%BB%A9c+H%C3%B2a\/@10.9819336,106.4076726,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2ffffb5005c7:0xcf8ac4fa7f3b8504!8m2!3d10.9819336!4d106.4076726!16s%2Fg%2F11kl3xb7tx?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -547,6 +596,7 @@ const data = [
         "address":"Phạm Văn Cội, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+tuy%E1%BA%BFn+hi%E1%BB%87p+l%E1%BB%A3i\/@11.0215766,106.5151341,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2dd6e7da3d41:0x7d10ffb0c07bd55a!8m2!3d11.0215766!4d106.5151341!16s%2Fg%2F11jf0s338v?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -558,6 +608,7 @@ const data = [
         "address":"2G75+H64, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+v%E1%BA%ADn+t%E1%BA%A3i+v%C3%A0+giao+nh%E1%BA%ADn+Bia+S%C3%A0i+G%C3%B2n\/@11.0138838,106.5080655,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2ce121dd42b3:0xc38fb200f80cef79!8m2!3d11.0138838!4d106.5080655!16s%2Fg%2F11c5cr9dqm?hl=vi&entry=ttu",
+        "categories":"Công ty vận tải đường bộ",
         "category_group":"df_company"
     },
     {
@@ -569,6 +620,7 @@ const data = [
         "address":"Việt Nam, Thành phố Hồ Chí Minh, Củ Chi, Unnamed Road",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/N%E1%BA%A5m+Trang+Sinh\/@11.0209213,106.5229768,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d6815cbddd7:0x941b4e3faaea2cd2!8m2!3d11.0209213!4d106.5229768!16s%2Fg%2F11k5hkl5xg?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -580,6 +632,7 @@ const data = [
         "address":"228\/13\/3 Nguyễn Thị Lắng, Tân Phú Trung, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/LABone+Scientific+Co.Ltd.,\/@10.9547081,106.5512866,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d4b94311a651:0xfee473674ca5ebf5!8m2!3d10.9547081!4d106.5512866!16s%2Fg%2F11f33ql_k4?hl=vi&entry=ttu",
+        "categories":"Công ty công nghệ sinh học, Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -591,6 +644,7 @@ const data = [
         "address":"XH3Q+3C8, Unnamed Road, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+Nam+Ph%C3%A1t\/@10.952659,106.588574,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d5093624a893:0xe5e0bd29856c0b90!8m2!3d10.952659!4d106.588574!16s%2Fg%2F11jxwm1_xq?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -602,6 +656,7 @@ const data = [
         "address":"XH98+RF4, Hồ Văn Tắng, Tân Thạnh Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/TNHH+TMDV+SX+Tr%C3%AD+%C4%90%E1%BB%A9c\/@10.9695069,106.5662031,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d49dbddf293f:0x3381ee2664fe9788!8m2!3d10.9695069!4d106.5662031!16s%2Fg%2F11bwmfd2xy?hl=vi&entry=ttu",
+        "categories":"Công ty",
         "category_group":"df_company"
     },
     {
@@ -613,6 +668,7 @@ const data = [
         "address":"1135 Nguyễn Thị Rành, An Nhơn Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CTY+CP+TTNT+XNK+TH%E1%BA%A2M-M%C3%80N+S%C3%81O+STAR\/@11.0798513,106.4750768,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33e65f9831ff:0x85e4949caa93ad05!8m2!3d11.0798513!4d106.4750768!16s%2Fg%2F11j6sgx31f?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -624,6 +680,7 @@ const data = [
         "address":"205a Đường An Nhơn Tây, An Phú, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/X%C3%AD+nghi%E1%BB%87p+C%C3%A2y+tr%E1%BB%93ng+Ph%C3%BA+M%E1%BB%B9+(tr%E1%BA%A1i+%C4%90%E1%BB%93ng+Ti%E1%BA%BFn+3)\/@11.085935,106.4812259,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b332b5f8d3ba1:0x562fcb51641f822!8m2!3d11.085935!4d106.4812259!16s%2Fg%2F11fvpd1lzq?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -635,6 +692,7 @@ const data = [
         "address":"3FXW+R42, An Phú, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/X%C3%AD+nghi%E1%BB%87p+ch%C4%83n+nu%C3%B4i+An+Ph%C3%BA\/@11.0995038,106.4952502,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33d6cb1600ef:0x23b8ecdeeaef418e!8m2!3d11.0995038!4d106.4952502!16s%2Fg%2F11jpq020bp?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -646,6 +704,7 @@ const data = [
         "address":"900 Đ. Tỉnh Lộ 15, Ấp 4, Củ Chi, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C6%AF%E1%BB%9CN+TH%E1%BB%B0C+V%E1%BA%ACT+C%E1%BB%A6+CHI\/@11.06391,106.5250875,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33ae3ad5b77f:0xffe2e8ea93e7a82d!8m2!3d11.06391!4d106.5250875!16s%2Fg%2F11jclts0f6?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -657,6 +716,7 @@ const data = [
         "address":"21 Cao Thị Đậu, Phú Mỹ Hưng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/21+Cao+Th%E1%BB%8B+%C4%90%E1%BA%ADu,+Ph%C3%BA+M%E1%BB%B9+H%C6%B0ng,+C%E1%BB%A7+Chi,+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh\/@11.0974332,106.4498778,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33e9e203e2a1:0xf9791e96a8edf72!8m2!3d11.0974332!4d106.4498778!16s%2Fg%2F11jjqhzrgp?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -668,6 +728,7 @@ const data = [
         "address":"Số 52, Đường 536, Ấp Bàu Trăn, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+Shihfa\/@11.0499882,106.5002192,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d56bc312771:0x7f98ea444402f174!8m2!3d11.0499882!4d106.5002192!16s%2Fg%2F11h51yj2hh?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -679,6 +740,7 @@ const data = [
         "address":"2GVH+C55, Phạm Văn Cội, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%A5m+KCN+Ph%E1%BA%A1m+V%C4%83n+C%E1%BB%99i\/@11.0435089,106.5279788,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d6867f70549:0x9f67bf38d0ee1221!8m2!3d11.0435089!4d106.5279788!16s%2Fg%2F11fkqz36ws?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -690,6 +752,7 @@ const data = [
         "address":"93a Bà Thiên, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/L%C3%B2+Xo+Th%C3%A9p+Pha+Ly\/@11.044192,106.4934057,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d48662e9f91:0x2ca6fab074ac67c9!8m2!3d11.044192!4d106.4934057!16s%2Fg%2F11f7r1fgcc?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -701,6 +764,7 @@ const data = [
         "address":"2C5X+4XR, Phước Hiệp, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%C3%BAc+C%E1%BB%A7+Chi\/@11.0078712,106.4498783,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2dd623f71b3d:0x323f7dca93dcd67a!8m2!3d11.0078712!4d106.4498783!16s%2Fg%2F11g0h_5jrd?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -712,6 +776,7 @@ const data = [
         "address":"14 Đường 781 ,ấp xóm thuốc, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C6%B0%E1%BB%9Dn+Lan+X%C3%B3m+Thu%E1%BB%91c+C%E1%BB%A7+Chi\/@11.1148267,106.516719,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b3350a74bf853:0x5ca9683bbceb2e7f!8m2!3d11.1148267!4d106.516719!16s%2Fg%2F11h6fjy4n3?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -723,6 +788,7 @@ const data = [
         "address":"Ba Sa, Phước Hiệp, Củ Chi, Thành phố Hồ Chí Minh 734400, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C6%B0%E1%BB%9Fi+da+xanh+Phong+Lan\/@11.0110533,106.4556353,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d7cb6ccde01:0x5c087097bfc1ed3d!8m2!3d11.0110533!4d106.4556353!16s%2Fg%2F11h3bgtm9z?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -734,6 +800,7 @@ const data = [
         "address":"2CGW+6GJ, Trung Lập Hạ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/FPT\/@11.0255787,106.4462529,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d00349cdeff:0x80443a2ef101b043!8m2!3d11.0255787!4d106.4462529!16s%2Fg%2F11vp_bf8gp?hl=vi&entry=ttu",
+        "categories":"Công ty thiết kế",
         "category_group":"df_company"
     },
     {
@@ -745,6 +812,7 @@ const data = [
         "address":"3G23+Q8G, Ấp Bàu Trăn, X.Nhuận Đức, H.Củ Chi, Tp.Hồ Chí Minh, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+May+M%E1%BA%B7c+Th%C3%A1i+D%C6%B0%C6%A1ng+Th%E1%BA%BF+Gi%E1%BB%9Bi\/@11.0519342,106.5033358,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d766289aa17:0x90e2c571322152e1!8m2!3d11.0519342!4d106.5033358!16s%2Fg%2F11r8dvxvn?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -756,6 +824,7 @@ const data = [
         "address":"207 Bà Thiên, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%E1%BA%A4p+v%C4%83n+h%C3%B3a+XomB%C6%B0ng\/@11.0586224,106.4961115,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d6cc01e395b:0x5946d04f83196ce2!8m2!3d11.0586224!4d106.4961115!16s%2Fg%2F11fk4kh_sg?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -767,6 +836,7 @@ const data = [
         "address":"Bà Thiên, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+N%C3%B4ng+Sinh+Khang+Nguy%C3%AAn\/@11.0607262,106.5053022,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d621e37b3e3:0xa2a80ae654ff06f7!8m2!3d11.0607262!4d106.5053022!16s%2Fg%2F11c5j7167z?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -778,6 +848,7 @@ const data = [
         "address":"65 Đường 456, ấp Chợ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/ND+WOOD+CO.,+LTD\/@10.9923721,106.5894124,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d32d3e47c511:0x88c1cdd31cf857ba!8m2!3d10.9923721!4d106.5894124!16s%2Fg%2F11fj_wv0t9?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -789,6 +860,7 @@ const data = [
         "address":"2FJ5+RX7, Unnamed Road, Trung Lập Hạ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C6%B0%E1%BB%9Dn+mai\/@11.0320293,106.4599289,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d8ded55d5e3:0xbf5689c8bc58baa7!8m2!3d11.0320293!4d106.4599289!16s%2Fg%2F11j2w_b88b?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -800,6 +872,7 @@ const data = [
         "address":"XHHQ+8XP, Kcn Tân Quy, Tân Thạnh Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CTY+TNHH+MAY+M%E1%BA%B6C+TRIPLE+VI%E1%BB%86T+NAM\/@10.9783402,106.589958,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d384e4a45dd9:0x66c60a0f250c4399!8m2!3d10.9783402!4d106.589958!16s%2Fg%2F11c4c1kf90?hl=vi&entry=ttu",
+        "categories":"Công ty may",
         "category_group":"df_company"
     },
     {
@@ -811,6 +884,7 @@ const data = [
         "address":"2FHF+CR9, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/FARM+GARDEN\/@11.0285273,106.4746202,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d61705b3159:0x641be288a4aa0762!8m2!3d11.0285273!4d106.4746202!16s%2Fg%2F11fvh24rl1?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -822,6 +896,7 @@ const data = [
         "address":"10 TL8, Tân Thạnh Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+M%C3%A1y+%C3%94+T%C3%B4+C%E1%BB%A7+Chi\/@10.9800825,106.5914588,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d3852e2a3d0f:0x987d6fce5b36138d!8m2!3d10.9800825!4d106.5914588!16s%2Fg%2F11c1t4v4h7?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -833,6 +908,7 @@ const data = [
         "address":"Trung Lập Hạ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Farm+Garden+Long+Ph%C3%BAc+%C4%90i%E1%BB%81n\/@11.0206259,106.4735612,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d1338f054c1:0x555f81b49eecc83c!8m2!3d11.0206259!4d106.4735612!16s%2Fg%2F11jv6sc_v3?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -844,6 +920,7 @@ const data = [
         "address":"Số 15 Đường Số 142, Tổ 6, Ấp 8, Củ Chi, Thành phố Hồ Chí Minh 735020, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+CP+DV+SX+C%C6%A1+%C4%90i%E1%BB%87n+C%C3%B4ng+Nghi%E1%BB%87p+Ph%C6%B0%C6%A1ng+Nam\/@10.9199372,106.6130956,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d5ef57652e4b:0xefb57676ad85c520!8m2!3d10.9199372!4d106.6130956!16s%2Fg%2F11h8kyx0s7?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -855,6 +932,7 @@ const data = [
         "address":"96 Đ. Tỉnh Lộ 15, Ấp 11A, Củ Chi, Thành phố Hồ Chí Minh 734901, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+Bao+B%C3%AC+Visunpack\/@10.9293215,106.6026683,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d2adaad16b73:0xa915cd10d638cb96!8m2!3d10.9293215!4d106.6026683!16s%2Fg%2F11hckfr809?hl=vi&entry=ttu",
+        "categories":"Công ty đóng gói, Văn phòng công ty, Dịch vụ in ấn giấy mời, Nhà phân phối giấy, Nhà máy giấy",
         "category_group":"df_company"
     },
     {
@@ -866,6 +944,7 @@ const data = [
         "address":"886\/2 HL2, Trung Lập Hạ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+Nu%C3%B4i+Tr%E1%BB%93ng+Th%E1%BB%A7y+H%E1%BA%A3i+S%E1%BA%A3n+H%E1%BB%93ng+%C3%82n\/@11.0122917,106.4657583,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2da3ced41b97:0x3cd2277960afc621!8m2!3d11.0122917!4d106.4657583!16s%2Fg%2F11qw_51hc4?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -877,6 +956,7 @@ const data = [
         "address":"130 Võ Văn Bích, Bình Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+Dea+Sin+Vina\/@10.9348691,106.6131537,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d43099e84fc3:0x5c6d0b0b7afbed86!8m2!3d10.9348691!4d106.6131537!16s%2Fg%2F11gztq0zt?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -888,6 +968,7 @@ const data = [
         "address":"XFPR+8CR, Đường D4, Tân An Hội, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BB%AFa+qu%E1%BB%91c+t%E1%BA%BF+IDP+-+C%E1%BB%A7+Chi\/@10.9858623,106.4910257,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2c8629f98c51:0xd2ec24f0a2184462!8m2!3d10.9858623!4d106.4910257!16s%2Fg%2F11b7s_cwzd?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -899,6 +980,7 @@ const data = [
         "address":"XJ3H+5GM, Võ Văn Bích, Bình Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C3%ACnh+M%E1%BB%B9+Riverside\/@10.9529545,106.6287993,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d41d8c4f9535:0x85c3b7e7eca0fb4!8m2!3d10.9529545!4d106.6287993!16s%2Fg%2F11hbprhkx1?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -910,6 +992,7 @@ const data = [
         "address":"TL8, Bình Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+x%C6%B0%E1%BB%9Fng+cho+thu%C3%AA+KCN+%C4%90%C3%B4ng+Nam\/@10.9594116,106.626257,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d3fc6c0e10a3:0xb702bc64afe5d7d6!8m2!3d10.9594116!4d106.626257!16s%2Fg%2F1tgxr04n?hl=vi&entry=ttu",
+        "categories":"Công ty quản lý bất động sản",
         "category_group":"df_company"
     },
     {
@@ -921,6 +1004,7 @@ const data = [
         "address":"32 Đ. Phạm Thị Thung, Phước Hiệp, Củ Chi, Thành phố Hồ Chí Minh 71000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%E1%BB%99ng+T%C3%A0i+Apple+Store\/@10.9898088,106.4454609,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2dfe778b4255:0x866d9fa97865879e!8m2!3d10.9898088!4d106.4454609!16s%2Fg%2F11h0_g_hlt?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -932,6 +1016,7 @@ const data = [
         "address":"XC8G+PMV, ĐT823, Thái Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+x%E1%BB%AD+l%C3%BD+ch%E1%BA%A5t+th%E1%BA%A3i+T%C3%A2y+B%E1%BA%AFc\/@10.966851,106.4266634,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b29456e0937c1:0x61315e7cc73337b7!8m2!3d10.966851!4d106.4266634!16s%2Fg%2F11b7hkfj_x?hl=vi&entry=ttu",
+        "categories":"Công ty",
         "category_group":"df_company"
     },
     {
@@ -943,6 +1028,7 @@ const data = [
         "address":"104D đường 628, ấp Trại Đèn, Xã Phước Hiệp, Huyện Củ Chi, TPHCMam, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+SXTM+Bao+B%C3%AC+Ho%C3%A0ng+Ph%C3%A1t\/@10.9808297,106.4377934,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f6cdbbd2bdf:0x83a23be1b9497cac!8m2!3d10.9808297!4d106.4377934!16s%2Fg%2F12j1dsq1m?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -954,6 +1040,7 @@ const data = [
         "address":"72\/42 Số 30, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cty+%C4%90%E1%BB%8Ba+%E1%BB%90c+Qu%C3%BD+B%C3%ACnh\/@10.8440161,106.6782406,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290076c5ca99:0x8e2046c473baaeb5!8m2!3d10.8440161!4d106.6782406!16s%2Fg%2F11vpsff50_?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -965,6 +1052,7 @@ const data = [
         "address":"43\/24 Hẻm 226 Nguyễn Văn Lượng, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%E1%BB%97+s%E1%BB%ADa+Pod\/@10.8403229,106.6721351,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529002ec7b6ef:0x811eabc8f8cde1ab!8m2!3d10.8403229!4d106.6721351!16s%2Fg%2F11vs4y66c0?hl=vi&entry=ttu",
+        "categories":"Công ty điện tử",
         "category_group":"df_company"
     },
     {
@@ -976,6 +1064,7 @@ const data = [
         "address":"33\/18 Bùi Quang Là, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/25%2F33%2F18+B%C3%B9i+Quang+L%C3%A0,+Ph%C6%B0%E1%BB%9Dng+12,+Qu%E1%BA%ADn+G%C3%B2+V%E1%BA%A5p,+Th%C3%A0nh+Ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh\/@10.8375572,106.6402093,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529c6890b4e03:0xc4150b28681718ec!8m2!3d10.8375572!4d106.6402093!16s%2Fg%2F11mvgm0mfk?hl=vi&entry=ttu",
+        "categories":"Công ty quản lý bất động sản",
         "category_group":"df_company"
     },
     {
@@ -987,6 +1076,7 @@ const data = [
         "address":"RJMQ+HCC, Số 30, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/112%2F47+B%C3%B9i+Quang+L%C3%A0\/@10.8339473,106.6385156,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529784644a825:0x2d796f7cc82c8edc!8m2!3d10.8339473!4d106.6385156!16s%2Fg%2F11b7vjn1t4?hl=vi&entry=ttu",
+        "categories":"Công ty",
         "category_group":"df_company"
     },
     {
@@ -998,6 +1088,7 @@ const data = [
         "address":"20 Hẻm 496 Dương Quảng Hàm, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+T%C6%B0+V%E1%BA%A5n+Thi%E1%BA%BFt+K%E1%BA%BF+Ki%E1%BB%83m+%C4%90%E1%BB%8Bnh+X%C3%A2y+D%E1%BB%B1ng+N.a.d\/@10.839141,106.685748,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752856ef8a6589:0x4877f591e7aee853!8m2!3d10.839141!4d106.685748!16s%2Fg%2F11flt8t1y3?hl=vi&entry=ttu",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -1009,6 +1100,7 @@ const data = [
         "address":"129\/35 Nguyễn Văn Nghi, Phường 7, Gò Vấp, Thành phố Hồ Chí Minh 71407, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BB%95+Ch%E1%BB%A9c+S%E1%BB%B1+Ki%E1%BB%87n+Ho%C3%A0ng+Khang\/@10.825096,106.6831417,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752973336cda17:0x4913d591811e6ef5!8m2!3d10.825096!4d106.6831417!16s%2Fg%2F11ld3lhy34?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1020,6 +1112,7 @@ const data = [
         "address":"56 Đ. Số 12, KDC Cityland Park Hills, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VietCapital+Real\/@10.8373463,106.6673122,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529af83817387:0xdb8c09dc9e275384!8m2!3d10.8373463!4d106.6673122!16s%2Fg%2F11qnjv3hk3?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1031,6 +1124,7 @@ const data = [
         "address":"37\/17\/50 Hà Huy Giáp, P, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+%C4%90%E1%BA%A7u+T%C6%B0+%26+C%C3%B4ng+Ngh%E1%BB%87+H%C3%B9ng+Hy\/@10.853691,106.676111,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752957d7541c67:0xadb201646cffd93b!8m2!3d10.853691!4d106.676111!16s%2Fg%2F11qpdvrj53?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1042,6 +1136,7 @@ const data = [
         "address":"103 Phạm Huy Thông, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+h%C3%A0ng+VLXD+v%C3%A0+M%E1%BB%9F+Kh%C3%B3a+Quang+H%C3%A0\/@10.8331154,106.6811506,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752900448325bf:0x2261c62472f9abb!8m2!3d10.8331154!4d106.6811506!16s%2Fg%2F11lcysktt4?hl=vi&entry=ttu",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -1053,6 +1148,7 @@ const data = [
         "address":"VJ3W+C4J, Đ. 53, Phường 14, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VP+B%C4%90H+CC1+Tham+L%C6%B0%C6%A1ng\/@10.8535827,106.6452544,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290060e81607:0xdbf59ad2f7a4c10d!8m2!3d10.8535827!4d106.6452544!16s%2Fg%2F11vpxn4nx8?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1064,6 +1160,7 @@ const data = [
         "address":"332\/137A Hẻm 114 D. Quảng Hàm, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%C3%A0nh+trung+smart+home\/@10.8279924,106.6954045,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290048ea85ab:0x31858cc65c7e88fd!8m2!3d10.8279924!4d106.6954045!16s%2Fg%2F11y2jwzwpr?hl=vi&entry=ttu",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -1075,6 +1172,7 @@ const data = [
         "address":"160\/28\/11 Đường số 4, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ninh+Thu%E1%BA%ADn\/@10.8493563,106.6592807,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752938da3071f5:0xcfe5ded64db563a9!8m2!3d10.8493563!4d106.6592807!16s%2Fg%2F11shp7c3fs?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1086,6 +1184,7 @@ const data = [
         "address":"RHVH+WHP, Unnamed Road, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQzE8Rf8qdTER1jlVMUZS0eY",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1097,6 +1196,7 @@ const data = [
         "address":"VHM3+JW9, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJqfBmg6AqdTERVKiAdmoJX2Q",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1108,6 +1208,7 @@ const data = [
         "address":"189 Đặng Công Bỉnh, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJkSUT1wgrdTERBnSrdHA7S6A",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1119,6 +1220,7 @@ const data = [
         "address":"VHJ3+G2V, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0TK0LKEqdTERKsEFRnH0Z-k",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1130,6 +1232,7 @@ const data = [
         "address":"Đường Trương Thị Như, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdcaR4XUrdTER1aDMLeYY34s",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1141,6 +1244,7 @@ const data = [
         "address":"81\/11 Đường Nguyễn Thị Ly, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJm4jNLxkrdTER7lXR8wmD0EU",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1152,6 +1256,7 @@ const data = [
         "address":"83\/3C Đường Nguyễn Thị Ly, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJz0PTIvQrdTERS-Qnb-vFhgY",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1163,6 +1268,7 @@ const data = [
         "address":"217 Đường Nguyễn Thị Ly, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJu28JuXIrdTER4IGgxpMjrxQ",
+        "categories":"Công ty xây dựng nhà ở",
         "category_group":"df_company"
     },
     {
@@ -1174,6 +1280,7 @@ const data = [
         "address":"WH7V+Q5P, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJm2zTfnPVdDERmhMmXyv9EdI",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1185,6 +1292,7 @@ const data = [
         "address":"WH7Q+72, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJXySodQTWdDERoJwRJ0Hbz7E",
+        "categories":"Công ty đóng gói, Nhà sản xuất",
         "category_group":"df_company"
     },
     {
@@ -1196,6 +1304,7 @@ const data = [
         "address":"Số 170\/2A Đường Tân Hiệp 03 ấp, Thới Tây 1, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJB_iXlNTVdDERtpLyABP7Ywc",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1207,6 +1316,7 @@ const data = [
         "address":"180\/2C ấp Tân Thới 3, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN9yaYZnVdDERFCfRW9AFBN0",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1218,6 +1328,7 @@ const data = [
         "address":"174 Đặng Công Bỉnh, Tân Thới Nhì, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdaQHOkHVdDERWVbgBQWlLR8",
+        "categories":"Công ty dược phẩm, Thợ cơ khí",
         "category_group":"df_company"
     },
     {
@@ -1229,6 +1340,7 @@ const data = [
         "address":"66\/09 Xuân Thới Đông 1, Xuân Thới Đông, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ_8F4iGEqdTERlIkIThGfZPc",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1240,6 +1352,7 @@ const data = [
         "address":"26\/7z Xuân Thới Đông 1, Xuân Thới Đông, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJgZJdQQArdTERArkQIH0J_I4",
+        "categories":"Công ty chế biến thực phẩm",
         "category_group":"df_company"
     },
     {
@@ -1251,6 +1364,7 @@ const data = [
         "address":"xã, 25\/13 Xuân Thới Đông 1, Xuân Thới Đông, Hóc Môn, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJk-ZMz7IrdTER1dXe_hkPoaU",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1262,6 +1376,7 @@ const data = [
         "address":"65 Thanh Niên, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJDSralqkqdTER0izRw8vnTYs",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1273,6 +1388,7 @@ const data = [
         "address":"Lô A4, Đường NB, Cụm Nhị Xuân, Hóc Môn, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfw617ynVCjERxyQNicc1VIc",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1284,6 +1400,7 @@ const data = [
         "address":"VGHP+V79, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJn_c5U1PVCjERnWaD101Hdz8",
+        "categories":"Trụ sở tổng công ty",
         "category_group":"df_company"
     },
     {
@@ -1295,6 +1412,7 @@ const data = [
         "address":"12\/98\/52 Đường Đông Thạnh 8.1, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCRa76yTXdDERXT2YgDJUswU",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -1306,6 +1424,7 @@ const data = [
         "address":"1054b Lê Văn Khương, Thới An, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRxy26RbXdDERbW2-pjedhb4",
+        "categories":"Văn phòng công ty, Nhà máy cơ khí",
         "category_group":"df_company"
     },
     {
@@ -1317,6 +1436,7 @@ const data = [
         "address":"Lô B8 - B9, Cụm Công Nghiệp Nhị Xuân, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJAQAAAKQqdTERKmuqUMNdCAA",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1328,6 +1448,7 @@ const data = [
         "address":"140\/28 tổ 10 ấp 4, Nhị Bình, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJR5meAIDXdDERn-CyMt1-l-M",
+        "categories":"Công ty chế biến thực phẩm",
         "category_group":"df_company"
     },
     {
@@ -1339,6 +1460,7 @@ const data = [
         "address":"160 Trương Công Định P.14 Quận Tân Bình, 111 Trần Văn Mười, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJTUdXZVwqdTERcIG5LmLfBCg",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1350,6 +1472,7 @@ const data = [
         "address":"99\/5, 26-1 Xuân Thới Thượng 4 - 1, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4Xvkx2MrdTERTrIm6e1GRjA",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1361,6 +1484,7 @@ const data = [
         "address":"57\/7 ấp Nam Lân, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJSxj7w2IrdTER6jvcD2n5n_s",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1372,6 +1496,7 @@ const data = [
         "address":"30a Ấp 7, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3XR7E1cqdTERjhTE0Om-QgU",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1383,6 +1508,7 @@ const data = [
         "address":"45 Đường Phạm Văn Sáng, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZ7zCZFcqdTERUhyRaBtZXmQ",
+        "categories":"Văn phòng công ty, Công ty may",
         "category_group":"df_company"
     },
     {
@@ -1394,6 +1520,7 @@ const data = [
         "address":"238 Ấp Tân Lập, Tân Thới Nhì, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJE7wrmSorCzERTWQrnXJItXw",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1405,6 +1532,7 @@ const data = [
         "address":"16\/2\/12 kinh, Kênh tiêu Bà Điểm 1, Ấp 7, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW0ogzagrdTERvjXS3xRHZkI",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1416,6 +1544,7 @@ const data = [
         "address":"70 2B, ấp 6, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiUoLAbUrdTERsRPzNayRFvE",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1427,6 +1556,7 @@ const data = [
         "address":"VG3V+HWC, Khu dân cư Đại Hải, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ5xzXXLgrdTEREiE7DwQ5Eyk",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1438,6 +1568,7 @@ const data = [
         "address":"89 Thanh Niên, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJax9TbDLVCjERVy0lgqLrtzg",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1449,6 +1580,7 @@ const data = [
         "address":"7A112, An Hạ, Phạm Văn Hai, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpW2-eNDVCjERpT7TZjXxtsg",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1460,6 +1592,7 @@ const data = [
         "address":"49 Ấp 3, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKVFH-osqdTERqqNnXjAUYUE",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1471,6 +1604,7 @@ const data = [
         "address":"15 Đường XTT - 27, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrYE8ipQqdTERlvVzpOpncOI",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1482,6 +1616,7 @@ const data = [
         "address":"77 Tuyến 1.2003 Xuân Thới Thượng, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJB-5G64MqdTER48N3Rn1QCvc",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1493,6 +1628,7 @@ const data = [
         "address":"11\/3b D. Công Khi, Ấp 1, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUyfKUmQrdTERHjaukICg-Rk",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1504,6 +1640,7 @@ const data = [
         "address":"777 Duong Cong Khi Street, Xuan Thoi Son Commune, Hoc Mon District, Ho Chi Minh City, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJt642xpsqdTERsCy5T32Y3c8",
+        "categories":"Văn phòng công ty, Nhà xuất khẩu hàng may mặc",
         "category_group":"df_company"
     },
     {
@@ -1515,6 +1652,7 @@ const data = [
         "address":"5\/5E, Đường, D. Công Khi, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJhUItKusqdTERoZHl3hdOo98",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1526,6 +1664,7 @@ const data = [
         "address":"60\/5B Đ. Lê Thị Sẻ, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1-TlxIQrdTEReqwnV3vge0o",
+        "categories":"Trụ sở tổng công ty",
         "category_group":"df_company"
     },
     {
@@ -1537,6 +1676,7 @@ const data = [
         "address":"450\/60 Đường Trung Đông 1, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbyjEhYjVdDERoO602ETVKd4",
+        "categories":"Công ty quản lý sự kiện",
         "category_group":"df_company"
     },
     {
@@ -1548,6 +1688,7 @@ const data = [
         "address":"60 ấp 1, Thới Tam Thôn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJkXjhoE7VdDERgLS27eJ-3A4",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1559,6 +1700,7 @@ const data = [
         "address":"30\/2b, 30\/2B Tổ 70 Âp Trung Đông, Thới Tam Thôn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdextJ-nVdDERbCZpHkKoJbM",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1570,6 +1712,7 @@ const data = [
         "address":"34\/2b ấp Mới 1, Tân Xuân, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN2D-YQArdTERChWcvN01Tig",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1581,6 +1724,7 @@ const data = [
         "address":"30\/3D, ấp Mỹ Hòa 3, Tân Xuân, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJA7Pf63IqdTER0CyDeSFUtlg",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -1592,6 +1736,7 @@ const data = [
         "address":"Tổ 5, 15\/4 Ấp Mới 2, Trung Chánh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJlcAEBwArdTERFNsESApL3x4",
+        "categories":"Công ty may",
         "category_group":"df_company"
     },
     {
@@ -1603,6 +1748,7 @@ const data = [
         "address":"VH54+9FX, Ấp 1, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ82hsV3QrdTERAise6qPqk4g",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -1614,6 +1760,7 @@ const data = [
         "address":"179 ấp 1, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHb6qosMqdTERR3SK4MHLKiw",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1625,6 +1772,7 @@ const data = [
         "address":"202 Đông Thạnh 6, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZe3LcADXdDERfsOnHLOjmik",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -1636,6 +1784,7 @@ const data = [
         "address":"304 Trịnh Thị Miếng, Thới Tam Thôn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJE_O4MbHVdDERe-gFjw8e9yw",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1647,6 +1796,7 @@ const data = [
         "address":"Tổ 111 Đ. Thới Tam Thôn 17, Tân Chánh Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9W-JkAcqdTER-nca3xJ6tg4",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1658,6 +1808,7 @@ const data = [
         "address":"20 Đường Thới Tam Thôn 6, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJheLZDQcqdTERmNlph14lgwg",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1669,6 +1820,7 @@ const data = [
         "address":"WM64+V7F Hóc Môn Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJK0grku_XdDERWss7-TS1D9c",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1680,6 +1832,7 @@ const data = [
         "address":"58\/7A tổ 11 ấp 1, Nhị Bình, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJu_21r1zWdDERBrmfD9RKmB8",
+        "categories":"Trụ sở tổng công ty",
         "category_group":"df_company"
     },
     {
@@ -1691,6 +1844,7 @@ const data = [
         "address":"8\/4D ấp 1, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOWJtJuwqdTEROj1NJu-BOoo",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1702,6 +1856,7 @@ const data = [
         "address":"2096 đường XTT12, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ_wYfRxArdTERxuDOcYNSnD8",
+        "categories":"Công ty may",
         "category_group":"df_company"
     },
     {
@@ -1713,6 +1868,7 @@ const data = [
         "address":"102\/2 ấp 4, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiXtC3QYrdTEREUovqy4sy5A",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1724,6 +1880,7 @@ const data = [
         "address":"432\/12 Bùi Công Trừng, st, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJeaj-f-ArdTERMqm5DhI8paI",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1735,6 +1892,7 @@ const data = [
         "address":"71\/65, Nhị Bình 15, Nhị Bình, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfXw44LLXdDERECPqlc-OsEc",
+        "categories":"Công ty công nghệ sinh học",
         "category_group":"df_company"
     },
     {
@@ -1746,6 +1904,7 @@ const data = [
         "address":"11\/3 Tổ 4, Ấp 2, Hóc Môn, Thành phố Hồ Chí Minh 71700, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJmSDdkTQpdTER_ZwD95Ovfpo",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1757,6 +1916,7 @@ const data = [
         "address":"Xưởng Đúc Cọc BTCT Liên Thành, 678A Nhị Bình 15, Nhị Bình, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJw63oaQ3XdDERUuTCTzjSFOY",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -1768,6 +1928,7 @@ const data = [
         "address":"WM3F+PJW, Nhị Bình 15, Nhị Bình, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtSABGS3XdDER2i8Rfoz9ACg",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1779,6 +1940,7 @@ const data = [
         "address":"71 93A, Ấp 2, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ05teY0jXdDERHfSRpcR7UO0",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1790,6 +1952,7 @@ const data = [
         "address":"88D D. Công Khi, Ấp 6, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJu3N7jGLVdDER7VY_tnEaiPo",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1801,6 +1964,7 @@ const data = [
         "address":"MPXW+RM2, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVeRSU7U6dTERrekwPLUKsHY",
+        "categories":"Công ty Dầu và Khí tự nhiên",
         "category_group":"df_company"
     },
     {
@@ -1812,6 +1976,7 @@ const data = [
         "address":"MPWM+HP5, 1806, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQTfpFoo7dTERGbCMuRINe50",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1823,6 +1988,7 @@ const data = [
         "address":"MPWH+C9G, Hẻm 1806, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJb-xf3ds7dTERRO042iRc1Hw",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1834,6 +2000,7 @@ const data = [
         "address":"MPWW+WC2, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN6U-roo7dTERor7DWySVvgs",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1845,6 +2012,7 @@ const data = [
         "address":"71\/8\/20\/4 Đ. Đào Tông Nguyên, KP7, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJb02kmds7dTERmGM1unYut6o",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1856,6 +2024,7 @@ const data = [
         "address":"PP2V+M3C, D. Cát Lợi, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZeNSbUsldTERN_d0LyfDPb0",
+        "categories":"Công ty sản phẩm dầu mỏ",
         "category_group":"df_company"
     },
     {
@@ -1867,6 +2036,7 @@ const data = [
         "address":"48\/82\/9 Đặng Nhữ Lâm, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKdk3qWY7dTERwCq8Owk4Qh4",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1878,6 +2048,7 @@ const data = [
         "address":"39 Huỳnh Tấn Phát, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJz-VM0xQ7dTERKpbHGT3wEt4",
+        "categories":"Công ty kinh doanh bất động sản",
         "category_group":"df_company"
     },
     {
@@ -1889,6 +2060,7 @@ const data = [
         "address":"84\/16 Huỳnh Tấn Phát, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWdwqNCc7dTERKziZseyDoRM",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1900,6 +2072,7 @@ const data = [
         "address":"MPVH+5J4, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJozIJAZc7dTERqY8SpYtylsc",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1911,6 +2084,7 @@ const data = [
         "address":"285 Đ. Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Viettel+Tower\/@10.7779823,106.6800095,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f2a698df631:0x5f42bac5a0e47eec!8m2!3d10.7779823!4d106.6800095!16s%2Fg%2F11t9lk69rc?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1922,6 +2096,7 @@ const data = [
         "address":"12 Đông Hưng Thuận 10, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh 729119, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+C%E1%BB%95+ph%E1%BA%A7n+T%E1%BA%ADp+%C4%91o%C3%A0n+DAT\/@10.8425908,106.6301227,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752987496dd61f:0x24b434c598784692!8m2!3d10.8425908!4d106.6301227!16s%2Fg%2F1hc2d6vjj?hl=vi&entry=ttu",
+        "categories":"Công ty tự động hóa, Dịch vụ điện tự động, Dịch vụ doanh nghiệp tới doanh nghiệp, Văn phòng công ty, Thiết bị và giải pháp năng lượng, Nhà cung cấp năng lượng xanh, Nhà cung cấp thiết bị công nghiệp, Công ty năng lượng Mặt Trời, Dịch vụ hệ thống năng lượng mặt trời, Nhà cung cấp thiết bị năng lượng mặt trời",
         "category_group":"df_company"
     },
     {
@@ -1933,6 +2108,7 @@ const data = [
         "address":"VJJP+X38, 43, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cty+May+Nobland\/@10.882405,106.6351951,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d6018901f905:0x3a14e55af5551e06!8m2!3d10.882405!4d106.6351951!16s%2Fg%2F11b86m_447?hl=vi&entry=ttu",
+        "categories":"Công ty xuất nhập khẩu",
         "category_group":"df_company"
     },
     {
@@ -1944,6 +2120,7 @@ const data = [
         "address":"82\/7A, QUARTER1, TO NGOC VAN, WARD, ST, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/BL+LEATHER+BANK+CO.,LTD\/@10.8650475,106.6751854,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752856909d7ebd:0x1209cb3dd2644923!8m2!3d10.8650475!4d106.6751854!16s%2Fg%2F1hdzj2jny?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -1955,6 +2132,7 @@ const data = [
         "address":"789 Đ. Lê Thị Riêng, Thới An, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+V%E1%BA%ADn+T%E1%BA%A3i+Tr%E1%BB%8Dng+T%E1%BA%A5n\/@10.8885754,106.6519377,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529c3ae571ea3:0xbd8e9f8144b22227!8m2!3d10.8885754!4d106.6519377!16s%2Fg%2F1ptxgxq66?hl=vi&entry=ttu",
+        "categories":"Công ty vận tải đường bộ",
         "category_group":"df_company"
     },
     {
@@ -1966,6 +2144,7 @@ const data = [
         "address":"686\/8 TA28, Phường, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%E1%BA%ADn+chuy%E1%BB%83n+xe+%C3%B4+t%C3%B4+B%E1%BA%AFc+Nam+%E2%9C%93+Tr%C6%B0%E1%BB%9Dng+Nam+Logistics\/@10.8905745,106.6528054,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529cc166e0ea7:0x837203580fd92078!8m2!3d10.8905745!4d106.6528054!16s%2Fg%2F11t992sv65?hl=vi&entry=ttu",
+        "categories":"Công ty vận tải đường bộ",
         "category_group":"df_company"
     },
     {
@@ -1977,6 +2156,7 @@ const data = [
         "address":"272\/47 QL1A, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%C3%A1y+%C4%91%C6%B0a+v%C3%B5ng+sbaby+-+C%C3%94NG+TY+TNHH+TAVICO\/@10.8616851,106.7027204,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175283f4b282a93:0x30e2cde48ee3803b!8m2!3d10.8616851!4d106.7027204!16s%2Fg%2F11cm1p1t1h?hl=vi&entry=ttu",
+        "categories":"Công ty đầu tư, Công ty",
         "category_group":"df_company"
     },
     {
@@ -1988,6 +2168,7 @@ const data = [
         "address":"90 Đ.Thạnh Xuân 14, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+C%C6%B0+Picity+Th%E1%BA%A1nh+Xu%C3%A2n+13+Qu%E1%BA%ADn+12\/@10.8655554,106.6630665,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b23b8454dd:0xfdbc7e8cfa89f755!8m2!3d10.8655554!4d106.6630665!16s%2Fg%2F11j90qzv88?hl=vi&entry=ttu",
+        "categories":"Công ty kinh doanh bất động sản",
         "category_group":"df_company"
     },
     {
@@ -1999,6 +2180,7 @@ const data = [
         "address":"VM85+2MC, Đ. Lê Thị Riêng, Thới An, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Khu+d%C3%A2n+c%C6%B0+Th%C6%A1%CC%81i+An\/@10.865057,106.6591305,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a997e8dd5b:0x48a489170ab7c403!8m2!3d10.865057!4d106.6591305!16s%2Fg%2F11n0jkhhlk?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2010,6 +2192,7 @@ const data = [
         "address":"Đường TA 13, Thới An, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C3%A3i+Xe+T%E1%BA%A3i+Ho%C3%A0ng+Nam+Qu%E1%BA%ADn+12\/@10.8845409,106.6567159,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d74f49652f23:0x73a80e5795d87ad0!8m2!3d10.8845409!4d106.6567159!16s%2Fg%2F11pvm7y6bp?hl=vi&entry=ttu",
+        "categories":"Công ty vận tải đường bộ",
         "category_group":"df_company"
     },
     {
@@ -2021,6 +2204,7 @@ const data = [
         "address":"156 TA13, Đ. Lê Thị Riêng, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C3%83I+XE+D%C5%A8NG+TH%E1%BA%A2O+Q12\/@10.8832385,106.6570352,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d7ff212aee07:0x9bda779f4ab9303d!8m2!3d10.8832385!4d106.6570352!16s%2Fg%2F11k5r2kytb?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2032,6 +2216,7 @@ const data = [
         "address":"314 Đ. Lê Thị Riêng, Thới An, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BA%A3o+hl%E1%BB%83m+X%C3%A3+h%E1%BB%99i+Qu%E1%BA%ADn+12\/@10.8735606,106.655372,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fffe5fbfb3d:0xa890938e51460bd!8m2!3d10.8735606!4d106.655372!16s%2Fg%2F11txrwlt1l?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2043,6 +2228,7 @@ const data = [
         "address":"288 Đường Thạnh Lộc 31, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%AB+Tr%C3%A0m+Th%C3%A1i+D%C6%B0%C6%A1ng+B%C3%A1n+C%E1%BB%AB+Tr%C3%A0m,+Nguy%C3%AAn+Li%E1%BB%87u+Tre+Tr%C3%BAc+Gi%C3%A1+R%E1%BA%BB+T%E1%BA%A1i+TPHCM\/@10.8758391,106.6917135,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752846a964143d:0x450e2a21453b0b4e!8m2!3d10.8758391!4d106.6917135!16s%2Fg%2F11bwpz6yk6?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty, Cửa hàng vật liệu xây dựng, Nhà cung cấp vật liệu xây dựng",
         "category_group":"df_company"
     },
     {
@@ -2054,6 +2240,7 @@ const data = [
         "address":"VJ5W+XM9, Tân Thới Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Casumina+Hoc+Mon\/@10.8599048,106.6467341,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ec820978b9:0x76b08e9b3f4e93f6!8m2!3d10.8599048!4d106.6467341!16s%2Fg%2F1tfkc26b?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2065,6 +2252,7 @@ const data = [
         "address":"29A Nguyễn Đình Chiểu, Đa Kao, Quận 1, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN9iV6vAvdTERmI-RlR3s0ME",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2076,6 +2264,7 @@ const data = [
         "address":"2 Đ. Hải Triều, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ6-qHzzovdTERKuM7X5ehack",
+        "categories":"Văn phòng công ty, Trung tâm thương mại",
         "category_group":"df_company"
     },
     {
@@ -2087,6 +2276,7 @@ const data = [
         "address":"192 Đ. Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8T5IpgwvdTER0GQhYohftjc",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2098,6 +2288,7 @@ const data = [
         "address":"33 Đ. Lê Duẩn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ031z3UkvdTERb3A_HHVw1ks",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2109,6 +2300,7 @@ const data = [
         "address":"15 Đ. Lê Thánh Tôn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0f5MGIEvdTERd2-ahzQUQek",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2120,6 +2312,7 @@ const data = [
         "address":"96 Đ. Nguyễn Du, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJs81hPTgvdTER6wTxa3AxOjQ",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2131,6 +2324,7 @@ const data = [
         "address":"233 Lê Hồng Phong, Phường 4, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+CP+xe+kh%C3%A1ch+Ph%C6%B0%C6%A1ng+Trang\/@10.7597268,106.677128,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f1d6e16548d:0x6efd6663ab33c8bc!8m2!3d10.7597268!4d106.677128!16s%2Fg%2F12mj_rwpr?hl=vi&entry=ttu",
+        "categories":"Công ty dịch vụ xe buýt, Dịch vụ chuyển phát nhanh",
         "category_group":"df_company"
     },
     {
@@ -2142,6 +2336,7 @@ const data = [
         "address":"202 Lê Hồng Phong, Phường 4, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+xe+Ph%C6%B0%C6%A1ng+Trang\/@10.759614,106.6776188,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f32acc8d867:0xcc4d6580c7e6d236!8m2!3d10.759614!4d106.6776188!16s%2Fg%2F11sg3hr6j3?hl=vi&entry=ttu",
+        "categories":"Công ty vận tải đường bộ",
         "category_group":"df_company"
     },
     {
@@ -2153,6 +2348,7 @@ const data = [
         "address":"170 Đ. Tùng Thiện Vương, Phường 11, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Trung+t%C3%A2m+Y+t%E1%BA%BF+Qu%E1%BA%ADn+8\/@10.7480998,106.663237,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f4ca76e3b39:0x197f28db62fa626a!8m2!3d10.7480998!4d106.663237!16s%2Fg%2F11ssfmyrx_?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2164,6 +2360,7 @@ const data = [
         "address":"204C Đ. Sư Vạn Hạnh, Phường 9, Quận 5, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Xe+kh%C3%A1ch+Minh+T%C3%A2m+(VP+S%C3%A0i+G%C3%B2n)\/@10.7596504,106.6734853,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fa255be551b:0xb68a1332cbcb2108!8m2!3d10.7596504!4d106.6734853!16s%2Fg%2F11lknrs_t6?hl=vi&entry=ttu",
+        "categories":"Công ty vận tải đường bộ",
         "category_group":"df_company"
     },
     {
@@ -2175,6 +2372,7 @@ const data = [
         "address":"22 Đ. Nguyễn Văn Đừng, Phường 6, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/xe+%C4%90%E1%BA%A1i+Ng%C3%A2n\/@10.7513941,106.6712641,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d10bc399f75:0x3d56d8dfe2f9573!8m2!3d10.7513941!4d106.6712641!16s%2Fg%2F11p01v_0bx?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2186,6 +2384,7 @@ const data = [
         "address":"Trí Kp2, 394\/6 Depot Đào Trí, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CTY+In+Bao+B%C3%AC+Mai+Ph%C3%A1t\/@10.7321147,106.7460625,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175256d57febf7f:0xbffe8aad9aa6653!8m2!3d10.7321147!4d106.7460625!16s%2Fg%2F11g7z0cvr_?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2197,6 +2396,7 @@ const data = [
         "address":"278 Gò Ô Môi, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+Gas+Thanh+B%C3%ACnh+-+Tr%E1%BA%A1m+Chi%E1%BA%BFt+Gas+Qu%E1%BA%ADn+7\/@10.729303,106.741836,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175256dd6b7c3cb:0x9db6d8906db2ef7a!8m2!3d10.729303!4d106.741836!16s%2Fg%2F1hc2cr8b1?hl=vi&entry=ttu",
+        "categories":"Công ty ga",
         "category_group":"df_company"
     },
     {
@@ -2208,6 +2408,7 @@ const data = [
         "address":"391 Đ. Đào Trí, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+Phan+Ta\/@10.7291717,106.7431134,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175256c44a6dcb1:0x1468e334cd5d01bd!8m2!3d10.7291717!4d106.7431134!16s%2Fg%2F1ptvx1644?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2219,6 +2420,7 @@ const data = [
         "address":"E.P.Z, Tân Thuận, Street 3, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%94NG+TY+TNHH+%C4%90%E1%BA%A0T+VI%E1%BB%86T+(%E9%81%94%E8%B6%8A%E8%B2%AC%E4%BB%BB%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)\/@10.754555,106.7369426,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525f123639ac3:0xc8933f378b7713a6!8m2!3d10.754555!4d106.7369426!16s%2Fg%2F11h2fgg59g?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2230,6 +2432,7 @@ const data = [
         "address":"Tòa nhà Hành Chính, Quận 7, Thành phố Hồ Chí Minh 72909, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+T%C3%A2n+Thu%E1%BA%ADn\/@10.7533782,106.7299733,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259100000001:0x3493968319b0e284!8m2!3d10.7533782!4d106.7299733!16s%2Fg%2F1pzrh90yf?hl=vi&entry=ttu",
+        "categories":"Công ty kinh doanh bất động sản, Khu thương mại",
         "category_group":"df_company"
     },
     {
@@ -2241,6 +2444,7 @@ const data = [
         "address":"QP2Q+6G3, Đường số 6, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+Tanaka\/@10.7505231,106.7388038,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259ba3e20239:0xbf0657d9ae208d9c!8m2!3d10.7505231!4d106.7388038!16s%2Fg%2F1tf84l5_?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2252,6 +2456,7 @@ const data = [
         "address":"Tan Thuan E.P.Z Street 6, Tan Thuan Dong Ward, District 7, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Daiwa+Plastic+(Vietnam)+Co.+Ltd\/@10.7479178,106.7389299,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259ba2bea8ad:0x1a9f698244b8d9e6!8m2!3d10.7479178!4d106.7389299!16s%2Fg%2F1tt1dqs3?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2263,6 +2468,7 @@ const data = [
         "address":"12 Đ. Nguyễn Văn Linh, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KOLA+APARTMENTS\/@10.7405671,106.7203754,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752fdb5c9df84f:0x286d9b49fd7dc524!5m2!4m1!1i2!8m2!3d10.7405671!4d106.7203754!16s%2Fg%2F11j2xz_zqs?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty, Căn hộ nghỉ dưỡng cho thuê",
         "category_group":"df_company"
     },
     {
@@ -2274,6 +2480,7 @@ const data = [
         "address":"300\/37a Đ. Nguyễn Văn Linh, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Garage+%C3%B4+t%C3%B4+Phong+V%C5%A9\/@10.7418964,106.7194153,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fb68bd03f93:0xc377740993f735cc!8m2!3d10.7418964!4d106.7194153!16s%2Fg%2F11h196qhsn?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2285,6 +2492,7 @@ const data = [
         "address":"8b Bùi Văn Ba, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cty+TNHH+TMDV+c%C6%A1+%C4%91i%E1%BB%87n+l%E1%BA%A1nh+Thanh+Nh%C3%A0n\/@10.7499806,106.7368917,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525004d229773:0xd1f3f0d188d953b!8m2!3d10.7499806!4d106.7368917!16s%2Fg%2F11vpxw_tyz?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2296,6 +2504,7 @@ const data = [
         "address":"Lô D.01 Tân Thuận KCX, Tân Thuận, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ampere+Computing\/@10.7533478,106.7307818,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752585c09137bf:0x8d0b8af71f21dd40!8m2!3d10.7533478!4d106.7307818!16s%2Fg%2F11hbt54_q2?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty, Công ty thiết kế",
         "category_group":"df_company"
     },
     {
@@ -2307,6 +2516,7 @@ const data = [
         "address":"Lô BF.01-10, đường, Tân Thuận, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+C%26K+Metal+Pressing\/@10.7536642,106.7345298,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175258545fb8de3:0xc0c2b83b07d59144!8m2!3d10.7536642!4d106.7345298!16s%2Fg%2F11c6ff50lv?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2318,6 +2528,7 @@ const data = [
         "address":"5 Hoàng Văn Thái, Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/COBI+TOWER+1\/@10.7280741,106.718743,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752519561c1e9d:0x1115bc1956e99c1f!8m2!3d10.7280741!4d106.718743!16s%2Fg%2F11j71_8b06?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2329,6 +2540,7 @@ const data = [
         "address":"Đường Đ. Phú Thuận, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%99p+nh%C3%B4m+Ho%C3%A0ng+An+Group\/@10.7327854,106.7423111,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525c4dc2398b9:0xf3da15d68a7f0d8!8m2!3d10.7327854!4d106.7423111!16s%2Fg%2F11pv4l3bm9?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2340,6 +2552,7 @@ const data = [
         "address":"PPPQ+7WX, Đường D4, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Panomax+River+Villa\/@10.7357334,106.7398521,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525ee8f3564bd:0xcb29d4159ba599f6!8m2!3d10.7357334!4d106.7398521!16s%2Fg%2F11fnqlc860?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2351,6 +2564,7 @@ const data = [
         "address":"Số 2 Đường 5, Khu Sadeco, Giải Trí, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sen+H%E1%BB%93ng+Media\/@10.732315,106.704012,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6abee00ebf:0x7049e7bcb28f3281!8m2!3d10.732315!4d106.704012!16s%2Fg%2F11lg3qq5jc?hl=vi&entry=ttu",
+        "categories":"Công ty truyền thông",
         "category_group":"df_company"
     },
     {
@@ -2362,6 +2576,7 @@ const data = [
         "address":"7 Đường Số 10, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%C6%B0%C6%A1ng+-+L%E1%BB%AF+Nh%E1%BA%A1c\/@10.7318801,106.7023162,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fc17a29e34f:0x13d931a96115f25a!8m2!3d10.7318801!4d106.7023162!16s%2Fg%2F11hrcvqxm_?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2373,6 +2588,7 @@ const data = [
         "address":"2-4, Đường Số 8, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/COBI+TOWER+2\/@10.7308338,106.7245549,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525f46b232607:0x784e860aec9c7081!8m2!3d10.7308338!4d106.7245549!16s%2Fg%2F11s58_cv1n?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2384,6 +2600,7 @@ const data = [
         "address":"24 Số 1, Khu Dân Cư Cityland, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BA%A3o+Khang+Holdings\/@10.735472,106.7263492,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525e365421d6d:0x2ca31872398e1f36!8m2!3d10.735472!4d106.7263492!16s%2Fg%2F11g196tjpx?hl=vi&entry=ttu",
+        "categories":"Công ty kinh doanh bất động sản",
         "category_group":"df_company"
     },
     {
@@ -2395,6 +2612,7 @@ const data = [
         "address":"PQP2+QVP, Đ. Đào Trí, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Khu+Ph%E1%BB%A9c+H%E1%BB%A3p+S%C3%A0i+G%C3%B2n+PeninSula+Qu%E1%BA%ADn+7\/@10.7369579,106.7522112,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752532cecb7a97:0x767e770b61e6ef01!8m2!3d10.7369579!4d106.7522112!16s%2Fg%2F11fphc0mwq?hl=vi&entry=ttu",
+        "categories":"Công ty tư vấn bất động sản",
         "category_group":"df_company"
     },
     {
@@ -2406,6 +2624,7 @@ const data = [
         "address":"33\/12 Số 1, khu phố 3, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+b%E1%BA%A3o+v%E1%BB%87+H%E1%BA%A3i+S%C6%A1n+24+Gi%E1%BB%9D\/@10.7407551,106.7265485,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752500079d1b71:0x799cb32b0709e3a1!8m2!3d10.7407551!4d106.7265485!16s%2Fg%2F11vs22qvs3?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2417,6 +2636,7 @@ const data = [
         "address":"QP8X+H5W, Đ. Sáng Tạo, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/To%C3%A0+nh%C3%A0+2+-+MiTek+Vietnam\/@10.7664899,106.7479652,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175255988ae00a7:0x15c93f6fbbf19d93!8m2!3d10.7664899!4d106.7479652!16s%2Fg%2F11v5rtsp36?hl=vi&entry=ttu",
+        "categories":"Công ty xây dựng nhà ở",
         "category_group":"df_company"
     },
     {
@@ -2428,6 +2648,7 @@ const data = [
         "address":"Lô A3B, đường 19d, khu chế xuất, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Fanuc+VietNam+Co.,+LTD\/@10.7645465,106.7477767,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f493240e7c1:0x1c08ac097b2d53f1!8m2!3d10.7645465!4d106.7477767!16s%2Fg%2F1tdjtj22?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2439,6 +2660,7 @@ const data = [
         "address":"1 Đ. Sáng Tạo, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%C3%B2a+nh%C3%A0+ITD\/@10.7640177,106.7488186,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525bf8ddd9d85:0xfe73fbc683646b67!8m2!3d10.7640177!4d106.7488186!16s%2Fg%2F11cs2gl9vc?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2450,6 +2672,7 @@ const data = [
         "address":"Tan Thuan E.P.Z, Tan Thuan Street, Tan Thuan Dong Ward, District 7, Ho Chi Minh, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CX+Technology+(VN)+Corp\/@10.762896,106.7481325,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259a9686eceb:0xdfb60fc2b8b37f58!8m2!3d10.762896!4d106.7481325!16s%2Fg%2F1tdx6611?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2461,6 +2684,7 @@ const data = [
         "address":"Lô A4a, đường 19C, Khu E-Office Park, KCX, Tân Thuận, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hanbiro+Vietnam\/@10.7655166,106.7469243,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175252ece1f3117:0xdb1122b0cd981720!8m2!3d10.7655166!4d106.7469243!16s%2Fg%2F11tmfmzr1v?hl=vi&entry=ttu",
+        "categories":"Công ty phần mềm",
         "category_group":"df_company"
     },
     {
@@ -2472,6 +2696,7 @@ const data = [
         "address":"26 My Phu 2C Street, Phú Mỹ Hưng, Zone, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%94NG+TY+C%E1%BB%94+PH%E1%BA%A6N+D%E1%BB%8ACH+V%E1%BB%A4-V%E1%BA%ACN+T%E1%BA%A2I+BI%E1%BB%82N+H%E1%BA%A2I+V%C3%82N\/@10.716581,106.7284655,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525594de7b719:0x40c5177382fbebdb!8m2!3d10.716581!4d106.7284655!16s%2Fg%2F11cnclxnhc?hl=vi&entry=ttu",
+        "categories":"Công ty vận tải biển",
         "category_group":"df_company"
     },
     {
@@ -2483,6 +2708,7 @@ const data = [
         "address":"Biệt thự A 4-2, khu dân cư EverRich, 3, Đ. Phú Thuận, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nami+Technology+Joint+Stock+Company\/@10.7273759,106.7292665,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525bfc777beaf:0x57bf8dcdd37a05f1!8m2!3d10.7273759!4d106.7292665!16s%2Fg%2F11ryc4gz9s?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2494,6 +2720,7 @@ const data = [
         "address":"1 Nguyễn Văn Quỳ, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+C%E1%BB%95+ph%E1%BA%A7n+C%E1%BA%A3ng+Rau+Qu%E1%BA%A3\/@10.7424712,106.7407415,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525760f83dd5d:0x3612e06537b214c0!8m2!3d10.7424712!4d106.7407415!16s%2Fg%2F11ddzsqdvf?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty, Chợ bán buôn nông sản",
         "category_group":"df_company"
     },
     {
@@ -2505,6 +2732,7 @@ const data = [
         "address":"1A Nguyễn Văn Quỳ, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Li%C3%AAn+Doanh+B%C3%B4ng+Sen\/@10.7413376,106.74339,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752576770443bb:0x1fa50b8d4e06a33e!8m2!3d10.7413376!4d106.74339!16s%2Fg%2F11ggn9cty6?hl=vi&entry=ttu",
+        "categories":"Công ty điều hành cảng",
         "category_group":"df_company"
     },
     {
@@ -2516,6 +2744,7 @@ const data = [
         "address":"PPRR+7CV, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kho+vinatrans\/@10.7407493,106.7410398,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525a05ca54a1d:0xf11312d67b4a842f!8m2!3d10.7407493!4d106.7410398!16s%2Fg%2F11ffg9tq84?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2527,6 +2756,7 @@ const data = [
         "address":"885 Đ. Đào Trí, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Himlam+auto\/@10.7390559,106.7377872,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752563bfb69b57:0x77bb6e64dba03004!8m2!3d10.7390559!4d106.7377872!16s%2Fg%2F11ghtmv623?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2538,6 +2768,7 @@ const data = [
         "address":"422 Đ. Đào Trí, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/NH%C3%80+M%E1%BA%AAU+SUNSHINE+CITY+S%C3%80I+G%C3%92N\/@10.7371539,106.7400053,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525801be35cb3:0x9462c92ca6900c9b!8m2!3d10.7371539!4d106.7400053!16s%2Fg%2F11fhy1wpcg?hl=vi&entry=ttu",
+        "categories":"Công ty quản lý bất động sản, Chung cư",
         "category_group":"df_company"
     },
     {
@@ -2549,6 +2780,7 @@ const data = [
         "address":"08 Đường Số 20, Khu đô thị Him Lam, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+C%E1%BB%95+ph%E1%BA%A7n+iCheck\/@10.7386933,106.6992535,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fcb007e4dc3:0x3fcb0d1e74b66dee!8m2!3d10.7386933!4d106.6992535!16s%2Fg%2F11v0m657rp?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2560,6 +2792,7 @@ const data = [
         "address":"104 Đường Chuyên Dùng Chính, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cty+TNHH+THI%C3%8AN+NGA+SAO+MAI\/@10.7051845,106.7407213,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525004e47d0bd:0x9ede1446f09c5c75!8m2!3d10.7051845!4d106.7407213!16s%2Fg%2F11ld05wtw3?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2571,6 +2804,7 @@ const data = [
         "address":"Nguyễn Văn Quỳ, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%E1%BA%A1m+%C3%A9p+gi%E1%BA%A5y+Xu%C3%A2n+Tr%C6%B0%E1%BB%9Dng\/@10.7431622,106.7390539,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752577750bb15f:0x6cf884f5486588ad!8m2!3d10.7431622!4d106.7390539!16s%2Fg%2F11kh1f6ncd?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2582,6 +2816,7 @@ const data = [
         "address":"PPQR+WV2, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Green+ph%C3%BA+thu%E1%BA%ADn\/@10.7397588,106.7421254,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752554c6f88ce1:0x304162ad800bb743!8m2!3d10.7397588!4d106.7421254!16s%2Fg%2F11flxj7jft?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2593,6 +2828,7 @@ const data = [
         "address":"79 Đường số 16, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Midtown+The+Grande+M5\/@10.7228566,106.7259436,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525d89507669f:0xd0029a6c4ffb364!8m2!3d10.7228566!4d106.7259436!16s%2Fg%2F11mtjtms3n?hl=vi&entry=ttu",
+        "categories":"Công ty kinh doanh bất động sản",
         "category_group":"df_company"
     },
     {
@@ -2604,6 +2840,7 @@ const data = [
         "address":"156 Nguyễn Lương Bằng, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Unilever+Vi%E1%BB%87t+Nam\/@10.7269874,106.7225905,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f89a347b75f:0xc346b4c15c5260f4!8m2!3d10.7269874!4d106.7225905!16s%2Fg%2F1hc2ws8ky?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2615,6 +2852,7 @@ const data = [
         "address":"156 Nguyễn Lương Bằng, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 70010, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%C3%A1y+l%E1%BB%8Dc+n%C6%B0%E1%BB%9Bc+Unilever+Pureit\/@10.7273418,106.722366,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8324f887d5:0xb5e0436e4f4bdce!8m2!3d10.7273418!4d106.722366!16s%2Fg%2F11gxmgj37t?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2626,6 +2864,7 @@ const data = [
         "address":"21 Đ. Phú Thuận, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+tr%C3%ACnh+E3+Sunshine+S%C3%A0i+G%C3%B2n\/@10.7280652,106.730138,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525309020a43b:0x4ed4e56f439edd15!8m2!3d10.7280652!4d106.730138!16s%2Fg%2F11rlt3d1jh?hl=vi&entry=ttu",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -2637,6 +2876,7 @@ const data = [
         "address":"15B Nguyễn Lương Bằng, P. Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C4%82N+H%E1%BB%98+Era+Town+%C4%90%E1%BB%A9c+Kh%E1%BA%A3i\/@10.7020207,106.7318012,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525ef161b522d:0x11a187114174607d!8m2!3d10.7020207!4d106.7318012!16s%2Fg%2F11f62_hpw1?hl=vi&entry=ttu",
+        "categories":"Công ty tư vấn bất động sản",
         "category_group":"df_company"
     },
     {
@@ -2648,6 +2888,7 @@ const data = [
         "address":"Đường 15 KCX, Tân Thuận, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+H%E1%BB%A3p+V%C5%A9\/@10.7645076,106.7391787,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752592278d6f51:0x528294554433a9f!8m2!3d10.7645076!4d106.7391787!16s%2Fg%2F1th0vvw0?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2659,6 +2900,7 @@ const data = [
         "address":"QP7Q+JHM, Đường số 16, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+Tosok+Precision\/@10.7640763,106.7389261,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752593232dc13d:0xc3e987b4a2305b8c!8m2!3d10.7640763!4d106.7389261!16s%2Fg%2F1vm_vcyt?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2670,6 +2912,7 @@ const data = [
         "address":"Lô S, 39-40 Đường số 19, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh 72909, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VNG+Data+Center\/@10.7648379,106.7430248,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525f28b43c7e5:0x61353d1023ee3565!8m2!3d10.7648379!4d106.7430248!16s%2Fg%2F11r7xcwq93?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2681,6 +2924,7 @@ const data = [
         "address":"QP8Q+GVW, Đường số 18, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+D%E1%BB%87t+%C4%90%C3%B4ng+Minh+Vi%E1%BB%87t+Nam\/@10.7663511,106.7397094,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525ecbb87c58f:0x8e001eaa1b943b4a!8m2!3d10.7663511!4d106.7397094!16s%2Fg%2F1hc3jnxwh?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2692,6 +2936,7 @@ const data = [
         "address":"QP8V+P5W, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+Vina+Cosmo\/@10.7668669,106.7429441,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525eb13124be3:0xb927cc6d86fdeb95!8m2!3d10.7668669!4d106.7429441!16s%2Fg%2F11g6_6k1lv?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2703,6 +2948,7 @@ const data = [
         "address":"tòa nhà tiêu chuẩn số, 2 Đường Số 15, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+Akiba+Coating%26Technology+Vi%E1%BB%87t+Nam\/@10.7672075,106.7399136,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525923234567d:0xb3ef90ad0cb54b8c!8m2!3d10.7672075!4d106.7399136!16s%2Fg%2F11h54zxqw2?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2714,6 +2960,7 @@ const data = [
         "address":"Lot U, 35 Đường số 20, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+Bao+B%C3%AC+Nh%E1%BA%ADt+B%E1%BA%A3n+VN\/@10.7671268,106.7436786,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525eb04abe48f:0xc0ac4a4f49dfc11b!8m2!3d10.7671268!4d106.7436786!16s%2Fg%2F1tqchq44?hl=vi&entry=ttu",
+        "categories":"Công ty đóng gói",
         "category_group":"df_company"
     },
     {
@@ -2725,6 +2972,7 @@ const data = [
         "address":"Lô B7, Đường 19A, KCX, Tân Thuận, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/MCV+Group\/@10.7678996,106.7466002,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525c5f6524a53:0x86cdfed8266bbd4b!8m2!3d10.7678996!4d106.7466002!16s%2Fg%2F11s7t8vnyx?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2736,6 +2984,7 @@ const data = [
         "address":"Lot S12-16A. Street 20. Tan Thuan EPZ. Tân Thuận Đông Ward District 7 Hồ Chí Minh, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Pepperl%2BFuchs+Vietnam\/@10.7679204,106.7415963,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525eb77b37a13:0xb480c10dc6b9b154!8m2!3d10.7679204!4d106.7415963!16s%2Fg%2F11b6s06ycv?hl=vi&entry=ttu",
+        "categories":"Công ty điện tử",
         "category_group":"df_company"
     },
     {
@@ -2747,6 +2996,7 @@ const data = [
         "address":"QP9V+CV8, Đường số 19, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+Top+Opto+Tec\/@10.7685415,106.7447029,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525ea4f38c34d:0x20498a4cac602c3c!8m2!3d10.7685415!4d106.7447029!16s%2Fg%2F1tvdg8x9?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2758,6 +3008,7 @@ const data = [
         "address":"Khu Chế Xuất, Đường số 19, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CMC+CREATIVE+SPACE\/@10.7688321,106.7461862,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259323acf305:0x4b99f5bc0e096a78!8m2!3d10.7688321!4d106.7461862!16s%2Fg%2F11fjqjj3hs?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2769,6 +3020,7 @@ const data = [
         "address":"khu chế xuất, đường số 22A\/19-21a Tân Thuận, khu công nghiệp trong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Classic+Fine+Foods+Viet+Nam\/@10.7692567,106.7443409,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175250f0a5aa4c3:0x23f0a84e74976d8f!8m2!3d10.7692567!4d106.7443409!16s%2Fg%2F11fdlj7nvw?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2780,6 +3032,7 @@ const data = [
         "address":"u02-12a, Đường 22, Khu Chế Xuất Tân Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Kim+May+Organ+Vi%E1%BB%87t+Nam\/@10.7698084,106.7398073,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525ec1923a7e3:0x22bde27594a39ede!8m2!3d10.7698084!4d106.7398073!16s%2Fg%2F11bw2_ghdx?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2791,6 +3044,7 @@ const data = [
         "address":"lot vb24, Đường số 24, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Lucky+Group\/@10.7700522,106.7462389,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175258969290001:0x50f0d55ebfb02a1b!8m2!3d10.7700522!4d106.7462389!16s%2Fg%2F11s4_0_yhv?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2802,6 +3056,7 @@ const data = [
         "address":"Lô Vb.20a2, Đường 24, KCX, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+C%E1%BB%95+Ph%E1%BA%A7n+Thu%E1%BA%ADn+H%E1%BA%A3i\/@10.7701383,106.7456177,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525be810c82fd:0x7437c4a470e41584!8m2!3d10.7701383!4d106.7456177!16s%2Fg%2F11f9xnm0vg?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2813,6 +3068,7 @@ const data = [
         "address":"khu chế xuất Tân Thuận, 29B-31B-33B Tân Thuận, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/FPT+T%C3%A2n+Thu%E1%BA%ADn+2\/@10.7537212,106.7405857,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259a067bfa27:0x2a35ad30f5a1c989!8m2!3d10.7537212!4d106.7405857!16s%2Fg%2F11c20t041v?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2824,6 +3080,7 @@ const data = [
         "address":"KCX P.Tân Thuận, Đường số 10, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+Th%E1%BB%B1c+Ph%E1%BA%A9m+Asuzac\/@10.7552366,106.7411193,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752590b5eb3db7:0xbd55c13253023086!8m2!3d10.7552366!4d106.7411193!16s%2Fg%2F11bxc727j3?hl=vi&entry=ttu",
+        "categories":"Trụ sở tổng công ty",
         "category_group":"df_company"
     },
     {
@@ -2835,6 +3092,7 @@ const data = [
         "address":"Số 8, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+%C4%90%E1%BA%A1i+T%C3%A2n+(Dasin)\/@10.7552076,106.7390163,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259090ef83a1:0x71c79f759026ab41!8m2!3d10.7552076!4d106.7390163!16s%2Fg%2F11g6nbzb2q?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2846,6 +3104,7 @@ const data = [
         "address":"Tan Thuan E.P.Z Street 8, Tan Thuan Dong Ward, District 7, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Eidai+Kako+(Vietnam)+Co.,Ltd\/@10.7551043,106.7396595,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259198a253f7:0x5c5c1724bfd2eaf1!8m2!3d10.7551043!4d106.7396595!16s%2Fg%2F1thlkkp1?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2857,6 +3116,7 @@ const data = [
         "address":"Lô Z01-02-03a, KCN trong KCX, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cty+CP+D%C6%B0%E1%BB%A3c+Ph%E1%BA%A9m+SaVipharm\/@10.7557428,106.7444698,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752597a6cecafb:0x9ec7a1362ef43063!8m2!3d10.7557428!4d106.7444698!16s%2Fg%2F11b806cnjx?hl=vi&entry=ttu",
+        "categories":"Công ty dược phẩm",
         "category_group":"df_company"
     },
     {
@@ -2868,6 +3128,7 @@ const data = [
         "address":"QP4W+P23, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%94NG+TY+SAVIPHARM\/@10.7567545,106.7450528,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752597b2da0867:0x846a55aeeb3cd2ce!8m2!3d10.7567545!4d106.7450528!16s%2Fg%2F11g6xsfg3s?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2879,6 +3140,7 @@ const data = [
         "address":"Khu A, Lô L, Đường Số 8, KCX, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+C%E1%BB%95+Ph%E1%BA%A7n+Th%E1%BB%B1c+Ph%E1%BA%A9m+B%C3%ACnh+T%C3%A2y\/@10.756825,106.7379228,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259054178f29:0xe2cf950ad4957cf2!8m2!3d10.756825!4d106.7379228!16s%2Fg%2F11gbffknbb?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2890,6 +3152,7 @@ const data = [
         "address":"134 Đường số 17, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kho+Vi%E1%BB%85n+S%C6%A1n\/@10.7713864,106.7428029,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525d9c019bbfd:0x37ca34ae4e564bad!8m2!3d10.7713864!4d106.7428029!16s%2Fg%2F11ft4tr5kv?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2901,6 +3164,7 @@ const data = [
         "address":"Z06 Số 13, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VNG\/@10.7575708,106.7457165,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eeca0d84b33:0xb98f29e0479d526a!8m2!3d10.7575708!4d106.7457165!16s%2Fg%2F1hc4hbnyx?hl=vi&entry=ttu",
+        "categories":"Công ty phần mềm, Dịch vụ tiếp thị trên Internet, Nhà cung cấp dịch vụ Internet",
         "category_group":"df_company"
     },
     {
@@ -2912,6 +3176,7 @@ const data = [
         "address":"QP5R+9F3, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kyoshin+Vietnam+Co.,+Ltd.\/@10.7583914,106.74116,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525bed44ba699:0x8f4ad1f2984c1f82!8m2!3d10.7583914!4d106.74116!16s%2Fg%2F11j13xfz4l?hl=vi&entry=ttu",
+        "categories":"Cơ quan đăng ký công ty",
         "category_group":"df_company"
     },
     {
@@ -2923,6 +3188,7 @@ const data = [
         "address":"QP5V+CMJ, Đường số 14, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+Cch+Top+(Vn)\/@10.7585796,106.7441323,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259689150c8d:0x7381722fd268975f!8m2!3d10.7585796!4d106.7441323!16s%2Fg%2F1tdjz2fz?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2934,6 +3200,7 @@ const data = [
         "address":"QP5Q+V44, Đường số 12, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+Hatchando+(VN)\/@10.7596336,106.7378148,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525922afc9bf5:0xb9f0161bb9d80c09!8m2!3d10.7596336!4d106.7378148!16s%2Fg%2F11f5dhs86l?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2945,6 +3212,7 @@ const data = [
         "address":"Tan Thuan E.P.Z, Street 12, Tan Thuan Dong Ward, District 7, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Solen+Electric+Vietnam+Co.+Ltd\/@10.7596506,106.7395956,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752596c368d1d7:0x5a5ecd706bcac582!8m2!3d10.7596506!4d106.7395956!16s%2Fg%2F1tjdnv1p?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2956,6 +3224,7 @@ const data = [
         "address":"14 Street, Tan Thuan E.P.Z, Tan Thuan Dong Ward,, District 7,, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/MK+SEIKO+VIET+NAM+CO.,+LTD.\/@10.7602875,106.7411226,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259ab65c9a21:0xec3681acb1b35c18!8m2!3d10.7602875!4d106.7411226!16s%2Fg%2F1tk6x_0h?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2967,6 +3236,7 @@ const data = [
         "address":"Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hung+Way+Co+Ltd\/@10.7606496,106.7458343,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525b218322ab5:0x716ed61cfb49689c!8m2!3d10.7606496!4d106.7458343!16s%2Fg%2F11fhqzykz4?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2978,6 +3248,7 @@ const data = [
         "address":"Đường 16 Khu chế xuất, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Nidec+Tosok+(+Vi%E1%BB%87t+Nam+)\/@10.7612624,106.7437702,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175258dbb08cc2f:0xf69e109341eff671!8m2!3d10.7612624!4d106.7437702!16s%2Fg%2F11f7749fcf?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -2989,6 +3260,7 @@ const data = [
         "address":"Street 14, Tan Thuan Export Processing Zone, Tan Thuan Dong Ward, District 7, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Given+Imaging+Vietnam+Co.,+Ltd+(Medtronic)\/@10.7611198,106.7398452,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752594107443f7:0x7b1ed4e595f94ae1!8m2!3d10.7611198!4d106.7398452!16s%2Fg%2F1pztkgnpz?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3000,6 +3272,7 @@ const data = [
         "address":"Tan Thuan E.P.Z, Street 16, Tan Thuan Dong Ward, District 7,, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T.T.T.I+Co.+Ltd\/@10.7612809,106.7433718,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525944d3ac477:0x9c122139062f2153!8m2!3d10.7612809!4d106.7433718!16s%2Fg%2F1thwxynd?hl=vi&entry=ttu",
+        "categories":"Công ty điện tử",
         "category_group":"df_company"
     },
     {
@@ -3011,6 +3284,7 @@ const data = [
         "address":"QP7V+6XH, Đường số 16, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+Nidec+Copal+(Vi%E1%BB%87t+Nam)\/@10.7630533,106.7449792,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259511f0d3f3:0x6d3156ee05ab4c15!8m2!3d10.7630533!4d106.7449792!16s%2Fg%2F1trtrt9_?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3022,6 +3296,7 @@ const data = [
         "address":"242 Bùi Văn Ba, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BA%A3ng+S%C3%A0i+G%C3%B2n+-+chi+nh%C3%A1nh+T%C3%A2n+Thu%E1%BA%ADn+2\/@10.751739,106.7431475,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259999dd7a9d:0xb0bc5026e8b9ef3a!8m2!3d10.751739!4d106.7431475!16s%2Fg%2F1tk6x_0g?hl=vi&entry=ttu",
+        "categories":"Công ty điều hành cảng",
         "category_group":"df_company"
     },
     {
@@ -3033,6 +3308,7 @@ const data = [
         "address":"860 Huỳnh Tấn Phát, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Cp+Th%E1%BB%8Bnh+Tr%E1%BA%A7n\/@10.7280255,106.7305479,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752564196c38ad:0x81ec74985326d851!8m2!3d10.7280255!4d106.7305479!16s%2Fg%2F11g9jjg6my?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3044,6 +3320,7 @@ const data = [
         "address":"PPXR+H6X, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Bi%E1%BB%83n+%C4%90%C3%B4ng+Port\/@10.7489978,106.7406069,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752599536e6b3d:0x69d78c229e577f3c!8m2!3d10.7489978!4d106.7406069!16s%2Fg%2F1tnkzw_p?hl=vi&entry=ttu",
+        "categories":"Công ty điều hành cảng",
         "category_group":"df_company"
     },
     {
@@ -3055,6 +3332,7 @@ const data = [
         "address":"Số 6, Đường Đ2 Khu phức hợp Thương mại Dịch vụ và, 208 Bùi Văn Ba, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/TRACYBEE+VI%E1%BB%86T+NAM\/@10.7467788,106.7398129,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d0602ef61f:0xc3b504a8e2c59faa!8m2!3d10.7467788!4d106.7398129!16s%2Fg%2F12ml2yr0r?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3066,6 +3344,7 @@ const data = [
         "address":"1135\/17\/35\/5, Huỳnh Tấn Phát, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+MTV+Thi%E1%BA%BFt+Ki%E1%BA%BFn+Gi%E1%BB%9Bi\/@10.7249129,106.7384306,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752568fbcb7cb5:0xeeffaa3415106db6!8m2!3d10.7249129!4d106.7384306!16s%2Fg%2F11h4146y6b?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3077,6 +3356,7 @@ const data = [
         "address":"Số 8, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%94NG+TY+TNHH+CN+COMBEST+SAIGON\/@10.7494497,106.740097,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175256774a1a425:0x702e37885479cb58!8m2!3d10.7494497!4d106.740097!16s%2Fg%2F11fqs4z208?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3088,6 +3368,7 @@ const data = [
         "address":"04a Số 13, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+Tuy%E1%BB%81n+Doanh\/@10.750123,106.7405782,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259be79b6717:0xd90af3fe29cdfa72!8m2!3d10.750123!4d106.7405782!16s%2Fg%2F11fkn12v1f?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3099,6 +3380,7 @@ const data = [
         "address":"New Port, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+MTV+K%E1%BB%B9+Thu%E1%BA%ADt+%C4%90%E1%BA%A1i+D%C5%A9ng\/@10.7502083,106.7414581,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525a64d142953:0x36c796c6683886c9!8m2!3d10.7502083!4d106.7414581!16s%2Fg%2F11h11c38lx?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3110,6 +3392,7 @@ const data = [
         "address":"QP3R+5F3, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/c%C3%B4ng+ty+B%E1%BA%A3o+Ng%E1%BB%8Dc\/@10.7528754,106.7411854,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525c9227634a1:0x389bc0569e9a1e91!8m2!3d10.7528754!4d106.7411854!16s%2Fg%2F11h4cyw1r_?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3121,6 +3404,7 @@ const data = [
         "address":"PPFW+4H7, Đường Số 2 Khu Dân Cư Tân Trường, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Facon\/@10.7227855,106.7464203,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175257e2abe58c9:0xf7749b1a4d9a4791!8m2!3d10.7227855!4d106.7464203!16s%2Fg%2F11j0d41dyq?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3132,6 +3416,7 @@ const data = [
         "address":"PP7V+9MR, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BA%BFn+%C4%91%C3%B2+ph%C3%BA+th%C3%A0nh\/@10.7134257,106.744245,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259053009719:0xd015bef5828c9b30!8m2!3d10.7134257!4d106.744245!16s%2Fg%2F11kp_69ttl?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3143,6 +3428,7 @@ const data = [
         "address":"1 Đường số 14, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BA%A3ng+Ph%C3%BA+%C4%90%E1%BB%8Bnh\/@10.7101004,106.6147807,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752df6e4be075d:0xf244913f43d352cc!8m2!3d10.7101004!4d106.6147807!16s%2Fg%2F11df624fmt?hl=vi&entry=ttu",
+        "categories":"Công ty điều hành cảng",
         "category_group":"df_company"
     },
     {
@@ -3154,6 +3440,7 @@ const data = [
         "address":"203 Đ. 325 Trịnh Quang Nghị, Khu dân cư Phú Lợi, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%94NG+TY+TNHH+M%C3%94I+TR%C6%AF%C6%A0%CC%80NG+HA%CC%80NH+TRI%CC%80NH+XANH\/@10.699444,106.6223989,17z\/data=!3m1!4b1!4m6!3m5!1s0x31753346de00c1cd:0x5955d4594694dc11!8m2!3d10.699444!4d106.6223989!16s%2Fg%2F11t6ywjxbl?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3165,6 +3452,7 @@ const data = [
         "address":"Khu B, KCN Tân Kim mở rộng, Đường CN5, Khu xưởng Kizuna 3, Cần Giuộc, Long An, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%94NG+TY+TNHH+YUMOTO+VI%E1%BB%86T+NAM\/@10.6971565,106.6219783,17z\/data=!3m1!4b1!4m6!3m5!1s0x317532049386f019:0xa6f4253fdc575a1!8m2!3d10.6971565!4d106.6219783!16s%2Fg%2F11vhchxx13?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3176,6 +3464,7 @@ const data = [
         "address":"MJW4+PWH, Đ. Số 2, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%C3%B2ng+Cho+Thu%C3%AA+Thanh+Ng%C3%A2n\/@10.6968098,106.6073503,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175320d65b05d33:0x2d52472a8f902312!8m2!3d10.6968098!4d106.6073503!16s%2Fg%2F1pp2v18bh?hl=vi&entry=ttu",
+        "categories":"Công ty kinh doanh bất động sản",
         "category_group":"df_company"
     },
     {
@@ -3187,6 +3476,7 @@ const data = [
         "address":"718A Phạm Thế Hiển, Phường 4, Quận 8, Thành phố Hồ Chí Minh 700100, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90i%E1%BB%87n+M%C3%A1y+Thi%C3%AAn+Long\/@10.7446249,106.6744626,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e551ebdbe71:0x65b486d46ee47c19!8m2!3d10.7446249!4d106.6744626!16s%2Fg%2F11cs5j09dv?hl=vi&entry=ttu",
+        "categories":"Công ty điện tử, Cửa hàng bán đồ điện tử, Cửa hàng đồ gia dụng, Cửa hàng máy móc",
         "category_group":"df_company"
     },
     {
@@ -3198,6 +3488,7 @@ const data = [
         "address":"Lô B1 Chung Cư, 5.02\/5.02 Bông Sao, khu phố 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+Muaban+Batdongsan+Qu%E1%BA%ADn+8\/@10.7369906,106.6612131,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f002f67d059:0xc6b78c42ce726a2c!8m2!3d10.7369906!4d106.6612131!16s%2Fg%2F11vk647th1?hl=vi&entry=ttu",
+        "categories":"Công ty tư vấn bất động sản",
         "category_group":"df_company"
     },
     {
@@ -3209,6 +3500,7 @@ const data = [
         "address":"73 Đường 3643A Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+RM+Healthcare\/@10.7032868,106.6225413,17z\/data=!3m1!4b1!4m6!3m5!1s0x317533d0c95f6b67:0x2117c695566ad828!8m2!3d10.7032868!4d106.6225413!16s%2Fg%2F11rr_s6dmy?hl=vi&entry=ttu",
+        "categories":"Công ty dược phẩm",
         "category_group":"df_company"
     },
     {
@@ -3220,6 +3512,7 @@ const data = [
         "address":"79 Đ. 3158C Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hannah+Company\/@10.704103,106.6193903,17z\/data=!3m1!4b1!4m6!3m5!1s0x31753395cdb1270f:0xa41ac86b501dc6c5!8m2!3d10.704103!4d106.6193903!16s%2Fg%2F11gydfjpt6?hl=vi&entry=ttu",
+        "categories":"Công ty đầu tư",
         "category_group":"df_company"
     },
     {
@@ -3231,6 +3524,7 @@ const data = [
         "address":"Xa lộ Đại Hàn, Tân Kiên, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CH%C3%80NH+XE+PH%C3%9A+QU%E1%BB%90C+(+CH%C3%80NH+HI%E1%BB%82N+)\/@10.7101944,106.6159981,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752deca4cfa835:0x53e284bf7bb2b2d2!8m2!3d10.7101944!4d106.6159981!16s%2Fg%2F11fn8ygb1m?hl=vi&entry=ttu",
+        "categories":"Công ty vận tải đường bộ",
         "category_group":"df_company"
     },
     {
@@ -3242,6 +3536,7 @@ const data = [
         "address":"5\/, 4 Hồ Học Lãm, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BB%95ng+Cty+PETEC+-+Kho+T%E1%BB%95ng+h%E1%BB%A3p+Ph%C3%BA+%C4%90%E1%BB%8Bnh\/@10.7123067,106.6149696,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752df0d2fecae1:0xe0c4d3352ab9d9f7!8m2!3d10.7123067!4d106.6149696!16s%2Fg%2F11c5872p0w?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3253,6 +3548,7 @@ const data = [
         "address":"79\/6 đường số 12, Đ. An Dương Vương, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Theodore+House\/@10.7131081,106.6215364,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d510492c2e7:0xa3e86975aaaa3053!8m2!3d10.7131081!4d106.6215364!16s%2Fg%2F11gvtck0yd?hl=vi&entry=ttu",
+        "categories":"Cơ quan đăng ký công ty",
         "category_group":"df_company"
     },
     {
@@ -3264,6 +3560,7 @@ const data = [
         "address":"47 Hoàng Sĩ Khải, Phường 14, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+An+Ph%C6%B0%E1%BB%9Dng+14+Qu%E1%BA%ADn+8\/@10.7377607,106.6428666,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e6f8bd54243:0x9540cae14235837a!8m2!3d10.7377607!4d106.6428666!16s%2Fg%2F11b67njs2j?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3275,6 +3572,7 @@ const data = [
         "address":"49 Hoài Thanh, Phường 14, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BA%BDm+49+Ho%C3%A0i+Thanh\/@10.7389669,106.6499641,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8672534983:0x331b858d7e1c25fe!8m2!3d10.7389669!4d106.6499641!16s%2Fg%2F11k4wyxrnl?hl=vi&entry=ttu",
+        "categories":"Công ty bảo hiểm",
         "category_group":"df_company"
     },
     {
@@ -3286,6 +3584,7 @@ const data = [
         "address":"PJ55+7VR, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SPVB+Phu+Dinh\/@10.7082317,106.6096486,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752df595d00807:0xabcedc2f912c9f85!8m2!3d10.7082317!4d106.6096486!16s%2Fg%2F11gdtx69gw?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3297,6 +3596,7 @@ const data = [
         "address":"PJ67+CF5, Hẻm số 5 Hồ Học Lãm, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Novaland+Cang+Phu+Dinh\/@10.7110221,106.6137459,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752df6da677b09:0x4d0a89edc7ca419b!8m2!3d10.7110221!4d106.6137459!16s%2Fg%2F11c6sn11xc?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3308,6 +3608,7 @@ const data = [
         "address":"830 Đ. Nguyễn Duy, Phường 12, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+Tai+Nan+International+Viet+Nam\/@10.7425815,106.6567258,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5c2635c23f:0xb61eef57ace9306b!8m2!3d10.7425815!4d106.6567258!16s%2Fg%2F11bcclm8kf?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3319,6 +3620,7 @@ const data = [
         "address":"1022 Đ. Tạ Quang Bửu, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+TM+DV+SX+QUANG+TH%E1%BB%8ANH+H%C6%AFNG\/@10.73261,106.6512668,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e6bd90897d7:0xbf12d6a358c14d0a!8m2!3d10.73261!4d106.6512668!16s%2Fg%2F1td_84zb?hl=vi&entry=ttu",
+        "categories":"Công ty vận tải đường bộ, Nhà sản xuất xe moóc",
         "category_group":"df_company"
     },
     {
@@ -3330,6 +3632,7 @@ const data = [
         "address":"364 Đ. Cộng Hòa, Phường 13, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Etown+1,+C%E1%BB%99ng+H%C3%B2a\/@10.8016653,106.6407848,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175295a8e49a177:0x46daf95b98f29436!8m2!3d10.8016653!4d106.6407848!16s%2Fg%2F11jybgxbl7?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3341,6 +3644,7 @@ const data = [
         "address":"364 Đ. Cộng Hòa, Phường 13, Tân Bình, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/e.town+2\/@10.8021884,106.6398992,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175295015ba7437:0x681ed1b0c038208a!8m2!3d10.8021884!4d106.6398992!16s%2Fg%2F11c1rg78qb?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty, Đại lý cho thuê bất động sản",
         "category_group":"df_company"
     },
     {
@@ -3352,6 +3656,7 @@ const data = [
         "address":"45 Trường Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+C%E1%BB%95+ph%C3%A2n+Th%C6%B0%C6%A1ng+m%E1%BA%A1i+X%C4%83ng+d%E1%BA%A7u+T%C3%A2n+S%C6%A1n+Nh%E1%BA%A5t\/@10.8215543,106.6711447,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529c531e4a9b9:0x2555bb2243d8bf54!8m2!3d10.8215543!4d106.6711447!16s%2Fg%2F11hfft4b5h?hl=vi&entry=ttu",
+        "categories":"Công ty sản phẩm dầu mỏ",
         "category_group":"df_company"
     },
     {
@@ -3363,6 +3668,7 @@ const data = [
         "address":"103\/30 Đ. Số 2, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+Th%C3%B4ng+NH%C6%B0\/@10.8207389,106.6750858,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529006cdd9c07:0x367c339d1f003cb6!8m2!3d10.8207389!4d106.6750858!16s%2Fg%2F11vrzl8zzj?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3374,6 +3680,7 @@ const data = [
         "address":"173\/14 Phan Huy Ích, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+B%C3%A1nh+K%E1%BA%B9o+A+%26+C\/@10.8316788,106.6326681,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529629615ed67:0x281b6caa00d79353!8m2!3d10.8316788!4d106.6326681!16s%2Fg%2F11b67lzgq6?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3385,6 +3692,7 @@ const data = [
         "address":"Hẻm 108 Phan Huy Ích, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+Th%C3%A9p+Nam+H%C6%B0ng\/@10.8300648,106.6339636,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d941961883:0xf0b36e73002524ec!8m2!3d10.8300648!4d106.6339636!16s%2Fg%2F11gnpjcygx?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3396,6 +3704,7 @@ const data = [
         "address":"72 Phan Huy Ích, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C4%83n+ph%C3%B2ng+C%C3%B4ng+ch%E1%BB%A9ng+Ng%C3%B4+Ho%C3%A0i+%C3%81i\/@10.827271,106.6316729,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297c8dae3b11:0x894a640d206aa0fd!8m2!3d10.827271!4d106.6316729!16s%2Fg%2F11fb23hr9p?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3407,6 +3716,7 @@ const data = [
         "address":"39 Trường Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+Hoa+T%C3%A2n+B%C3%ACnh+-+Hai+Au+Building\/@10.8091579,106.6642735,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175293cceb6790f:0x39c6a032b072cee7!8m2!3d10.8091579!4d106.6642735!16s%2Fg%2F1hfcvb1rf?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3418,6 +3728,7 @@ const data = [
         "address":"114A Hồng Hà, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+C%C3%B4ng+ngh%E1%BB%87+Th%C3%B4ng+tin+%C4%90i%E1%BB%87n+l%E1%BB%B1c+TPHCM\/@10.8096603,106.6700514,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292d3e185e81:0xe1e60ee6b797010d!8m2!3d10.8096603!4d106.6700514!16s%2Fg%2F11jdr_kjj8?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3429,6 +3740,7 @@ const data = [
         "address":"18 Đ. Cộng Hòa, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/j%26t+vietnam\/@10.8044298,106.6570407,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a6f6a6b1d9:0x271016a13fd74bb5!8m2!3d10.8044298!4d106.6570407!16s%2Fg%2F11fnv_cnnt?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3440,6 +3752,7 @@ const data = [
         "address":"RM86+6WV, Đ. B, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%C3%A0i+Ki%E1%BB%83m+so%C3%A1t+Kh%C3%B4ng+l%C6%B0u+T%C3%A2n+S%C6%A1n+Nh%E1%BA%A5t\/@10.8156183,106.6623051,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752917a7d76f05:0xc5c1ec4c85bb8801!8m2!3d10.8156183!4d106.6623051!16s%2Fg%2F11sskr2jx0?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3451,6 +3764,7 @@ const data = [
         "address":"RM74+GP9, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HANGAR+917\/@10.8137981,106.6568704,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175296b773f3be9:0x51d893e692a53c31!8m2!3d10.8137981!4d106.6568704!16s%2Fg%2F11f8n_fs36?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3462,6 +3776,7 @@ const data = [
         "address":"B84A Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Th%C3%AD+Nghi%E1%BB%87m+%C4%90i%E1%BB%87n+L%E1%BB%B1c+TP.HCM\/@10.8159294,106.6704332,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529193068e45d:0x5506ceae77316844!8m2!3d10.8159294!4d106.6704332!16s%2Fg%2F11c3282svj?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty, Công ty điện dân dụng",
         "category_group":"df_company"
     },
     {
@@ -3473,6 +3788,7 @@ const data = [
         "address":"233 23\/10 street nha trang Khanh Hoa Province, 650000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/BNT+MACHINERY\/@10.8325974,106.6581027,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529fe64e1afbb:0x1795c10e44e9e9c6!8m2!3d10.8325974!4d106.6581027!16s%2Fg%2F11t0lkgylj?hl=vi&entry=ttu",
+        "categories":"Công ty chế biến thực phẩm",
         "category_group":"df_company"
     },
     {
@@ -3484,6 +3800,7 @@ const data = [
         "address":"503\/5\/17 Phạm Văn Bạch, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C.T%E1%BB%B7+X%C3%A2y+D%E1%BB%B1ng+MINH+CHIN\/@10.8244773,106.6393404,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290003f4bd09:0x9f2003d1fbbb7c28!8m2!3d10.8244773!4d106.6393404!16s%2Fg%2F11vr_grcvn?hl=vi&entry=ttu",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -3495,6 +3812,7 @@ const data = [
         "address":"62\/1 Đ. Huỳnh Văn Nghệ, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/82%2F62%2F1+Huy%CC%80nh+V%C4%83n+Ngh%C3%AA%CC%A3+P.15.Q.T%C3%A2nBi%CC%80nh\/@10.8285657,106.6376577,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529926175139d:0x9f81d2c281c9f041!8m2!3d10.8285657!4d106.6376577!16s%2Fg%2F11j73ch614?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3506,6 +3824,7 @@ const data = [
         "address":"Hẻm 104 Đ. Tân Sơn, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kho+H%C3%A0ng+Cty+Huy+%C4%90%E1%BB%93ng\/@10.8222269,106.6428513,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ea9abc0c3b:0x71a96977fdfce597!8m2!3d10.8222269!4d106.6428513!16s%2Fg%2F11h10_l87b?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3517,6 +3836,7 @@ const data = [
         "address":"91\/61 B2 Đ. Cộng Hòa, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Giao+H%C3%A0ng+Ti%E1%BA%BFt+Ki%E1%BB%87m\/@10.8072587,106.6424891,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752944c03f3047:0x24bb64c490d4e178!8m2!3d10.8072587!4d106.6424891!16s%2Fg%2F11fxdxyrc5?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3528,6 +3848,7 @@ const data = [
         "address":"20 Nguyễn Đức Thuận, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+chuy%E1%BB%83n+ph%C3%A1t+nhanh+EMS\/@10.8075845,106.6403529,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f2944dc3b3:0xf342623be37d49ad!8m2!3d10.8075845!4d106.6403529!16s%2Fg%2F11gjll1lyl?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3539,6 +3860,7 @@ const data = [
         "address":"166\/3 Trần Văn Dư, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Goodway+Technologies+Vi%E1%BB%87t+Nam\/@10.8094775,106.6449627,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294393fd1887:0xa367ff0585c5494c!8m2!3d10.8094775!4d106.6449627!16s%2Fg%2F11csqflh0m?hl=vi&entry=ttu",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3550,6 +3872,7 @@ const data = [
         "address":"104\/1 Đ. Tân Sơn, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+Vi%E1%BB%87t+Ti%E1%BA%BFn\/@10.8237156,106.6411747,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290075582661:0x8fffa32661265105!8m2!3d10.8237156!4d106.6411747!16s%2Fg%2F11vs26vbtq?hl=vi&entry=ttu",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -3561,6 +3884,7 @@ const data = [
         "address":"RQHR+M2Q, Tăng Nhơn Phú B, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVzew7VUndTERv8nzOAZojjI",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3572,6 +3896,7 @@ const data = [
         "address":"RQCM+W8C, Phước Long B, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJne33emsndTERae2KbBjRIxM",
+        "categories":"Công ty kinh doanh bất động sản",
         "category_group":"df_company"
     },
     {
@@ -3583,6 +3908,7 @@ const data = [
         "address":"Lô T5-2 và Lô T6, Đường D11B, Khu Công Nghệ Cao, Tăng Nhơn Phú B, Quận 9, Thành phố Hồ Chí Minh 700840, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJy1SEwd0mdTERdVp7Ykj_8Cg",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3594,6 +3920,7 @@ const data = [
         "address":"Lô BT, Đ. D2 Đ. D1, Phường Tăng Nhơn Phú B, TP Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJjeaR_90mdTERZDLahInGcK4",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3605,6 +3932,7 @@ const data = [
         "address":"16 D5, Khu Phố 6, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJM2CSCq0ndTERgmogpM2KfeM",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3616,6 +3944,7 @@ const data = [
         "address":"Lô số 22, 24, 26, 28, KCX, 1 Linh Trung, Phường Linh Trung, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJk2ALiIEndTERQ9Yg8x305ZM",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3627,6 +3956,7 @@ const data = [
         "address":"Linh Trung 1 E.P.Z Lot 107-111, Linh Trung Ward, Thu Duc District, Phường Linh Trung, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWfVs64AndTER23S6aNfbFpg",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3638,6 +3968,7 @@ const data = [
         "address":"Việt Nam, Thành phố Hồ Chí Minh, Thủ Đức, Linh Trung, KHU CHẾ XUẤT",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJw_-pankndTERpBwOHEJ7sSM",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3649,6 +3980,7 @@ const data = [
         "address":"Linh Trung Industrial Zone, Lot 113-114-116, Linh Trung Ward, Thu Duc District, Phường Linh Trung, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJmX6rzW8ndTERgqGFDBCX7Co",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3660,6 +3992,7 @@ const data = [
         "address":"Đường Nguyễn Thị Tư, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJaXp4GDYndTERLrJ2vwXZ5RM",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3671,6 +4004,7 @@ const data = [
         "address":"Rosita Garden, 03 Tamora, Đường Nguyễn Thị Tư, Phường Phú Hữu, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJeXlfa_nnPSkRvRsqgNZH-_k",
+        "categories":"Công ty tự động hóa",
         "category_group":"df_company"
     },
     {
@@ -3682,6 +4016,7 @@ const data = [
         "address":"QRJ5+677, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ34kPQ0EldTERHUFskuAbLME",
+        "categories":"Công ty điều hành cảng",
         "category_group":"df_company"
     },
     {
@@ -3693,6 +4028,7 @@ const data = [
         "address":"QRF3+958, Unnamed Road, Cát Lái, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJz8L_YhokdTERijb1clyslQk",
+        "categories":"Công ty điều hành cảng",
         "category_group":"df_company"
     },
     {
@@ -3704,6 +4040,7 @@ const data = [
         "address":"QRC4+QM7, Cát Lái, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJK4nP0OkldTERT8fuG3TO4e4",
+        "categories":"Công ty vận tải biển",
         "category_group":"df_company"
     },
     {
@@ -3715,6 +4052,7 @@ const data = [
         "address":"19 Đường số 8, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2dbn83UodTERhRz6NIdMSVM",
+        "categories":"Công ty phát triển nhà đất",
         "category_group":"df_company"
     },
     {
@@ -3726,6 +4064,7 @@ const data = [
         "address":"QRC2+8WX, Cát Lái, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ31ww7hAkdTERw6ai6h7hR54",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3737,6 +4076,7 @@ const data = [
         "address":"209 QL1A, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJt2r-4mwndTERava5Jhx3CTY",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3748,6 +4088,7 @@ const data = [
         "address":"Đường 15 Đ. Quốc lộ 13 cũ, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ6w2N1AsodTER33Z_HbjQPzg",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3759,6 +4100,7 @@ const data = [
         "address":"14 Đ. 9, Khu đô Thị Vạn Phúc, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJIR2i1DMtdTERrzPQ2GyF-24",
+        "categories":"Công ty tư vấn bất động sản",
         "category_group":"df_company"
     },
     {
@@ -3770,6 +4112,7 @@ const data = [
         "address":"1543 Đ. Nguyễn Duy Trinh, Long Trường, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJvd0vdgAhdTERcSRqC-F-LeY",
+        "categories":"Công ty xây dựng nhà ở",
         "category_group":"df_company"
     },
     {
@@ -3781,6 +4124,7 @@ const data = [
         "address":"174\/R Nguyễn Xiển, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJI24VNc_fdDERSI_02OLA9sc",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -3792,6 +4136,7 @@ const data = [
         "address":"114 Nguyễn Thái Bình, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJqWprgsbfdDERFoz_8yYRI8U",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3803,6 +4148,7 @@ const data = [
         "address":"Lô E3 Đ. Võ Chí Công, Long Thạnh Mỹ, Thủ Đức, Thành phố Hồ Chí Minh 71216, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJmXF-ty8ndTERchE-SNRRy5g",
+        "categories":"Công ty phần mềm, Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3814,6 +4160,7 @@ const data = [
         "address":"Hi-Tech Park, Lot I8-1-2, D8 Street, City, Long Thạnh Mỹ, Quận 9, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPe03GSwndTERt4IWhdq6X7I",
+        "categories":"Công ty dược phẩm",
         "category_group":"df_company"
     },
     {
@@ -3825,6 +4172,7 @@ const data = [
         "address":"RRM7+FRG, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJYSdZtAUndTERgWv_49-1yDo",
+        "categories":"Cơ quan đăng ký công ty",
         "category_group":"df_company"
     },
     {
@@ -3836,6 +4184,7 @@ const data = [
         "address":"RVG6+9J6, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJo24Mw2MhdTER_H2Bg42VeAo",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -3847,6 +4196,7 @@ const data = [
         "address":"55 Ích Thạnh, Trường Thạnh, Thành phố Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJk-v2EiondTERS15Ka2b_o2c",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3858,6 +4208,7 @@ const data = [
         "address":"45 Đường Số 4, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJC-3_wgMhdTERIqojZjbUtUA",
+        "categories":"Công ty Dầu và Khí tự nhiên",
         "category_group":"df_company"
     },
     {
@@ -3869,6 +4220,7 @@ const data = [
         "address":"RRC5+M6J, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJcx3MUQAndTERgdESSEikGNs",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3880,6 +4232,7 @@ const data = [
         "address":"QQ9W+Q39, Cát Lái, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtVGM0OkldTERhrpRGTz-tLk",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3891,6 +4244,7 @@ const data = [
         "address":"197B, Đ, Bưng Ông Thoàn, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxYXThb8mdTERawmEaQs-8Qw",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3902,6 +4256,7 @@ const data = [
         "address":"Chạy vào số 444A, 444A Bưng Ông Thoàn, Phường Phú Hữu, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJkX3O8I8pdTERzwdgDwarqtQ",
+        "categories":"Văn phòng công ty, Cửa hàng dụng cụ",
         "category_group":"df_company"
     },
     {
@@ -3913,6 +4268,7 @@ const data = [
         "address":"1021 Đ. Nguyễn Duy Trinh, Phường Phú Hữu, Thủ Đức, Thành phố Hồ Chí Minh 54401, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJD6lCQrAmdTERPEvb5dGt-3U",
+        "categories":"Văn phòng công ty, Cửa hàng vật liệu xây dựng",
         "category_group":"df_company"
     },
     {
@@ -3924,6 +4280,7 @@ const data = [
         "address":"QRW5+2V5, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ90kn8A0ndTERlgCmNsSNuLk",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3935,6 +4292,7 @@ const data = [
         "address":"100 Đường Nguyễn Thị Tư, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQUOSDEgkdTER93u7uAi1dgc",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3946,6 +4304,7 @@ const data = [
         "address":"Đ. số 970, Phường Phú Hữu, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJjcCWBQAndTERkj0DCTsOrfw",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3957,6 +4316,7 @@ const data = [
         "address":"QRQ2+J3C, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJa3gaHwAndTERDRIgVmc6iGo",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3968,6 +4328,7 @@ const data = [
         "address":"Đường A, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJBUjSVDYkdTERY1zV6YobZKI",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3979,6 +4340,7 @@ const data = [
         "address":"479 Xa Lộ Hà Nội, Hiệp Phú, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfwUmO3IndTERO5uNciS_s9c",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -3990,6 +4352,7 @@ const data = [
         "address":"40\/41 Đ. 42, Khu phố 8, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJc9yNQdsndTERBJAqOLFl9oY",
+        "categories":"Văn phòng công ty, Dịch vụ cho thuê ô tô",
         "category_group":"df_company"
     },
     {
@@ -4001,6 +4364,7 @@ const data = [
         "address":"1050\/14, Phạm Văn Đồng P, Khu phố 9, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJDzFN3NMndTER_GphrWgNu8A",
+        "categories":"Công ty điện dân dụng",
         "category_group":"df_company"
     },
     {
@@ -4012,6 +4376,7 @@ const data = [
         "address":"39761 Đ. Nguyễn Văn Bá, Phước Long B, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ7bncPqkndTERL6heR4YlgyY",
+        "categories":"Công ty tàu điện ngầm",
         "category_group":"df_company"
     },
     {
@@ -4023,6 +4388,7 @@ const data = [
         "address":"39723 Nguyễn Xiển, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZ4PJgpnfdDERAKCmnSCoAzA",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4034,6 +4400,7 @@ const data = [
         "address":"VRFP+3GV, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJx1v8EMTfdDERESsX6-xVEYs",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4045,6 +4412,7 @@ const data = [
         "address":"VR9M+WMG, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8fc1vFjfdDERl6_EkexZzf0",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4056,6 +4424,7 @@ const data = [
         "address":"Lô B1, Đường số 2, Bình Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJqTk3BwPYdDERy1SheVt9-oc",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -4067,6 +4436,7 @@ const data = [
         "address":"165A Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4WFpZAYhdTEREbqBDNmvtLk",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4078,6 +4448,7 @@ const data = [
         "address":"VPMM+C5R, Đường số 2, Bình Chiểu, Thủ Đức, Bình Chiểu Thủ Đức Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQfbFGwXYdDERwh_L_Qrdwto",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4089,6 +4460,7 @@ const data = [
         "address":"RV55+44R, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOU_V744hdTER5CIxA1fVp4k",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4100,6 +4472,7 @@ const data = [
         "address":"5A Đường số 3, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJI0g3DEImdTERo3zMKPMEsVk",
+        "categories":"Trụ sở tổng công ty, Cửa hàng vật liệu xây dựng",
         "category_group":"df_company"
     },
     {
@@ -4111,6 +4484,7 @@ const data = [
         "address":"1b Lương Định Của, P. Bình An, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJG-_H6fYndTERsWIdNSGa-qE",
+        "categories":"Công ty kinh doanh bất động sản",
         "category_group":"df_company"
     },
     {
@@ -4122,6 +4496,7 @@ const data = [
         "address":"Đ. Liên Phường, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ5570e9IndTERZ9udu_5I9wY",
+        "categories":"Công ty phát triển nhà đất",
         "category_group":"df_company"
     },
     {
@@ -4133,6 +4508,7 @@ const data = [
         "address":"i29 Muồng Tím, Cát Lái, Quận 2, Thành phố Hồ Chí Minh 71115, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJeYgO20UldTER17ArgKEmseg",
+        "categories":"Công ty kinh doanh bất động sản",
         "category_group":"df_company"
     },
     {
@@ -4144,6 +4520,7 @@ const data = [
         "address":"930 Đường C 2, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW-pDRzYkdTERVBHlDAkNDqU",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4155,6 +4532,7 @@ const data = [
         "address":"QQ7H+6X9, Phạm Hy Lượng, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4QDvzkkkdTERsbzbflY4L50",
+        "categories":"Công ty xuất nhập khẩu, Văn phòng công ty, Nhà cung cấp sản phẩm nhựa",
         "category_group":"df_company"
     },
     {
@@ -4166,6 +4544,7 @@ const data = [
         "address":"Lô C7-C9, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJu0cj5UkkdTERe-t5FTyguAA",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4177,6 +4556,7 @@ const data = [
         "address":"38 Song Hành, Khu đô thị An Phú An Khánh, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpQzGYAAndTERNSQckWxazvg",
+        "categories":"Công ty xây dựng nhà ở",
         "category_group":"df_company"
     },
     {
@@ -4188,6 +4568,7 @@ const data = [
         "address":"3 Đường 63, Bình Trưng Đông, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUfVSuFYpdTER6VrH5WqZPFY",
+        "categories":"Công ty quản lý bất động sản",
         "category_group":"df_company"
     },
     {
@@ -4199,6 +4580,7 @@ const data = [
         "address":"QQ4H+62M, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJjSEWjk4kdTER-lm26hnyxIg",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4210,6 +4592,7 @@ const data = [
         "address":"QQ3G+WHG, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJaQCh1U0kdTERMBXbLNWatJk",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4221,6 +4604,7 @@ const data = [
         "address":"Căn A02, Khu Riovista, P, Quận 9, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ95uVQikndTERrTkkZV4I860",
+        "categories":"Công ty năng lượng Mặt Trời, Nhà cung cấp năng lượng xanh, Dịch vụ hệ thống năng lượng mặt trời",
         "category_group":"df_company"
     },
     {
@@ -4232,6 +4616,7 @@ const data = [
         "address":"Khu C) tại, 48 đường T17, dự án KDC & CV, 88 Phước Thiện, khu phố, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2SexhSEhdTERgpuUTVcUwrM",
+        "categories":"Công ty phần mềm",
         "category_group":"df_company"
     },
     {
@@ -4243,6 +4628,7 @@ const data = [
         "address":"Phước Thiện, Long Bình, Thủ Đức, Thành phố Hồ Chí Minh 71217, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJX3_VFtQhdTERnHW41DTV_eo",
+        "categories":"Công ty kinh doanh bất động sản",
         "category_group":"df_company"
     },
     {
@@ -4254,6 +4640,7 @@ const data = [
         "address":"Tô Ngọc Vân, Tam Binh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJi5ce5fAndTERi70BAudW7Iw",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4265,6 +4652,7 @@ const data = [
         "address":"230\/70\/16, Nguyễn Xiển, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh 71300, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJYZjh7-IpdTERLUX-tdZrAMo",
+        "categories":"Công ty kế toán, Dịch vụ pháp lý, Dịch vụ khai thuế",
         "category_group":"df_company"
     },
     {
@@ -4276,6 +4664,7 @@ const data = [
         "address":"Chung cu Sunview 1, Đường Cây Keo, Tam Phú, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJu0IQRwAndTERImKSD1HclGY",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4287,6 +4676,7 @@ const data = [
         "address":"38 Đường Cây Keo, Tam Phú, Thủ Đức, Thành phố Hồ Chí Minh 71311, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJX7ortXondTERleGgzRHPwc0",
+        "categories":"Công ty tư vấn bất động sản",
         "category_group":"df_company"
     },
     {
@@ -4298,6 +4688,7 @@ const data = [
         "address":"145 Bưng Ông Thoàn, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJFUxAfTUldTERkc-Lxd61Aac",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4309,6 +4700,7 @@ const data = [
         "address":"Lot 58-60, Linh Trung 2 Processing Zone, Thu Duc District, HCM City, Vietnam, Bình Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRamQ8ffXdDERQFrpvyd8mgM",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4320,6 +4712,7 @@ const data = [
         "address":"QVM7+H26, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJBxwpO8whdTER3o1AncPwnFw",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4331,6 +4724,7 @@ const data = [
         "address":"Lô 67 Đường số 1, Khu Chế Xuất Linh Trung 2, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJg7ZkOHnYdDERiddTQwZwV5A",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4342,6 +4736,7 @@ const data = [
         "address":"Cầu Rạch Bàng, cầu Rạch Bàng, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJb49VTQ0jdTERL5Bk_0TUsKo",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4353,6 +4748,7 @@ const data = [
         "address":"QVF6+23R, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfcTtdRojdTER3kXBRWkNnAY",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -4364,6 +4760,7 @@ const data = [
         "address":"36 Đường số 6, Bình Chiểu, Thủ Đức, Thành phố Hồ Chí Minh 71313, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4-UWqO4ndTERgPhNVT5TQ4U",
+        "categories":"Công ty quản lý bất động sản, Đại lý cho thuê căn hộ",
         "category_group":"df_company"
     },
     {
@@ -4375,6 +4772,7 @@ const data = [
         "address":"21 Đường số 13, 26 Đường số 4, Bình Chiểu, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJEcvlsf8ndTER27vF9bH65Rs",
+        "categories":"Công ty quản lý bất động sản",
         "category_group":"df_company"
     },
     {
@@ -4386,6 +4784,7 @@ const data = [
         "address":"F11 KDC Jamona, QL13, Đường 12, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOaAV1wModTER_BgsoW474bA",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4397,6 +4796,7 @@ const data = [
         "address":"28 Đ. D10, Phước Long B, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCYqGDwAndTERTL_j4SYWCFA",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4408,6 +4808,7 @@ const data = [
         "address":"45, Road 2, Truong Tho Ward, Thu Duc Dist, 45 Đ. Số 2, Trường Thọ, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJc8dHtn4ndTERH_PibFrA6Hw",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4419,6 +4820,7 @@ const data = [
         "address":"131\/30 Bưng Ông Thoàn, Phường Phú Hữu, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtdHgj8gndTERy6ZvqJSmwe8",
+        "categories":"Công ty đóng gói, Công ty xuất nhập khẩu",
         "category_group":"df_company"
     },
     {
@@ -4430,6 +4832,7 @@ const data = [
         "address":"A36 Nguyễn Văn Bá, Trường Thọ, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZcgxg9EndTERJQbUnB3cyPY",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4441,6 +4844,7 @@ const data = [
         "address":"Cảng, Trường Thọ, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4dgl3iwpdTERuJvGxpoFw_c",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4452,6 +4856,7 @@ const data = [
         "address":"VR38+J49, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRRWqu0wndTER2AuslOpfRrs",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4463,6 +4868,7 @@ const data = [
         "address":"36 Hoàng Hữu Nam, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJL8jMlC8ndTERR3Lu_cUsby4",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4474,6 +4880,7 @@ const data = [
         "address":"Lô I-3b-1 (Nhà xưởng 3), đường N6 Khu Công Nghệ Cao P, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2ZR_8tYndTERTTAagstYg9k",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4485,6 +4892,7 @@ const data = [
         "address":"Đường D1, Đ. D1, Phường Tân Phú, Quận 9, Thành phố Hồ Chí Minh 715650, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrbpDTDcndTERPiESXddEsrg",
+        "categories":"Công ty phần mềm",
         "category_group":"df_company"
     },
     {
@@ -4496,6 +4904,7 @@ const data = [
         "address":"Block 5, Lô I-3B-1, Đường N6, Đ. D1, Phường Tân Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2XUNHCEndTERW970Uqy31x0",
+        "categories":"Công ty phần mềm",
         "category_group":"df_company"
     },
     {
@@ -4507,6 +4916,7 @@ const data = [
         "address":"Saigon High Tech Park D1, Street, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJFcyoy0AndTERy51NmhXf2a8",
+        "categories":"Công ty tự động hóa",
         "category_group":"df_company"
     },
     {
@@ -4518,6 +4928,7 @@ const data = [
         "address":"39570 QL1A, Phường Linh Trung, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWcIRGQAndTERQXmj8jvKgnI",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -4529,6 +4940,7 @@ const data = [
         "address":"10 Đ. Võ Nguyên Giáp, P. Phú Thuận, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdWc09UUmdTERaG_Qcx1xLE8",
+        "categories":"Công ty điều hành cảng, Cảng container",
         "category_group":"df_company"
     },
     {
@@ -4540,6 +4952,7 @@ const data = [
         "address":"Lô T2-4, đường D1, Khu Công Nghệ Cao, Phường Tân Phú, TP Thủ Đức, TP Hồ Chí Minh Lot T2-4, D1 Road, Saigon Hi-tech Park, Thu Duc city, Đ. D1, Phường Tân Phú, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJo2qCVEcndTER-9Cc475eqBA",
+        "categories":"Văn phòng công ty, Đại lý cho thuê văn phòng",
         "category_group":"df_company"
     },
     {
@@ -4551,6 +4964,7 @@ const data = [
         "address":"RRV7+73X, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJD0iXEDQndTERUW7x7jGWR-I",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4562,6 +4976,7 @@ const data = [
         "address":"99 Đường Nguyễn Văn Giáp, Bình Trưng Đông, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPTTC8c4ldTERSXgkEg8oTtw",
+        "categories":"Văn phòng công ty, Cửa hàng phụ tùng xe máy",
         "category_group":"df_company"
     },
     {
@@ -4573,6 +4988,7 @@ const data = [
         "address":"RR32+V2V, Đ. Liên Phường, Phường Phú Hữu, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ71G89UgndTERItM3PnrbPhg",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4584,6 +5000,7 @@ const data = [
         "address":"VR9M+Q96, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ_7LJAADfdDERPoNqeyUik90",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4595,6 +5012,7 @@ const data = [
         "address":"VR9P+G3J, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ76f9s9zfdDERd6h837UfPQU",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4606,6 +5024,7 @@ const data = [
         "address":"VR8V+H8V, Mạc Hiển Tích, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJx8G3ulIhdTERF48NTmoTUQo",
+        "categories":"Công ty điều hành cảng",
         "category_group":"df_company"
     },
     {
@@ -4617,6 +5036,7 @@ const data = [
         "address":"Long Hưng, Thành phố Biên Hòa, Đồng Nai, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJoQ_7ZoIhdTERiMnnugVBSuk",
+        "categories":"Trụ sở tổng công ty",
         "category_group":"df_company"
     },
     {
@@ -4628,6 +5048,7 @@ const data = [
         "address":"Unnamed Road, Thành phố Biên Hòa, Đồng Nai, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRZun5MYhdTERZbNSjxNLOuc",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4639,6 +5060,7 @@ const data = [
         "address":"23\/4, 23\/4 Nguyễn Xiển, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJhRsxd5cgdTERnIGvO2eXB2w",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4650,6 +5072,7 @@ const data = [
         "address":"79\/17 đường 20, tổ 5, khu phố 1, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJwT6Qzz4hdTERfKtfXIIxqF4",
+        "categories":"Công ty xây dựng nhà ở",
         "category_group":"df_company"
     },
     {
@@ -4661,6 +5084,7 @@ const data = [
         "address":"VQ3V+XP6, Phường Tân Phú, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9Qfk_sQndTERAzYPr50NBqw",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4672,6 +5096,7 @@ const data = [
         "address":"Lô T2-1.2, Đường D1, Đ. D1, Phường Tân Phú, Tp Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGRrFAUUndTERXXQpZ2S1jxo",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4683,6 +5108,7 @@ const data = [
         "address":"Quận 2 cũ, 112 Trương Văn Bang, Phường Thạnh Mỹ Lợi, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJvYlvetcldTEROhPure9Ug5E",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4694,6 +5120,7 @@ const data = [
         "address":"1102 Đường số 103-TML, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJNd52jAQmdTERtLvhozOOSDw",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -4705,6 +5132,7 @@ const data = [
         "address":"QQ35+8HC, Đ. Võ Chí Công, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJAzB3GJAldTERngUlr9-Sk90",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4716,6 +5144,7 @@ const data = [
         "address":"QQ24+JR3, Đ. Võ Chí Công, Phường Thạnh Mỹ Lợi, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJt3y8NgAldTERNDlNpV6sRmU",
+        "categories":"Công ty xây dựng",
         "category_group":"df_company"
     },
     {
@@ -4727,6 +5156,7 @@ const data = [
         "address":"198 Nguyễn Văn Kỉnh, Phường Thạnh Mỹ Lợi, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVR3WUiwvdTERFqos9Yech5E",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4738,6 +5168,7 @@ const data = [
         "address":"Công Nghệ Cao, Khu, Lô I6, Lô I7, Đường D1, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-TtVj9MgdTERwbfa9erhGPc",
+        "categories":"Công ty bất động sản công nghiệp",
         "category_group":"df_company"
     },
     {
@@ -4749,6 +5180,7 @@ const data = [
         "address":"31 Đ. Số 1, Bình Khánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJK7bqGAAldTER_OBUL5CSILM",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4760,6 +5192,7 @@ const data = [
         "address":"QPHF+WFW, Đường N5, Lakeview 2, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJhbrqbdcldTER3h2TsDxxJ7Q",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4771,6 +5204,7 @@ const data = [
         "address":"401\/13 Đ. Nguyễn Duy Trinh, P, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJaW-fclcndTERpNJ2F58Xaf0",
+        "categories":"Công ty kinh doanh bất động sản",
         "category_group":"df_company"
     },
     {
@@ -4782,6 +5216,7 @@ const data = [
         "address":"10 Đ. Mai Chí Thọ, An Lợi Đông, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9wEQIjAldTERDpb4XDQ3ECs",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4793,6 +5228,7 @@ const data = [
         "address":"QQPQ+877, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJa-N2KhUndTERTwVCsq36_AY",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4804,6 +5240,7 @@ const data = [
         "address":"226 Đ. Võ Chí Công, Phường Phú Hữu, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ62DicAAndTERV-WT9NiTlNs",
+        "categories":"Công ty năng lượng Mặt Trời",
         "category_group":"df_company"
     },
     {
@@ -4815,6 +5252,7 @@ const data = [
         "address":"Đ. D1, Phường Tân Phú, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJS8HLLWkndTERxblmhRHaqrY",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4826,6 +5264,7 @@ const data = [
         "address":"Villa Hằng Nguyễn, Đ. D6, An Lợi Đông, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJM59xn0EldTERiI3YbcHqago",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4837,6 +5276,7 @@ const data = [
         "address":"Lô I193 đường N 1, Đ. D1, Phường Tân Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtWJah0IndTER3WpBu2xGJhE",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4848,6 +5288,7 @@ const data = [
         "address":"Long Phước, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJoYB71TchdTERIDnMRXE2Z58",
+        "categories":"Công ty tư vấn bất động sản, Đại lý giao dịch bất động sản, Giám định viên bất động sản, Nhà thanh lý bất động sản, Đại lý bất động sản, Đại lý cho thuê bất động sản, Dịch vụ nhân viên khảo sát bất động sản",
         "category_group":"df_company"
     },
     {
@@ -4859,6 +5300,7 @@ const data = [
         "address":"QVV5+RJ7, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJcRqLXEhdTER-qhWxtp8VnI",
+        "categories":"Công ty ga",
         "category_group":"df_company"
     },
     {
@@ -4870,6 +5312,7 @@ const data = [
         "address":"QQR4+CWR, Phường Bình Trưng Tây, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8eEZHD4ndTERKWtSLyrYj1A",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4881,6 +5324,7 @@ const data = [
         "address":"48 Phó Cơ Điều, Phường 12, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ7yFJP_IudTERg6gmtQX4pxU",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4892,6 +5336,7 @@ const data = [
         "address":"743\/34, Hẻm, 335 Đ. Hồng Bàng, Phường 6, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJATXFeokudTERNbgUyACqdjc",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4903,6 +5348,7 @@ const data = [
         "address":"995\/88, Quận 6, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJwVb996YvdTERZJAq5w5rMDQ",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4914,6 +5360,7 @@ const data = [
         "address":"257 Bà Hom, Phường 13, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCV9SeiksdTERuy_y3g71xJ8",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4925,6 +5372,7 @@ const data = [
         "address":"269 -271 273 275 Nguyen Van Luong Street, Ward 12, District 6, HCM City, Phường 12, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJzwp3AH4udTERwFAEvkUCk1U",
+        "categories":"Công ty xác minh sở hữu",
         "category_group":"df_company"
     },
     {
@@ -4936,6 +5384,7 @@ const data = [
         "address":"75 Đ. Số 23, Phường 10, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdcMA0xAtdTERVYa-1uvfUD8",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4947,6 +5396,7 @@ const data = [
         "address":"7 Đường số 59, Phường 10, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGQJOEIYtdTERqy58PVUL_nc",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4958,6 +5408,7 @@ const data = [
         "address":"18 Đường CN13, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGzn4R90rdTERQcc31j21wTs",
+        "categories":"Công ty dược phẩm",
         "category_group":"df_company"
     },
     {
@@ -4969,6 +5420,7 @@ const data = [
         "address":"21 Huỳnh Thiện Lộc, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ08H9WgAvdTERIahjXC0fkuA",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4980,6 +5432,7 @@ const data = [
         "address":"35\/9 Đỗ Công Tường, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxTHqi-MrdTERvOXZFgrXXSs",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -4991,6 +5444,7 @@ const data = [
         "address":"23B Lô III, đường, Đ. Kênh 19\/5, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbZwKwucrdTERhEynKORzjbk",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5002,6 +5456,7 @@ const data = [
         "address":"105\/39 Lê Sát, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJp0iyNAArdTERIkRCAZWnNUE",
+        "categories":"Công ty kinh doanh bất động sản",
         "category_group":"df_company"
     },
     {
@@ -5013,6 +5468,7 @@ const data = [
         "address":"170A Lê Sát, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJoZZBX94rdTERWJNRzA3ysrI",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5024,6 +5480,7 @@ const data = [
         "address":"RJ77+9PP, Đường CN8, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJy0Ogv-krdTER4wbvyGFA-bg",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5035,6 +5492,7 @@ const data = [
         "address":"590 Bình Long, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpY_YJggsdTER_NPBBJNbbNg",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5046,6 +5504,7 @@ const data = [
         "address":"Lô II, 12 Đ. 19\/5A, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-1cUgOgrdTER9tZaA5ohtUA",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5057,6 +5516,7 @@ const data = [
         "address":"913 Đ. Trường Chinh, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJlT26XTUpdTER9qXg7VGK0Ng",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5068,6 +5528,7 @@ const data = [
         "address":"Số 68 Đường N1, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJm7AfECcrdTER0JMIjS9tTIk",
+        "categories":"Công ty kinh doanh bất động sản",
         "category_group":"df_company"
     },
     {
@@ -5079,6 +5540,7 @@ const data = [
         "address":"82 Đường N1, Celadon City, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLypM91YrdTERjmv9RbvlijQ",
+        "categories":"Công ty cho thuê căn hộ ngắn hạn, Chung cư",
         "category_group":"df_company"
     },
     {
@@ -5090,6 +5552,7 @@ const data = [
         "address":"RJ9G+F4X, Đường Cn 4, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJu31A794rdTERFQDKBsQGUdg",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5101,6 +5564,7 @@ const data = [
         "address":"Q, Số Lô IV - 16b , Đường số 3 , Nhóm CN IV, KCN Tân Bình, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ7T_k-N4rdTERPIM6FtVEtfs",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5112,6 +5576,7 @@ const data = [
         "address":"Lô IV-7, Đường Số 4, Nhóm CN IV, KCN Tân Bình, P. Tây Thạnh, Q, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJG3IatukrdTERW9PqTZBCUYA",
+        "categories":"Trụ sở tổng công ty",
         "category_group":"df_company"
     },
     {
@@ -5123,6 +5588,7 @@ const data = [
         "address":"20 Hoa Bằng, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJyf4V668rdTERjsWdkFUnK7Y",
+        "categories":"Công ty vận tải đường bộ",
         "category_group":"df_company"
     },
     {
@@ -5134,6 +5600,7 @@ const data = [
         "address":"3 Nguyễn Thế Truyện, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJXZIHMwApdTERhZ231Crsnm8",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5145,6 +5612,7 @@ const data = [
         "address":"184 Nguyễn Ngọc Nhựt, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJgbVjDQArdTERQakd4-Hy-l0",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5156,6 +5624,7 @@ const data = [
         "address":"353 Thoại Ngọc Hầu, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrybEiB4sdTERx864Awa8Z2M",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5167,6 +5636,7 @@ const data = [
         "address":"15-17 Tô Hiệu, Tân Thới Hòa, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRTBw0iAsdTERkSCkfnyR0BM",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5178,6 +5648,7 @@ const data = [
         "address":"15 Lô A2 Trịnh Đình Trọng, Phường 5, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJIxC2aLwudTERZPcEaZdMJ6M",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5189,6 +5660,7 @@ const data = [
         "address":"Xưởng Số 10, Cụm 3, Nhóm Công Nghiệp II Đường Số 13, Khu Công Nghiệp Tân Bình, Tân Phú, Thành phố Hồ Chí Minh 72009, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJq6qqqukrdTER8pnGtLCjY3A",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5200,6 +5672,7 @@ const data = [
         "address":"489 Đ. Lê Trọng Tấn, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGT7qjeUrdTEReGiZIcNHsrU",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5211,6 +5684,7 @@ const data = [
         "address":"Lô đất I-6, Nhóm CNI, Đường CN13, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJI2J9UuwrdTERd5eQKvEdZnc",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5222,6 +5696,7 @@ const data = [
         "address":"Đường CN13, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJFZVLzOIrdTERQtZ6NTJbGBc",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     },
     {
@@ -5233,6 +5708,7 @@ const data = [
         "address":"RJ55+3HH, Đường CN11, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9-3orO0rdTERfIbocLqODJs",
+        "categories":"Văn phòng công ty",
         "category_group":"df_company"
     }
 ]

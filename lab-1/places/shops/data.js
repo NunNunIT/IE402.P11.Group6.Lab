@@ -8,6 +8,7 @@ const data = [
         "address":"14 Đ. số 2A, An Lạc, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tahawa+Nh%E1%BA%ADt+B%E1%BA%A3n\/@10.752323,106.622874,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d7f7abfc611:0x2ab98f75249104d1!8m2!3d10.752323!4d106.622874!16s%2Fg%2F11vpml5bgd?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -19,6 +20,7 @@ const data = [
         "address":"24\/5, Khu phố 7, Trương Phước Phan, Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HaNa+Handmade\/@10.76717,106.6129933,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c3be7a41a69:0x85f43593375ed262!8m2!3d10.76717!4d106.6129933!16s%2Fg%2F11bw4xsg_g?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ thủ công",
         "category_group":"df_shops"
     },
     {
@@ -30,6 +32,7 @@ const data = [
         "address":"Lô 41 Đường Số 3, Khu công nghiệp, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+%C4%90i%E1%BB%87n+M%C3%A1y+Gia+Khang\/@10.7341203,106.6008833,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752de5a56f665d:0x90670e6945ca3553!8m2!3d10.7341203!4d106.6008833!16s%2Fg%2F11bccm49v1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử, Văn phòng công ty",
         "category_group":"df_shops"
     },
     {
@@ -41,6 +44,7 @@ const data = [
         "address":"Lô 62 Đường số 2, Tân Tạo, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Nh%E1%BB%B1a+Thu%E1%BA%ADn+L%E1%BB%A3i+-+Thuan+Loi+Co.,+Ltd.\/@10.7343557,106.597777,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752da4109d0279:0xf9817e3369e4e2dc!8m2!3d10.7343557!4d106.597777!16s%2Fg%2F1pzrdhr7s?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán dụng cụ đóng gói, Nhà sản xuất",
         "category_group":"df_shops"
     },
     {
@@ -52,6 +56,7 @@ const data = [
         "address":"530 Đ. Kinh Dương Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Western+Ford\/@10.7269035,106.6047703,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d60c15ca9eb:0xb441243b37d590b3!8m2!3d10.7269035!4d106.6047703!16s%2Fg%2F11qn61h1bd?hl=vi&entry=ttu",
+        "categories":"Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -63,6 +68,7 @@ const data = [
         "address":"1166 QL1A, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VN+Space+store\/@10.7259482,106.5978624,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d000ad12893:0xc9797a01c72947a!8m2!3d10.7259482!4d106.5978624!16s%2Fg%2F11vpwt_ky4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -74,6 +80,7 @@ const data = [
         "address":"631 TL10, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh 71906, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hasaki+Beauty\/@10.7575165,106.613931,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d33b9dcfd4b:0x7600a4c5bf49e133!8m2!3d10.7575165!4d106.613931!16s%2Fg%2F11rdbrv3hz?hl=vi&entry=ttu",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -85,6 +92,7 @@ const data = [
         "address":"B5\/19N Trần Đại Nghĩa, Tân Kiên, Bình Chánh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90i%E1%BB%87n+m%C3%A1y+XANH+T%C3%A2n+Ki%C3%AAn\/@10.7244449,106.5957218,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d652b1cc41d:0xadf39392be2edbaf!8m2!3d10.7244449!4d106.5957218!16s%2Fg%2F11hzxfkbnf?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động, Cửa hàng đồ gia dụng, Cửa hàng máy lạnh, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -96,6 +104,7 @@ const data = [
         "address":"HL2\/34 Hẻm 907, Khu Phố 8, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BA%A1p+H%C3%B3a+H%C6%B0ng+Th%E1%BB%8Bnh\/@10.7652957,106.5969153,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d00349e60ab:0xdbbcf5d73db7833!8m2!3d10.7652957!4d106.5969153!16s%2Fg%2F11vpz4q1qj?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -107,6 +116,7 @@ const data = [
         "address":"302\/73 Lê Đình Cẩn, Tân Tạo, Bình Tân, Thành phố Hồ Chí Minh 74000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gia+c%C3%B4ng+CNC+G%E1%BB%97+C%C3%B4ng+Nghi%E1%BB%87p\/@10.7632821,106.5934432,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752db5f8f6da85:0xb4c499e7885d1a60!8m2!3d10.7632821!4d106.5934432!16s%2Fg%2F11t3gxyrn1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật tư chế biến gỗ",
         "category_group":"df_shops"
     },
     {
@@ -118,6 +128,7 @@ const data = [
         "address":"235 Lê Đình Cẩn, P, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%C3%ADn+Ph%C3%A1t+24h\/@10.7596786,106.5949751,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c4fcb94ca3f:0xfe07f560d834b6f2!8m2!3d10.7596786!4d106.5949751!16s%2Fg%2F11b6dwwv1w?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -129,6 +140,7 @@ const data = [
         "address":"2 Đ. số 40, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Viettel+Store\/@10.7521905,106.6042014,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c4abf748f35:0x6e59b675286b99fc!8m2!3d10.7521905!4d106.6042014!16s%2Fg%2F11f340dfjs?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -140,6 +152,7 @@ const data = [
         "address":"888 TL10, Bình Trị Đông A, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CellphoneS\/@10.7580101,106.6064258,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d5fb143775f:0x8bc1efff0f6b7477!8m2!3d10.7580101!4d106.6064258!16s%2Fg%2F11k059zms_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -151,6 +164,7 @@ const data = [
         "address":"1135 QL1A, KP5, P, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Toyota+T%C3%A2n+T%E1%BA%A1o\/@10.7592697,106.5921859,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752df75d0f8e99:0x88d6b1dcc46abeb7!8m2!3d10.7592697!4d106.5921859!16s%2Fg%2F11fkdsby5s?hl=vi&entry=ttu",
+        "categories":"Đại lý xe Toyota, Cửa hàng bảo trì và sửa chữ ô tô",
         "category_group":"df_shops"
     },
     {
@@ -162,6 +176,7 @@ const data = [
         "address":"741\/1\/45B HL2, Bình Trị Đông A, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+H%C3%A0ng+B%E1%BA%A3o+Duy\/@10.7664263,106.6072698,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d006707c68b:0xad724896a90a2b8c!8m2!3d10.7664263!4d106.6072698!16s%2Fg%2F11lczylrpb?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -173,6 +188,7 @@ const data = [
         "address":"919\/40b HL2, Bình Trị Đông A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%E1%BA%A3nh+Beauty\/@10.7673181,106.5966276,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c448caff1fb:0xc60c7a5c7a2b2f88!8m2!3d10.7673181!4d106.5966276!16s%2Fg%2F11lky56tmq?hl=vi&entry=ttu",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -184,6 +200,7 @@ const data = [
         "address":"PJ94+7J6, 77 Đ. Võ Văn Kiệt, An Lạc, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Khu+%C4%90%C3%B4+Th%E1%BB%8B+Akari+City+Nam+Long\/@10.7181558,106.606575,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dac3b991e43:0x8a06ed6c4382dc34!8m2!3d10.7181558!4d106.606575!16s%2Fg%2F11v9jy776l?hl=vi&entry=ttu",
+        "categories":"Đại lý bất động sản",
         "category_group":"df_shops"
     },
     {
@@ -195,6 +212,7 @@ const data = [
         "address":"1-3 Đường Số 13B, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vp+c%C3%B4ng+ty+TNHH+Gi%E1%BA%A3i+Ph%C3%A1p+KHKT+T%E1%BA%A5n+Ph%C3%A1t\/@10.7456162,106.6111437,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d003a9ac439:0xb05b71de1d134c8b!8m2!3d10.7456162!4d106.6111437!16s%2Fg%2F11vpt17gfs?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -206,6 +224,7 @@ const data = [
         "address":"75 Đ. Võ Văn Kiệt, An Lạc, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Mazda+B%C3%ACnh+T%C3%A2n\/@10.7197174,106.6075892,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d92b599d4e1:0xa262524e41618962!8m2!3d10.7197174!4d106.6075892!16s%2Fg%2F11fpd7661q?hl=vi&entry=ttu",
+        "categories":"Đại lý xe Mazda",
         "category_group":"df_shops"
     },
     {
@@ -217,6 +236,7 @@ const data = [
         "address":"54 Đ. Trần Đại Nghĩa, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+th%E1%BB%8B+B%C3%A1ch+ho%C3%A1+XANH+54+Tr%E1%BA%A7n+%C4%90%E1%BA%A1i+Ngh%C4%A9a\/@10.7236214,106.5983032,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d914551c1d5:0x8f35e3c23eefb66a!8m2!3d10.7236214!4d106.5983032!16s%2Fg%2F11dfggbbg9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -228,6 +248,7 @@ const data = [
         "address":"621 TL10, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop2banh\/@10.7577531,106.6145403,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d0c8b2139df:0x3e79969ab69f95bb!8m2!3d10.7577531!4d106.6145403!16s%2Fg%2F11mn_n0v8x?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -239,6 +260,7 @@ const data = [
         "address":"51\/5A Chiến Lược , P.Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Thi%C3%AAn+Nhi+Store+-+D%E1%BB%8Bch+V%E1%BB%A5+S%E1%BB%ADa+Ch%E1%BB%AFa+Loa+,+Tai+Nghe+Bluetooth\/@10.7596991,106.6204174,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d22411039bd:0xd15d11296cc2f319!8m2!3d10.7596991!4d106.6204174!16s%2Fg%2F11q7xgkchp?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị âm thanh, Dịch vụ sửa chữa thiết bị nghe nhìn, Dịch vụ sửa chữa dàn âm thanh",
         "category_group":"df_shops"
     },
     {
@@ -250,6 +272,7 @@ const data = [
         "address":"50A Chiến Lược, Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ki%E1%BB%87t+Mod+Ph%C3%ADm+D%E1%BA%A1o\/@10.7609074,106.6201763,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d32c03ebb5d:0xd29f3592f217a98f!8m2!3d10.7609074!4d106.6201763!16s%2Fg%2F11cmcybgvp?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ chơi",
         "category_group":"df_shops"
     },
     {
@@ -261,6 +284,7 @@ const data = [
         "address":"697-699, 699 Đ. Kinh Dương Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+Th%E1%BB%8B+%C4%90i%E1%BB%87n+M%C3%A1y+N%E1%BB%99i+Th%E1%BA%A5t+Ch%E1%BB%A3+L%E1%BB%9Bn\/@10.7289409,106.6089148,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dc1d131867b:0x51e32530ccd0595a!8m2!3d10.7289409!4d106.6089148!16s%2Fg%2F11fzrj33h6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -272,6 +296,7 @@ const data = [
         "address":"114\/22A, Chiến Lược, Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%C3%A8n+c%E1%BA%A7y+Thanh+D%C5%A9ng+C%C6%A1+s%E1%BB%9F+2\/@10.7622456,106.6171804,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d0000c4b10f:0x654ccd5a7fe1b131!8m2!3d10.7622456!4d106.6171804!16s%2Fg%2F11vpy_8y1r?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -283,6 +308,7 @@ const data = [
         "address":"361 Nguyễn Thị Tú, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Khanh+T%C3%A2n\/@10.8152166,106.5892087,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b006e08c3d5:0xc7cbb0685ab0bc3a!8m2!3d10.8152166!4d106.5892087!16s%2Fg%2F11vrx9mhr3?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -294,6 +320,7 @@ const data = [
         "address":"307 Bình Thành, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%A1i+l%C3%BD+n%C6%B0%E1%BB%9Bc+s%E1%BB%89+%26+l%E1%BA%BB;+may+v%C3%A1\/@10.8109769,106.5892675,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b002384a821:0x7a928ec696c46355!8m2!3d10.8109769!4d106.5892675!16s%2Fg%2F11ld2hlzp3?hl=vi&entry=ttu",
+        "categories":"Cửa hàng may vá",
         "category_group":"df_shops"
     },
     {
@@ -305,6 +332,7 @@ const data = [
         "address":"63 Nguyễn Thị Tú, Khu Phố 3, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Di+%C4%90%E1%BB%99ng+Vi%E1%BB%87t\/@10.8159177,106.5987939,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b20aca200a7:0x5e77913b8fc34fb8!8m2!3d10.8159177!4d106.5987939!16s%2Fg%2F11nn3hwc5v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -316,6 +344,7 @@ const data = [
         "address":"1870\/1\/98\/9, TL10, Khu phố 1, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BA%A1p+H%C3%B3a+Kim+Li%C3%AAn\/@10.7635568,106.5747519,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752cfa09d00c99:0x2fed916d0a086707!8m2!3d10.7635568!4d106.5747519!16s%2Fg%2F11hm46d9z0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bách hóa",
         "category_group":"df_shops"
     },
     {
@@ -327,6 +356,7 @@ const data = [
         "address":"16\/34B, Đ. Số 9, Khu phố 13, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+INOX+%C3%81nh+Sao\/@10.7982283,106.5992437,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b8bdb3dee59:0x644b1fb36216d7eb!8m2!3d10.7982283!4d106.5992437!16s%2Fg%2F11cn92r9rg?hl=vi&entry=ttu",
+        "categories":"Cửa hàng gia công kim loại",
         "category_group":"df_shops"
     },
     {
@@ -338,6 +368,7 @@ const data = [
         "address":"1028\/2\/6, Đ. Tân Kỳ Tân Quý, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%E1%BB%9F+Em+S%C3%A1u.\/@10.789769,106.5965922,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d0028777b2b:0xcabc0f38cac9da2a!8m2!3d10.789769!4d106.5965922!16s%2Fg%2F11vs3kmgt6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -349,6 +380,7 @@ const data = [
         "address":"97 Đ. Số 4, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cty+v%E1%BA%ADt+t%C6%B0+%C4%91i%E1%BB%87n+l%E1%BA%A1nh+H%C3%B2a+Ph%C3%A1t\/@10.7863267,106.6062282,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d4744247901:0xa03ded71cbe93146!8m2!3d10.7863267!4d106.6062282!16s%2Fg%2F11j_p8qcnm?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -360,6 +392,7 @@ const data = [
         "address":"4379D Nguyễn Cửu Phú, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gara+%C3%94+T%C3%B4+Ph%C3%A1p+Anh\/@10.7418446,106.583199,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d232b498071:0x2bf6d6b880f9eb19!8m2!3d10.7418446!4d106.583199!16s%2Fg%2F11rcx2_bwz?hl=vi&entry=ttu",
+        "categories":"Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -371,6 +404,7 @@ const data = [
         "address":"4423 Nguyễn Cửu Phú, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+th%E1%BB%8B+B%C3%A1ch+h%C3%B3a+XANH+Nguy%E1%BB%85n+C%E1%BB%ADu+Ph%C3%BA\/@10.7484098,106.5849295,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752da997e7fcf9:0x77b526b51e203420!8m2!3d10.7484098!4d106.5849295!16s%2Fg%2F11c70dp8rz?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -382,6 +416,7 @@ const data = [
         "address":"73 Đ. Số 4, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sim+Store+-+Ph%E1%BB%A5+Ki%E1%BB%87n+Trang+Tr%C3%AD+Sinh+Nh%E1%BA%ADt\/@10.7859462,106.6069568,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dec30c33b1f:0x33f6ed9804d8cf54!8m2!3d10.7859462!4d106.6069568!16s%2Fg%2F11gj328c7_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -393,6 +428,7 @@ const data = [
         "address":"543 QL1A, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+May+Qu%E1%BB%91c+T%E1%BA%BF+Vi%E1%BB%87t+Nam+Nh%E1%BA%ADt+B%E1%BA%A3n\/@10.801678,106.5982547,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b8ec07ab7b9:0xf09c342ed17f6de0!8m2!3d10.801678!4d106.5982547!16s%2Fg%2F1vd92l3l?hl=vi&entry=ttu",
+        "categories":"Cửa hàng may",
         "category_group":"df_shops"
     },
     {
@@ -404,6 +440,7 @@ const data = [
         "address":"1717 ĐT825, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+Sx+Tm+Nguy%C3%AAn+Th%E1%BA%BF+Anh\/@10.7566979,106.5749077,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752cfbdea47dab:0x730f058e351bd7b2!8m2!3d10.7566979!4d106.5749077!16s%2Fg%2F1tmxnhy5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo trẻ em, Cửa hàng quần áo sơ sinh",
         "category_group":"df_shops"
     },
     {
@@ -415,6 +452,7 @@ const data = [
         "address":"26\/5 Đ. Số 7, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C3%A0n+h%E1%BB%8Dc+th%C3%B4ng+minh+TopKids\/@10.8038843,106.5994384,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bc4bec52fc7:0x6703480c6190f298!8m2!3d10.8038843!4d106.5994384!16s%2Fg%2F11fvx02bs5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất trẻ em",
         "category_group":"df_shops"
     },
     {
@@ -426,6 +464,7 @@ const data = [
         "address":"16A Đường Số 1, Khu Phố 5, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vape+B%C3%ACnh+T%C3%A2n+(+Ngoan+Nguy%E1%BB%85n+)\/@10.7588703,106.5742532,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d7603742cb9:0x846344b48a1fb55!8m2!3d10.7588703!4d106.5742532!16s%2Fg%2F11m_j8cykt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử, Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -437,6 +476,7 @@ const data = [
         "address":"380 QL1A, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%94NG+TY+CP+XNK+ATLANTIS\/@10.8069576,106.5974651,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291e4d8b2271:0xd247dc0b672565a8!8m2!3d10.8069576!4d106.5974651!16s%2Fg%2F11m_h1jw5r?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật liệu xây dựng",
         "category_group":"df_shops"
     },
     {
@@ -448,6 +488,7 @@ const data = [
         "address":"Tân Tạo, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+Th%E1%BA%BF+Gi%E1%BB%9Bi+%C4%90%C3%A1\/@10.765298,106.5879348,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c5a2abbbe4b:0x6df36657e0b8d5d3!8m2!3d10.765298!4d106.5879348!16s%2Fg%2F11qshghqy0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -459,6 +500,7 @@ const data = [
         "address":"Đường CN1, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+C%E1%BB%95+ph%E1%BA%A7n+Namilux\/@10.8137305,106.60886,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bea40ed3e99:0x32f8acc06f0617e1!8m2!3d10.8137305!4d106.60886!16s%2Fg%2F11cmpgqf1z?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ nhà bếp",
         "category_group":"df_shops"
     },
     {
@@ -470,6 +512,7 @@ const data = [
         "address":"Kho số 2, Cụm 5-1, Đường M12, Khu Công Nghiệp Tân Bình mở rộng, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/An+Cuong+Company\/@10.817914,106.6096649,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eddd10cdb25:0xc3a2b062c692abd8!8m2!3d10.817914!4d106.6096649!16s%2Fg%2F1tc_nhrf?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -481,6 +524,7 @@ const data = [
         "address":"D16\/18\/1Ấp, 4, Đ. Võ Văn Vân, Vĩnh Lộc B, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BB%ACA+XE+C%C3%94NG+NGH%E1%BB%86\/@10.8113247,106.583632,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b001f834103:0x75ad5864fcf54738!8m2!3d10.8113247!4d106.583632!16s%2Fg%2F11vpzf85sf?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -492,6 +536,7 @@ const data = [
         "address":"463B Nguyễn Thị Tú, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Yamaha+Town+Nam+Ti%E1%BA%BFn\/@10.8149713,106.585255,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b9f00d1eacf:0x9d1642c9b9fa323b!8m2!3d10.8149713!4d106.585255!16s%2Fg%2F1hcb3v3dq?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xe máy, Đại lý xe máy điện, Cửa hàng phụ tùng xe máy, Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -503,6 +548,7 @@ const data = [
         "address":"18 Đ. Tây Lân, khu phố 7, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90i%E1%BB%87n+m%C3%A1y+XANH+T%C3%A2y+L%C3%A2n\/@10.770805,106.5906427,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c5c5966d049:0xa93318308a3b4383!8m2!3d10.770805!4d106.5906427!16s%2Fg%2F11btmq9_vn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động, Cửa hàng đồ gia dụng, Cửa hàng máy lạnh, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -514,6 +560,7 @@ const data = [
         "address":"639, HL2, Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+Th%E1%BB%8B+%C4%90i%E1%BB%87n+M%C3%A1y+N%E1%BB%99i+Th%E1%BA%A5t+Ch%E1%BB%A3+L%E1%BB%9Bn\/@10.7685781,106.609876,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dc1d74b11d9:0x573e7a747fb5f35!8m2!3d10.7685781!4d106.609876!16s%2Fg%2F11g0gd6gtn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -525,6 +572,7 @@ const data = [
         "address":"822\/70 HL2, Bình Trị Đông A, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gia+H%C6%B0ng\/@10.7702053,106.6002945,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d00214c6def:0xfc8c86d71405dcef!8m2!3d10.7702053!4d106.6002945!16s%2Fg%2F11vprx8d0h?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -536,6 +584,7 @@ const data = [
         "address":"13a Nguyễn Quý Yêm, An Lạc, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/PH%C3%92NG+KH%C3%81M+TH%C3%9A+Y+MY+PET\/@10.7291538,106.6188373,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d006448cf6d:0x58af432128aa764!8m2!3d10.7291538!4d106.6188373!16s%2Fg%2F11vs3kg54_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -547,6 +596,7 @@ const data = [
         "address":"1950 Đ. Võ Văn Kiệt, An Lạc, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%A1i+l%C3%BD+%C3%94+t%C3%B4+Suzuki+H%E1%BB%93ng+Ph%C6%B0%C6%A1ng\/@10.7232451,106.612855,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d87eacea0af:0x9a5d5103080e08d2!8m2!3d10.7232451!4d106.612855!16s%2Fg%2F11h36ht6yj?hl=vi&entry=ttu",
+        "categories":"Đại lý xe Suzuki, Xưởng sửa chữa ô tô, Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -558,6 +608,7 @@ const data = [
         "address":"13 Đường Số 4, An Lạc, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/BETTA+COFFY+-+C%C3%A1+C%E1%BA%A3nh+-+Ti%E1%BB%83u+C%E1%BA%A3nh+Non+B%E1%BB%99\/@10.7256382,106.6114223,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dcdd5b85f6f:0xa374883406a921!8m2!3d10.7256382!4d106.6114223!16s%2Fg%2F11fcns3ygm?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -569,6 +620,7 @@ const data = [
         "address":"44\/11 Đ. Số 4, KP3, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/X%C6%B0%E1%BB%9Fng+M%C3%A1y+Ng%E1%BB%8Dc+T%C3%A2m\/@10.7858111,106.6078904,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d003df2606d:0x90d5a872227015a9!8m2!3d10.7858111!4d106.6078904!16s%2Fg%2F11vq0h3t3z?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -580,6 +632,7 @@ const data = [
         "address":"17 Ao Đôi, Bình Trị Đông A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/PE+CHO+SHOP\/@10.7741408,106.5998552,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527c65705cda1:0xaa6256946d4603c1!8m2!3d10.7741408!4d106.5998552!16s%2Fg%2F11fm74jn24?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật nuôi",
         "category_group":"df_shops"
     },
     {
@@ -591,6 +644,7 @@ const data = [
         "address":"275b Mã Lò, Bình Trị Đông A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%94NG+TY+TNHH+MTV+KH%E1%BA%A2I+PH%C6%AF%C6%A0NG+CARS\/@10.7730657,106.6016708,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d002ab144af:0x2958c7c6ff7c641c!8m2!3d10.7730657!4d106.6016708!16s%2Fg%2F11lc_1bg7h?hl=vi&entry=ttu",
+        "categories":"Đại lý cho thuê xe ô tô",
         "category_group":"df_shops"
     },
     {
@@ -602,6 +656,7 @@ const data = [
         "address":"94 Ao Đôi, Bình Trị Đông A, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Showroom+C%C6%A1n+M%C6%B0a+Nh%E1%BB%8F\/@10.7762926,106.5936001,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752def9b268859:0x917b4b0a6e66569!8m2!3d10.7762926!4d106.5936001!16s%2Fg%2F11jnn7tv4f?hl=vi&entry=ttu",
+        "categories":"Cửa hàng gạch ốp lát",
         "category_group":"df_shops"
     },
     {
@@ -613,6 +668,7 @@ const data = [
         "address":"386\/8\/2, Đ. Lê Văn Quới, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BA%AFp+Family\/@10.7766161,106.6043907,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d25b536ea83:0xe37a6096a1145c39!8m2!3d10.7766161!4d106.6043907!16s%2Fg%2F11ld50s3j3?hl=vi&entry=ttu",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -624,6 +680,7 @@ const data = [
         "address":"233 Nơ Trang Long, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+th%E1%BB%8B+Th%E1%BA%BF+Gi%E1%BB%9Bi+Di+%C4%90%E1%BB%99ng\/@10.8171038,106.6977189,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528ec900325bd:0xc0b8f83d3746705e!8m2!3d10.8171038!4d106.6977189!16s%2Fg%2F11b6xdnb4p?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -635,6 +692,7 @@ const data = [
         "address":"QPWF+J59, Vinhomes Tân Cảng, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/castrol+(sua+xw+toan+tam)\/@10.7965561,106.7227889,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290049e6832f:0xb87fbc3c9b61f548!8m2!3d10.7965561!4d106.7227889!16s%2Fg%2F11vr_54sqw?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -646,6 +704,7 @@ const data = [
         "address":"220 Đ. Nguyễn Hữu Cảnh, Vinhomes Tân Cảng, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Lynk+%26+Co+Center\/@10.796107,106.7196576,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290041f25d91:0x78c3fee05884d3c1!8m2!3d10.796107!4d106.7196576!16s%2Fg%2F11vpwh1j3y?hl=vi&entry=ttu",
+        "categories":"Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -657,6 +716,7 @@ const data = [
         "address":"289 Nguyễn Văn Đậu, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VNB+Sports\/@10.8151013,106.694955,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528e9ec2ef4a7:0xd258c28502905ac1!8m2!3d10.8151013!4d106.694955!16s%2Fg%2F11fxvmf90v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày thể thao, Câu lạc bộ thể thao, Câu lạc bộ cầu lông, Cửa hàng bán dụng cụ thể thao ngoài trời, Cửa hàng quần áo thể thao",
         "category_group":"df_shops"
     },
     {
@@ -668,6 +728,7 @@ const data = [
         "address":"109 Đ. Bạch Đằng, P.15, Bình Thạnh, Thành phố Hồ Chí Minh 100000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BA%A3o+T%C3%ADn+Mobile\/@10.802826,106.709145,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ee0483da1a5:0x1543018fef510ac!8m2!3d10.802826!4d106.709145!16s%2Fg%2F11bzxyp02n?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -679,6 +740,7 @@ const data = [
         "address":"300 Nơ Trang Long, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/twin68\/@10.8135473,106.7005394,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ecaed322e5:0x96ec70bec6cd4045!8m2!3d10.8135473!4d106.7005394!16s%2Fg%2F11ld59tgb3?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -690,6 +752,7 @@ const data = [
         "address":"248A Nơ Trang Long, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Pharmacity+Pharmacy+Joint+Stock+Company\/@10.8137165,106.697567,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528eafd15351f:0x71b059884334d818!8m2!3d10.8137165!4d106.697567!16s%2Fg%2F11h7s4fyb6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán thuốc",
         "category_group":"df_shops"
     },
     {
@@ -701,6 +764,7 @@ const data = [
         "address":"159 Đ. Điện Biên Phủ, Phường 15, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%C3%B2a+nh%C3%A0+Hud\/@10.7978357,106.7038845,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528b718353179:0xa6671df0928d51a1!8m2!3d10.7978357!4d106.7038845!16s%2Fg%2F1hc5c79cn?hl=vi&entry=ttu",
+        "categories":"Đại lý cho thuê văn phòng",
         "category_group":"df_shops"
     },
     {
@@ -712,6 +776,7 @@ const data = [
         "address":"860\/117 Xô Viết Nghệ Tĩnh, P 25, Q Bình Thạnh, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%C3%A0y+Dr+Martens+-+Zadep.com\/@10.81094,106.719387,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289f6bf74b1f:0x66e9cc4f1a08b53d!8m2!3d10.81094!4d106.719387!16s%2Fg%2F11c45gbfpk?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -723,6 +788,7 @@ const data = [
         "address":"43A Đ. Điện Biên Phủ, Phường 15, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Neymar+Sport+B%C3%ACnh+Th%E1%BA%A1nh+-+Gi%C3%A0y+%C4%91%C3%A1+banh+ch%C3%ADnh+h%C3%A3ng\/@10.7950705,106.7014123,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529842aa87991:0xc8c2c6c15c90eb7c!8m2!3d10.7950705!4d106.7014123!16s%2Fg%2F11rv5fg615?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ bóng đá, Cửa hàng đồ thể thao",
         "category_group":"df_shops"
     },
     {
@@ -734,6 +800,7 @@ const data = [
         "address":"144\/25 Phan Văn Hân, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vape+Pod+B%C3%ACnh+Th%E1%BA%A1nh+-+Vape24h\/@10.794408,106.7056136,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299cdaf84a15:0x207ca430ef088eb2!8m2!3d10.794408!4d106.7056136!16s%2Fg%2F11kjn09cqr?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -745,6 +812,7 @@ const data = [
         "address":"92A Đ. Trường Sa, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kem+B%C6%A1+N%C3%A0ng+Zoe\/@10.7936934,106.7016638,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752982cfb8c215:0xdecfa1f067d901c9!8m2!3d10.7936934!4d106.7016638!16s%2Fg%2F11grpvgqt9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng kem",
         "category_group":"df_shops"
     },
     {
@@ -756,6 +824,7 @@ const data = [
         "address":"83 Xô Viết Nghệ Tĩnh, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh 100000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%E1%BA%AFt+K%C3%ADnh+Eye+Plus+B%C3%ACnh+Th%E1%BA%A1nh\/@10.7937158,106.7081093,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752981837caff7:0xaba894ff128d1463!8m2!3d10.7937158!4d106.7081093!16s%2Fg%2F11q25kjz2x?hl=vi&entry=ttu",
+        "categories":"Cửa hàng kính mát, Bác sĩ nhãn khoa, Chuyên gia nhãn khoa",
         "category_group":"df_shops"
     },
     {
@@ -767,6 +836,7 @@ const data = [
         "address":"118 Đ. Điện Biên Phủ, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%E1%BA%A1c+c%E1%BB%A5+Ti%E1%BA%BFn+%C4%90%E1%BA%A1t\/@10.7955202,106.7030108,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528ba1201ed3b:0xdbd5454f32a4294b!8m2!3d10.7955202!4d106.7030108!16s%2Fg%2F11g6rkz_gd?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nhạc cụ, Cửa hàng bán đồ điện tử, Cửa hàng bán đàn ghita, Cửa hàng pianô",
         "category_group":"df_shops"
     },
     {
@@ -778,6 +848,7 @@ const data = [
         "address":"57\/8 Đ. Điện Biên Phủ, Phường 15, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%C3%A1i+%E1%BA%A5m+Ch%C3%BAc+T%E1%BB%AB\/@10.7955708,106.7014889,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752997d8ec486d:0x50a6060da8559ce8!8m2!3d10.7955708!4d106.7014889!16s%2Fg%2F11pzg47xm6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -789,6 +860,7 @@ const data = [
         "address":"274\/14A Bùi Đình Tuý, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh 72310, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/5MI+STATION\/@10.8080455,106.700327,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529cb6b70e7cf:0xc7119a9cb11edc23!8m2!3d10.8080455!4d106.700327!16s%2Fg%2F11q8rt7c0v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng văn phòng phẩm",
         "category_group":"df_shops"
     },
     {
@@ -800,6 +872,7 @@ const data = [
         "address":"246\/4 Xô Viết Nghệ Tĩnh, Phường 21, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/DroidShop.VN\/@10.7994236,106.7113019,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528affc15fbdb:0xfb1987b0bb79f31f!8m2!3d10.7994236!4d106.7113019!16s%2Fg%2F11bv3mllnb?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -811,6 +884,7 @@ const data = [
         "address":"86a đường 61, Phước Long B, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vape+Shop+HCM+-+Tinh+D%E1%BA%A7u+-+Pod+Kit+gi%C3%A1+t%E1%BB%91t\/@10.8112754,106.6929958,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299ff36eb445:0xddeb89013f727756!8m2!3d10.8112754!4d106.6929958!16s%2Fg%2F11f8gh28q3?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị hóa hơi, Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -822,6 +896,7 @@ const data = [
         "address":"388 Đ. Điện Biên Phủ, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gymstore.vn+B%C3%ACnh+Th%E1%BA%A1nh\/@10.800378,106.70868,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bf8f679f17:0x6b16df2d8edf8b57!8m2!3d10.800378!4d106.70868!16s%2Fg%2F11h080dbgp?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vitamin và thực phẩm bổ sung, Cửa hàng dinh dưỡng cho người tập thể thao",
         "category_group":"df_shops"
     },
     {
@@ -833,6 +908,7 @@ const data = [
         "address":"366\/50 Chu Văn An, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/27+ELITE+SHOPPING+COMPLEX\/@10.8120578,106.7000769,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290deaf9c90b:0xc5691fa5900e86d1!8m2!3d10.8120578!4d106.7000769!16s%2Fg%2F11sd8rn661?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -844,6 +920,7 @@ const data = [
         "address":"377-379 Đ. Điện Biên Phủ, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CellphoneS\/@10.8018226,106.711975,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752995af6406c1:0x4fe1c05456db302b!8m2!3d10.8018226!4d106.711975!16s%2Fg%2F11fqkqqv_s?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -855,6 +932,7 @@ const data = [
         "address":"Hẻm 207\/52\/64, hẻm 207\/ngách 52 Đường Nguyễn Văn Đậu, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hamster+Shop+-+Cocapet+HCM\/@10.8135146,106.6925638,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299fbd6dca25:0xd44b993f4675658f!8m2!3d10.8135146!4d106.6925638!16s%2Fg%2F11fnskkm2z?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật nuôi",
         "category_group":"df_shops"
     },
     {
@@ -866,6 +944,7 @@ const data = [
         "address":"273\/29\/72 Nguyễn Văn Đậu, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BA%BFp+Hai+Duong\/@10.8143149,106.6921203,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529000871cda1:0xd87156d42b35c318!8m2!3d10.8143149!4d106.6921203!16s%2Fg%2F11vs397_tn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -877,6 +956,7 @@ const data = [
         "address":"109 Phan Chu Trinh, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/L%E1%BB%91p+Gai+(+Chuy%C3%AAn+L%E1%BB%91p+Xe+Moto)\/@10.8142016,106.7007586,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d6609cc1a7:0xc0d773539d53a6a7!8m2!3d10.8142016!4d106.7007586!16s%2Fg%2F11rk8znt83?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -888,6 +968,7 @@ const data = [
         "address":"345 Xô Viết Nghệ Tĩnh, Phường 24, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%E1%BA%AFt+K%C3%ADnh+Trong+H%E1%BA%BBm\/@10.8038655,106.711312,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528bb358b5a29:0x3e3b409d58bc66c6!8m2!3d10.8038655!4d106.711312!16s%2Fg%2F11c5whsk1x?hl=vi&entry=ttu",
+        "categories":"Cửa hàng kính mát",
         "category_group":"df_shops"
     },
     {
@@ -899,6 +980,7 @@ const data = [
         "address":"341\/32 Xô Viết Nghệ Tĩnh, Phường 24, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Khoen+Store+-+x%E1%BB%8F+khuy%C3%AAn+%26+trang+s%E1%BB%A9c+ph%E1%BB%A5+ki%E1%BB%87n\/@10.803906,106.710657,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528bb44232a83:0x81504e0b1f52b741!8m2!3d10.803906!4d106.710657!16s%2Fg%2F11cn2y7dr6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xăm mình và xỏ lỗ, Cửa hàng phụ kiện thời trang",
         "category_group":"df_shops"
     },
     {
@@ -910,6 +992,7 @@ const data = [
         "address":"246 Đ. Phan Văn Trị, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/In+%C4%91%C3%B4%CC%80+a%CC%81n+t%C3%B4%CC%81t+nghi%C3%AA%CC%A3p+Minh+Ti%C3%AA%CC%81n\/@10.815018,106.6953027,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528ebc1291a07:0x9fe15149ff766bd!8m2!3d10.815018!4d106.6953027!16s%2Fg%2F1hc6vw13g?hl=vi&entry=ttu",
+        "categories":"Cửa hàng in ấn",
         "category_group":"df_shops"
     },
     {
@@ -921,6 +1004,7 @@ const data = [
         "address":"84 Đường D5, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C3%A1nh+M%C3%AC+PewPew\/@10.8059509,106.7148954,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175293d5caddedd:0x88a29d8806f70ae!8m2!3d10.8059509!4d106.7148954!16s%2Fg%2F11fkf0yvsn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sandwich, Cửa hàng bánh",
         "category_group":"df_shops"
     },
     {
@@ -932,6 +1016,7 @@ const data = [
         "address":"42 Ung Văn Khiêm, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Bcons+Tower+II\/@10.808011,106.7136769,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752940e575ae11:0x296ca38a37758ffa!8m2!3d10.808011!4d106.7136769!16s%2Fg%2F11h8088mtm?hl=vi&entry=ttu",
+        "categories":"Đại lý cho thuê văn phòng",
         "category_group":"df_shops"
     },
     {
@@ -943,6 +1028,7 @@ const data = [
         "address":"Lối vào chung cư cũ, 206\/10, 208 Nguyễn Gia Trí, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+Gi%C3%A0y+C%C5%A9+S%C3%A0i+G%C3%B2n\/@10.8082434,106.7168988,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528a390203e9d:0x7a0e54c35052cbbd!8m2!3d10.8082434!4d106.7168988!16s%2Fg%2F11ggzd8_q_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -954,6 +1040,7 @@ const data = [
         "address":"220Bis Đ. Điện Biên Phủ, Vinhomes Tân Cảng, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Toyota+Hiroshima+T%C3%A2n+C%E1%BA%A3ng+-+HT\/@10.7968917,106.7208784,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d58c818911:0x8bbf3be7500f55c3!8m2!3d10.7968917!4d106.7208784!16s%2Fg%2F11k4l63cfw?hl=vi&entry=ttu",
+        "categories":"Đại lý xe Toyota, Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -965,6 +1052,7 @@ const data = [
         "address":"722C Đ. Điện Biên Phủ, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kem+Ho%E1%BA%A1t+H%C3%ACnh+%C2%AE+Kem+T%E1%BA%A1o+H%C3%ACnh+%C2%AE+Cartoon+ice+Cream-+Shaping+ice+Cream\/@10.7972228,106.7216062,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529c27febb1e7:0x29493bbc67a6d1b5!8m2!3d10.7972228!4d106.7216062!16s%2Fg%2F11s4zdjypr?hl=vi&entry=ttu",
+        "categories":"Cửa hàng kem",
         "category_group":"df_shops"
     },
     {
@@ -976,6 +1064,7 @@ const data = [
         "address":"602\/1 Đ. Điện Biên Phủ, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+th%E1%BB%8B+Th%E1%BA%BF+Gi%E1%BB%9Bi+Di+%C4%90%E1%BB%99ng\/@10.7989754,106.7179842,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528a601719f55:0xe955ce4c6e7f42b4!8m2!3d10.7989754!4d106.7179842!16s%2Fg%2F11df2ymm69?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -987,6 +1076,7 @@ const data = [
         "address":"30\/11 Vũ Ngọc Phan, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%94NG+TY+%C4%90%C3%81+KH%C3%94+QU%E1%BA%A2NG+%C4%90%E1%BB%A8C\/@10.8202368,106.7081277,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175295750d38085:0xcafebd1301e042b6!8m2!3d10.8202368!4d106.7081277!16s%2Fg%2F11shpd_fn6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -998,6 +1088,7 @@ const data = [
         "address":"51 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gh%E1%BA%BF+sofa+bed%2F+sofa+gi%C6%B0%E1%BB%9Dng+%C4%91a+n%C4%83ng+gi%C3%A1+r%E1%BA%BB\/@10.8216433,106.7399854,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528bcac81ea89:0xd01ed32f6e18f68a!8m2!3d10.8216433!4d106.7399854!16s%2Fg%2F11clwkxphm?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán nội thất cổ",
         "category_group":"df_shops"
     },
     {
@@ -1009,6 +1100,7 @@ const data = [
         "address":"412\/3 Nơ Trang Long, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Paddy+Pet+Shop+-+N%C6%A1+Trang+Long\/@10.8190337,106.7024864,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290d14321b03:0xa1f619f0168a6013!8m2!3d10.8190337!4d106.7024864!16s%2Fg%2F11tsgzkzh6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật nuôi",
         "category_group":"df_shops"
     },
     {
@@ -1020,6 +1112,7 @@ const data = [
         "address":"80\/62 Dương Quảng Hàm, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Photocopy+Ph%C3%BAc+Nguy%C3%AAn\/@10.8235554,106.697631,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bf1e486053:0x51823855904632a4!8m2!3d10.8235554!4d106.697631!16s%2Fg%2F11h_4mz49j?hl=vi&entry=ttu",
+        "categories":"Cửa hàng văn phòng phẩm",
         "category_group":"df_shops"
     },
     {
@@ -1031,6 +1124,7 @@ const data = [
         "address":"260\/20 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/D%E1%BB%8Bch+V%E1%BB%A5+Du+L%E1%BB%8Bch+Quang+Vinh\/@10.8202435,106.7286161,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175276e0ce0ebab:0x54df477252bf1e3b!8m2!3d10.8202435!4d106.7286161!16s%2Fg%2F11vk_tk0m_?hl=vi&entry=ttu",
+        "categories":"Đại lý du lịch tham quan",
         "category_group":"df_shops"
     },
     {
@@ -1042,6 +1136,7 @@ const data = [
         "address":"Số 316B Đ. Phan Văn Trị, P. 11, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+th%E1%BB%8B+Th%E1%BA%BF+Gi%E1%BB%9Bi+Di+%C4%90%E1%BB%99ng\/@10.8172789,106.6954352,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528f1fd1a18b1:0xe5c985df6a43bda7!8m2!3d10.8172789!4d106.6954352!16s%2Fg%2F11g6njwz98?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -1053,6 +1148,7 @@ const data = [
         "address":"62L\/23, Nguyên Hồng, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hoa+T%C6%B0%C6%A1i+Anh+Th%C6%B0\/@10.8169565,106.6930475,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294db6fc4ed3:0x4dd55f20ecc97d9!8m2!3d10.8169565!4d106.6930475!16s%2Fg%2F11rc6kbym9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng hoa",
         "category_group":"df_shops"
     },
     {
@@ -1064,6 +1160,7 @@ const data = [
         "address":"99 Hoàng Hoa Thám, Phường 6, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Farmers+Market+-+Ho%C3%A0ng+Hoa+Th%C3%A1m,+Q.B%C3%ACnh+Th%E1%BA%A1nh\/@10.8068291,106.6896812,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ec0afc9a33:0xe53cc15b7f2ae376!8m2!3d10.8068291!4d106.6896812!16s%2Fg%2F11jp070_wx?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -1075,6 +1172,7 @@ const data = [
         "address":"64 Hoàng Hoa Thám, Phường 7, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ways+Station+2+-+64+Ho%C3%A0ng+Hoa+Th%C3%A1m\/@10.8064164,106.6904002,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752917ddc6c9b9:0x1d75713a8db0f3a8!8m2!3d10.8064164!4d106.6904002!16s%2Fg%2F11qjxtl_n9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trò chơi điện tử",
         "category_group":"df_shops"
     },
     {
@@ -1086,6 +1184,7 @@ const data = [
         "address":"203 Nguyễn Thượng Hiền, Phường 6, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hotgear.vn\/@10.8067527,106.6842208,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175298b47c7b757:0x4d67629c8d09384e!8m2!3d10.8067527!4d106.6842208!16s%2Fg%2F11g03wy3zn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -1097,6 +1196,7 @@ const data = [
         "address":"330\/2 Đ. Phan Văn Trị, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T+Fruit+-+Tr%C3%A1i+c%C3%A2y+nh%E1%BA%ADp+kh%E1%BA%A9u+-+Gi%E1%BB%8F+qu%C3%A0+tr%C3%A1i+c%C3%A2y\/@10.8178592,106.6953262,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a8c0efa60b:0xf2527a783cad09a3!8m2!3d10.8178592!4d106.6953262!16s%2Fg%2F11h57l665k?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn trái cây, Cửa hàng giỏ quà tặng",
         "category_group":"df_shops"
     },
     {
@@ -1108,6 +1208,7 @@ const data = [
         "address":"361\/9 Phan Văn Trị, Phường 11, Quận Bình Thạnh, Hồ Chí Minh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/TA+Camera\/@10.8174814,106.6949697,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289db5d47eb9:0xc0ddf7b9f3a4e267!8m2!3d10.8174814!4d106.6949697!16s%2Fg%2F11bw4qgm4f?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị và phụ kiện máy ảnh",
         "category_group":"df_shops"
     },
     {
@@ -1119,6 +1220,7 @@ const data = [
         "address":"107 Nguyên Hồng, Phường 1, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/1997+BaeShop\/@10.8179544,106.6916493,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e849a7f755:0xeda887597b1f7d4c!8m2!3d10.8179544!4d106.6916493!16s%2Fg%2F11jzfl_t32?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -1130,6 +1232,7 @@ const data = [
         "address":"84 Nguyên Hồng, Phường 1, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Co.op+Food+Nguy%C3%AAn+H%E1%BB%93ng\/@10.8182832,106.6921027,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d6730a56b2d5:0xe7e61fdd99ba090d!8m2!3d10.8182832!4d106.6921027!16s%2Fg%2F11cs6k3jfg?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -1141,6 +1244,7 @@ const data = [
         "address":"377\/39 Đ. Phan Văn Trị, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Zippo+Store\/@10.8182141,106.6937594,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528ec25542d1f:0xa2a954a39abacb98!8m2!3d10.8182141!4d106.6937594!16s%2Fg%2F11bbwkjl6z?hl=vi&entry=ttu",
+        "categories":"Cửa hàng, Cửa hàng bán đồ sưu tập, Cửa hàng quà tặng, Thợ chạm khắc đồ trang sức",
         "category_group":"df_shops"
     },
     {
@@ -1152,6 +1256,7 @@ const data = [
         "address":"283\/19\/15D4, Nơ Trang Long, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+G%E1%BA%A5u+B%C3%B4ng+G%E1%BA%A5u+Teddy+-+GauTeddy.vn\/@10.8195011,106.6985984,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528eb5bcf07df:0x33e71d000fe1f27a!8m2!3d10.8195011!4d106.6985984!16s%2Fg%2F11ggsg606s?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quà tặng",
         "category_group":"df_shops"
     },
     {
@@ -1163,6 +1268,7 @@ const data = [
         "address":"447 Đ. Phan Văn Trị, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hasaki+Beauty+%26+Clinic\/@10.8224697,106.693077,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291e13d41ba7:0x4ed5ac09fd0f6e8b!8m2!3d10.8224697!4d106.693077!16s%2Fg%2F11fss0z58v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -1174,6 +1280,7 @@ const data = [
         "address":"480\/ 51 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kho+Gh%E1%BA%BF+Sofa+N%E1%BB%99i+Th%E1%BA%A5t+G%E1%BB%97+Xanh\/@10.8225765,106.7399384,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528bcac76fe2f:0x37729746327563d!8m2!3d10.8225765!4d106.7399384!16s%2Fg%2F11bxfsllpb?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -1185,6 +1292,7 @@ const data = [
         "address":"480\/47 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C3%82m+Thanh+Xe+H%C6%A1i+-+Thanh+Ja+Car+Audio\/@10.8236538,106.7400619,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752742cd9b9739:0x21d3a5f8ac4069ff!8m2!3d10.8236538!4d106.7400619!16s%2Fg%2F11j0vq3n54?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán thiết bị âm thanh ô tô",
         "category_group":"df_shops"
     },
     {
@@ -1196,6 +1304,7 @@ const data = [
         "address":"440 Nơ Trang Long, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+C%E1%BB%95+ph%E1%BA%A7n+May+B%C3%ACnh+Minh-C%E1%BB%ADa+h%C3%A0ng+GENDAI\/@10.8223172,106.7071466,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289259d87bdf:0x84df51311c465895!8m2!3d10.8223172!4d106.7071466!16s%2Fg%2F1tgtbzyc?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -1207,6 +1316,7 @@ const data = [
         "address":"353\/7A Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Le+Nutra\/@10.8264273,106.7356494,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527f9f2fd7f5b:0x97a23b3dbb41de2!8m2!3d10.8264273!4d106.7356494!16s%2Fg%2F11v42530t2?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quà tặng",
         "category_group":"df_shops"
     },
     {
@@ -1218,6 +1328,7 @@ const data = [
         "address":"400 Nguyễn Xí, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C3%81o+d%C3%A0i+Ng%E1%BB%8Dc+Vi%E1%BB%87t+Nam\/@10.8234443,106.7030035,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175293f4edfc87f:0x3e96d94f9b69060!8m2!3d10.8234443!4d106.7030035!16s%2Fg%2F11vpv4xz1n?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trang phục truyền thống",
         "category_group":"df_shops"
     },
     {
@@ -1229,6 +1340,7 @@ const data = [
         "address":"541b Nơ Trang Long, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ways+Staion+Gaming+%26+Billiards+CN+3\/@10.8244074,106.7068138,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294038aec345:0x13bef13adea5833f!8m2!3d10.8244074!4d106.7068138!16s%2Fg%2F11rbbxb1cv?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trò chơi điện tử",
         "category_group":"df_shops"
     },
     {
@@ -1240,6 +1352,7 @@ const data = [
         "address":"2 Bình Lợi, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Satrafoods+B%C3%8CNH+L%E1%BB%A2I\/@10.8254844,106.7068012,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175288e971cfacb:0x3e89e1a088183b54!8m2!3d10.8254844!4d106.7068012!16s%2Fg%2F11f5522vk6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -1251,6 +1364,7 @@ const data = [
         "address":"247 C Bùi Đình Tuý, Phường 24, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ministop\/@10.8075409,106.701661,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528bf0dc25777:0x265855396e6251a5!8m2!3d10.8075409!4d106.701661!16s%2Fg%2F11fyls00d5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -1262,6 +1376,7 @@ const data = [
         "address":"558 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BA%BF+Gi%E1%BB%9Bi+Hoa+H%E1%BB%93ng+Ngo%E1%BA%A1i\/@10.8144651,106.746604,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527b0cec402a3:0x2b0f277f677e8acd!8m2!3d10.8144651!4d106.746604!16s%2Fg%2F11vjsf84_l?hl=vi&entry=ttu",
+        "categories":"Cửa hàng hoa",
         "category_group":"df_shops"
     },
     {
@@ -1273,6 +1388,7 @@ const data = [
         "address":"558\/56a Bình Quới, P.28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sala+Gear+Shop\/@10.8206595,106.7482992,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527f5d7666cb5:0x3a480c3d9fe2fcd8!8m2!3d10.8206595!4d106.7482992!16s%2Fg%2F11jgb_n5ql?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -1284,6 +1400,7 @@ const data = [
         "address":"36 Ung Văn Khiêm, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gamebai68bio\/@10.8015515,106.723051,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bb694ba58b:0xf259ed08b44a2b75!8m2!3d10.8015515!4d106.723051!16s%2Fg%2F11ld2h4xky?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -1295,6 +1412,7 @@ const data = [
         "address":"Gọi trước khi qua\/Call before arrive, 558\/50\/3K, Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/TOKUani+Shop\/@10.8237106,106.744796,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527699ff26ec9:0x845c1ee288d7f1c9!8m2!3d10.8237106!4d106.744796!16s%2Fg%2F11pdglhkbq?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ chơi",
         "category_group":"df_shops"
     },
     {
@@ -1306,6 +1424,7 @@ const data = [
         "address":"121 Chu Văn An, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Dienthoaigiakho.vn+-+121+Chu+V%C4%83n+An,+Ph%C6%B0%E1%BB%9Dng+26,+Qu%E1%BA%ADn+B%C3%ACnh+Th%E1%BA%A1nh,+Tp.+H%E1%BB%93+Ch%C3%AD+Minh\/@10.8105487,106.7072913,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290a59ab9cf5:0x83f8b7b5a9b101d2!8m2!3d10.8105487!4d106.7072913!16s%2Fg%2F11r4nwkxj8?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -1317,6 +1436,7 @@ const data = [
         "address":"47 Đường số 7, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+L%C6%B0u+Gi%E1%BB%AF+K%C3%BD+%E1%BB%A8c\/@10.8125903,106.7071966,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529fa6e4fe36b:0xe7d95f5b2a7e406!8m2!3d10.8125903!4d106.7071966!16s%2Fg%2F11trxcq_y0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quà tặng, Quán cà phê nghệ thuật, Xưởng nghệ thuật, Thủ công mỹ nghệ",
         "category_group":"df_shops"
     },
     {
@@ -1328,6 +1448,7 @@ const data = [
         "address":"31 Chu Văn An, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Bigolivetoday\/@10.8125959,106.701376,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175298271dc0821:0xd2548d969f9718fe!8m2!3d10.8125959!4d106.701376!16s%2Fg%2F11vs4n1rgd?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -1339,6 +1460,7 @@ const data = [
         "address":"66\/87 Xô Viết Nghệ Tĩnh, Phường 21, Bình Thạnh, Thành phố Hồ Chí Minh 100000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Decal+3d\/@10.7959745,106.7129919,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752911b7544bd1:0xb17ce5a09f7d0bf2!8m2!3d10.7959745!4d106.7129919!16s%2Fg%2F11tmrsyj99?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -1350,6 +1472,7 @@ const data = [
         "address":"98 Xô Viết Nghệ Tĩnh, Phường 21, Bình Thạnh, Thành phố Hồ Chí Minh 72322, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Di+%C4%90%E1%BB%99ng+M%E1%BB%9Bi+-+CN+H%C3%A0ng+Xanh\/@10.7958126,106.7102764,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752faf74c42071:0xb8cae082348a0a21!8m2!3d10.7958126!4d106.7102764!16s%2Fg%2F11swtf1s6d?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Cửa hàng bán đồ điện tử, Cửa hàng sửa chữa điện thoại di động, Dịch vụ sửa chữa điện thoại, Cửa hàng thiết bị âm thanh",
         "category_group":"df_shops"
     },
     {
@@ -1361,6 +1484,7 @@ const data = [
         "address":"158\/48 Xô Viết Nghệ Tĩnh, Phường 21, Bình Thạnh, Thành phố Hồ Chí Minh 72322, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sunshine+Shop+-+H%C3%A0ng+hi%E1%BB%87u+v%C3%A0+M%E1%BB%B9+Ph%E1%BA%A9m\/@10.7969154,106.7121906,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752978f63ec66d:0x95e756db7977a35!8m2!3d10.7969154!4d106.7121906!16s%2Fg%2F11vpy17rt5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -1372,6 +1496,7 @@ const data = [
         "address":"184\/14 Nguyễn Xí, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+qu%C3%B4%CC%81c+t%C3%AA%CC%81+Anh+Hoa%CC%80n\/@10.8156668,106.7082951,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528ecceda496f:0x4dcdcde97ce6320d!8m2!3d10.8156668!4d106.7082951!16s%2Fg%2F11bz_26lbl?hl=vi&entry=ttu",
+        "categories":"Cửa hàng dụng cụ, Cửa hàng dụng cụ tự sửa chữa",
         "category_group":"df_shops"
     },
     {
@@ -1383,6 +1508,7 @@ const data = [
         "address":"Chung cư 1050, số 4 Phan Chu Trinh, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BA%BF+Gi%C6%A1%CC%81i+Di%E1%BB%81u\/@10.8157853,106.7015027,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528cbd64106a3:0x1453ea8cfa9c3b7a!8m2!3d10.8157853!4d106.7015027!16s%2Fg%2F11b7jf4w_v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng diều",
         "category_group":"df_shops"
     },
     {
@@ -1394,6 +1520,7 @@ const data = [
         "address":"206 Xô Viết Nghệ Tĩnh, Phường 21, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/FamilyMart+206+X%C3%B4+Vi%E1%BA%BFt+Ngh%E1%BB%87+T%C4%A9nh\/@10.7982198,106.7112132,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528b0190262ff:0x8edf446322c6f8e8!8m2!3d10.7982198!4d106.7112132!16s%2Fg%2F11cp5hr8v5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -1405,6 +1532,7 @@ const data = [
         "address":"1\/46\/1, Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Bear+PlayStation+-+PS5%2FPES+B%C3%ACnh+Th%E1%BA%A1nh\/@10.8260483,106.7013036,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752975501df59b:0xac2f1aca2c58d199!8m2!3d10.8260483!4d106.7013036!16s%2Fg%2F11sj2c9_xn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trò chơi điện tử",
         "category_group":"df_shops"
     },
     {
@@ -1416,6 +1544,7 @@ const data = [
         "address":"41F\/12 Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kitawa+Solar+-+%C4%90%C3%A8n+N%C4%83ng+L%C6%B0%E1%BB%A3ng+M%E1%BA%B7t+Tr%E1%BB%9Di+Ch%C3%ADnh+H%C3%A3ng\/@10.8275191,106.702811,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0e69140b67:0x5ecbd6cf533b1336!8m2!3d10.8275191!4d106.702811!16s%2Fg%2F11j24whf6l?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị chiếu sáng, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -1427,6 +1556,7 @@ const data = [
         "address":"Hẻm 455 Nơ Trang Long, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Game+b%E1%BA%AFn+c%C3%A1+c%C3%B3+th%C6%B0%E1%BB%9Fng\/@10.8269617,106.7047435,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752918caf55f69:0xb23dcff730a8fa4!8m2!3d10.8269617!4d106.7047435!16s%2Fg%2F11vpt9pr2q?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trò chơi",
         "category_group":"df_shops"
     },
     {
@@ -1438,6 +1568,7 @@ const data = [
         "address":"81 Bình Lợi, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%C3%A8o+Th%E1%BA%A7n+T%C3%A0i+-+M%C3%A8o+May+M%E1%BA%AFn+Nh%E1%BA%ADt+B%E1%BA%A3n+Maneki+Neko+House\/@10.8293647,106.7057157,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d7ed595e63:0x419b26ef9056fdc3!8m2!3d10.8293647!4d106.7057157!16s%2Fg%2F1pzrklmfv?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phong thủy, Cửa hàng sửa chữa đồ điện tử, Nhân viên tư vấn phong thủy, Cửa hàng quà tặng, Cửa hàng nội thất văn phòng, Cửa hàng đồ gốm, Cửa hàng lưu niệm",
         "category_group":"df_shops"
     },
     {
@@ -1449,6 +1580,7 @@ const data = [
         "address":"116\/9 Bình Lợi, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/BAT+Shop\/@10.8320263,106.7057171,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f83f1a7e0d5:0x6be896f79dea9871!8m2!3d10.8320263!4d106.7057171!16s%2Fg%2F11jxnz688v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xe đạp",
         "category_group":"df_shops"
     },
     {
@@ -1460,6 +1592,7 @@ const data = [
         "address":"233\/4 Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 72311, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%E1%BB%A5+Ki%E1%BB%87n+M%C3%A1y+T%C3%ADnh\/@10.8323747,106.7002102,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529035b5bd53d:0x5143a99e8c5a35f4!8m2!3d10.8323747!4d106.7002102!16s%2Fg%2F11fk187782?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính, Cửa hàng máy tính cũ",
         "category_group":"df_shops"
     },
     {
@@ -1471,6 +1604,7 @@ const data = [
         "address":"2\/1A, Nơ Trang Long, Phường 14, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+Vape+B%C3%ACnh+Th%E1%BA%A1nh+Gi%C3%A1+R%E1%BA%BB+-+Pod+Gi%C3%A1+R%E1%BA%BB+H%E1%BB%93+Ch%C3%AD+Minh+-+VinaVape+-+Xlim+V2\/@10.8039963,106.6951704,17z\/data=!3m1!4b1!4m6!3m5!1s0x3135ab74d8dfc415:0x4c098167f318ac50!8m2!3d10.8039963!4d106.6951704!16s%2Fg%2F1td6cyr9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị hóa hơi",
         "category_group":"df_shops"
     },
     {
@@ -1482,6 +1616,7 @@ const data = [
         "address":"23\/5 Đ. Phan Đăng Lưu, Phường 3, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KCONS.VN+B%C3%ACnh+Th%E1%BA%A1nh\/@10.8029482,106.6925758,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175295c6ba9539b:0xbcc5ae5334bce83f!8m2!3d10.8029482!4d106.6925758!16s%2Fg%2F11hhj_5fb5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -1493,6 +1628,7 @@ const data = [
         "address":"2B Cư xá, Đ. Phan Đăng Lưu, Phường 3, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chu%C3%B4ng+xanh+store+-+G%E1%BB%91m+s%E1%BB%A9+Nh%E1%BA%ADt+B%E1%BA%A3n\/@10.8010233,106.6956697,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529c9f1b9de51:0xf962247f6ac6c5bb!8m2!3d10.8010233!4d106.6956697!16s%2Fg%2F11fm780v9x?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ gốm",
         "category_group":"df_shops"
     },
     {
@@ -1504,6 +1640,7 @@ const data = [
         "address":"138 Đ. Lê Văn Duyệt, P.1, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/YaMe.vn\/@10.7996385,106.6964915,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528c88596f4b3:0xc132f82b044302bc!8m2!3d10.7996385!4d106.6964915!16s%2Fg%2F11c54zm9f6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -1515,6 +1652,7 @@ const data = [
         "address":"127b\/10, Đ. Lê Văn Duyệt, Phường 3, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/3BICH+B%C3%ACnh+Th%E1%BA%A1nh\/@10.7995169,106.6957224,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f827bc02b5f:0xe121d43ba404b6fe!8m2!3d10.7995169!4d106.6957224!16s%2Fg%2F11qrsy8db9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -1526,6 +1664,7 @@ const data = [
         "address":"26 Ung Văn Khiêm, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Pax+Sky\/@10.8088764,106.7133572,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529c5d248a94f:0xa36f16617f03f5fd!8m2!3d10.8088764!4d106.7133572!16s%2Fg%2F11gydfgvbp?hl=vi&entry=ttu",
+        "categories":"Đại lý cho thuê văn phòng",
         "category_group":"df_shops"
     },
     {
@@ -1537,6 +1676,7 @@ const data = [
         "address":"536 Xô Viết Nghệ Tĩnh, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/cellphone+S\/@10.80965,106.712522,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528a2a53e7569:0x9300eaa1d51c817a!8m2!3d10.80965!4d106.712522!16s%2Fg%2F11cls664fd?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -1548,6 +1688,7 @@ const data = [
         "address":"561 Xô Viết Nghệ Tĩnh, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+th%E1%BB%8B+%C4%90i%E1%BB%87n+m%C3%A1y+XANH\/@10.8100802,106.7120298,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528a2bbe59753:0x201f205d38274087!8m2!3d10.8100802!4d106.7120298!16s%2Fg%2F11b8ygmp93?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động, Cửa hàng đồ gia dụng, Cửa hàng máy lạnh, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -1559,6 +1700,7 @@ const data = [
         "address":"292 Đ. Đinh Bộ Lĩnh, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+Mtv+B%E1%BA%BFn+Xe+Mi%E1%BB%81n+%C4%90%C3%B4ng\/@10.8149258,106.7106674,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752890a6eae469:0xeedafc8b17e90b3e!8m2!3d10.8149258!4d106.7106674!16s%2Fg%2F1tf55ch5?hl=vi&entry=ttu",
+        "categories":"Đại lý vé xe buýt",
         "category_group":"df_shops"
     },
     {
@@ -1570,6 +1712,7 @@ const data = [
         "address":"12 Nguyễn Duy, Phường 3, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ho%E1%BA%A1+Ph%E1%BA%A9m+62\/@10.801037,106.694326,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529947eba3b15:0x1c6b9793bc4693e3!8m2!3d10.801037!4d106.694326!16s%2Fg%2F11mv58w_q8?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán dụng cụ nghệ thuật, Nhà bán buôn văn phòng phẩm",
         "category_group":"df_shops"
     },
     {
@@ -1581,6 +1724,7 @@ const data = [
         "address":"60\/18 Vạn Kiếp, Phường 3, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Minhshop.vn+-+Shop+gi%C3%A0y+Sneaker+ch%C3%ADnh+h%C3%A3ng+t%E1%BA%A1i+TPHCM\/@10.8010887,106.6928158,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528c5f2111ff9:0x7c78af8f581c8cd!8m2!3d10.8010887!4d106.6928158!16s%2Fg%2F11c0z4dw9x?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép, Cửa hàng giày thể thao",
         "category_group":"df_shops"
     },
     {
@@ -1592,6 +1736,7 @@ const data = [
         "address":"01 Võ Trường Toản, phường 02, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+th%E1%BB%8B+B%C3%A1ch+h%C3%B3a+XANH+01+V%C3%B5+Tr%C6%B0%E1%BB%9Dng+To%E1%BA%A3n\/@10.8016628,106.700186,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529364dc4b957:0x11d052ad850a69a8!8m2!3d10.8016628!4d106.700186!16s%2Fg%2F11q93ngfm7?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -1603,6 +1748,7 @@ const data = [
         "address":"Chợ Bà Chiểu, 469 Bạch Đằng (gần, P. 2, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/FPT+Shop\/@10.8030205,106.699792,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528c77e395351:0x711e6d85ccba02c3!8m2!3d10.8030205!4d106.699792!16s%2Fg%2F11c6w302bt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -1614,6 +1760,7 @@ const data = [
         "address":"17 Nơ Trang Long, Phường 14, Bình Thạnh, Thành phố Hồ Chí Minh 717902, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HEAD+-+Ph%C3%A1t+Ti%E1%BA%BFn+1\/@10.8064034,106.6948918,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528c145647ab3:0xc14545ed206f93e1!8m2!3d10.8064034!4d106.6948918!16s%2Fg%2F1pzsqtzrl?hl=vi&entry=ttu",
+        "categories":"Đại lý xe Honda, Cửa hàng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -1625,6 +1772,7 @@ const data = [
         "address":"75 Đ. Số 20, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BB%A7y+Sinh+Ph%E1%BB%91\/@10.8249596,106.7233833,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752956f8efdefb:0x82011b03c1e024b8!8m2!3d10.8249596!4d106.7233833!16s%2Fg%2F11s1933n93?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -1636,6 +1784,7 @@ const data = [
         "address":"109 Bình Quới, Phường 27, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+th%E1%BB%8B+B%C3%A1ch+ho%C3%A1+XANH+109+B%C3%ACnh+Qu%E1%BB%9Bi\/@10.817885,106.7216924,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752990f6239fbb:0x86b0121dca312f6a!8m2!3d10.817885!4d106.7216924!16s%2Fg%2F11jfp8sncx?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -1647,6 +1796,7 @@ const data = [
         "address":"101\/147 Trần Bình Trọng, Phường 5, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M8+Sport\/@10.8107207,106.6885417,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292174730caf:0xd282b299c7047284!8m2!3d10.8107207!4d106.6885417!16s%2Fg%2F11ld3bxy46?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo thể thao",
         "category_group":"df_shops"
     },
     {
@@ -1658,6 +1808,7 @@ const data = [
         "address":"220\/13 Hoàng Hoa Thám, Phường 5, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/X%C6%B0%E1%BB%9Fng+Gi%C3%A0y+D%C3%A9p+N%E1%BB%AF+HP\/@10.8094434,106.685958,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529c0421a5f61:0xc4b573cee2ed08e6!8m2!3d10.8094434!4d106.685958!16s%2Fg%2F11vrzgxtrt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -1669,6 +1820,7 @@ const data = [
         "address":"50E Trần Bình Trọng, Phường 5, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sivsole97\/@10.8125167,106.6882249,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529dc214accb1:0xbe5d34f4112d5214!8m2!3d10.8125167!4d106.6882249!16s%2Fg%2F11l2cp28xx?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -1680,6 +1832,7 @@ const data = [
         "address":"93 Hố Bò, Phú Mỹ Hưng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A2y+c%E1%BA%A3nh+Anh+T%E1%BB%99c\/@11.1210485,106.4764216,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b336a7af3c8d1:0x87b5b465444870b5!8m2!3d11.1210485!4d106.4764216!16s%2Fg%2F11pkllzyxg?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn cây cảnh",
         "category_group":"df_shops"
     },
     {
@@ -1691,6 +1844,7 @@ const data = [
         "address":"155 Hố Bò, Phú Mỹ Hưng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Qu%C3%A1n+r%C6%B0%E1%BB%A3u+Anh+6+Huy%E1%BB%87n\/@11.1149382,106.4731097,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33c8d49c0085:0x53186bd7cd11a74a!8m2!3d11.1149382!4d106.4731097!16s%2Fg%2F11fjyvtn3s?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -1702,6 +1856,7 @@ const data = [
         "address":"425 Bến Súc, An Phú, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Camera+m%C3%A1y+t%C3%ADnh+Xu%C3%A2n+Th%E1%BA%AFng\/@11.1036698,106.4779319,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33aff19c6a91:0x3ce4d93cea090cfd!8m2!3d11.1036698!4d106.4779319!16s%2Fg%2F11kpw9jlhs?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -1713,6 +1868,7 @@ const data = [
         "address":"176 Trung Lập, Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C3%9At+Lam\/@11.0556262,106.4480115,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2dfb14e788f7:0x7d3393c26c037b21!8m2!3d11.0556262!4d106.4480115!16s%2Fg%2F11gk6nnt96?hl=vi&entry=ttu",
+        "categories":"Cửa hàng rượu bia",
         "category_group":"df_shops"
     },
     {
@@ -1724,6 +1880,7 @@ const data = [
         "address":"30\/2 đường 587 ấp đồn, Trung Lập Hạ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+C%E1%BB%95+Ph%E1%BA%A7n+C%C3%A1+Koi+Vi%E1%BB%87t+Hu%E1%BA%A5n\/@11.0362074,106.4549687,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d11d88f3f1b:0xa2923a90a78d01c8!8m2!3d11.0362074!4d106.4549687!16s%2Fg%2F11sh1bwgbf?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -1735,6 +1892,7 @@ const data = [
         "address":"XHQ2+3W5, Tân Thạnh Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gara+oto+trung+c%E1%BB%A7+chi\/@10.9876346,106.5523635,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d3a47c800b4b:0x4a76ce159daca67e!8m2!3d10.9876346!4d106.5523635!16s%2Fg%2F11hdqjz46h?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bảo trì và sửa chữ ô tô",
         "category_group":"df_shops"
     },
     {
@@ -1746,6 +1904,7 @@ const data = [
         "address":"Bàu Trâu Số 252 tổ 1 đường, Võ Văn Điều, Phước Thạnh, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BA%A1p+h%C3%B3a+B%C3%80+3+H%C3%9A\/@11.0365384,106.4254148,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f84c08f6893:0x480b7ca3bfefa0fd!8m2!3d11.0365384!4d106.4254148!16s%2Fg%2F11p656qd8x?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -1757,6 +1916,7 @@ const data = [
         "address":"1222 Nguyễn Thị Rành, Phú Mỹ Hưng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C6%B0%E1%BB%9Dn+Tr%C3%A1i+C%C3%A2y+T%E1%BA%A5n+Ph%C3%A1t\/@11.1099866,106.473578,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33adf25b08e7:0x4ac0f3459eea2167!8m2!3d11.1099866!4d106.473578!16s%2Fg%2F11frp9fm_r?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn trái cây",
         "category_group":"df_shops"
     },
     {
@@ -1768,6 +1928,7 @@ const data = [
         "address":"1568 Đ. Tỉnh Lộ 15, An Phú, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%B9n+qu%E1%BA%BF+L%E1%BB%99c+Ph%C3%A1t\/@11.124473,106.48829,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33f7b39a7361:0xbd728336e675fa4!8m2!3d11.124473!4d106.48829!16s%2Fg%2F11stvs2l8p?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -1779,6 +1940,7 @@ const data = [
         "address":"539 Cây Gõ, An Phú, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C6%B0%E1%BB%9Dn+Lan+H%E1%BB%AFu+C%C6%A1+T%C3%ADn+T%C3%A2m\/@11.1320825,106.4905951,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33ffd5e20fa3:0x890f7a6d1bf00beb!8m2!3d11.1320825!4d106.4905951!16s%2Fg%2F11lcjfvcdk?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn cây cảnh, Trang trại nông sản tự hái",
         "category_group":"df_shops"
     },
     {
@@ -1790,6 +1952,7 @@ const data = [
         "address":"30 Đoàn Văn Bơ, Phường 9, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chuy%C3%AAn+ph%E1%BB%A5c+h%E1%BB%93i+b%C3%ACnh+x%C4%83ng+con+(+t%C6%B0%E1%BB%9Fng+h%E1%BB%AFu+Ph%C6%B0%E1%BB%9Bc+)\/@11.1366515,106.4840428,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33ac5e788ef7:0xade4f64a45fde570!8m2!3d11.1366515!4d106.4840428!16s%2Fg%2F11pfk6h0yk?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -1801,6 +1964,7 @@ const data = [
         "address":"01 đường 683 ấp bình hạ đông, Thái Mỹ, Củ Chi, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BA%BF+gi%C6%A1%CC%81i+sinh+v%E1%BA%ADt+c%E1%BA%A3nh.vn\/@10.9858095,106.3782673,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f7115ee30af:0xc22e6b11263b12d6!8m2!3d10.9858095!4d106.3782673!16s%2Fg%2F11g0kh8bt5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -1812,6 +1976,7 @@ const data = [
         "address":"16a QLN2, Thái Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C3%A1nh+L%C3%A1+C%C3%B4+B%E1%BA%A3y\/@10.995737,106.3740283,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2fabdc5ee567:0x1a5ffcbd606ab44d!8m2!3d10.995737!4d106.3740283!16s%2Fg%2F11hf462qh2?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ gia dụng",
         "category_group":"df_shops"
     },
     {
@@ -1823,6 +1988,7 @@ const data = [
         "address":"tphcm, 84, ấp Phú Thuận, Phú Mỹ Hưng, Củ Chi, Thành phố Hồ Chí Minh 71621, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%E1%BB%A5+T%C3%B9ng+B%E1%BA%A3o\/@11.0998114,106.4571165,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b3397687f40bf:0x1a4efaaa727fad97!8m2!3d11.0998114!4d106.4571165!16s%2Fg%2F11sx75f04s?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -1834,6 +2000,7 @@ const data = [
         "address":"533 Đ. Tỉnh Lộ 15, Tân Thạnh Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Co.op+Food+T%C3%A2n+Th%E1%BA%A1nh+%C4%90%C3%B4ng\/@10.9649535,106.592677,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d479ee7915b7:0x6b4749c55b94fb53!8m2!3d10.9649535!4d106.592677!16s%2Fg%2F11ggt4pn12?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -1845,6 +2012,7 @@ const data = [
         "address":"315 Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh 71600, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+C%E1%BB%A7a+B%C6%B0%E1%BB%9Fi\/@11.0171113,106.4907737,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2de16f51d9f3:0x5c8888079896956b!8m2!3d11.0171113!4d106.4907737!16s%2Fg%2F11sssk5ynp?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn trái cây",
         "category_group":"df_shops"
     },
     {
@@ -1856,6 +2024,7 @@ const data = [
         "address":"227 Nhuận Đức, ấp bàu cạp, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/cho+thu%C3%AA+xe+7+ch%E1%BB%95+%C4%91%E1%BB%9Di+m%E1%BB%9Bi\/@11.0143608,106.4987145,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d318423a265:0x43aaa7495cad6864!8m2!3d11.0143608!4d106.4987145!16s%2Fg%2F11fr6p2xkt?hl=vi&entry=ttu",
+        "categories":"Đại lý cho thuê xe ô tô",
         "category_group":"df_shops"
     },
     {
@@ -1867,6 +2036,7 @@ const data = [
         "address":"122 Nhuận Đức, ấp, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%E1%BB%B1a+R%C6%A1m+2+Ph%C6%B0%E1%BB%9Bc\/@11.0137426,106.5101013,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2da5d223dd0d:0x83a412d2199063b0!8m2!3d11.0137426!4d106.5101013!16s%2Fg%2F11j57gpy2_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -1878,6 +2048,7 @@ const data = [
         "address":"41 HL2, ấp bàu sim, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/PHOTOCOPY+-+CH%E1%BB%A4P+H%C3%8CNH+TH%E1%BA%BA+THANH+TUNG\/@10.9552494,106.5309483,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d579bcd78fe9:0xfaec9d456ce4df1b!8m2!3d10.9552494!4d106.5309483!16s%2Fg%2F11fk2712y5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng in ấn",
         "category_group":"df_shops"
     },
     {
@@ -1889,6 +2060,7 @@ const data = [
         "address":"97 Giồng Cát, Tân Phú Trung, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90I%E1%BB%86N+N%C6%AF%E1%BB%9AC+_+GIA+H%C3%82N\/@10.9411096,106.559035,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d53075c88f07:0xe1fcf44bcbe267f7!8m2!3d10.9411096!4d106.559035!16s%2Fg%2F11fs_8h7_h?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -1900,6 +2072,7 @@ const data = [
         "address":"355\/1 Tổ 2, Ấp Ba Sòng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%E1%BB%B1a+n%C3%B4ng+s%E1%BA%A3n+phong+ph%C3%BA\/@11.072641,106.4602081,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b330045a8f139:0xcb9a0d63dcedd7aa!8m2!3d11.072641!4d106.4602081!16s%2Fg%2F11ld2rd7g5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -1911,6 +2084,7 @@ const data = [
         "address":"397 Đ. Đỗ Đăng Tuyển, An Nhơn Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BA%AFng+L%E1%BB%A3i+%C4%90%E1%BA%A1i+L%C3%BD+Bia+-+N%C6%B0%E1%BB%9Bc+Ng%E1%BB%8Dt\/@11.0743946,106.4667724,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b327286654433:0x13fc150802a1f3ce!8m2!3d11.0743946!4d106.4667724!16s%2Fg%2F11qnds4lm_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -1922,6 +2096,7 @@ const data = [
         "address":"71A Đoàn Minh Triết, Thái Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C4%83n+Ph%C3%B2ng+Ph%E1%BA%A9m+Ph%C6%B0%C6%A1ng+Ng%C3%A2n\/@10.9974137,106.4083966,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2ec39ef81ccb:0x86e6103bf48ac401!8m2!3d10.9974137!4d106.4083966!16s%2Fg%2F11f_gbldqw?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -1933,6 +2108,7 @@ const data = [
         "address":"176 Đường An Nhơn Tây, An Nhơn Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%B9n+Qu%E1%BA%BF+Thanh+Thi%E1%BB%87n\/@11.0851037,106.4872825,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33ac88c9c793:0x97d1bd60abd494e1!8m2!3d11.0851037!4d106.4872825!16s%2Fg%2F11rhbsb13n?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -1944,6 +2120,7 @@ const data = [
         "address":"39 đường Phạm Thị Qưới, ấp, Phú Thuận, Phú Mỹ Hưng, Củ Chi, Thành phố Hồ Chí Minh 734001, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BA%A3o+Guppy\/@11.0892304,106.4559061,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33ecb2cd0165:0x932f79f46bef516d!8m2!3d11.0892304!4d106.4559061!16s%2Fg%2F11nxswt33g?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -1955,6 +2132,7 @@ const data = [
         "address":"số 12đường, Hứa Thị Hôn, tổ 11ấp xóm chùa, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%E1%BA%A1i+c%C3%A1+B%E1%BA%B1ng\/@11.1025048,106.5110167,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33d14a8819e5:0x38f0a95a56b3cf6e!8m2!3d11.1025048!4d106.5110167!16s%2Fg%2F11q3__8mxt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -1966,6 +2144,7 @@ const data = [
         "address":"3CXQ+JMH, Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BA%A1p+H%C3%B3a+%C3%9At+Sen\/@11.0990548,106.4392452,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b3187e87711c7:0xe9ab98bcdb466e36!8m2!3d11.0990548!4d106.4392452!16s%2Fg%2F11klvwnncv?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp hóa",
         "category_group":"df_shops"
     },
     {
@@ -1977,6 +2156,7 @@ const data = [
         "address":"Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BA%A1p+H%C3%B3a+H%E1%BB%AFu+Ngh%E1%BB%8B\/@11.0956421,106.439522,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b318833504665:0x68b15e1ffb038eab!8m2!3d11.0956421!4d106.439522!16s%2Fg%2F11klvwlg58?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -1988,6 +2168,7 @@ const data = [
         "address":"330 Phú Thuận, Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%A1i+l%C3%BD+G%E1%BA%A1o\/@11.0942389,106.4411139,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33bc2e58f591:0xca5554b81c6d33d5!8m2!3d11.0942389!4d106.4411139!16s%2Fg%2F11syr2r8p2?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -1999,6 +2180,7 @@ const data = [
         "address":"109, Phạm Văn Cội, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+Sp+Ph%C6%B0%C6%A1ng+Sp\/@11.0521445,106.5128161,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d7b2e4cbf17:0x9e1f55a4747dac19!8m2!3d11.0521445!4d106.5128161!16s%2Fg%2F11sgdsg1kf?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -2010,6 +2192,7 @@ const data = [
         "address":"69a Cây Gõ, An Nhơn Tây, Củ Chi, Thành phố Hồ Chí Minh 733800, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%E1%BA%A1m+Tu%E1%BA%A5n+SONAX\/@11.0940686,106.5155944,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b32dccb47034f:0xb14e0b617e026668!8m2!3d11.0940686!4d106.5155944!16s%2Fg%2F11gfjvr5x5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng chất hướng thần, Trung tâm mua sắm",
         "category_group":"df_shops"
     },
     {
@@ -2021,6 +2204,7 @@ const data = [
         "address":"64 Đường số 791, An Phú, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SHOP+QU%E1%BA%A6N+%C3%81O,+CAFE+S%C3%82N+V%C6%AF%E1%BB%9CN_L%C3%8A+TR%C3%9AC\/@11.1118663,106.4960337,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33c6d2c35ac9:0xd61cd67a9de26ccd!8m2!3d11.1118663!4d106.4960337!16s%2Fg%2F11szjny9nj?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -2032,6 +2216,7 @@ const data = [
         "address":"4GH4+3W6, An Phú, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C6%B0%E1%BB%9Dn+C%C3%A2y+Ch%C3%BA+Pha\/@11.1276567,106.5072644,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33338e65f58f:0x66eb8deb46d88009!8m2!3d11.1276567!4d106.5072644!16s%2Fg%2F11ghwtm250?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -2043,6 +2228,7 @@ const data = [
         "address":"27\/10 đường 578, ấp Lào Táo Trung, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+H%C3%A0+Trinh\/@11.024165,106.4532908,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d8268abff83:0x609daac2e77a92c7!8m2!3d11.024165!4d106.4532908!16s%2Fg%2F11k9plyjry?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -2054,6 +2240,7 @@ const data = [
         "address":"105\/2 đường số 648, Phước Thạnh, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Trang+tr%E1%BA%A1i+Thanh+Tr%C3%A0\/@11.0240236,106.4261082,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f570ef39807:0x3f8969dfb4d06638!8m2!3d11.0240236!4d106.4261082!16s%2Fg%2F11hq6jpzy4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -2065,6 +2252,7 @@ const data = [
         "address":"số 27\/7 đường 663 ấp Mít Nài, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BB%A9c+%C4%82n+Chim+C%E1%BA%A3nh+Ch%C3%A2u+Minh+Thi%C3%AAn\/@11.025292,106.4243011,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f8266d320f3:0x683308add71294ba!8m2!3d11.025292!4d106.4243011!16s%2Fg%2F11g193tv26?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm, Văn phòng công ty",
         "category_group":"df_shops"
     },
     {
@@ -2076,6 +2264,7 @@ const data = [
         "address":"62\/3 Đường 534, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%A7+Chi+Arowana\/@11.0516757,106.4905047,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d8d1e02a9a5:0x1aacf241257eef4f!8m2!3d11.0516757!4d106.4905047!16s%2Fg%2F11lg2_qhdb?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -2087,6 +2276,7 @@ const data = [
         "address":"27A Đường 499, ấp 5, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90i%E1%BB%87nT%E1%BB%AD+%C4%90%E1%BB%A9c+Th%E1%BB%8D\/@11.0528865,106.5145674,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2dba2c3be6fd:0x62dd26ced9c4e99!8m2!3d11.0528865!4d106.5145674!16s%2Fg%2F11f661vfxt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -2098,6 +2288,7 @@ const data = [
         "address":"554 Trung Lập, Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C3%A1ch+H%C3%B3a+Ph%C3%BAc+An\/@11.0811905,106.4388832,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b31f66da01da1:0x6924e7b041be2dec!8m2!3d11.0811905!4d106.4388832!16s%2Fg%2F11kkxvksm_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -2109,6 +2300,7 @@ const data = [
         "address":"166 Bến Đình, An Nhơn Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%A1i+l%C3%AD+gas+Anh+Ph%C3%A1t\/@11.065899,106.5002245,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33d519958d59:0xfdceabca0eb15d5f!8m2!3d11.065899!4d106.5002245!16s%2Fg%2F11kxf8vxhm?hl=vi&entry=ttu",
+        "categories":"Cửa hàng ga",
         "category_group":"df_shops"
     },
     {
@@ -2120,6 +2312,7 @@ const data = [
         "address":"95 Đường Số 120, Tân Thạnh Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/D%E1%BA%A7u+Nh%E1%BB%9Bt+C%E1%BB%A7+Chi+Huy+Racing+Oil\/@10.972974,106.5889083,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d34d3db7d209:0x4448e41cef2df145!8m2!3d10.972974!4d106.5889083!16s%2Fg%2F11gy4zktcx?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ tùng xe máy, Cửa hàng bảo trì và sửa chữ ô tô",
         "category_group":"df_shops"
     },
     {
@@ -2131,6 +2324,7 @@ const data = [
         "address":"171 Đường 572, Ấp Đồn, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%A1i+l%C3%BD+Ho%C3%A0ng+Thi%E1%BB%87n\/@11.0293101,106.4635524,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d2b24513049:0x294810ef32d77c0e!8m2!3d11.0293101!4d106.4635524!16s%2Fg%2F11nmmk9h0l?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -2142,6 +2336,7 @@ const data = [
         "address":"1A, Hồ Văn Tắng, Xã Tân Thạnh Tây, Tân Thạnh Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+T%C3%A2n+H%E1%BB%A3p+Th%C3%A0nh\/@10.9722982,106.5633778,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d49e323f16a9:0x39b04f61b317080!8m2!3d10.9722982!4d106.5633778!16s%2Fg%2F1pzrh90xj?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất nhà bếp",
         "category_group":"df_shops"
     },
     {
@@ -2153,6 +2348,7 @@ const data = [
         "address":"363 Nguyễn Kim Cương, Tân Thạnh Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%94NG+TY+TNHH+Qu%E1%BA%A3ng+C%C3%A1o+Nam+B%E1%BA%AFc\/@10.9690429,106.5767283,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d50072e04869:0xd09e2e152aeac3b5!8m2!3d10.9690429!4d106.5767283!16s%2Fg%2F11vpzfftch?hl=vi&entry=ttu",
+        "categories":"Cửa hàng in ấn",
         "category_group":"df_shops"
     },
     {
@@ -2164,6 +2360,7 @@ const data = [
         "address":"254 Nguyễn Thị Rành, Trung Lập Hạ, Củ Chi, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%E1%BA%A1c+S%E1%BB%91ng+V%C5%A9+Lu%C3%A2n+-+Cho+Thu%C3%AA+D%C3%A0n+%C3%82m+Thanh+C%E1%BB%A7+Chi\/@11.0028342,106.4678434,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2dc88655d035:0xc57877a41b929338!8m2!3d11.0028342!4d106.4678434!16s%2Fg%2F11lckdzzf7?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cho thuê hệ thống âm thanh",
         "category_group":"df_shops"
     },
     {
@@ -2175,6 +2372,7 @@ const data = [
         "address":"2F5C+HW5, Trung Lập Hạ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C3%81CH+H%C3%93A+T%E1%BB%94NG+H%E1%BB%A2P+%C4%90%E1%BA%BEN+V%C3%80+XEM+(COME+%26+SEE)\/@11.0088822,106.4723692,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d00353cee6d:0x31e3140a3090da41!8m2!3d11.0088822!4d106.4723692!16s%2Fg%2F11vrv7yjx5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -2186,6 +2384,7 @@ const data = [
         "address":"Vườn Lan Minh Chí, Đường 530, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%C3%A2n+t%E1%BA%ADp+l%C3%A1i+xe+Ti%E1%BA%BFn+B%E1%BB%99\/@11.0329443,106.4921347,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2dbaea4365d3:0x7dabf9a4e98732f1!8m2!3d11.0329443!4d106.4921347!16s%2Fg%2F11fmw0jh26?hl=vi&entry=ttu",
+        "categories":"Đại lý cho thuê xe ô tô",
         "category_group":"df_shops"
     },
     {
@@ -2197,6 +2396,7 @@ const data = [
         "address":"147 Nguyễn Văn Khạ, TT. Củ Chi, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VNB+Sports\/@10.9753669,106.4899442,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2db912557b9d:0xe2547198372ad4a!8m2!3d10.9753669!4d106.4899442!16s%2Fg%2F11mpkgffm0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày thể thao, Câu lạc bộ thể thao, Câu lạc bộ cầu lông, Cửa hàng bán dụng cụ thể thao ngoài trời, Cửa hàng quần áo thể thao",
         "category_group":"df_shops"
     },
     {
@@ -2208,6 +2408,7 @@ const data = [
         "address":"193 TL8, Khu Phố 3, Củ Chi, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CellphoneS+-+C%E1%BB%ADa+h%C3%A0ng+%C4%91i%E1%BB%87n+tho%E1%BA%A1i,+laptop+m%C3%A1y+t%C3%ADnh,+ph%E1%BB%A5+ki%E1%BB%87n+ch%C3%ADnh+h%C3%A3ng+gi%C3%A1+t%E1%BB%91t\/@10.9765751,106.5002732,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2df07966605b:0x78e89970bc52c824!8m2!3d10.9765751!4d106.5002732!16s%2Fg%2F11rvbms70_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -2219,6 +2420,7 @@ const data = [
         "address":"178 Trần Văn Chẩm, Phước Vĩnh An, Củ Chi, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chuy%C3%AAn+Cung+C%E1%BA%A5p+Solati+Gh%E1%BA%BF+%C3%82u\/@10.9669303,106.5133654,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2b05cf4df51d:0x5441597033457519!8m2!3d10.9669303!4d106.5133654!16s%2Fg%2F11y2npctp3?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa thân vỏ ô tô",
         "category_group":"df_shops"
     },
     {
@@ -2230,6 +2432,7 @@ const data = [
         "address":"116 Đường 669, Thái Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Ph%C3%A2n+ph%E1%BB%91i+minh+th%C6%B0+(%C4%91%E1%BB%93+nh%E1%BB%B1a)\/@10.9882869,106.4290334,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f3533ec7e2f:0x7b1599f34d62b831!8m2!3d10.9882869!4d106.4290334!16s%2Fg%2F11flts80kw?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ gia dụng",
         "category_group":"df_shops"
     },
     {
@@ -2241,6 +2444,7 @@ const data = [
         "address":"91\/2 Đường 626 , Ấp Mũi Côn Đại, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+Chi+Chi+Tr%E1%BA%A7n+Chuy%C3%AAn+H%C3%A0ng+Sale+Gi%C3%A1+R%E1%BA%BB\/@10.978961,106.4508796,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d49a3cc1f65:0xed3e3c09f1de8b65!8m2!3d10.978961!4d106.4508796!16s%2Fg%2F11r10pf_1z?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -2252,6 +2456,7 @@ const data = [
         "address":"Chung Cư An Lộc, Đ. Số 5, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BB%ACA+CH%E1%BB%AEA+XE+%C4%90%E1%BA%A0P+%C4%90I%E1%BB%86N+-+XE+M%C3%81Y+%C4%90I%E1%BB%86N\/@10.8468834,106.6767097,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529513fc59e79:0x32ef0ba2844c07d9!8m2!3d10.8468834!4d106.6767097!16s%2Fg%2F11vppc1y8v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xe đạp điện",
         "category_group":"df_shops"
     },
     {
@@ -2263,6 +2468,7 @@ const data = [
         "address":"98\/33 Đ. Số 5, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+H%C3%A0ng+Thu%E1%BB%B7+Sinh+NERI+Aquarium\/@10.8454871,106.6767353,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175293a1a4d7a8f:0x2958acda943a3011!8m2!3d10.8454871!4d106.6767353!16s%2Fg%2F11sd9kq6tl?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cá cảnh, Cửa hàng đồ cá cảnh, Cửa hàng cá nhiệt đới",
         "category_group":"df_shops"
     },
     {
@@ -2274,6 +2480,7 @@ const data = [
         "address":"494 Nguyễn Oanh, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Xe+%C4%90%E1%BA%A1p+Gi%C3%A1+Kho\/@10.8455828,106.6779998,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d375587499:0x7cdd8e2aa5457dcc!8m2!3d10.8455828!4d106.6779998!16s%2Fg%2F11gjt9xg0l?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xe đạp",
         "category_group":"df_shops"
     },
     {
@@ -2285,6 +2492,7 @@ const data = [
         "address":"434 Nguyễn Oanh, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+th%E1%BB%8B+%C4%90i%E1%BB%87n+m%C3%A1y+XANH+-+434+Nguy%E1%BB%85n+Oanh\/@10.8439142,106.6774707,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175284d11c46d01:0x44987300b4c60761!8m2!3d10.8439142!4d106.6774707!16s%2Fg%2F11c1th_6j1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động, Cửa hàng đồ gia dụng, Cửa hàng máy lạnh, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -2296,6 +2504,7 @@ const data = [
         "address":"1 Phan Huy Ích, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+len,+s%E1%BB%A3i+Th%E1%BB%8F+Handmade\/@10.8383499,106.6385341,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175296304877dd3:0x964bb03a0cc9e34e!8m2!3d10.8383499!4d106.6385341!16s%2Fg%2F11dfh3lh8p?hl=vi&entry=ttu",
+        "categories":"Cửa hàng len, Cửa hàng bán đồ thủ công, Cửa hàng bán đồ đan, Nhà bán buôn chỉ và sợi",
         "category_group":"df_shops"
     },
     {
@@ -2307,6 +2516,7 @@ const data = [
         "address":"92-94 Bùi Quang Là, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/MINISTOP\/@10.835016,106.6395849,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529fd3f45ac89:0x446f7a34c821a828!8m2!3d10.835016!4d106.6395849!16s%2Fg%2F11jt4g1qq0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -2318,6 +2528,7 @@ const data = [
         "address":"RJJR+RRW, Nguyễn Tư Giản, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Giang+Leo+Racing+Store\/@10.8321036,106.6420833,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752939338375e5:0x5526019b45d4ffcf!8m2!3d10.8321036!4d106.6420833!16s%2Fg%2F11hzcy3lb2?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ gia dụng",
         "category_group":"df_shops"
     },
     {
@@ -2329,6 +2540,7 @@ const data = [
         "address":"136\/12 Nguyễn Tư Giản, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BB%93+Ng%E1%BB%A7+Xinh+by+Mai+House\/@10.8326084,106.6384041,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529deaa5d9a99:0x5dda5f30f354d8c0!8m2!3d10.8326084!4d106.6384041!16s%2Fg%2F11lcyq3v7l?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -2340,6 +2552,7 @@ const data = [
         "address":"601 Đ. Tân Sơn, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BB%93+c%C5%A9+Quang\/@10.8332345,106.6444732,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ead003ab7b:0x55515af6e3c4d9b4!8m2!3d10.8332345!4d106.6444732!16s%2Fg%2F11q45gzcf4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ gia dụng",
         "category_group":"df_shops"
     },
     {
@@ -2351,6 +2564,7 @@ const data = [
         "address":"84\/24 Bùi Quang Là, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/N%E1%BB%99i+Th%E1%BA%A5t+%C4%90%E1%BA%A1i+Th%C3%A0nh\/@10.8341022,106.6372334,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f41c326b95:0x60e1fac6fc8a55a3!8m2!3d10.8341022!4d106.6372334!16s%2Fg%2F11sj2c2cv1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -2362,6 +2576,7 @@ const data = [
         "address":"65\/D33 Quang Trung, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Fujiwa+g%C3%B2+v%E1%BA%A5p\/@10.8341911,106.6437285,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529003398ed8f:0x82e05b5099a42379!8m2!3d10.8341911!4d106.6437285!16s%2Fg%2F11vpv4hv37?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -2373,6 +2588,7 @@ const data = [
         "address":"43\/47 Bùi Quang Là, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/PhuongVM\/@10.8359338,106.6396241,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290010cfdcd9:0xb7ab2033e54e12d2!8m2!3d10.8359338!4d106.6396241!16s%2Fg%2F11ld5ztfvt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -2384,6 +2600,7 @@ const data = [
         "address":"25 Bùi Quang Là, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kimdongho.vn\/@10.8362409,106.640632,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529319951a105:0xc05c0a47c1e7cb0!8m2!3d10.8362409!4d106.640632!16s%2Fg%2F11js3jpsf0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -2395,6 +2612,7 @@ const data = [
         "address":"256\/70\/2, Phan Huy Ích, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh 71420, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BB%93+lam+%C4%91i+ch%C3%B9a+Tu%E1%BB%87+Khanh+-+Online+Shop+-+256%2F70%2F38+Phan+Huy+%C3%8Dch\/@10.8370449,106.638979,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e8bc0ccd2b:0xac1a8ab68b54994e!8m2!3d10.8370449!4d106.638979!16s%2Fg%2F11h53my6sp?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -2406,6 +2624,7 @@ const data = [
         "address":"1211 Phạm Văn Bạch, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/GundamstoreVN\/@10.8376702,106.6459625,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529303d2fe703:0x5abd95b745ef8e96!8m2!3d10.8376702!4d106.6459625!16s%2Fg%2F11ghzlm8h1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ chơi",
         "category_group":"df_shops"
     },
     {
@@ -2417,6 +2636,7 @@ const data = [
         "address":"233\/16 Nguyễn Duy Cung, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh 00700, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Habile+-+Len+Cotton\/@10.8377858,106.6439532,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292dc2c49285:0x65a92d1fdf644bf2!8m2!3d10.8377858!4d106.6439532!16s%2Fg%2F11vpvc6j1p?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quà tặng",
         "category_group":"df_shops"
     },
     {
@@ -2428,6 +2648,7 @@ const data = [
         "address":"321 Nguyễn Oanh, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%E1%BA%ABn+C%C6%B0%E1%BB%9Bi+L%E1%BB%99c+Ph%C3%A1t+Jewelry+-+LPJ\/@10.8429527,106.6768285,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175293c25dd3d3d:0x9dcda8236d0090e5!8m2!3d10.8429527!4d106.6768285!16s%2Fg%2F11lks672hv?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trang sức",
         "category_group":"df_shops"
     },
     {
@@ -2439,6 +2660,7 @@ const data = [
         "address":"43\/2\/12 Đ. Số 27, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/PIGS\/@10.843041,106.6787302,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529dc4df35d3b:0x9466ff503e990dc1!8m2!3d10.843041!4d106.6787302!16s%2Fg%2F11rd00sk9_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xăm mình và xỏ lỗ",
         "category_group":"df_shops"
     },
     {
@@ -2450,6 +2672,7 @@ const data = [
         "address":"54\/21 Số 30, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%C3%A2y+l%C3%A0+An+Vi%C3%AAn+Tr%C3%A0-+An+Nh%C6%A1n\/@10.8433021,106.6779449,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529000011e271:0x8854e1c74d16a99!8m2!3d10.8433021!4d106.6779449!16s%2Fg%2F11vpzf9jzl?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trà",
         "category_group":"df_shops"
     },
     {
@@ -2461,6 +2684,7 @@ const data = [
         "address":"449 Nguyễn Oanh, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BA%A7m+%C4%90%E1%BB%93+Nam+D%C6%B0%C6%A1ng\/@10.8462419,106.678052,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752852a072430d:0x7ebd131dad81767d!8m2!3d10.8462419!4d106.678052!16s%2Fg%2F11c1tsq2py?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cầm đồ",
         "category_group":"df_shops"
     },
     {
@@ -2472,6 +2696,7 @@ const data = [
         "address":"88 Đ. Số 28, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+thi%CC%A3+Ba%CC%81ch+ho%CC%81a+XANH+88+%C4%90%C6%B0%E1%BB%9Dng+28\/@10.8429824,106.6808894,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529375e955d55:0xcf48a8fd906bc7d9!8m2!3d10.8429824!4d106.6808894!16s%2Fg%2F11hzhth65c?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -2483,6 +2708,7 @@ const data = [
         "address":"234\/65b Đ. Lê Đức Thọ, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+May+M%E1%BA%B7c+H%E1%BB%93ng+Nh%E1%BA%ADt\/@10.8391674,106.6839945,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175285134e56699:0x69612508d99d5c06!8m2!3d10.8391674!4d106.6839945!16s%2Fg%2F11c1wwpcp1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -2494,6 +2720,7 @@ const data = [
         "address":"496\/63 Đ. Dương Quảng Hàm, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Tr%E1%BB%8D+An+B%C3%ACnh+Chi+Nh%C3%A1nh+10\/@10.8388612,106.6865135,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b6377a0317:0x5b69c9a7bcc608e!8m2!3d10.8388612!4d106.6865135!16s%2Fg%2F11q58034yv?hl=vi&entry=ttu",
+        "categories":"Đại lý cho thuê phòng nghỉ cao cấp",
         "category_group":"df_shops"
     },
     {
@@ -2505,6 +2732,7 @@ const data = [
         "address":"8B Đ. Số 8, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Kh%E1%BA%AFc+D%E1%BA%A5u+Nhanh+247\/@10.8372757,106.6643383,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a7d548dfef:0xd3907f1e19946417!8m2!3d10.8372757!4d106.6643383!16s%2Fg%2F11hbl80rt2?hl=vi&entry=ttu",
+        "categories":"Cửa hàng con dấu cao su",
         "category_group":"df_shops"
     },
     {
@@ -2516,6 +2744,7 @@ const data = [
         "address":"555 Quang Trung, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/G%E1%BA%A5u+B%C3%B4ng+Online+HCM\/@10.834347,106.6646211,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752965466dabdd:0x25f6bbc4cfcf7c15!8m2!3d10.834347!4d106.6646211!16s%2Fg%2F11gv06k108?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quà tặng",
         "category_group":"df_shops"
     },
     {
@@ -2527,6 +2756,7 @@ const data = [
         "address":"474 Quang Trung, P.10, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BA%A3o+T%C3%ADn+Mobile\/@10.8341625,106.6653528,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ed2662b1b03:0xd126d5de77d29683!8m2!3d10.8341625!4d106.6653528!16s%2Fg%2F11d_2fgb8w?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -2538,6 +2768,7 @@ const data = [
         "address":"525 Quang Trung, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CellphoneS\/@10.833283,106.6658594,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e86a4a5cf9:0x4aa36a91784f49a3!8m2!3d10.833283!4d106.6658594!16s%2Fg%2F11q1v7rykc?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -2549,6 +2780,7 @@ const data = [
         "address":"378 Quang Trung, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%E1%BB%8Dng+%C4%91%E1%BB%A9c+mobile\/@10.832679,106.6671703,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290020590675:0x9c4022a0f6cbe80a!8m2!3d10.832679!4d106.6671703!16s%2Fg%2F11vr_gpjy9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -2560,6 +2792,7 @@ const data = [
         "address":"417 Quang Trung, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/YaMe.vn\/@10.8310279,106.6687266,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f630fcf4ff:0xbc1dfb66285743ca!8m2!3d10.8310279!4d106.6687266!16s%2Fg%2F11hdvt_7f3?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -2571,6 +2804,7 @@ const data = [
         "address":"73\/1\/1, Đ. Số 1, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/X%C3%AC+Trum+Handmade\/@10.8456012,106.6619559,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175298518e0f5ef:0x103b9bffd9b1befe!8m2!3d10.8456012!4d106.6619559!16s%2Fg%2F11lczh5ggc?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ thủ công",
         "category_group":"df_shops"
     },
     {
@@ -2582,6 +2816,7 @@ const data = [
         "address":"99\/5 Đ. Thống Nhất, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%C3%A1y+%E1%BA%A2nh+Shop\/@10.833024,106.663379,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529dcb2bdb083:0xf5b84e07ae0f28e5!8m2!3d10.833024!4d106.663379!16s%2Fg%2F11vf17dx7q?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị và phụ kiện máy ảnh",
         "category_group":"df_shops"
     },
     {
@@ -2593,6 +2828,7 @@ const data = [
         "address":"1359 Đ. Phan Văn Trị, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+S%E1%BB%ADa+Ch%E1%BB%AFa+H%E1%BA%A3i+Anh\/@10.8341742,106.6680904,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529670ce2cb43:0xbf4156845cd0d4db!8m2!3d10.8341742!4d106.6680904!16s%2Fg%2F11rr8k19_q?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -2604,6 +2840,7 @@ const data = [
         "address":"615 Quang Trung, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BB%ADa+%C4%91i%E1%BB%87n+tho%E1%BA%A1i,+laptop+Qu%E1%BA%ADn+G%C3%B2+V%E1%BA%A5p+-+%C4%90i%E1%BB%87n+Tho%E1%BA%A1i+Vui\/@10.8350709,106.6630641,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f4ec6fd499:0xa73b1a1036f0e6fa!8m2!3d10.8350709!4d106.6630641!16s%2Fg%2F11qnthwf65?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Dịch vụ sửa chữa đồng hồ, Dịch vụ sửa chữa máy tính, Dịch vụ sửa chữa điện thoại",
         "category_group":"df_shops"
     },
     {
@@ -2615,6 +2852,7 @@ const data = [
         "address":"18 Đ. Phan Văn Trị, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh 71406, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cityland+G%C3%B2+V%E1%BA%A5p\/@10.8364272,106.6696914,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bfb50ecf73:0x201f224e031bf3ce!8m2!3d10.8364272!4d106.6696914!16s%2Fg%2F11tn56pfpx?hl=vi&entry=ttu",
+        "categories":"Đại lý bất động sản",
         "category_group":"df_shops"
     },
     {
@@ -2626,6 +2864,7 @@ const data = [
         "address":"241 Đ. Thống Nhất, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh 71401, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/YODY+239+Th%E1%BB%91ng+Nh%E1%BA%A5t\/@10.8379033,106.6649401,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f599687a0d:0xf40d67291e922715!8m2!3d10.8379033!4d106.6649401!16s%2Fg%2F11t5x_xcsf?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo, Cửa hàng quần áo trẻ em, Cửa hàng phụ kiện thời trang, Cửa hàng quần áo công sở, Cửa hàng quần áo nam, Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -2637,6 +2876,7 @@ const data = [
         "address":"9D3 Khu Biệt Thự, Khu phố 1, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+CP-%C4%90T-TM+H%C6%AFNG+TH%C3%80NH+PH%C3%81T\/@10.8556564,106.6754366,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529001cf8fbd3:0xf46446ae77c521d0!8m2!3d10.8556564!4d106.6754366!16s%2Fg%2F11ld2k519t?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -2648,6 +2888,7 @@ const data = [
         "address":"25 Lê Quang Định, Phường 1, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cwin05\/@10.8172014,106.6889823,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529004b901343:0x8b65c4359062366a!8m2!3d10.8172014!4d106.6889823!16s%2Fg%2F11vrzr4z4s?hl=vi&entry=ttu",
+        "categories":"Đại lý giải trí",
         "category_group":"df_shops"
     },
     {
@@ -2659,6 +2900,7 @@ const data = [
         "address":"107 Nguyên Hồng, Phường 1, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/1997+BaeShop\/@10.8179544,106.6916493,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e849a7f755:0xeda887597b1f7d4c!8m2!3d10.8179544!4d106.6916493!16s%2Fg%2F11jzfl_t32?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -2670,6 +2912,7 @@ const data = [
         "address":"84 Nguyên Hồng, Phường 1, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Co.op+Food+Nguy%C3%AAn+H%E1%BB%93ng\/@10.8182832,106.6921027,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d6730a56b2d5:0xe7e61fdd99ba090d!8m2!3d10.8182832!4d106.6921027!16s%2Fg%2F11cs6k3jfg?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -2681,6 +2924,7 @@ const data = [
         "address":"RMQR+7JR, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/t%E1%BA%ADp+ho%C3%A1+Thanh\/@10.8382393,106.6915154,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529185c63a145:0xd176cdafe3b46bce!8m2!3d10.8382393!4d106.6915154!16s%2Fg%2F11txpkyc4h?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -2692,6 +2936,7 @@ const data = [
         "address":"183 Đ. Trần Bá Giao, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hi+T%C3%A1o+Th%C6%A1m+-+Chuy%C3%AAn+iPhone+Lock,+Qu%E1%BB%91c+T%E1%BA%BF+CH%E1%BA%A4T\/@10.8351288,106.6891193,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529dedac07aa9:0x969d401097324cfd!8m2!3d10.8351288!4d106.6891193!16s%2Fg%2F11s84hq70v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -2703,6 +2948,7 @@ const data = [
         "address":"69B Đ. TL 08, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gara+Ba+Thanh+2\/@10.8541742,106.6766711,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292bb5d8e99f:0xd078dee24f6a36a4!8m2!3d10.8541742!4d106.6766711!16s%2Fg%2F11j3vy8zwn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ gia dụng",
         "category_group":"df_shops"
     },
     {
@@ -2714,6 +2960,7 @@ const data = [
         "address":"796\/172 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KY%CC%80+ANH+KOI+FARM+(mua+b%C3%A1n+c%C3%A1+koi+gi%C3%A1+r%E1%BA%BB+g%C3%B2+v%E1%BA%A5p+-+tp+hcm)\/@10.8517031,106.6707549,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175296f3bf14a89:0xec4b6002f34db82d!8m2!3d10.8517031!4d106.6707549!16s%2Fg%2F11h2tb58_l?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cá cảnh, Nhà cung cấp máy móc kim loại",
         "category_group":"df_shops"
     },
     {
@@ -2725,6 +2972,7 @@ const data = [
         "address":"198 Đ. Phan Văn Trị, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%A5t+Vi%E1%BB%87t+Tour\/@10.8313433,106.675859,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752901d4d984db:0xcf52c7b1c2f0d0f8!8m2!3d10.8313433!4d106.675859!16s%2Fg%2F1th7_fgn?hl=vi&entry=ttu",
+        "categories":"Đại lý du lịch, Văn phòng công ty",
         "category_group":"df_shops"
     },
     {
@@ -2736,6 +2984,7 @@ const data = [
         "address":"2A Nguyễn Oanh, Phường 7, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Phong+V%C5%A9\/@10.8304634,106.6783183,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d5c459ba27:0xc82bf04d8e034311!8m2!3d10.8304634!4d106.6783183!16s%2Fg%2F11f30k3k43?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính, Tư vấn viên máy tính, Dịch vụ sửa chữa máy tính, Dịch vụ máy tính, Cửa hàng phần mềm máy tính, Hỗ trợ và dịch vụ máy tính",
         "category_group":"df_shops"
     },
     {
@@ -2747,6 +2996,7 @@ const data = [
         "address":"537 Nguyễn Oanh, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Minh+Ng%E1%BB%8Dc+Antique\/@10.8499083,106.6770466,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bc313431af:0x87a263fb2697b282!8m2!3d10.8499083!4d106.6770466!16s%2Fg%2F11y86_3sd?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ cổ",
         "category_group":"df_shops"
     },
     {
@@ -2758,6 +3008,7 @@ const data = [
         "address":"1129 Đ. Phan Văn Trị, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A2%CC%83n+C%C6%B0%C6%A1%CC%81i+Kim+Ng%E1%BB%8Dc+Th%E1%BB%A7y+-+Qu%C3%A2%CC%A3n+G%C3%B2+V%E1%BA%A5p\/@10.8322295,106.6733984,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752927ff05ebc7:0x8e89986c70d6cad3!8m2!3d10.8322295!4d106.6733984!16s%2Fg%2F11f55z9wb9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trang sức, Nhà buôn vàng",
         "category_group":"df_shops"
     },
     {
@@ -2769,6 +3020,7 @@ const data = [
         "address":"736\/163\/22 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+V%C3%A1ch+Ng%C4%83n+Vi%E1%BB%87t+Nam\/@10.8509446,106.6718877,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f3a5ee0c89:0x988417eb0ccc0d42!8m2!3d10.8509446!4d106.6718877!16s%2Fg%2F11vr_qgq14?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -2780,6 +3032,7 @@ const data = [
         "address":"137 Nguyễn Oanh, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HDRADIO+G%C3%B2+V%E1%BA%A5p+-+Audio+%26+Home+Cinema+%26+Karaoke\/@10.832449,106.6764596,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b4e866f78f:0x5a725b970b19260b!8m2!3d10.832449!4d106.6764596!16s%2Fg%2F11jcl9gp2r?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị âm thanh",
         "category_group":"df_shops"
     },
     {
@@ -2791,6 +3044,7 @@ const data = [
         "address":"Đ. Thống Nhất, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/X%C6%B0%E1%BB%9Fng+s%E1%BA%A3n+xu%E1%BA%A5t+gi%C3%A0y+Qu%E1%BB%91c+%C4%90%E1%BB%8Bnh+(Gi%C3%A0y+LUXery)\/@10.853653,106.669944,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b67c350893:0x17c82b3be84a54e0!8m2!3d10.853653!4d106.669944!16s%2Fg%2F11df3gjq5c?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -2802,6 +3056,7 @@ const data = [
         "address":"112 Đ. Số 6, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/In+Nhanh+24h\/@10.8515392,106.6715419,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291fc38dc7b5:0x204921e269003291!8m2!3d10.8515392!4d106.6715419!16s%2Fg%2F11fj3lpvjd?hl=vi&entry=ttu",
+        "categories":"Cửa hàng in ấn",
         "category_group":"df_shops"
     },
     {
@@ -2813,6 +3068,7 @@ const data = [
         "address":"Hẻm 36 Lê Thị Hồng, Phường 7, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BB%93+ch%C6%A1i+xe+m%C3%A1y+T%C3%A0i+L%E1%BB%99c+Nguy%E1%BB%85n\/@10.8337258,106.6781715,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528ff8967680d:0xd93f9480d9893fee!8m2!3d10.8337258!4d106.6781715!16s%2Fg%2F11f1hrrxyv?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -2824,6 +3080,7 @@ const data = [
         "address":"205\/8 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C3%A1nh+Flan+M%E1%BB%99c+My\/@10.8522843,106.6734293,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b4111069fb:0x1abea04d78a9835f!8m2!3d10.8522843!4d106.6734293!16s%2Fg%2F11ppd5zj95?hl=vi&entry=ttu",
+        "categories":"Cửa hàng kem",
         "category_group":"df_shops"
     },
     {
@@ -2835,6 +3092,7 @@ const data = [
         "address":"160\/4 Đ. Số 6, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh 71418, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C6%B0%E1%BB%9Dn+C%C3%A2y+C%E1%BA%A3nh+An+Nhi%C3%AAn\/@10.8524982,106.6724727,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f1eb907137:0xc83a9448022e7185!8m2!3d10.8524982!4d106.6724727!16s%2Fg%2F11flm7vs_5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn cây cảnh, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -2846,6 +3104,7 @@ const data = [
         "address":"109 Đ. Số 6, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C6%B0%E1%BB%9Dn+c%C3%A2y+c%E1%BA%A3nh+QKH+Garden\/@10.8527164,106.6716177,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752927c5a9ec57:0x80537691ecf7ed6c!8m2!3d10.8527164!4d106.6716177!16s%2Fg%2F11fmlkyyp1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn cây cảnh, Trung tâm cây cảnh",
         "category_group":"df_shops"
     },
     {
@@ -2857,6 +3116,7 @@ const data = [
         "address":"14 Hẻm 220 Nguyễn Oanh, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%C3%A0y+Ch%C3%ADnh+h%C3%A3ng-+Trung+Sneaker\/@10.8362456,106.6759454,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529aad19d5dbb:0x9079852fa4763603!8m2!3d10.8362456!4d106.6759454!16s%2Fg%2F11c1p2lj_8?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép, Dịch vụ vệ sinh, Cửa hàng đồ cũ",
         "category_group":"df_shops"
     },
     {
@@ -2868,6 +3128,7 @@ const data = [
         "address":"15 Vườn Lài, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh 729800, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sube+moto+shop\/@10.831644,106.6931568,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752995ff2f1b33:0x6a33cc22d07eabd!8m2!3d10.831644!4d106.6931568!16s%2Fg%2F11fnpnpb6w?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xe máy thể thao",
         "category_group":"df_shops"
     },
     {
@@ -2879,6 +3140,7 @@ const data = [
         "address":"RMJV+PWV, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/D%C6%B0%E1%BB%A3c+Li%E1%BB%87u+Tu%E1%BA%A5n+Ph%C3%A1t\/@10.8318653,106.6947918,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297c4d87c9cf:0xbeca50ffa1ac7eff!8m2!3d10.8318653!4d106.6947918!16s%2Fg%2F11ssb84c7r?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -2890,6 +3152,7 @@ const data = [
         "address":"272-274, 278 Nguyễn Oanh, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CellphoneS\/@10.8379696,106.6757041,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b1217e8a57:0x36c14aa8e363efd0!8m2!3d10.8379696!4d106.6757041!16s%2Fg%2F11pks5c7jm?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -2901,6 +3164,7 @@ const data = [
         "address":"135b Đ. Trần Bá Giao, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V'NAP+EYES\/@10.8332224,106.6896402,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e87a5d3881:0xe6bf186b4042b880!8m2!3d10.8332224!4d106.6896402!16s%2Fg%2F11lc_pwkyd?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ kiện thời trang",
         "category_group":"df_shops"
     },
     {
@@ -2912,6 +3176,7 @@ const data = [
         "address":"150 ( 150\/14, Đ. Trần Bá Giao, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/PhuongVo+Accessories+-+Thi%C3%AAn+%C4%91%C6%B0%E1%BB%9Dng+ph%E1%BB%A5+ki%E1%BB%87n+t%C3%B3c\/@10.8342719,106.6901224,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528586c6a8aab:0x849823fcb3c24fe7!8m2!3d10.8342719!4d106.6901224!16s%2Fg%2F11c61vv0q5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ kiện thời trang",
         "category_group":"df_shops"
     },
     {
@@ -2923,6 +3188,7 @@ const data = [
         "address":"157 Đ. Trần Bá Giao, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Store+Ch%C3%A0ng+Trai+B%C3%A1n+T%C3%A1o\/@10.8343357,106.6891544,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752923dcbb61a7:0x6e78b84b329adfa!8m2!3d10.8343357!4d106.6891544!16s%2Fg%2F11rd5tqm8z?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -2934,6 +3200,7 @@ const data = [
         "address":"272\/1 Đ. Lê Đức Thọ, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh 727025, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%C6%B0%C6%A1ng+Th%C3%A0nh+Computer\/@10.8393698,106.6800006,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752909379ff64f:0xe0e8a988ff06a8fd!8m2!3d10.8393698!4d106.6800006!16s%2Fg%2F11jz4c631_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -2945,6 +3212,7 @@ const data = [
         "address":"31\/2 Nguyễn Văn Bảo, Phường 4, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90i%E1%BB%87n+T%E1%BB%AD+Tuy%E1%BA%BFt+Nga+G%C3%B2+V%E1%BA%A5p\/@10.821376,106.6869126,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528e540e4a9c3:0x75012dc8feae38f5!8m2!3d10.821376!4d106.6869126!16s%2Fg%2F11c2p4fyb5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -2956,6 +3224,7 @@ const data = [
         "address":"Đ. Thống Nhất, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh 727400, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BB%ADa+qu%E1%BA%A7n+%C3%A1o+c%C3%B4+Chin\/@10.8551168,106.6660332,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175298cda6f1899:0xc815d698cce5dcbc!8m2!3d10.8551168!4d106.6660332!16s%2Fg%2F11fwgtgkgy?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -2967,6 +3236,7 @@ const data = [
         "address":"316 Đ. Thống Nhất, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+VLXD+V%E1%BA%A1n+Th%C3%A0nh+C%C3%B4ng\/@10.855098,106.670972,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529882370b029:0xb5620429b335a998!8m2!3d10.855098!4d106.670972!16s%2Fg%2F11r9q8w8w_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật liệu xây dựng",
         "category_group":"df_shops"
     },
     {
@@ -2978,6 +3248,7 @@ const data = [
         "address":"699 Phạm Văn Chiêu, Phường 13, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+h%C3%A0ng+%C4%91i%E1%BB%87n+n%C6%B0%E1%BB%9Bc+TRUNG+NAM\/@10.854117,106.6650419,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290031d890fd:0xe499c1609b776248!8m2!3d10.854117!4d106.6650419!16s%2Fg%2F11vs2v05pd?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -2989,6 +3260,7 @@ const data = [
         "address":"71\/1 Đ. Số 6, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/BEBIN+SHOP+71+%C4%91%C6%B0%E1%BB%9Dng+s%E1%BB%91+6\/@10.8500718,106.6704996,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752900088a3777:0x103f51fb19a742a7!8m2!3d10.8500718!4d106.6704996!16s%2Fg%2F11vrpfjqt3?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -3000,6 +3272,7 @@ const data = [
         "address":"647 Đ. Lê Đức Thọ, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shondo+L%C3%AA+%C4%90%E1%BB%A9c+Th%E1%BB%8D\/@10.847843,106.6681886,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529aa36fe40ad:0xcf1fcb678a20040f!8m2!3d10.847843!4d106.6681886!16s%2Fg%2F11l0xy9z1h?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -3011,6 +3284,7 @@ const data = [
         "address":"số 730 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/PetXinh.net+chi+nh%C3%A1nh+G%C3%B2+V%E1%BA%A5p+-+Shop+th%C3%BA+c%C6%B0ng+nh%C3%ADm+ki%E1%BB%83ng+hamster+s%C3%B3c+th%E1%BB%8F\/@10.8470125,106.6700121,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b18c4629b5:0xfcd00b85ab54b73b!8m2!3d10.8470125!4d106.6700121!16s%2Fg%2F11b5wjg2m4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật nuôi, Dịch vụ nhận nuôi thú cảnh, Dịch vụ chăm sóc thú nuôi, Dịch vụ trông thú cưng, Hiệu thuốc thú y",
         "category_group":"df_shops"
     },
     {
@@ -3022,6 +3296,7 @@ const data = [
         "address":"100 Nguyễn Thái Sơn, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+Gi%C3%A0y+Di%E1%BB%85m+Ph%C3%BAc\/@10.8175363,106.6814482,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528e3e2fd607d:0xcf23842754622b0!8m2!3d10.8175363!4d106.6814482!16s%2Fg%2F1hc6sdmh2?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -3033,6 +3308,7 @@ const data = [
         "address":"Hẻm 5 Đ. Trương Đăng Quế, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/GI%C3%80Y+D%C3%89P+C%C3%81+S%E1%BA%A4U+HCM\/@10.8137107,106.6822134,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175298a03c63233:0x20782e94c9ab0207!8m2!3d10.8137107!4d106.6822134!16s%2Fg%2F11h7kw9f7v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -3044,6 +3320,7 @@ const data = [
         "address":"47A Nguyễn Thượng Hiền, Phường 5, Bình Thạnh, Thành phố Hồ Chí Minh 72314, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C3%AA+V%C3%AA+House\/@10.8142898,106.6861631,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529030e33ce95:0x7cc1f2fd41d79191!8m2!3d10.8142898!4d106.6861631!16s%2Fg%2F11p4_s6nj0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quà tặng",
         "category_group":"df_shops"
     },
     {
@@ -3055,6 +3332,7 @@ const data = [
         "address":"Hẻm 1\/1 Nguyễn Thái Sơn, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Boxx+Shop+-+boxxgame.vn+c%E1%BB%ADa+h%C3%A0ng+Nintendo+Switch%7CXbox%7CPlaystation\/@10.8193774,106.6823572,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297a7d3d6acf:0xfe5554b725344567!8m2!3d10.8193774!4d106.6823572!16s%2Fg%2F11rmwxx8mc?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trò chơi video",
         "category_group":"df_shops"
     },
     {
@@ -3066,6 +3344,7 @@ const data = [
         "address":"878A Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+H%C3%A0ng+Viettel\/@10.8489088,106.6666296,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b0edd8e677:0xa05de41bcd2a6286!8m2!3d10.8489088!4d106.6666296!16s%2Fg%2F11dxf0tfyb?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -3077,6 +3356,7 @@ const data = [
         "address":"679 Đ. Lê Đức Thọ, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BA%A3o+My+Flower+Shop\/@10.8503777,106.6639405,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290028120ffb:0xbb6a021757929400!8m2!3d10.8503777!4d106.6639405!16s%2Fg%2F11vpcyzcsx?hl=vi&entry=ttu",
+        "categories":"Cửa hàng hoa",
         "category_group":"df_shops"
     },
     {
@@ -3088,6 +3368,7 @@ const data = [
         "address":"672\/76 Đ. Thống Nhất, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/1994s+WATCH\/@10.8513865,106.6666098,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752983d5fe5a31:0x3ff84bdb253bff5f!8m2!3d10.8513865!4d106.6666098!16s%2Fg%2F11gh_mrcx4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồng hồ",
         "category_group":"df_shops"
     },
     {
@@ -3099,6 +3380,7 @@ const data = [
         "address":"Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/NTShop+b%C3%A1n+qu%E1%BA%A7n+%C3%A1o+tr%E1%BA%BB+em\/@10.8541021,106.6675052,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f73f5612dd:0xf22b49bbf0d0ffc9!8m2!3d10.8541021!4d106.6675052!16s%2Fg%2F11sxwxyqrj?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -3110,6 +3392,7 @@ const data = [
         "address":"2Bis Nguyễn Huy Điển, Phường 7, Gò Vấp, Thành phố Hồ Chí Minh 71407, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/OTOSIEULUOT.COM+-+TH%C3%81I+C%C3%94NG+AUTO\/@10.8313732,106.6830226,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528f915593b15:0xc89bdabcabbdc864!8m2!3d10.8313732!4d106.6830226!16s%2Fg%2F11r_x3snc8?hl=vi&entry=ttu",
+        "categories":"Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -3121,6 +3404,7 @@ const data = [
         "address":"102\/117 Lê Văn Thọ, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/iCon+Store+-+iPhone+-+iPad+-+Ph%E1%BB%A5+Ki%E1%BB%87n+%C4%90i%E1%BB%87n+Tho%E1%BA%A1i\/@10.8390945,106.6620054,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290050ecfd1d:0xe3b0a1a1b82f7d59!8m2!3d10.8390945!4d106.6620054!16s%2Fg%2F11vs3s2syn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -3132,6 +3416,7 @@ const data = [
         "address":"132a Đường Số 17, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hoa+Lavender+Kh%C3%B4+Quang+Minh\/@10.832671,106.6610401,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752909ab76e025:0x514a7d725381e654!8m2!3d10.832671!4d106.6610401!16s%2Fg%2F11bwkg042l?hl=vi&entry=ttu",
+        "categories":"Cửa hàng hoa khô",
         "category_group":"df_shops"
     },
     {
@@ -3143,6 +3428,7 @@ const data = [
         "address":"1264\/57\/19 Đ. Lê Đức Thọ, Phường 13, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BB%93+ch%C6%A1i+l%E1%BA%AFp+r%C3%A1p+lego+NukiedVN\/@10.856046,106.658026,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529db025b294b:0x8b0f139cdd0fc391!8m2!3d10.856046!4d106.658026!16s%2Fg%2F11l2zpwb1h?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -3154,6 +3440,7 @@ const data = [
         "address":"19 Đ. Số 1, Phường 13, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+Pha+Ch%E1%BA%BF+Ng%E1%BB%8Dc+H%C3%A2n\/@10.855529,106.6607746,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752974d9150a79:0x8fa38eecbcd31641!8m2!3d10.855529!4d106.6607746!16s%2Fg%2F11q9hmq85b?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -3165,6 +3452,7 @@ const data = [
         "address":"VM46+4FP, Đ. Số 1, Phường 13, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%8F+garden+2\/@10.855347,106.6612009,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752938c934e805:0x559d02a820cfd48a!8m2!3d10.855347!4d106.6612009!16s%2Fg%2F11pvl9_p4p?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quà tặng",
         "category_group":"df_shops"
     },
     {
@@ -3176,6 +3464,7 @@ const data = [
         "address":"94 Đ. Lê Đức Thọ, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/730+l%C3%AA+%C4%91%E1%BB%A9c+th%E1%BB%8D\/@10.8489226,106.6721476,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529783f5f813b:0xefdfb30c5c23f74c!8m2!3d10.8489226!4d106.6721476!16s%2Fg%2F11s892pjkv?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -3187,6 +3476,7 @@ const data = [
         "address":"163 Đ. Số 1, Phường 13, Gò Vấp, Thành phố Hồ Chí Minh 727010, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/GI%C3%80Y+C%C5%A8+S%C3%80I+G%C3%92N+-+giaycusaigon.com\/@10.8532132,106.660068,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752987003269b3:0x1fb31d948dce536c!8m2!3d10.8532132!4d106.660068!16s%2Fg%2F11h4tkpf38?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -3198,6 +3488,7 @@ const data = [
         "address":"688\/80A Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%C3%B9ng+gi%E1%BA%A5y+carton+-+ph%E1%BB%A5+ki%E1%BB%87n+%C4%91%C3%B3ng+g%C3%B3i+688\/@10.8474211,106.672898,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175296057384b3b:0xfe5a16bc32548ecd!8m2!3d10.8474211!4d106.672898!16s%2Fg%2F11sy6twgxv?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giấy, Cửa hàng bán dụng cụ đóng gói, Nhà máy giấy, Cửa hàng văn phòng phẩm",
         "category_group":"df_shops"
     },
     {
@@ -3209,6 +3500,7 @@ const data = [
         "address":"557 Lê Văn Thọ, Phường 13, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop2banh\/@10.8525337,106.6559189,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529be894fbcd7:0x53eafdea48dccb60!8m2!3d10.8525337!4d106.6559189!16s%2Fg%2F11gdkpn8tr?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -3220,6 +3512,7 @@ const data = [
         "address":"136\/1 Đường số 4, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sendofarm\/@10.8492153,106.6586373,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290026a4aa3d:0x2f5f422fc9d8b6f2!8m2!3d10.8492153!4d106.6586373!16s%2Fg%2F11vptyqyd1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -3231,6 +3524,7 @@ const data = [
         "address":"434\/76\/78 Phạm Văn Chiêu, Phường 9, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%C3%BAi+Zipper+Vi%E1%BB%87t+-+Chuy%C3%AAn+T%C3%BAi+Zip+S%E1%BB%89+V%C3%A0+L%E1%BA%BB\/@10.8484713,106.6535718,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529656033b613:0x155d1cf3e2e173a2!8m2!3d10.8484713!4d106.6535718!16s%2Fg%2F11h1zddrym?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán dụng cụ đóng gói",
         "category_group":"df_shops"
     },
     {
@@ -3242,6 +3536,7 @@ const data = [
         "address":"83\/15 Nguyễn Văn Khối, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh 71421, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+c%C3%A1+b%E1%BA%A3y+m%C3%A0u\/@10.8416146,106.6598008,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529fe54bd9c99:0x9c308589a22e2e5e!8m2!3d10.8416146!4d106.6598008!16s%2Fg%2F11swmqpnj9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -3253,6 +3548,7 @@ const data = [
         "address":"372 Lê Văn Thọ, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%A1i+L%C3%BD+Th%E1%BA%BB+Game\/@10.8474456,106.6570692,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bceac5aa0f:0x27c3b3b1c6e99f99!8m2!3d10.8474456!4d106.6570692!16s%2Fg%2F1tfjhmdy?hl=vi&entry=ttu",
+        "categories":"Cửa hàng, Người bán tiền xu, Cửa hàng trò chơi, Nhà cung cấp dịch vụ Internet",
         "category_group":"df_shops"
     },
     {
@@ -3264,6 +3560,7 @@ const data = [
         "address":"107\/55 Nguyễn Văn Khối, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%C3%B4ng+Hy+PC+-+PC+Gaming+G%C3%B2+V%E1%BA%A5p+-+M%C3%A1y+T%C3%ADnh+G%C3%B2+V%E1%BA%A5p+Uy+T%C3%ADn\/@10.8405592,106.6592301,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299b6cc60fe7:0xc22cd9f52d0c1ce9!8m2!3d10.8405592!4d106.6592301!16s%2Fg%2F11sx74p98b?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -3275,6 +3572,7 @@ const data = [
         "address":"237\/21 Phạm Văn Chiêu, Phường 14, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%C3%88N+LED+TH%E1%BB%90NG+NGUY%E1%BB%84N\/@10.8519561,106.6490433,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752923b4ed256f:0x2cd4da2cffc7b7f6!8m2!3d10.8519561!4d106.6490433!16s%2Fg%2F11rz2dhj80?hl=vi&entry=ttu",
+        "categories":"Cửa hàng, Tiệm rửa xe hai bánh",
         "category_group":"df_shops"
     },
     {
@@ -3286,6 +3584,7 @@ const data = [
         "address":"96 Đ. Số 9, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh 71416, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CHUCKY+BEETLE+INDUSTRY\/@10.8443959,106.6681625,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752915f6daecdb:0x561c34b1bfe4b8cc!8m2!3d10.8443959!4d106.6681625!16s%2Fg%2F11vs5jydy4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật nuôi",
         "category_group":"df_shops"
     },
     {
@@ -3297,6 +3596,7 @@ const data = [
         "address":"237\/38\/A6, Phạm Văn Chiêu, Phường 14, Quận Gò Vấp, Thành Phố Hồ Chí Minh, Phường 14, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%E1%BB%B1a+G%E1%BA%A1o+Long+An\/@10.8506318,106.6494114,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752996f376d05b:0x4193233bc3d7fe59!8m2!3d10.8506318!4d106.6494114!16s%2Fg%2F11c6w06cn5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán thực phẩm sạch",
         "category_group":"df_shops"
     },
     {
@@ -3308,6 +3608,7 @@ const data = [
         "address":"237\/43\/11, Phạm Văn Chiêu, Phường 14, Gò Vấp, Thành phố Hồ Chí Minh 71418, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%C3%A1i+Thi%C3%AAn+Fishing\/@10.8523319,106.6483761,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299f1a48c2d7:0xd543d3441b493dbd!8m2!3d10.8523319!4d106.6483761!16s%2Fg%2F11mqwb5f4k?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ câu cá",
         "category_group":"df_shops"
     },
     {
@@ -3319,6 +3620,7 @@ const data = [
         "address":"102\/51\/72 Lê Văn Thọ, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BA%A3o+H%E1%BB%99+Lao+%C4%90%E1%BB%99ng+SaTo\/@10.8399912,106.6601517,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297fea29132f:0x9191cb49e5f1d4b5!8m2!3d10.8399912!4d106.6601517!16s%2Fg%2F11fj18pztt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo lao động",
         "category_group":"df_shops"
     },
     {
@@ -3330,6 +3632,7 @@ const data = [
         "address":"183\/50 Đường 10, Phường 8, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90i%E1%BB%87n+L%E1%BA%A1nh+M%C6%B0%E1%BB%9Di\/@10.8413082,106.6540364,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a222a7a88f:0x26f7a37162cd17d4!8m2!3d10.8413082!4d106.6540364!16s%2Fg%2F11f1595tyt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -3341,6 +3644,7 @@ const data = [
         "address":"415 Lê Văn Thọ, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh 727010, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Mixue+415+L%C3%AA+V%C4%83n+Th%E1%BB%8D\/@10.8479121,106.6567889,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529757e98fed9:0x7634ef1db54468c7!8m2!3d10.8479121!4d106.6567889!16s%2Fg%2F11txpvzc17?hl=vi&entry=ttu",
+        "categories":"Cửa hàng kem",
         "category_group":"df_shops"
     },
     {
@@ -3352,6 +3656,7 @@ const data = [
         "address":"469 Lê Văn Thọ, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Coconino+L%C3%AA+V%C4%83n+Th%E1%BB%8D\/@10.8493202,106.6564023,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a6c23566ef:0x4e6fe38883dba312!8m2!3d10.8493202!4d106.6564023!16s%2Fg%2F11j9k68_9h?hl=vi&entry=ttu",
+        "categories":"Cửa hàng kem",
         "category_group":"df_shops"
     },
     {
@@ -3363,6 +3668,7 @@ const data = [
         "address":"108\/1\/11A Nguyễn Văn Khối, Phường 9, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/5+Vape+G%C3%B2+V%E1%BA%A5p+%7C+C%E1%BB%ADa+H%C3%A0ng+Pod\/@10.842954,106.6560099,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292e0d2f256f:0x6b35264d6ecb526!8m2!3d10.842954!4d106.6560099!16s%2Fg%2F11k3kf4fjg?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị hóa hơi",
         "category_group":"df_shops"
     },
     {
@@ -3374,6 +3680,7 @@ const data = [
         "address":"235 Phạm Văn Chiêu, Phường 9, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%99+Kinh+Doanh+Ki%E1%BB%81u+Th%E1%BB%8B+Ph%C3%ADp+-+C%E1%BB%ADa+h%C3%A0ng+Kim+Ng%C3%A2n\/@10.8507217,106.6542898,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529000764edd9:0x5debc0f6f300c934!8m2!3d10.8507217!4d106.6542898!16s%2Fg%2F11vpy_w9fk?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -3385,6 +3692,7 @@ const data = [
         "address":"54\/5 Đường số 11, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BA%A1p+Ho%C3%A1+M%C3%A2y\/@10.8291984,106.695807,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528f467cfbc69:0x659e1c0b43ff6783!8m2!3d10.8291984!4d106.695807!16s%2Fg%2F11c2p5gvy5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp hóa",
         "category_group":"df_shops"
     },
     {
@@ -3396,6 +3704,7 @@ const data = [
         "address":"80\/28 Đ. Dương Quảng Hàm, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/D%E1%BB%A5ng+C%E1%BB%A5+V%E1%BA%BD+T%C3%A2m+T%C3%A2m\/@10.8261,106.6963081,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175293f117d3f7b:0x6cc344c1a87e7bfe!8m2!3d10.8261!4d106.6963081!16s%2Fg%2F11t807r1d0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -3407,6 +3716,7 @@ const data = [
         "address":"4 Đ. Dương Quảng Hàm, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Co.op+Food\/@10.825367,106.69522,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a20060cdfb:0x44035557efaf9222!8m2!3d10.825367!4d106.69522!16s%2Fg%2F11nnqtxvz4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm, Cửa hàng bán thực phẩm sạch",
         "category_group":"df_shops"
     },
     {
@@ -3418,6 +3728,7 @@ const data = [
         "address":"42 Lương Ngọc Quyến, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Dreamy+Handmade+-+%C4%90%E1%BB%93+len+th%E1%BB%A7+c%C3%B4ng\/@10.822088,106.6921271,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752900360c35f9:0xa63eb1af2aae5d7b!8m2!3d10.822088!4d106.6921271!16s%2Fg%2F11vpxtz485?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quà tặng",
         "category_group":"df_shops"
     },
     {
@@ -3429,6 +3740,7 @@ const data = [
         "address":"447 Đ. Phan Văn Trị, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hasaki+Beauty+%26+Clinic\/@10.8224697,106.693077,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291e13d41ba7:0x4ed5ac09fd0f6e8b!8m2!3d10.8224697!4d106.693077!16s%2Fg%2F11fss0z58v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -3440,6 +3752,7 @@ const data = [
         "address":"497 Đ. Phan Văn Trị, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/LABB+G%C3%92+V%E1%BA%A4P\/@10.8230738,106.6908441,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f94fbc71ef:0x9ddcc97a077d275c!8m2!3d10.8230738!4d106.6908441!16s%2Fg%2F11km0tny3q?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -3451,6 +3764,7 @@ const data = [
         "address":"72 Huỳnh Khương An, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Rose+Vape+Pod+-+Shop+Vape+G%C3%B2+V%E1%BA%A5p+HCM\/@10.823419,106.688946,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752996562148fb:0xa388dd557922e5!8m2!3d10.823419!4d106.688946!16s%2Fg%2F11k452trpm?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -3462,6 +3776,7 @@ const data = [
         "address":"1019, Tổ 12, Ấp 02, Xã Xuân Thới Thượng, Huyện Hóc Môn, Thành Phố Hồ Chí Minh, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJwRoT_uQqdTERwI-F0BQHCXI",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -3473,6 +3788,7 @@ const data = [
         "address":"94\/6 D. Công Khi, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1-eXXi0rdTERNwB87LjgT6E",
+        "categories":"Cửa hàng đồ gia dụng",
         "category_group":"df_shops"
     },
     {
@@ -3484,6 +3800,7 @@ const data = [
         "address":"75b ấp 4, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJv52SU6crdTERVWw5T1Vztbk",
+        "categories":"Cửa hàng phụ tùng xe ô tô",
         "category_group":"df_shops"
     },
     {
@@ -3495,6 +3812,7 @@ const data = [
         "address":"2, 12, Tân Thới Nhì, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJfDmY1nVdDERrVIudsVnr6A",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -3506,6 +3824,7 @@ const data = [
         "address":"10\/9A Lê lợi Thống nhất 1, Tân thới nhì, Hóc môn, Tân Thới Nhì, Hóc Môn, Thành phố Hồ Chí Minh 700900, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW4qlk3bVdDERqf0Bn-HF4Tg",
+        "categories":"Cửa hàng xe đạp, Cửa hàng sửa chữa xe đạp",
         "category_group":"df_shops"
     },
     {
@@ -3517,6 +3836,7 @@ const data = [
         "address":"18\/2 Đường Nguyễn Thị Ly, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh 71700, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJT9n4eF8rdTERVUvsSJaNZvU",
+        "categories":"Cửa hàng bán buôn cây cảnh",
         "category_group":"df_shops"
     },
     {
@@ -3528,6 +3848,7 @@ const data = [
         "address":"61B1 Nguyễn Văn Bứa, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJuZmNR7oqdTERmyAKGX-LIMw",
+        "categories":"Cửa hàng in ấn",
         "category_group":"df_shops"
     },
     {
@@ -3539,6 +3860,7 @@ const data = [
         "address":"15 Đường Huỳnh Thị Mài, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh 731418, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJK0xa-QXVdDERMhy7MFxdfsc",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -3550,6 +3872,7 @@ const data = [
         "address":"WH7R+P8G, Đường Huỳnh Thị Mài, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJR7_IIRXVdDERVbDwdC1oZIM",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -3561,6 +3884,7 @@ const data = [
         "address":"Ấp Thới Tây 1, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9ZZDZADVdDER_U4Qu_EIvE4",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -3572,6 +3896,7 @@ const data = [
         "address":"157\/3A, 157\/3A ấp Thới Tây 2, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJIXR_Gb3VdDERloAv-s3lfUQ",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -3583,6 +3908,7 @@ const data = [
         "address":"4\/191, Thanh Niên, Tân Thới Nhì, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHbH4lxDVdDERewXg4rKkJqc",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -3594,6 +3920,7 @@ const data = [
         "address":"181 D. Công Khi, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJO8s-Gb_VdDERdwp4oOFkb20",
+        "categories":"Cửa hàng vật liệu cách nhiệt",
         "category_group":"df_shops"
     },
     {
@@ -3605,6 +3932,7 @@ const data = [
         "address":"WH3H+4Q3, D. Công Khi, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJmbQZi53VdDERx1bcwRkPg1Y",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -3616,6 +3944,7 @@ const data = [
         "address":"WJ7G+RCG, 2, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ65iMJaHVdDERoCD5ZPOnroE",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -3627,6 +3956,7 @@ const data = [
         "address":"145 5b, Ấp Tân Thới 2, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3Zv9kc_VdDER-5u6waflqcs",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -3638,6 +3968,7 @@ const data = [
         "address":"19 đường DT2, 1 ấp 1, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh 700900, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4XTES_zVdDERTghRvLaGENE",
+        "categories":"Cửa hàng máy phát điện",
         "category_group":"df_shops"
     },
     {
@@ -3649,6 +3980,7 @@ const data = [
         "address":"25\/2E, Đ. Xuân Thới 13, Xuan Thoi Dong 1, Hóc Môn, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2cQ3bbMrdTERImRGO1UduFI",
+        "categories":"Cửa hàng vật nuôi, Dịch vụ chăm sóc thú nuôi, Cửa hàng đồ vật nuôi",
         "category_group":"df_shops"
     },
     {
@@ -3660,6 +3992,7 @@ const data = [
         "address":"4\/1B ấp, Thới Tây 1, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJyemW6xUrdTERCvCw73znXlM",
+        "categories":"Cửa hàng xăm hình",
         "category_group":"df_shops"
     },
     {
@@ -3671,6 +4004,7 @@ const data = [
         "address":"Unnamed, Road, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdd9OU__VdDERPr_yBUxQHpE",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -3682,6 +4016,7 @@ const data = [
         "address":"271 Nguyễn Thị Thử, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCXZrBZYrdTERC-zKgzy34c8",
+        "categories":"Cửa hàng sửa chữa điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -3693,6 +4028,7 @@ const data = [
         "address":"3 59, 3\/59 ấp1, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJzSBwXdnVdDERSoft1RqGH5k",
+        "categories":"Cửa hàng bán đồ câu cá",
         "category_group":"df_shops"
     },
     {
@@ -3704,6 +4040,7 @@ const data = [
         "address":"5\/44, ấp 1, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJXfPlmbfVdDERJRJ6vsgbcKE",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -3715,6 +4052,7 @@ const data = [
         "address":"111\/15 Đường Trung Đông 8, Thới Tam Thôn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJXwSJCADVdDERC4y6owMV5zo",
+        "categories":"Đại lý du lịch",
         "category_group":"df_shops"
     },
     {
@@ -3726,6 +4064,7 @@ const data = [
         "address":"Đường Nguyễn Thị Điệp, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJi5KPLd_VdDERxWPlbVPIZ9c",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -3737,6 +4076,7 @@ const data = [
         "address":"83\/2 ấp Xuân Thới Đông 3, Xuân Thới Đông, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpYzFZgArdTERJ-cC1hR_hS4",
+        "categories":"Đại lý du lịch",
         "category_group":"df_shops"
     },
     {
@@ -3748,6 +4088,7 @@ const data = [
         "address":"xã, 22\/6d Xuân Thới Đông 1, Xuân Thới Đông, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxWR9TwArdTERfuGjf_UZSCY",
+        "categories":"Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -3759,6 +4100,7 @@ const data = [
         "address":"86\/1M Đường Số 1-MH4, ấp Xuân Thới Đông 3, Xuân Thới Đông, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJkbG0YD0rdTERoQrWrkiseNA",
+        "categories":"Cửa hàng may",
         "category_group":"df_shops"
     },
     {
@@ -3770,6 +4112,7 @@ const data = [
         "address":"Dt7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxUTERIbXdDERjJnDIp8cskk",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -3781,6 +4124,7 @@ const data = [
         "address":"Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8bHP70DWdDERZ64NuIq9fcI",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -3792,6 +4136,7 @@ const data = [
         "address":"Lô A11 Đường số 4, Cụm CN Nhị Xuân, Hóc Môn, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJc6Q-2X4qdTER6gZvwd3M9Rg",
+        "categories":"Cửa hàng in ấn",
         "category_group":"df_shops"
     },
     {
@@ -3803,6 +4148,7 @@ const data = [
         "address":"Lô 10, Đường số 04, cụm CN, Nhị Xuân, Hóc Môn, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWQ0YqIIpdTER9rBHxnXN7NQ",
+        "categories":"Cửa hàng bán va li",
         "category_group":"df_shops"
     },
     {
@@ -3814,6 +4160,7 @@ const data = [
         "address":"55\/8T, ấp Hậu Lân, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJcUN4-48rdTERH4lHke8EWII",
+        "categories":"Cửa hàng đồ chơi",
         "category_group":"df_shops"
     },
     {
@@ -3825,6 +4172,7 @@ const data = [
         "address":"62\/4C ấp Hậu Lân, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9bjZGdArdTERWn7fyMUljak",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -3836,6 +4184,7 @@ const data = [
         "address":"VG9M+9F3, An Hạ, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2xVsQ0vVCjERd6MQ4gqweio",
+        "categories":"Cửa hàng bách hóa",
         "category_group":"df_shops"
     },
     {
@@ -3847,6 +4196,7 @@ const data = [
         "address":"Bà Điểm 5\/79\/1 Đường Đ. Tây Lân 7, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJBR2h1YUrdTERtk43cjChMzE",
+        "categories":"Cửa hàng đồ làm bánh",
         "category_group":"df_shops"
     },
     {
@@ -3858,6 +4208,7 @@ const data = [
         "address":"Bà Điểm 12\/13\/2A Ấp Đông Lân 1, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJP-jKVp0rdTERqVBcJ9wgJwE",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -3869,6 +4220,7 @@ const data = [
         "address":"54\/1D Ấp 7, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJwzQFS6QrdTERpzieSb8P_7o",
+        "categories":"Cửa hàng tạp hóa",
         "category_group":"df_shops"
     },
     {
@@ -3880,6 +4232,7 @@ const data = [
         "address":"36\/6z Phan Văn Hớn, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3ek-rXQrdTER1JrzZQfVFLU",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -3891,6 +4244,7 @@ const data = [
         "address":"Tổ 15, 147\/5 Ấp 7, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJSwvNKQArdTERNm_MpoJGAf0",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -3902,6 +4256,7 @@ const data = [
         "address":"Thửa 1746, Ấp 1, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJaVIYaB0rdTERBsYpYzbCBYE",
+        "categories":"Cửa hàng bán thực phẩm sạch, Trang trại",
         "category_group":"df_shops"
     },
     {
@@ -3913,6 +4268,7 @@ const data = [
         "address":"71A Phan Văn Hớn, Ấp 7, Hóc Môn, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOWTFaKErdTERMFo282HtWWU",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -3924,6 +4280,7 @@ const data = [
         "address":"365 Phan Văn Hớn, Phường, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRUITQcordTERE4FozVYD4LI",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -3935,6 +4292,7 @@ const data = [
         "address":"23 Phan Văn Hớn, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ66rXs1EqdTERaDAJFJRpifU",
+        "categories":"Cửa hàng bán mô tô bánh nhỏ",
         "category_group":"df_shops"
     },
     {
@@ -3946,6 +4304,7 @@ const data = [
         "address":"1\/20B, 1 Đ. Tiền Lân 18, Ấp Tiền Lân, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGWa0LAArdTER84wDKBKN7jM",
+        "categories":"Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -3957,6 +4316,7 @@ const data = [
         "address":"20 7d, Ấp Tiền Lân, Hóc Môn, Thành phố Hồ Chí Minh 00000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJT5O930rdTERecmmXaNZQz0",
+        "categories":"Cửa hàng bán hàng hóa theo sở thích",
         "category_group":"df_shops"
     },
     {
@@ -3968,6 +4328,7 @@ const data = [
         "address":"86a Đường Phạm Văn Sáng, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRTjcUgArdTER-SDc3Xd723Q",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -3979,6 +4340,7 @@ const data = [
         "address":"9 14, Tân Thới Nhì, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJYDrV94vdTERKOalYRA5KIQ",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -3990,6 +4352,7 @@ const data = [
         "address":"2\/3 Đ. Phạm Thị Giây, Thới Tam Thôn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJezRy4XVdDER85fX-WGKeGg",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -4001,6 +4364,7 @@ const data = [
         "address":"105\/7 Đường Tân Hiệp 17, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ25LLdSTVdDERe_A62d7dGbc",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -4012,6 +4376,7 @@ const data = [
         "address":"VHPG+2M, Tân Thới Nhì, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJL1Up7C3VdDER_FCI9opAogE",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -4023,6 +4388,7 @@ const data = [
         "address":"59D ấp 6, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh 71713, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJw_27aRYrdTER4JHrsd5g6Vg",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -4034,6 +4400,7 @@ const data = [
         "address":"72\/1D Đặng Công Bỉnh ấp 6, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW5XLUhXVCjERcI8CmkqeQ_c",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -4045,6 +4412,7 @@ const data = [
         "address":"VHJ9+F89, Tuyến 1.2003 Xuân Thới Thượng, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ46U6assrdTERw0winX4viZo",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -4056,6 +4424,7 @@ const data = [
         "address":"113\/5H Ấp 5, Đường Xuân Thới Thượng 20, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJF1EI0-srdTEReNrVpPy8cLA",
+        "categories":"Cửa hàng trà truyền thống",
         "category_group":"df_shops"
     },
     {
@@ -4067,6 +4436,7 @@ const data = [
         "address":"116\/9B ấp 5, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJk-YJPpIqdTERK-dlGfv_ptM",
+        "categories":"Cửa hàng bán thực phẩm sạch",
         "category_group":"df_shops"
     },
     {
@@ -4078,6 +4448,7 @@ const data = [
         "address":"82E Tổ 1 ấp 5, Đức Hòa Đông, Đức Hòa, Long An, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4_72FQArdTERDZnLoinoq-o",
+        "categories":"Cửa hàng cá",
         "category_group":"df_shops"
     },
     {
@@ -4089,6 +4460,7 @@ const data = [
         "address":"50\/44D, Đ. Lê Thị Kim Tuyến Ấp 4 Xuân Thới Sơn, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh 71712, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRX0ft3IrdTERjK_tin20jVg",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -4100,6 +4472,7 @@ const data = [
         "address":"53\/2c Phan Văn Hớn, ấp4, Hóc Môn, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJEaBAdrYrdTERAObEtFETkNQ",
+        "categories":"Cửa hàng quần áo nam",
         "category_group":"df_shops"
     },
     {
@@ -4111,6 +4484,7 @@ const data = [
         "address":"16\/3a Đ. Xuân Thới Sơn, 36, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbcqhDqQvdTERe4qVmHh7Nac",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -4122,6 +4496,7 @@ const data = [
         "address":"2\/240, Dương Công Khi, Xã Tân Thới Nhì, Huyện Hóc Môn, Thành Phố Hồ Chí Minh, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJNQPMGZoqdTERNlARR23jzMk",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -4133,6 +4508,7 @@ const data = [
         "address":"3\/8p, Tân Thới Nhì, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJnaKaMgDVdDERIbdDGo8bNoc",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -4144,6 +4520,7 @@ const data = [
         "address":"60\/1 ấp 4, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh 71700, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQYCIADordTER1Q4c6_tWsDo",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -4155,6 +4532,7 @@ const data = [
         "address":"VHC8+5RJ, ấp 5, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrWb-UgArdTEREGEH8yyzYRo",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -4166,6 +4544,7 @@ const data = [
         "address":"47\/11A Ấp Chánh 1, Tân Xuân, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ89ppRsIrdTER3cv4aGjmDLo",
+        "categories":"Đại lý cho thuê xe ô tô",
         "category_group":"df_shops"
     },
     {
@@ -4177,6 +4556,7 @@ const data = [
         "address":"450\/60 Ấp 1 Đ. Đặng Thúc Vịnh, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJSy6Rh8UpdTER11xZCZvdTAk",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -4188,6 +4568,7 @@ const data = [
         "address":"32\/12G, Đường Nguyễn Thị Ngâu, Thới Tam Thôn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-w1XO-nVdDERIv5TBc1gr20",
+        "categories":"Cửa hàng vật liệu xây dựng",
         "category_group":"df_shops"
     },
     {
@@ -4199,6 +4580,7 @@ const data = [
         "address":"11\/1X, 1 Ấp Tam Đông, Thới Tam Thôn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJY2eY35srdTERLqsh1IVkzVI",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -4210,6 +4592,7 @@ const data = [
         "address":"409 Đ. Đặng Thúc Vịnh, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJz5-eWgDVdDEROLsz2GLizng",
+        "categories":"Cửa hàng bán buôn thiết bị điện",
         "category_group":"df_shops"
     },
     {
@@ -4221,6 +4604,7 @@ const data = [
         "address":"13\/5A Tô Ký - Ấp Đông, Tân Chánh Hiệp, Hóc Môn, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJT6xom7ArdTERYKohaVXe4aA",
+        "categories":"Cửa hàng rèm và màn trập",
         "category_group":"df_shops"
     },
     {
@@ -4232,6 +4616,7 @@ const data = [
         "address":"45\/5 Đ. Đặng Thúc Vịnh, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGcGGDgDVdDERrobe5uF2_YI",
+        "categories":"Cửa hàng sửa chữa điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -4243,6 +4628,7 @@ const data = [
         "address":"13\/6C Đ. Thới Tam Thôn 9, Thới Tam Thôn, Hóc Môn, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCWhNIk3VdDERDICzjAAqoDw",
+        "categories":"Cửa hàng xăm mình và xỏ lỗ",
         "category_group":"df_shops"
     },
     {
@@ -4254,6 +4640,7 @@ const data = [
         "address":"32\/3K Ấp Xuân Thới Đông 2, Xuân Thới Đông, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRcKEBgArdTERb1Rag_jw84U",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -4265,6 +4652,7 @@ const data = [
         "address":"66\/4Q ấp Mỹ Hòa 3, Tân Xuân, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrXYJDgcrdTERmy7QOyLflSg",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -4276,6 +4664,7 @@ const data = [
         "address":"172 Huỳnh Thị Na, Ấp 6, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJw3qTxGnVdDERQG3OXTPvmMI",
+        "categories":"Cửa hàng văn phòng phẩm, Hệ thống camera quan sát, Dịch vụ mạng máy tính, Dịch vụ sửa chữa máy tính, Cửa hàng máy tính, Cửa hàng bán đồ dùng cho máy photocopy, Nhà cung cấp linh kiện điện tử, Nhà cung cấp thiết bị văn phòng, Dịch vụ sửa chữa máy in",
         "category_group":"df_shops"
     },
     {
@@ -4287,6 +4676,7 @@ const data = [
         "address":"55\/5H Đường Tam Đông, 12 Tổ 118 ấp Tam Đông 3, Thới Tam Thôn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWfCRzZMrdTERTkPbppy0FM0",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -4298,6 +4688,7 @@ const data = [
         "address":"52\/4V Xuân Thới 3, Xuân Thới Đông, Hóc Môn, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtwW3M8IrdTERBEegKIOtynU",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -4309,6 +4700,7 @@ const data = [
         "address":"15\/7-15\/11B đường Đặng Thúc Vịnh, Tổ 62 Âp Trung Đông, Hóc Môn, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJuQ7jxSrVdDERIyPLVQgxkj8",
+        "categories":"Cửa hàng trẻ em, Cửa hàng đồ trẻ em",
         "category_group":"df_shops"
     },
     {
@@ -4320,6 +4712,7 @@ const data = [
         "address":"68 đường Tân Xuân 6, ấp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJaW_ljbIrdTERFoUP3N-Tohc",
+        "categories":"Đại lý giải trí",
         "category_group":"df_shops"
     },
     {
@@ -4331,6 +4724,7 @@ const data = [
         "address":"109\/4 Trịnh Thị Miếng Tam Đông, Thới Tam Thôn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJmRfNoNHVdDERBGO-tbrA3hw",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -4342,6 +4736,7 @@ const data = [
         "address":"VH32+78H, Xuân Thới Thượng, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ01FUgZYrdTERahrrqoOiA14",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -4353,6 +4748,7 @@ const data = [
         "address":"Đường DT6-3, ấp 5, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-YfeL8vXdDER1LLVDdDuF6E",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -4364,6 +4760,7 @@ const data = [
         "address":"91 Đồng Tâm, Trung Mỹ Tây, Hóc Môn, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ01CsGmgrdTERXp7DndHK6Cw",
+        "categories":"Cửa hàng thiết bị hóa hơi",
         "category_group":"df_shops"
     },
     {
@@ -4375,6 +4772,7 @@ const data = [
         "address":"Đ. DT5, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJM87egMrXdDERGO7Cuswk3fU",
+        "categories":"Cửa hàng chim",
         "category_group":"df_shops"
     },
     {
@@ -4386,6 +4784,7 @@ const data = [
         "address":"66 nhị Tân 2, Tân Thới Nhì, Thành phố Hồ Chí Minh, 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtaj-bb_VdDER79ej3TfN0tA",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -4397,6 +4796,7 @@ const data = [
         "address":"104\/86 Ấp 3, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJL_gODwArdTERZw3MD_SVoXU",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -4408,6 +4808,7 @@ const data = [
         "address":"Đ. ĐT 1-2A\/41\/50\/4 tổ 14 đt3, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ88Xl1KbXdDERgpVHc2vZu4A",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -4419,6 +4820,7 @@ const data = [
         "address":"VJWR+28M, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ7cmaLb3XdDERprgipQVOcsg",
+        "categories":"Cửa hàng vật liệu xây dựng",
         "category_group":"df_shops"
     },
     {
@@ -4430,6 +4832,7 @@ const data = [
         "address":"ấp3, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJBzCyit3XdDERtJMUmKNNVCE",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -4441,6 +4844,7 @@ const data = [
         "address":"Phường Hiệp Thành, Quận 12, 11\/2a Khu Phó 7, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJvWyNjRDWdDERdUi7gJaiWnk",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -4452,6 +4856,7 @@ const data = [
         "address":"3G 10, Tổ 172, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1YmRaQArdTER552ma0v_qjw",
+        "categories":"Cửa hàng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -4463,6 +4868,7 @@ const data = [
         "address":"63\/5\/22 ấp3, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ710hRufXdDERKiNqYcHZjCU",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -4474,6 +4880,7 @@ const data = [
         "address":"330\/35F Nhị Bình 5, Ấp 1, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ5djbxkLXdDERkf186eiNvjg",
+        "categories":"Cửa hàng sơn",
         "category_group":"df_shops"
     },
     {
@@ -4485,6 +4892,7 @@ const data = [
         "address":"10\/4d Đường Ấp Đông 1-2, Tân Chánh Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ82pIK18rdTERG1K1ZZp2p7k",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -4496,6 +4904,7 @@ const data = [
         "address":"41 D. Công Khi, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJDUwC7-sqdTERiL4k7Vw-0mU",
+        "categories":"Cửa hàng vật liệu xây dựng",
         "category_group":"df_shops"
     },
     {
@@ -4507,6 +4916,7 @@ const data = [
         "address":"Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJsxzimu_XdDERcrDjBAqCXps",
+        "categories":"Cửa hàng hoa",
         "category_group":"df_shops"
     },
     {
@@ -4518,6 +4928,7 @@ const data = [
         "address":"429 Bùi Công Trừng, Nhị Bình, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJeyn8UADXdDERgVEbRmR9fRI",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -4529,6 +4940,7 @@ const data = [
         "address":"Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJlxThofEqdTERbOWv7b1IICw",
+        "categories":"Cửa hàng bách hóa",
         "category_group":"df_shops"
     },
     {
@@ -4540,6 +4952,7 @@ const data = [
         "address":"TPHCM, 5H ấp 4, Xuân Thới Thượng, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJEe59uvkrdTERXlDS-6DJFRI",
+        "categories":"Cửa hàng nhạc cụ",
         "category_group":"df_shops"
     },
     {
@@ -4551,6 +4964,7 @@ const data = [
         "address":"71\/54 Nhị Bình 15, Nhị Bình, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1yuFKNPXdDER7fALzNAdIC8",
+        "categories":"Cửa hàng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -4562,6 +4976,7 @@ const data = [
         "address":"69\/52\/2, Nhị Bình 15 ấp 2, Nhị Bình, Hóc Môn, Hồ Chí Minh, 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJaVp2F4UpdTERfH8sntFzqNY",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -4573,6 +4988,7 @@ const data = [
         "address":"71\/122 Bùi Công Trừng, Nhị Bình, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJy1ZhOwDXdDERjS8TM-YN3mc",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -4584,6 +5000,7 @@ const data = [
         "address":"TỔ4 ấp 2, vĩnh tân, Vĩnh Cửu, Đồng Nai, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrZbxDZXXdDERkic0_Cn7Ccc",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -4595,6 +5012,7 @@ const data = [
         "address":"1092\/15 Trạm Bơm 19\/5, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh 71712, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHXIzSYTVdDERUk2JkIEQazI",
+        "categories":"Cửa hàng cửa, Cửa sổ nhôm, Nhà trang trí nội thất, Cửa hàng vật tư chế biến gỗ",
         "category_group":"df_shops"
     },
     {
@@ -4606,6 +5024,7 @@ const data = [
         "address":"MPWP+QJ7, 1806, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrSkZZ7I6dTERub_U6iW9htQ",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -4617,6 +5036,7 @@ const data = [
         "address":"2295\/56\/19 Huỳnh Tấn Phát, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ51lUa7g6dTERaocrK93a6kY",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -4628,6 +5048,7 @@ const data = [
         "address":"2295\/84\/1\/2, KP7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtQhEvrw7dTER22yWsRWFzgc",
+        "categories":"Cửa hàng bia",
         "category_group":"df_shops"
     },
     {
@@ -4639,6 +5060,7 @@ const data = [
         "address":"90\/18 Huỳnh Tấn Phát, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJoSzLGdo7dTERh2kY503tqJU",
+        "categories":"Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -4650,6 +5072,7 @@ const data = [
         "address":"83\/76\/21\/6, Đ. Đào Tông Nguyên, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJg0wWrbg7dTER6gXvnhvNr0k",
+        "categories":"Cửa hàng bán mô hình",
         "category_group":"df_shops"
     },
     {
@@ -4661,6 +5084,7 @@ const data = [
         "address":"2387 Huỳnh Tấn Phát, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1VXLIt47dTERmyljYsWRwu0",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -4672,6 +5096,7 @@ const data = [
         "address":"98 D. Cát Lợi, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQbU-bksldTERwiwTDiH6SZY",
+        "categories":"Cửa hàng bán nến",
         "category_group":"df_shops"
     },
     {
@@ -4683,6 +5108,7 @@ const data = [
         "address":"90\/59A _ 90\/59B, 90 D. Cát Lợi, KP4, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJga8l81UldTERPoijTmizWo0",
+        "categories":"Đại lý cho thuê phòng nghỉ cao cấp",
         "category_group":"df_shops"
     },
     {
@@ -4694,6 +5120,7 @@ const data = [
         "address":"1979\/23\/115, Huỳnh Tấn Phát, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJuSjmWCcldTERvzbpXclAEPo",
+        "categories":"Cửa hàng trang sức",
         "category_group":"df_shops"
     },
     {
@@ -4705,6 +5132,7 @@ const data = [
         "address":"1886 78\/42\/3, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0-TbG1g7dTERyA2oNPKdmYc",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -4716,6 +5144,7 @@ const data = [
         "address":"286\/26\/44K, Huỳnh Tấn Phát, Huyện Nhà Bè, Thành Phố Hồ Chí Minh, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJgyt9KLI6dTER3dqIkC13vCQ",
+        "categories":"Cửa hàng đồ thể thao",
         "category_group":"df_shops"
     },
     {
@@ -4727,6 +5156,7 @@ const data = [
         "address":"1952 Huỳnh Tấn Phát, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ_42D5aw7dTERNBZqCVFYxJs",
+        "categories":"Cửa hàng xe đạp điện, Trạm sạc xe điện",
         "category_group":"df_shops"
     },
     {
@@ -4738,6 +5168,7 @@ const data = [
         "address":"56\/7C Huỳnh Tấn Phát, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJj66tkdA7dTER_JYs6udY0uw",
+        "categories":"Cửa hàng đồ cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -4749,6 +5180,7 @@ const data = [
         "address":"1942 Huỳnh Tấn Phát, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1ax8XWgxdTER2DtjX4XAWT4",
+        "categories":"Cửa hàng bán dụng cụ thể thao ngoài trời",
         "category_group":"df_shops"
     },
     {
@@ -4760,6 +5192,7 @@ const data = [
         "address":"2161 Huỳnh Tấn Phát, KP7, Nhà Bè, Thành phố Hồ Chí Minh 73200, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJj4RF2xE7dTERKddPDjxFVSg",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -4771,6 +5204,7 @@ const data = [
         "address":"MPRV+R85, Vành Đai Kho ABC, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJmUjR-rY6dTER6UqisA6W424",
+        "categories":"Cửa hàng bách hóa",
         "category_group":"df_shops"
     },
     {
@@ -4782,6 +5216,7 @@ const data = [
         "address":"55\/1 Huỳnh Tấn Phát, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJYbxmArE6dTERfhl2_wVZDmM",
+        "categories":"Cửa hàng màn cửa",
         "category_group":"df_shops"
     },
     {
@@ -4793,6 +5228,7 @@ const data = [
         "address":"1982\/90\/8, Huỳnh Tấn Phát, Phú Xuân, tp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdema82k7dTERgZ2f-7RyRgk",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -4804,6 +5240,7 @@ const data = [
         "address":"Vành Đai Kho ABC, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ065sF5g7dTERathtER4kKS4",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -4815,6 +5252,7 @@ const data = [
         "address":"464 Huỳnh Tấn Phát, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGSnTJHw7dTERgtC2_742QKI",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -4826,6 +5264,7 @@ const data = [
         "address":"Hẻm 2056 Huỳnh Tấn Phát, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQSFXcIQ7dTERMngJkd8wFDg",
+        "categories":"Cửa hàng quần áo cỡ lớn, Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -4837,6 +5276,7 @@ const data = [
         "address":"13\/17 Hẻm 456, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJaVhB3v87dTERCQpi9xUAJgQ",
+        "categories":"Cửa hàng đồ trẻ em",
         "category_group":"df_shops"
     },
     {
@@ -4848,6 +5288,7 @@ const data = [
         "address":"1806\/127\/90\/9, Huỳnh Tấn Phát, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJL20eYyQ7dTERdtt7V0jCyLQ",
+        "categories":"Cửa hàng sửa chữa xe đạp",
         "category_group":"df_shops"
     },
     {
@@ -4859,6 +5300,7 @@ const data = [
         "address":"52\/4 Hẻm 342 Huỳnh Tấn Phát, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJwTzyVTs7dTER-fErA6PSFuk",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -4870,6 +5312,7 @@ const data = [
         "address":"40B Lê Tự Tài, Phường 4, Phú Nhuận, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Qu%E1%BA%A7n+%C3%A1o+n%E1%BB%AF+-+Shop+Nh%C3%A0+H%C3%AD+Vintage+Chi+Nh%C3%A1nh+2\/@10.8051807,106.6811385,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529c17093ba97:0xfcb98b98976ab92a!8m2!3d10.8051807!4d106.6811385!16s%2Fg%2F11ld1c_8qy?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -4881,6 +5324,7 @@ const data = [
         "address":"463 Đ. Nguyễn Kiệm, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C3%89p+k%C3%ADnh-+%C3%89p+c%C3%A1p-+S%E1%BB%ADa+ch%E1%BB%AFa-+thay+m%C3%A0n+h%C3%ACnh+%C4%91i%E1%BB%87n+tho%E1%BA%A1i+gia+huy\/@10.8019272,106.6791636,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f377075a1f:0x17d41af0550d817c!8m2!3d10.8019272!4d106.6791636!16s%2Fg%2F11j8wd43p4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -4892,6 +5336,7 @@ const data = [
         "address":"398 Đ. Nguyễn Kiệm, Phường 3, Phú Nhuận, Thành phố Hồ Chí Minh 704500, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hangchinhhieu.vn+-+Showroom+Laptop,+Gaming+Laptop,+Gaming+Gear,+M%C3%A1y+t%C3%ADnh+%26+Thi%E1%BA%BFt+b%E1%BB%8B+v%C4%83n+ph%C3%B2ng\/@10.8005801,106.6798047,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d77aea3b1d:0x9146d5cdf75abe16!8m2!3d10.8005801!4d106.6798047!16s%2Fg%2F11cs1sh721?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính, Câu lạc bộ trò chơi cờ bàn, Dịch vụ sửa chữa máy tính, Dịch vụ máy tính, Cửa hàng phần mềm máy tính, Hỗ trợ và dịch vụ máy tính, Nhà cung cấp linh kiện điện tử, Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -4903,6 +5348,7 @@ const data = [
         "address":"135 Nguyễn Trọng Tuyển, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BA%A1p+Ho%C3%A1+Thanh+Th%E1%BA%A3o\/@10.7973223,106.6773284,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529002cbe0659:0xbd647ac07433310b!8m2!3d10.7973223!4d106.6773284!16s%2Fg%2F11lcz25tjz?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -4914,6 +5360,7 @@ const data = [
         "address":"107 Trần Hữu Trang, Phường 10, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Xukashop.net\/@10.7935573,106.6724979,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f3eaa4c70cd:0x1cf0799954fac312!8m2!3d10.7935573!4d106.6724979!16s%2Fg%2F11f7b_gr7v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -4925,6 +5372,7 @@ const data = [
         "address":"5\/6 Trần Cao Vân, Phường 12, Phú Nhuận, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Piercing+World+-+Th%E1%BA%BF+Gi%E1%BB%9Bi+X%E1%BB%8F+Khuy%C3%AAn\/@10.7924204,106.6767301,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529fb0a0b6203:0x6ccb3d0f79035b5c!8m2!3d10.7924204!4d106.6767301!16s%2Fg%2F11fd74z54w?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trang sức",
         "category_group":"df_shops"
     },
     {
@@ -4936,6 +5384,7 @@ const data = [
         "address":"104 Đ. Lê Văn Sỹ, Phường 11, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/LESAC+L%C3%AA+V%C4%83n+S%E1%BB%B9\/@10.7915264,106.6722732,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9804fa83c5:0xaad37973cdca250e!8m2!3d10.7915264!4d106.6722732!16s%2Fg%2F11s4tt1k_n?hl=vi&entry=ttu",
+        "categories":"Cửa hàng túi xách",
         "category_group":"df_shops"
     },
     {
@@ -4947,6 +5396,7 @@ const data = [
         "address":"78 Đào Duy Anh, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/AAA+jeans\/@10.8068331,106.6760919,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529005485591b:0xb0fd4ad5ee2c2f8e!8m2!3d10.8068331!4d106.6760919!16s%2Fg%2F11vs4ld3dh?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -4958,6 +5408,7 @@ const data = [
         "address":"156 Thích Quảng Đức, Phường 4, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%B7c+S%E1%BA%A3n+Mi%E1%BB%81n+T%C3%A2y+H%C6%B0%C6%A1ng+Vi%E1%BB%87t\/@10.8076391,106.6796168,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529daa23af271:0xb988b81d802fae50!8m2!3d10.8076391!4d106.6796168!16s%2Fg%2F11gw2j911y?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quà tặng",
         "category_group":"df_shops"
     },
     {
@@ -4969,6 +5420,7 @@ const data = [
         "address":"154 Đ. Hồng Hà, Phường 09, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VNB+Sports\/@10.8084564,106.6751922,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529dc0e812ae9:0xce84c71ca087efbc!8m2!3d10.8084564!4d106.6751922!16s%2Fg%2F11jndnrtx1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày thể thao, Câu lạc bộ thể thao, Câu lạc bộ cầu lông, Cửa hàng bán dụng cụ thể thao ngoài trời, Cửa hàng quần áo thể thao",
         "category_group":"df_shops"
     },
     {
@@ -4980,6 +5432,7 @@ const data = [
         "address":"07 Hoàng Minh Giám, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh 72200, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Mazda+T%C3%A2n+S%C6%A1n+Nh%E1%BA%A5t\/@10.8092114,106.6747577,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529eb28d2ab31:0xabf9f0bd4e91d8b3!8m2!3d10.8092114!4d106.6747577!16s%2Fg%2F11q9rz32sf?hl=vi&entry=ttu",
+        "categories":"Đại lý xe Mazda",
         "category_group":"df_shops"
     },
     {
@@ -4991,6 +5444,7 @@ const data = [
         "address":"71A Trần Huy Liệu, Phường 11, Phú Nhuận, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Qu%C3%A0+Tr%E1%BB%B1c+Tuy%E1%BA%BFn\/@10.7922656,106.6778754,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529173065f2ed:0x57fe971be31d9936!8m2!3d10.7922656!4d106.6778754!16s%2Fg%2F11lc_1bbx5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quà tặng",
         "category_group":"df_shops"
     },
     {
@@ -5002,6 +5456,7 @@ const data = [
         "address":"51 Đ. Mai Văn Ngọc, Phường 11, Phú Nhuận, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gai+Garden\/@10.7938537,106.6733207,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292bacbeddd5:0x22bd72bd36ef9899!8m2!3d10.7938537!4d106.6733207!16s%2Fg%2F11fx7rwdx1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ kiện thời trang",
         "category_group":"df_shops"
     },
     {
@@ -5013,6 +5468,7 @@ const data = [
         "address":"52B Đ. Nguyễn Văn Trỗi, Phường 15, Phú Nhuận, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/PNJ+52A-52B+Nguy%E1%BB%85n+V%C4%83n+Tr%E1%BB%97i\/@10.7940862,106.6784038,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d5b91d65e3:0xc8a585820f0f55!8m2!3d10.7940862!4d106.6784038!16s%2Fg%2F1pzqd6z18?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trang sức, Cửa hàng đồng hồ",
         "category_group":"df_shops"
     },
     {
@@ -5024,6 +5480,7 @@ const data = [
         "address":"69 Nguyễn Trọng Tuyển, Phường 15, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+H%C3%A0ng+Give+Away+Premium\/@10.7971951,106.679336,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d65f86bf1d:0xe01e2b36b0aba8a9!8m2!3d10.7971951!4d106.679336!16s%2Fg%2F11ngl0n4v2?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ kiện thời trang",
         "category_group":"df_shops"
     },
     {
@@ -5035,6 +5492,7 @@ const data = [
         "address":"38 Trương Quốc Dung, Phường 10, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Yamaha+Town+TP.+H%E1%BB%93+Ch%C3%AD+Minh\/@10.7972602,106.6724003,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752929728e751d:0xbafe39671c207905!8m2!3d10.7972602!4d106.6724003!16s%2Fg%2F11b67q8jnz?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -5046,6 +5504,7 @@ const data = [
         "address":"307 Phan Đình Phùng, Phường 15, Phú Nhuận, Thành phố Hồ Chí Minh 72208, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Vape+Club\/@10.7978967,106.6806103,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752947acf5025b:0x5dc5206d21178f11!8m2!3d10.7978967!4d106.6806103!16s%2Fg%2F11k4yn4nm6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -5057,6 +5516,7 @@ const data = [
         "address":"203 Nguyễn Thượng Hiền, Phường 6, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hotgear.vn\/@10.8067527,106.6842208,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175298b47c7b757:0x4d67629c8d09384e!8m2!3d10.8067527!4d106.6842208!16s%2Fg%2F11g03wy3zn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -5068,6 +5528,7 @@ const data = [
         "address":"205 Trần Huy Liệu, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+s%C3%A1ch+Momo+-+Momo+Bookstore\/@10.7978978,106.6774917,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297fabbc2457:0xc0d979f91cdd8916!8m2!3d10.7978978!4d106.6774917!16s%2Fg%2F11rn02zgsy?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sách cũ, Hiệu sách",
         "category_group":"df_shops"
     },
     {
@@ -5079,6 +5540,7 @@ const data = [
         "address":"89 Hồ Văn Huê, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Phong+C%C3%A1ch+Xanh+%7C+Gaming+gear+%26+Hi-end+Computer\/@10.8040937,106.6772661,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d88c019971:0x71af4d945a20d3!8m2!3d10.8040937!4d106.6772661!16s%2Fg%2F1tvyj7j0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính, Nhà cung cấp linh kiện điện tử, Cửa hàng bán đồ điện tử, Cửa hàng trò chơi",
         "category_group":"df_shops"
     },
     {
@@ -5090,6 +5552,7 @@ const data = [
         "address":"139E - 141 145Hoàng Văn Thụ, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Thu+Mua+Xe+C%C5%A9+Gi%C3%A1+Cao+Xe39.Com+-+Mua+%26+B%C3%A1n+Xe+M%C3%A1y+C%C5%A9\/@10.7994414,106.675626,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752932b08ae6bf:0x80c87ed4647ae3ce!8m2!3d10.7994414!4d106.675626!16s%2Fg%2F11fwyz7hnp?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -5101,6 +5564,7 @@ const data = [
         "address":"92 Phan Đình Phùng, Phường 2, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Xu%C3%A2n+V%C5%A9+Audio\/@10.794378,106.684018,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752926c17e81a1:0xb2bdad0f7a65ab6a!8m2!3d10.794378!4d106.684018!16s%2Fg%2F11gjm8srf0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị âm thanh",
         "category_group":"df_shops"
     },
     {
@@ -5112,6 +5576,7 @@ const data = [
         "address":"124 Phan Đình Phùng, Phường 2, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/YOLO+Pet+Shop+-+Spa+%26+Grooming\/@10.7947288,106.6835197,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e8c5e83fb5:0x38f1de208ca24f57!8m2!3d10.7947288!4d106.6835197!16s%2Fg%2F11gjw1b8_8?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật nuôi",
         "category_group":"df_shops"
     },
     {
@@ -5123,6 +5588,7 @@ const data = [
         "address":"Số 43 Huỳnh Văn Bánh, Phường 17, Phú Nhuận, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Degrey.vn+-+S%C3%A0i+G%C3%B2n+-+43+Hu%E1%BB%B3nh+V%C4%83n+B%C3%A1nh+P.17+Q.Ph%C3%BA+Nhu%E1%BA%ADn\/@10.7947553,106.6813416,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d411c35277:0xcf96cde06627a938!8m2!3d10.7947553!4d106.6813416!16s%2Fg%2F11dzsy3d80?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -5134,6 +5600,7 @@ const data = [
         "address":"242 Phan Đình Phùng, Phường 1, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+H%C3%A0ng+Gi%C3%A0y+H%E1%BB%93ng+Th%E1%BA%A1nh\/@10.7963156,106.6817597,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d6afaae0e3:0x3f011688365ce614!8m2!3d10.7963156!4d106.6817597!16s%2Fg%2F1tds45v5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -5145,6 +5612,7 @@ const data = [
         "address":"275 Phan Đình Phùng, P.15, Q. Phú Nhuận Hồ Chí Minh (TP, 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/LIB+Gunpla+(Librarian+Gunpla)\/@10.7970717,106.6810978,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294fc1c6dcd9:0x104f311043760e78!8m2!3d10.7970717!4d106.6810978!16s%2Fg%2F11rmq1jjqy?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán hàng hóa theo sở thích",
         "category_group":"df_shops"
     },
     {
@@ -5156,6 +5624,7 @@ const data = [
         "address":"44 Hồ Văn Huê, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh 840000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%94NG+TY+TNHH+QU%E1%BB%90C+T%E1%BA%BE+%C4%90%E1%BA%A0I+C%C3%81T+%C3%81+(DAICATA)\/@10.8014547,106.6722191,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528ce4cb63ecf:0x56d05503900db876!8m2!3d10.8014547!4d106.6722191!16s%2Fg%2F11b6dqskq6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng mỹ phẩm, Mỹ phẩm, Công ty dược phẩm",
         "category_group":"df_shops"
     },
     {
@@ -5167,6 +5636,7 @@ const data = [
         "address":"139 Hồ Văn Huê, Street, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/GiangSport+-+Shop+Gi%C3%A0y+B%C3%B3ng+%C4%90%C3%A1\/@10.8052798,106.677922,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d8e961dbab:0xd0e3df7c46891991!8m2!3d10.8052798!4d106.677922!16s%2Fg%2F11b6dgfsnw?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ thể thao",
         "category_group":"df_shops"
     },
     {
@@ -5178,6 +5648,7 @@ const data = [
         "address":"198 Hoà Hưng, Phường 13, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VNB+Sports\/@10.7789437,106.673253,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f2803991cd3:0xea6a05e2ce7c8e9b!8m2!3d10.7789437!4d106.673253!16s%2Fg%2F11b5zl94c2?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày thể thao, Câu lạc bộ thể thao, Câu lạc bộ cầu lông, Cửa hàng bán dụng cụ thể thao ngoài trời, Cửa hàng quần áo thể thao",
         "category_group":"df_shops"
     },
     {
@@ -5189,6 +5660,7 @@ const data = [
         "address":"46 Hẻm 285 Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/COCKSTOCK+CMT8+-+Piercing+%26+Aftercare\/@10.7778975,106.6783347,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f7ca43cf0f7:0x53f46834736fe4d2!8m2!3d10.7778975!4d106.6783347!16s%2Fg%2F11sc76wg1c?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ trang sức xỏ lỗ",
         "category_group":"df_shops"
     },
     {
@@ -5200,6 +5672,7 @@ const data = [
         "address":"47 Hẻm 283 Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Decal+Ngh%C4%A9a+Qu%E1%BA%ADn+10+-+d%C3%A1n+laptop+-+d%C3%A1n+macbook\/@10.7777234,106.6793187,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fe24b786095:0xaa90b498dcea0557!8m2!3d10.7777234!4d106.6793187!16s%2Fg%2F11s79y9_zh?hl=vi&entry=ttu",
+        "categories":"Cửa hàng in ấn",
         "category_group":"df_shops"
     },
     {
@@ -5211,6 +5684,7 @@ const data = [
         "address":"463b\/63 Đ. Cách Mạng Tháng 8, Phường 13, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+h%C3%A0ng+T%E1%BA%A1p+h%C3%B3a+H%C6%B0%C6%A1ng+Giang\/@10.7796294,106.6729228,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f007e1e2461:0x72d604d202988427!8m2!3d10.7796294!4d106.6729228!16s%2Fg%2F11vptvyh0q?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -5222,6 +5696,7 @@ const data = [
         "address":"497, 3 Đ. Sư Vạn Hạnh, Phường 12, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%E1%BA%A0C\/@10.7739321,106.668092,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f45eef991d1:0xe7fa526eb8e2f65a!8m2!3d10.7739321!4d106.668092!16s%2Fg%2F11t7lgjcjk?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -5233,6 +5708,7 @@ const data = [
         "address":"66 Đ. Thành Thái, Phường 12, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/nShop+th%E1%BA%BF+gi%E1%BB%9Bi+tr%C3%B2+ch%C6%A1i\/@10.7719582,106.6654917,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ee7990e3fd5:0x85dbe73d3da5335f!8m2!3d10.7719582!4d106.6654917!16s%2Fg%2F1hc4bxryw?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trò chơi, Cửa hàng đồ chơi, Cửa hàng thẻ bài sưu tập, Cửa hàng trò chơi video",
         "category_group":"df_shops"
     },
     {
@@ -5244,6 +5720,7 @@ const data = [
         "address":"174 Đ. Cao Thắng, Phường 11, Quận 10, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Viettablet+-+174+Cao+Th%E1%BA%AFng,+Qu%E1%BA%ADn+10\/@10.7734702,106.678256,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f210a38eb7f:0xe07aaa231ebbbe84!8m2!3d10.7734702!4d106.678256!16s%2Fg%2F11clyh786b?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -5255,6 +5732,7 @@ const data = [
         "address":"133 Đ. 3 Tháng 2, Phường 11, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/ShopDunk\/@10.7728416,106.6764154,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f7c650d402f:0x17b7f77b3a24cfa7!8m2!3d10.7728416!4d106.6764154!16s%2Fg%2F11j1wc_sf8?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -5266,6 +5744,7 @@ const data = [
         "address":"228A-230 Đ. 3 Tháng 2, Phường 12, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+th%E1%BB%8B+%C4%91i%E1%BB%87n+tho%E1%BA%A1i+Th%E1%BA%BF+Gi%E1%BB%9Bi+Di+%C4%90%E1%BB%99ng\/@10.7741632,106.6776504,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f20ca82667b:0x38c771523c657145!8m2!3d10.7741632!4d106.6776504!16s%2Fg%2F1q5hrfhpn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -5277,6 +5756,7 @@ const data = [
         "address":"7a\/49 Hẻm 7A Thành Thái, Phường 14, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/NT+Space\/@10.7718686,106.661879,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f005316519b:0x53a2774ecb8ac246!8m2!3d10.7718686!4d106.661879!16s%2Fg%2F11vpz3_z9z?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -5288,6 +5768,7 @@ const data = [
         "address":"7\/38 Thành Thái, Phường 14, Quận 10, Hồ Chí Minh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%C4%83%CC%81t+Ki%CC%81nh+Shady\/@10.7690074,106.6629114,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ee818a6858b:0x2ade919b0ab94619!8m2!3d10.7690074!4d106.6629114!16s%2Fg%2F11c76g37pw?hl=vi&entry=ttu",
+        "categories":"Cửa hàng kính mát, Người đo thị lực",
         "category_group":"df_shops"
     },
     {
@@ -5299,6 +5780,7 @@ const data = [
         "address":"770F Đ. Sư Vạn Hạnh, Phường 12, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/YaMe+Shop\/@10.7732687,106.6689591,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752edc72606d5f:0x868b51037a194129!8m2!3d10.7732687!4d106.6689591!16s%2Fg%2F1w4vgdrj?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -5310,6 +5792,7 @@ const data = [
         "address":"157 Đ. Tô Hiến Thành, Phường 13, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Thi%E1%BA%BFt+B%E1%BB%8B+V%E1%BB%87+Sinh+Plaza\/@10.7807083,106.6693055,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6346c9aa13:0x6567ee40a9ffde29!8m2!3d10.7807083!4d106.6693055!16s%2Fg%2F11vps8w8rw?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ dùng trong nhà tắm",
         "category_group":"df_shops"
     },
     {
@@ -5321,6 +5804,7 @@ const data = [
         "address":"Hẻm 163\/15 Tô Hiến Thành, Phường 13, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/WHEYSHOP.VN+-+521+C%C3%81CH+M%E1%BA%A0NG+TH%C3%81NG+8,+QU%E1%BA%ACN+10\/@10.7813043,106.671246,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528f156fb4fc7:0xbb2b078eb5dd6e6a!8m2!3d10.7813043!4d106.671246!16s%2Fg%2F11cs31qkm4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vitamin và thực phẩm bổ sung",
         "category_group":"df_shops"
     },
     {
@@ -5332,6 +5816,7 @@ const data = [
         "address":"523h Đ. Tô Hiến Thành, Phường 14, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%8Da+c%E1%BB%A5+L%E1%BB%99c+-+B%E1%BA%A3ng+v%E1%BA%BD+XP-Pen\/@10.7724877,106.6606738,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f3469a44873:0xf52d8f8c76d1db6d!8m2!3d10.7724877!4d106.6606738!16s%2Fg%2F11lh_4vxn0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán dụng cụ nghệ thuật",
         "category_group":"df_shops"
     },
     {
@@ -5343,6 +5828,7 @@ const data = [
         "address":"3\/53 Đ. Thành Thái, Phường 14, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Scott+Platon\/@10.7683875,106.6645362,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299a6ea0677b:0x9d0ca2a6f0b275e5!8m2!3d10.7683875!4d106.6645362!16s%2Fg%2F11sgn7x6rj?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -5354,6 +5840,7 @@ const data = [
         "address":"666\/64\/25 Đ. 3 Tháng 2, Phường 14, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/L%C6%B0%E1%BB%A3ng+sport\/@10.7679335,106.6609718,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f3477273457:0x3a963343ba94834f!8m2!3d10.7679335!4d106.6609718!16s%2Fg%2F11jp9szz8v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán dụng cụ thể thao ngoài trời",
         "category_group":"df_shops"
     },
     {
@@ -5365,6 +5852,7 @@ const data = [
         "address":"206\/34 Lý Thường Kiệt, Phường 14, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%C3%B4+H%C3%ACnh+Figure\/@10.7657053,106.6604581,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fc7218d0fdb:0xc9bec63c5bc43629!8m2!3d10.7657053!4d106.6604581!16s%2Fg%2F11q95h1mcc?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán mô hình, Cửa hàng đồ chơi",
         "category_group":"df_shops"
     },
     {
@@ -5376,6 +5864,7 @@ const data = [
         "address":"Đường Đ. 3 Tháng 2, Phường 6, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Di+%C4%90%E1%BB%99ng+Vi%E1%BB%87t\/@10.7645647,106.661748,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f25dec95615:0xe62ab74afd77536b!8m2!3d10.7645647!4d106.661748!16s%2Fg%2F11fnxnhm6j?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -5387,6 +5876,7 @@ const data = [
         "address":"753 Đ. 3 Tháng 2, Phường 7, Quận 10, Thành phố Hồ Chí Minh 888888, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%E1%BB%A5+Ki%E1%BB%87n+%C4%90i%E1%BB%87n+Tho%E1%BA%A1i+Ph%C6%B0%C6%A1ng+Anh\/@10.7644261,106.6613384,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ee92991882d:0x6466081f0c318864!8m2!3d10.7644261!4d106.6613384!16s%2Fg%2F11c2r70t3s?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ kiện điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -5398,6 +5888,7 @@ const data = [
         "address":"252 Đ. Ngô Quyền, Phường 8, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%A8+B%C6%B0%E1%BB%9Fi+%26+T%C3%A0u+h%E1%BB%A7+%C4%91%C3%A1+Ng%C3%B4+Quy%E1%BB%81n\/@10.7645895,106.6644999,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fdf68ac1717:0x3d15bea98838ef44!8m2!3d10.7645895!4d106.6644999!16s%2Fg%2F11hdjj4pd6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ tráng miệng, Gian hàng rong",
         "category_group":"df_shops"
     },
     {
@@ -5409,6 +5900,7 @@ const data = [
         "address":"197 Đ. Ngô Quyền, P.6, Quận 10, Thành phố Hồ Chí Minh 10000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Mixue+197+Ng%C3%B4+Quy%E1%BB%81n\/@10.7643523,106.6641492,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f57a701ef9d:0xc81cd40cd5fc4a34!8m2!3d10.7643523!4d106.6641492!16s%2Fg%2F11sf23zjkd?hl=vi&entry=ttu",
+        "categories":"Cửa hàng kem",
         "category_group":"df_shops"
     },
     {
@@ -5420,6 +5912,7 @@ const data = [
         "address":"12 211, Tổ 23, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C6%B0%E1%BB%9Dn+Lan+Qu%E1%BB%91c+H%C6%B0ng\/@10.8437901,106.6948741,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529004a1cc44d:0x8a254550bfadc9ff!8m2!3d10.8437901!4d106.6948741!16s%2Fg%2F11ld50n8nn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn cây cảnh",
         "category_group":"df_shops"
     },
     {
@@ -5431,6 +5924,7 @@ const data = [
         "address":"481\/57 Nguyễn Văn Quá, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/X%C4%83m+h%C3%ACnh+Qu%E1%BA%ADn+12\/@10.8406246,106.6299453,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b005eb18439:0x8e19b9745a7bc20d!8m2!3d10.8406246!4d106.6299453!16s%2Fg%2F11y2nnfx6n?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xăm hình",
         "category_group":"df_shops"
     },
     {
@@ -5442,6 +5936,7 @@ const data = [
         "address":"Đông Hưng Thuận 5, Khu Phố 7, Quận 12, Thành phố Hồ Chí Minh 00084, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90i%E1%BB%87n+M%C3%A1y+Ho%C3%A0ng+H%E1%BA%A3i\/@10.8394448,106.6200695,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752a323d5340dd:0x59161b82f59da087!8m2!3d10.8394448!4d106.6200695!16s%2Fg%2F11fr3mczl1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử, Nhà kho",
         "category_group":"df_shops"
     },
     {
@@ -5453,6 +5948,7 @@ const data = [
         "address":"606 Nguyễn Văn Quá, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/N%E1%BB%99i+th%E1%BA%A5t+Viva+-+Chi+Nh%C3%A1nh+606+Nguy%E1%BB%85n+V%C4%83n+Qu%C3%A1\/@10.8422525,106.6307663,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299132ecef81:0x8380323e218f1552!8m2!3d10.8422525!4d106.6307663!16s%2Fg%2F11sx74l8kr?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -5464,6 +5960,7 @@ const data = [
         "address":"1\/108A, Nguyễn Văn Quá, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90i%E1%BB%87n+Tho%E1%BA%A1i+Qu%E1%BB%91c+C%C6%B0%E1%BB%9Dng\/@10.8342615,106.6286583,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bc544fac26b:0x7b3d75c479aae81b!8m2!3d10.8342615!4d106.6286583!16s%2Fg%2F11lczv3bty?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -5475,6 +5972,7 @@ const data = [
         "address":"RJM9+XCM, Tân Thới Nhất 13D, Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C6%A1m+T%E1%BA%A5m+sau+nh%C3%A0+th%E1%BB%9D+L%E1%BA%A1c+Quang\/@10.8349563,106.618539,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b003223fd17:0x894a21252e9a3a38!8m2!3d10.8349563!4d106.618539!16s%2Fg%2F11vr_qf75v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng ăn nhanh",
         "category_group":"df_shops"
     },
     {
@@ -5486,6 +5984,7 @@ const data = [
         "address":"9D Đường Quán Tre, Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+H%C3%A0ng+Tin+H%E1%BB%8Dc+Minh+%C4%90%E1%BA%A1t\/@10.8453948,106.6147664,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bc8fd803bbf:0xfb37f90f6f88df91!8m2!3d10.8453948!4d106.6147664!16s%2Fg%2F11lcrb734w?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -5497,6 +5996,7 @@ const data = [
         "address":"35 Đông Hưng Thuận 8, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%A8+th%C3%A1i+Trang\/@10.8367666,106.6278956,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b0002785207:0x6cae0b9018db83b4!8m2!3d10.8367666!4d106.6278956!16s%2Fg%2F11ld2q9lv1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ tráng miệng",
         "category_group":"df_shops"
     },
     {
@@ -5508,6 +6008,7 @@ const data = [
         "address":"382 QL22, Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Toyota+An+S%C6%B0%C6%A1ng+-+TAS\/@10.8520821,106.6099099,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b4579d7f44f:0xacb532ebd03dbad9!8m2!3d10.8520821!4d106.6099099!16s%2Fg%2F11t6_5rl4d?hl=vi&entry=ttu",
+        "categories":"Đại lý xe Toyota",
         "category_group":"df_shops"
     },
     {
@@ -5519,6 +6020,7 @@ const data = [
         "address":"13 Đường Trương Thị Ngào, Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CoCo+Decor+-+Trang+Tr%C3%AD+B%C3%A0n+H%E1%BB%8Dc+,+B%C3%A0n+L%C3%A0m+Vi%E1%BB%87c\/@10.8519544,106.6157071,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b500a6956e3:0xd70f567d972c6bde!8m2!3d10.8519544!4d106.6157071!16s%2Fg%2F11vpsg5pc1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất văn phòng",
         "category_group":"df_shops"
     },
     {
@@ -5530,6 +6032,7 @@ const data = [
         "address":"Phường Hiệp Thành, Quận 12, 11\/2a Khu Phó 7, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+May+Shin+Dong\/@10.8913658,106.644572,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d6108d8d6cbd:0x795aa29680bb4875!8m2!3d10.8913658!4d106.644572!16s%2Fg%2F11b6tz92t1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -5541,6 +6044,7 @@ const data = [
         "address":"67\/7 Thới An 11, Thới An, Quận 12, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+C%E1%BA%A7u+L%C3%B4ng+247\/@10.8843449,106.6514969,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d61f533ee24d:0x9d245e6f835083ed!8m2!3d10.8843449!4d106.6514969!16s%2Fg%2F11b7dvpbrk?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ thể thao",
         "category_group":"df_shops"
     },
     {
@@ -5552,6 +6056,7 @@ const data = [
         "address":"140\/83 Vườn Lài, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%C3%A0ng+N%E1%BB%99i+%C4%90%E1%BB%8Ba+Trung+Ch%C3%ADnh+H%C3%A3ng\/@10.8752936,106.6879355,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290046dba7b1:0xd15923d61acad136!8m2!3d10.8752936!4d106.6879355!16s%2Fg%2F11ld42m08b?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -5563,6 +6068,7 @@ const data = [
         "address":"163d Tô Ngọc Vân, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%A1i+l%C3%BD+g%E1%BA%A1o+%26+bia,+t%E1%BA%A1p+h%C3%B3a+Tu%E1%BA%A5n+H%C6%B0%C6%A1ng\/@10.8758212,106.6750398,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290028d5c28f:0xb1edde9ad3db1aa0!8m2!3d10.8758212!4d106.6750398!16s%2Fg%2F11vr_m729l?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -5574,6 +6080,7 @@ const data = [
         "address":"129 Hẻm 12 D. Thạnh Lộc 27, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chung+c%C6%B0+th%E1%BA%A1nh+l%E1%BB%99c\/@10.867302,106.6869504,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752979b8efa723:0x8e6194f91b896f29!8m2!3d10.867302!4d106.6869504!16s%2Fg%2F11k4p4x_xb?hl=vi&entry=ttu",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -5585,6 +6092,7 @@ const data = [
         "address":"273\/38 Tổ 47 KP5, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Thang+M%C3%A1y+Vi%E1%BB%87t+Nh%E1%BA%ADt\/@10.8670551,106.6749793,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290031941fb1:0xaf25bd0cc79bc44!8m2!3d10.8670551!4d106.6749793!16s%2Fg%2F11y2d341qz?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -5596,6 +6104,7 @@ const data = [
         "address":"26 Đường TL 19, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%C3%A0n+phun+hoa+phun+vi%C3%AAn+b%E1%BB%99+qu%E1%BB%91c+ph%C3%B2ng+-+C%E1%BB%ADa+h%C3%A0ng+s%C3%B4+33\/@10.8668506,106.6813928,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752900200b355b:0xdea1e9f45a3e50b7!8m2!3d10.8668506!4d106.6813928!16s%2Fg%2F11ld2ng2tf?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -5607,6 +6116,7 @@ const data = [
         "address":"936 QL1A, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%A1i+l%C3%BD+Suzuki+Vi%E1%BB%87t+Long\/@10.8621552,106.6691634,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f728489bd93:0xb25b6a04be9cd545!8m2!3d10.8621552!4d106.6691634!16s%2Fg%2F11h_vss24l?hl=vi&entry=ttu",
+        "categories":"Đại lý ô tô, Đại lý xe Suzuki",
         "category_group":"df_shops"
     },
     {
@@ -5618,6 +6128,7 @@ const data = [
         "address":"VM7F+2R3, QL1A, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C3%A1+Ng%E1%BB%8Dc+Decal\/@10.8624892,106.6746236,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175298fbb0bf887:0x82bd3d4187399c4b!8m2!3d10.8624892!4d106.6746236!16s%2Fg%2F11v0912clm?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -5629,6 +6140,7 @@ const data = [
         "address":"253E Hà Huy Giáp, Khu phố 3B, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vi%E1%BB%87n+Phong+Th%E1%BB%A7y+%C4%90%E1%BA%A1i+C%C3%A1t\/@10.8632812,106.6802368,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a2fbe7f7f5:0x2d570ebee6b141b2!8m2!3d10.8632812!4d106.6802368!16s%2Fg%2F11ty2xtx5t?hl=vi&entry=ttu",
+        "categories":"Cửa hàng chăm sóc sức khỏe và làm đẹp",
         "category_group":"df_shops"
     },
     {
@@ -5640,6 +6152,7 @@ const data = [
         "address":"694\/49 QL1A, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%E1%BB%A3+%C4%91%E1%BB%93+c%C5%A9+Minh+Chi%E1%BA%BFn\/@10.8640059,106.6811716,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752832362f5b5d:0xfc8fb1fc3aa309fc!8m2!3d10.8640059!4d106.6811716!16s%2Fg%2F11bzwnf7vl?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ gia dụng cũ",
         "category_group":"df_shops"
     },
     {
@@ -5651,6 +6164,7 @@ const data = [
         "address":"35 Thạnh Lộc 26, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/loa+k%C3%A9o+qu%E1%BA%ADn+12\/@10.8654064,106.6833971,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bdeb48ea21:0x2e66d7421ebc7230!8m2!3d10.8654064!4d106.6833971!16s%2Fg%2F11ld1gdm1z?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị âm thanh",
         "category_group":"df_shops"
     },
     {
@@ -5662,6 +6176,7 @@ const data = [
         "address":"Tô Ngọc Vân, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/TI%E1%BB%86M+V%C3%80NG+KIM+PH%C3%81T+KHANG+TRANG\/@10.8685529,106.6745947,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d2c029d985:0xf4cb2b2ed4afe784!8m2!3d10.8685529!4d106.6745947!16s%2Fg%2F11f3wdfc_7?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn trang sức",
         "category_group":"df_shops"
     },
     {
@@ -5673,6 +6188,7 @@ const data = [
         "address":"390\/55A, Hà Huy Giáp, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%C3%A0+Huy+Gi%C3%A1p+Sports\/@10.8700617,106.678776,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529faaee05613:0x7da95febed2eba6d!8m2!3d10.8700617!4d106.678776!16s%2Fg%2F11vdvh5rvh?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ thể thao, Câu lạc bộ cầu lông, Khu phức hợp cầu lông, Sân cầu lông",
         "category_group":"df_shops"
     },
     {
@@ -5684,6 +6200,7 @@ const data = [
         "address":"136C Đ. Thạnh Xuân 22, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HAKAWA+Vi%E1%BB%87t+Nam\/@10.8713187,106.6699914,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d1674abf19:0xf956b5a397186a83!8m2!3d10.8713187!4d106.6699914!16s%2Fg%2F11j1hy9kvg?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ gia dụng",
         "category_group":"df_shops"
     },
     {
@@ -5695,6 +6212,7 @@ const data = [
         "address":"123\/10 Đ. Thạnh Xuân 22, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh 71514, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gia+B%E1%BA%A3o+Car+3\/@10.8715271,106.6690931,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d76ab72813ab:0x286cfe6754626080!8m2!3d10.8715271!4d106.6690931!16s%2Fg%2F11tg2cvp6d?hl=vi&entry=ttu",
+        "categories":"Đại lý cho thuê xe ô tô",
         "category_group":"df_shops"
     },
     {
@@ -5706,6 +6224,7 @@ const data = [
         "address":"501\/6 Hà Huy Giáp, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%E1%BB%91+%C4%82n+V%E1%BA%B7t+1997\/@10.8746979,106.6765621,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529006e05c933:0xf907fca7b88ebc79!8m2!3d10.8746979!4d106.6765621!16s%2Fg%2F11vpymg77b?hl=vi&entry=ttu",
+        "categories":"Cửa hàng ăn nhanh",
         "category_group":"df_shops"
     },
     {
@@ -5717,6 +6236,7 @@ const data = [
         "address":"96\/9\/4 Nguyễn Thị Sáu, 130\/19 tổ 7 Khu phố 1, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A1+S%E1%BA%A5u+Hoa+C%C3%A0\/@10.8746674,106.682228,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d95d689faf:0xad25e9d02b1e4949!8m2!3d10.8746674!4d106.682228!16s%2Fg%2F11h27lqw8_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ kiện thời trang",
         "category_group":"df_shops"
     },
     {
@@ -5728,6 +6248,7 @@ const data = [
         "address":"25\/3C Đường Hiệp Thành 17, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BA%BFn+xe+bu%C3%BDt+Hi%E1%BB%87p+Th%C3%A0nh\/@10.8775355,106.6419124,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e2c4a8cc1f:0x71fe0e719b5cab01!8m2!3d10.8775355!4d106.6419124!16s%2Fg%2F1tlcyp5q?hl=vi&entry=ttu",
+        "categories":"Đại lý vé xe buýt",
         "category_group":"df_shops"
     },
     {
@@ -5739,6 +6260,7 @@ const data = [
         "address":"21 Đ. Liên Khu 2-5, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gara+%C3%B4+t%C3%B4+Ki%C3%AAn+C%C6%B0%E1%BB%9Dng\/@10.8820348,106.6470372,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d79da0522401:0xb4c5c4af85965804!8m2!3d10.8820348!4d106.6470372!16s%2Fg%2F11lg2f85v7?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bảo trì và sửa chữ ô tô",
         "category_group":"df_shops"
     },
     {
@@ -5750,6 +6272,7 @@ const data = [
         "address":"325a Đ. Hiệp Thành 13, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BB%ADa+ch%E1%BB%AFa+m%C3%A1y+ph%C3%A1t+%C4%91i%E1%BB%87n.+T%E1%BB%A7+%C4%91i%E1%BB%87n+c%C3%B4ng+nghi%E1%BB%87p.+ATS\/@10.882188,106.640042,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d700262ca463:0x8e00ef06f592dcf1!8m2!3d10.882188!4d106.640042!16s%2Fg%2F11vpyyw5z8?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy phát điện",
         "category_group":"df_shops"
     },
     {
@@ -5761,6 +6284,7 @@ const data = [
         "address":"Lô A10, Khu Công Nghiệp, Tân Thới Hiệp, Quận 12, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+C%E1%BB%95+Ph%E1%BA%A7n+S%C3%A1ng+T%E1%BA%A1o+C%C3%B4ng+Nghi%E1%BB%87p\/@10.8835573,106.6351089,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ec55555555:0x4fd8c4c469884f1!8m2!3d10.8835573!4d106.6351089!16s%2Fg%2F1pztb__k_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị điện",
         "category_group":"df_shops"
     },
     {
@@ -5772,6 +6296,7 @@ const data = [
         "address":"551\/212\/60\/13 Lê Văn Khương, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+Bn+Jeans\/@10.8892676,106.6413444,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d61e470e6c9b:0x21cb0a6938f08c4f!8m2!3d10.8892676!4d106.6413444!16s%2Fg%2F11hylcxk6c?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -5783,6 +6308,7 @@ const data = [
         "address":"VJRP+9WQ, Lô C, Cụm Công Nghiệp Quang Trung Phường Thành Phố, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%94NG+TY+TNHH+S%E1%BA%A2N+XU%E1%BA%A4T+TH%C6%AF%C6%A0NG+M%E1%BA%A0I+T%26T\/@10.8909675,106.6373585,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d60f867779bd:0xb8e7bf736d9a1f85!8m2!3d10.8909675!4d106.6373585!16s%2Fg%2F1hf05l858?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -5794,6 +6320,7 @@ const data = [
         "address":"Công viên phần mềm Quang Trung, Tân Thới Hiệp, Quận 12, Thành phố Hồ Chí Minh 71511, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Rainbow\/@10.8518221,106.6282064,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b934885313b:0xc873cffa4acd578c!8m2!3d10.8518221!4d106.6282064!16s%2Fg%2F11lcyp_d65?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ kiện thời trang",
         "category_group":"df_shops"
     },
     {
@@ -5805,6 +6332,7 @@ const data = [
         "address":"QTSC 9 Building, Tô Ký, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh 71500, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/N%E1%BA%BFn+Nh%C3%A0+L%C3%A0m\/@10.8537155,106.6260916,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b645d0f8f05:0x6aa51ab70a41dd14!8m2!3d10.8537155!4d106.6260916!16s%2Fg%2F11vryn8j5l?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán nến",
         "category_group":"df_shops"
     },
     {
@@ -5816,6 +6344,7 @@ const data = [
         "address":"77 Đ. TL 29, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BB%93+g%E1%BB%97+n%E1%BB%99i+th%E1%BA%A5t\/@10.871862,106.6880775,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752900206e4bbb:0xf6ef24c0fccdc9ee!8m2!3d10.871862!4d106.6880775!16s%2Fg%2F11vprgq__w?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -5827,6 +6356,7 @@ const data = [
         "address":"VMC8+V7M, Đ.Thạnh Xuân 14, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BA%A1p+H%C3%B3a+Thu+V%C3%A2n\/@10.8722245,106.6656606,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d0b73d38a3:0x27c3f00d73093ce0!8m2!3d10.8722245!4d106.6656606!16s%2Fg%2F11ljd10141?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bách hóa",
         "category_group":"df_shops"
     },
     {
@@ -5838,6 +6368,7 @@ const data = [
         "address":"1779\/1C, Khu Phố 4, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BA%A1p+h%C3%B3a+Mai\/@10.862065,106.6898108,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752900493cd4f1:0x3041d1b9856a672e!8m2!3d10.862065!4d106.6898108!16s%2Fg%2F11ld03y_rs?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -5849,6 +6380,7 @@ const data = [
         "address":"94\/1, đường Đường Thạnh Xuân 13, P, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+bao+b%C3%AC+Vietpacking+-+S%E1%BA%A3n+xu%E1%BA%A5t+th%C3%B9ng+carton,+h%E1%BB%99p+gi%E1%BA%A5y+s%E1%BB%91+l%C6%B0%E1%BB%A3ng+l%E1%BB%9Bn\/@10.8665834,106.6661842,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529498892f969:0x173507900e9324bb!8m2!3d10.8665834!4d106.6661842!16s%2Fg%2F11jwymzbn6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán dụng cụ đóng gói",
         "category_group":"df_shops"
     },
     {
@@ -5860,6 +6392,7 @@ const data = [
         "address":"88 QL1A, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HYUNDAI+MI%E1%BB%80N+NAM\/@10.859545,106.7097073,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175296ce889b349:0x3239fb54e2f15f3!8m2!3d10.859545!4d106.7097073!16s%2Fg%2F11jgdfch14?hl=vi&entry=ttu",
+        "categories":"Đại lý xe Hyundai",
         "category_group":"df_shops"
     },
     {
@@ -5871,6 +6404,7 @@ const data = [
         "address":"48C Tổ 25 Kp2, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+h%C3%A0ng+xe+m%C3%A1y+%C4%90%C3%B4ng+g%C3%A0\/@10.8894094,106.6639474,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d79db484a4c7:0xdecdab015c671ba0!8m2!3d10.8894094!4d106.6639474!16s%2Fg%2F11p09_xlb9?hl=vi&entry=ttu",
+        "categories":"Đại lý xe mô tô",
         "category_group":"df_shops"
     },
     {
@@ -5882,6 +6416,7 @@ const data = [
         "address":"91B Tổ33 Kp2, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C3%A1nh+nabati\/@10.8885608,106.665704,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d7598bf5701f:0xeb61844cc1858d2b!8m2!3d10.8885608!4d106.665704!16s%2Fg%2F11sgv0mqq_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng kem",
         "category_group":"df_shops"
     },
     {
@@ -5893,6 +6428,7 @@ const data = [
         "address":"VJ4R+MQ8, Tân Thới Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/L%C3%A0m+K%C3%A9t+B%C3%A0+Ph%C6%B0%C6%A1ng\/@10.856651,106.6419594,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290011a462a3:0x8cc911d70a6aaf27!8m2!3d10.856651!4d106.6419594!16s%2Fg%2F11vrzqw81t?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -5904,6 +6440,7 @@ const data = [
         "address":"96b2 Tân Thới Hiệp 20, Khu Phố 1A, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C3%ACnh+d%C3%A1n+x%C3%A9+-+d%C3%A2y+quai\/@10.8582098,106.6372953,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290013b83979:0xb0259f94a354446a!8m2!3d10.8582098!4d106.6372953!16s%2Fg%2F11vrv_pdbb?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -5915,6 +6452,7 @@ const data = [
         "address":"QL1A\/79\/1 Khu Phố 2, Tân Thới Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/L%E1%BB%91p+%C3%B4+t%C3%B4+qu%E1%BA%ADn+12+%7C+V%C3%A1+v%E1%BB%8F+xe+qu%E1%BA%ADn+12\/@10.8575706,106.6422335,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d94038348dd7:0xeab676a6c19a3e19!8m2!3d10.8575706!4d106.6422335!16s%2Fg%2F11vs3mxt43?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vá xe",
         "category_group":"df_shops"
     },
     {
@@ -5926,6 +6464,7 @@ const data = [
         "address":"504 Đ. Lê Thị Riêng, Thới An, Quận 12, Thành phố Hồ Chí Minh 71513, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+TNHH+XNK+SX+TM+TH%C3%80NH+VINH\/@10.8793146,106.6547358,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d70002c8e987:0x2432ea8746095b88!8m2!3d10.8793146!4d106.6547358!16s%2Fg%2F11vs538n_t?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -5937,6 +6476,7 @@ const data = [
         "address":"16B QL1A, KP 2A, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CHEP+CM+racing+exhaust\/@10.8550608,106.637201,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752952d7c1330b:0xf6a487f56e966073!8m2!3d10.8550608!4d106.637201!16s%2Fg%2F11q3rg5gjk?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -5948,6 +6488,7 @@ const data = [
         "address":"128 Đ. TX 33, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sendo+Farm-+128B+TX33\/@10.885001,106.669804,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d70062713cad:0x525075487b979732!8m2!3d10.885001!4d106.669804!16s%2Fg%2F11ld61np21?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -5959,6 +6500,7 @@ const data = [
         "address":"153\/10 Tổ 32 Kp2, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Thu%E1%BB%91c+L%C3%A0o+Thanh+Ho%C3%A1+-+H%E1%BA%A3i+%C4%90%C4%83ng\/@10.8857301,106.6646679,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d7abdfc8e87d:0x4677ddbda7a75137!8m2!3d10.8857301!4d106.6646679!16s%2Fg%2F11rtr8x7fy?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -5970,6 +6512,7 @@ const data = [
         "address":"256\/1 Tổ 4 Kp3, Thới An, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C6%B0%E1%BB%9Dn+Ki%E1%BB%83ng+An+Ph%C6%B0%C6%A1ng\/@10.8892644,106.6580717,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d7045633e9ff:0xb472940b274abe9b!8m2!3d10.8892644!4d106.6580717!16s%2Fg%2F11k2gzndl7?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn cây cảnh",
         "category_group":"df_shops"
     },
     {
@@ -5981,6 +6524,7 @@ const data = [
         "address":"900 QL1A, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh 71500, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gia+%C4%90%E1%BB%8Bnh+Ford\/@10.8620554,106.668374,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175284b0692d8c9:0x27b7e350833c7e7f!8m2!3d10.8620554!4d106.668374!16s%2Fg%2F11g7y9cjxj?hl=vi&entry=ttu",
+        "categories":"Đại lý xe Ford, Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -5992,6 +6536,7 @@ const data = [
         "address":"161 Đ.Thạnh Xuân 14, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+h%C3%A0ng+%C4%90%E1%BB%A9c+T%C3%A0i\/@10.8711314,106.6650357,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eba61118c21:0x6fb5cfdd6ee3fbd2!8m2!3d10.8711314!4d106.6650357!16s%2Fg%2F11btv65q5b?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -6003,6 +6548,7 @@ const data = [
         "address":"VMFV+287, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+Y%E1%BA%BFn+s%C3%A0o+ho%C3%A0ng+gia+-+Trang+Nest\/@10.8724485,106.6932973,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529006279b25f:0xf3b2b8f43b570468!8m2!3d10.8724485!4d106.6932973!16s%2Fg%2F11vrzhg5jz?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -6014,6 +6560,7 @@ const data = [
         "address":"75\/9 Tổ 12 Kp1, Tân Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/GV+GARDEN\/@10.8562579,106.6320254,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529007d1ab755:0xdd285ddec366d3a4!8m2!3d10.8562579!4d106.6320254!16s%2Fg%2F11lcz5jzls?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -6025,6 +6572,7 @@ const data = [
         "address":"97 hẻm, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%93+c%C3%A2u+c%C3%A1+nh%C6%B0+%C3%BD\/@10.861068,106.6258663,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ba8ba4c4331:0xce20c2cc53d0dbc3!8m2!3d10.861068!4d106.6258663!16s%2Fg%2F11vlh7jtpx?hl=vi&entry=ttu",
+        "categories":"Đại lý du lịch",
         "category_group":"df_shops"
     },
     {
@@ -6036,6 +6584,7 @@ const data = [
         "address":"110\/5\/20\/2A Tân Chánh Hiệp 35, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BA%A3i+S%E1%BA%A3n+L%C3%AA+M%E1%BA%A1nh\/@10.8616044,106.6232006,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b34afaa6e3:0x7b7122d5815088e1!8m2!3d10.8616044!4d106.6232006!16s%2Fg%2F11r4pn150q?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thịt",
         "category_group":"df_shops"
     },
     {
@@ -6047,6 +6596,7 @@ const data = [
         "address":"2450 QL1A, Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hyundai+An+S%C6%B0%C6%A1ng+-+Truck+%26+Bus+Tr%C6%B0%E1%BB%9Dng+Chinh\/@10.8444458,106.6164161,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d21d7192547d:0x2d7e1aa33fb5ba6a!8m2!3d10.8444458!4d106.6164161!16s%2Fm%2F05mt06y?hl=vi&entry=ttu",
+        "categories":"Đại lý xe tải",
         "category_group":"df_shops"
     },
     {
@@ -6058,6 +6608,7 @@ const data = [
         "address":"Đ. Trần Thị Hè, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BA%BFp+T%E1%BB%AB+C%C3%B4ng+Nghi%E1%BB%87p+-+FSM\/@10.879386,106.6289829,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b007fd26d07:0x752b7bbadd563751!8m2!3d10.879386!4d106.6289829!16s%2Fg%2F11vry17hkh?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -6069,6 +6620,7 @@ const data = [
         "address":"46\/1\/30 Đông Hưng Thuận 17, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C6%B0%E1%BB%9Dn+Hoa+Thi%E1%BB%87n+M%E1%BB%B9\/@10.8511495,106.6348916,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752900627edeff:0x6b0c1c3d767e7d90!8m2!3d10.8511495!4d106.6348916!16s%2Fg%2F11ld07tvx5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng hoa",
         "category_group":"df_shops"
     },
     {
@@ -6080,6 +6632,7 @@ const data = [
         "address":"Số 52\/31, hẻm\/158 Lâm Thị Hố, Khu phố 11, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+May+Thu%C3%BD+Quy%C3%AAn\/@10.8713436,106.6299394,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290008f34451:0xc58dd8533a141c85!8m2!3d10.8713436!4d106.6299394!16s%2Fg%2F11vpvcnksd?hl=vi&entry=ttu",
+        "categories":"Cửa hàng may",
         "category_group":"df_shops"
     },
     {
@@ -6091,6 +6644,7 @@ const data = [
         "address":"160\/22 Đ. Huỳnh Thị Hai, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/X%C6%B0%E1%BB%9Fng+s%E1%BA%A3n+xu%E1%BA%A5t+n%E1%BB%99i+th%E1%BA%A5t+c%C3%B4ng+ty+X%C3%A2y+D%E1%BB%B1ng+Ph%C6%B0%C6%A1ng+B%E1%BA%A3o\/@10.8684232,106.6310779,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752900221e795b:0xc65c767bb3edda39!8m2!3d10.8684232!4d106.6310779!16s%2Fg%2F11vrbydsq8?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -6102,6 +6656,7 @@ const data = [
         "address":"27\/1, Hẻm 340 Đường Tân Chánh Hiệp 10, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gumato+-+X%C6%B0%E1%BB%9Fng+S%E1%BA%A3n+Xu%E1%BA%A5t+Th%C3%B9ng+Gi%E1%BA%A5y,+H%E1%BB%99p+Carton\/@10.8702982,106.6248794,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bb517b9bfd7:0xd5d568704a75bcf7!8m2!3d10.8702982!4d106.6248794!16s%2Fg%2F11h76l11pn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán dụng cụ đóng gói, Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -6113,6 +6668,7 @@ const data = [
         "address":"19HT45, Thành phố Hồ Chí Minh, 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C3%A1n+G%E1%BA%A1o+Th%C3%BAy\/@10.8692851,106.6486144,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752957a2536503:0xf99668b10a813c3c!8m2!3d10.8692851!4d106.6486144!16s%2Fg%2F11ld3mmql_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng gạo",
         "category_group":"df_shops"
     },
     {
@@ -6124,6 +6680,7 @@ const data = [
         "address":"117A Lê Văn Khương, P, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HEAD+%C4%90%C3%B4ng+H%C3%A0+2\/@10.8663124,106.6493101,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f524b6f123:0x87960cac4a5f4a6e!8m2!3d10.8663124!4d106.6493101!16s%2Fg%2F11j0rtlzpf?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -6135,6 +6692,7 @@ const data = [
         "address":"61\/6 Đ.Trương Thị Hoa, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BB%93ng+Lai+Mobile+%C2%A9\/@10.8626772,106.6473381,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529003938efbd:0x15a9086873947f1e!8m2!3d10.8626772!4d106.6473381!16s%2Fg%2F11lc_6bc6b?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa điện thoại di động, Dịch vụ sửa chữa điện thoại",
         "category_group":"df_shops"
     },
     {
@@ -6146,6 +6704,7 @@ const data = [
         "address":"48 Nguyễn Thị Kiểu, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%E1%BA%A1c+C%E1%BB%A5+Tr%E1%BA%A7n+Li%C3%AAm\/@10.8661103,106.6477563,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a22c5a76b5:0x5419929a1ebb0646!8m2!3d10.8661103!4d106.6477563!16s%2Fg%2F11f7qz_0bl?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nhạc cụ, Cửa hàng bán đàn ghita, Cửa hàng sửa chữa nhạc cụ, Cửa hàng pianô, Cửa hàng nhạc cụ cũ",
         "category_group":"df_shops"
     },
     {
@@ -6157,6 +6716,7 @@ const data = [
         "address":"267\/45\/7 Đ.Trương Thị Hoa, Khu Phố 4, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+thu%E1%BB%91c+Qu%E1%BB%B3nh+H%C6%B0%C6%A1ng+2\/@10.865665,106.6432818,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529002e94ad8d:0x8428ee04f9721bc3!8m2!3d10.865665!4d106.6432818!16s%2Fg%2F11vpv63g8s?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán thuốc",
         "category_group":"df_shops"
     },
     {
@@ -6168,6 +6728,7 @@ const data = [
         "address":"55B Đ. Trần Quang Khải, P, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJD8TMf8sodTER3WI1EG8RAsc",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -6179,6 +6740,7 @@ const data = [
         "address":"15Bis Đ. Đinh Tiên Hoàng, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJv1kJWTUvdTERnoSmxaedWv8",
+        "categories":"Đại lý vé máy bay",
         "category_group":"df_shops"
     },
     {
@@ -6190,6 +6752,7 @@ const data = [
         "address":"19, Huỳnh Khương Ninh\/148 Đ. Nguyễn Văn Thủ, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJl7C0JssodTERTeorMNGQnKA",
+        "categories":"Cửa hàng sandwich",
         "category_group":"df_shops"
     },
     {
@@ -6201,6 +6764,7 @@ const data = [
         "address":"Hẻm 18A\/33, Đ. Nguyễn Thị Minh Khai, Đa Kao, Quận 1, Thành phố Hồ Chí Minh 71000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJt6SymKAvdTERnhdKSttYhhE",
+        "categories":"Cửa hàng văn phòng phẩm, Quầy cà phê",
         "category_group":"df_shops"
     },
     {
@@ -6212,6 +6776,7 @@ const data = [
         "address":"37 Đ. Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJhwED20svdTERefttthrMj3Y",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -6223,6 +6788,7 @@ const data = [
         "address":"1 P. Đức Chính, Phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe4-cDu8vdTERYVJ_VeKTnbs",
+        "categories":"Cửa hàng quần áo cũ",
         "category_group":"df_shops"
     },
     {
@@ -6234,6 +6800,7 @@ const data = [
         "address":"45 Đ. Lê Thánh Tôn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1RPasBcvdTERsDFk3TbK72s",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -6245,6 +6812,7 @@ const data = [
         "address":"166 Đ. Trần Hưng Đạo, Phường Nguyễn Cư Trinh, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3ckOfVEvdTERPzQlrzj4TVY",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -6256,6 +6824,7 @@ const data = [
         "address":"QM7W+979, Đ. Đề Thám, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQTBedAwvdTERIVvh1I7ZLoE",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -6267,6 +6836,7 @@ const data = [
         "address":"226 Đ. Trần Hưng Đạo, Phường Nguyễn Cư Trinh, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKTvjCQAvdTERR7FkpiL4Y1k",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -6278,6 +6848,7 @@ const data = [
         "address":"42\/2B Trần Đình Xu, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJz7ffQEvdTERPMMDxyZ3bSk",
+        "categories":"Cửa hàng phụ kiện thời trang",
         "category_group":"df_shops"
     },
     {
@@ -6289,6 +6860,7 @@ const data = [
         "address":"177 Đ. Khánh Hội, Phường 3, Quận 4, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/cellphone+S\/@10.7570691,106.7002592,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529305fff57c9:0xb9135ee0bc5083ce!8m2!3d10.7570691!4d106.7002592!16s%2Fg%2F11b5z_1wb5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -6300,6 +6872,7 @@ const data = [
         "address":"116 Đ. Khánh Hội, Phường 4, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hoa+T%C6%B0%C6%A1i+Kh%C3%A1nh+H%E1%BB%99i+Qu%E1%BA%ADn+4\/@10.7564014,106.7011298,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0042147a3d:0xd77246576aca8e0!8m2!3d10.7564014!4d106.7011298!16s%2Fg%2F11vs4r_f2k?hl=vi&entry=ttu",
+        "categories":"Cửa hàng hoa",
         "category_group":"df_shops"
     },
     {
@@ -6311,6 +6884,7 @@ const data = [
         "address":"179 Tôn Đản, Phường 8, Q. 04, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+th%E1%BB%8B+%C4%91i%E1%BB%87n+tho%E1%BA%A1i+Th%E1%BA%BF+Gi%E1%BB%9Bi+Di+%C4%90%E1%BB%99ng\/@10.7579156,106.7066431,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6e1248a29d:0x27d8bf435caae0df!8m2!3d10.7579156!4d106.7066431!16s%2Fg%2F11byxgykkv?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -6322,6 +6896,7 @@ const data = [
         "address":"48E Đ. Tôn Thất Thuyết, Phường 3, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BA%A3y+S%E1%BB%ADa+Qu%E1%BA%A7n+%C3%81o\/@10.7529151,106.697357,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0cf13842c9:0x898f364969912e7f!8m2!3d10.7529151!4d106.697357!16s%2Fg%2F11kzc_chm4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo, Dịch vụ sửa chữa quần áo",
         "category_group":"df_shops"
     },
     {
@@ -6333,6 +6908,7 @@ const data = [
         "address":"148\/2\/2a, Tôn Đản, Phường 10, Quận 4, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VapeHcm+Chuy%C3%AAn+B%C3%A1n+Vape+,+Pod+System+,Thu%E1%BB%91c+L%C3%A1+%C4%90i%E1%BB%87n+T%E1%BB%AD+,+Shisha+,Tinh+D%E1%BA%A7u+Ch%C3%ADnh+H%C3%A3ng+Gi%C3%A1+R%E1%BA%BB+Hcm+Qu%E1%BA%ADn+4\/@10.7589937,106.7065192,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fe76f423a7d:0xafa2a8a2ee16e6f1!8m2!3d10.7589937!4d106.7065192!16s%2Fg%2F11gtz5f87l?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị điện, Tiệm thuốc lá, Nhà cung cấp thuốc lá, Cửa hàng thiết bị hóa hơi",
         "category_group":"df_shops"
     },
     {
@@ -6344,6 +6920,7 @@ const data = [
         "address":"Chung cư H2, 196 Đ. Hoàng Diệu, Phường 8, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+Th%E1%BB%8B+%C4%90i%E1%BB%87n+M%C3%A1y+N%E1%BB%99i+Th%E1%BA%A5t+Ch%E1%BB%A3+L%E1%BB%9Bn\/@10.7623978,106.7021216,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6b7c7759e5:0xb73c45035b3df9e9!8m2!3d10.7623978!4d106.7021216!16s%2Fg%2F11bccmsl_x?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -6355,6 +6932,7 @@ const data = [
         "address":"Hẻm 670\/94 Đoàn Văn Bơ, Phường 16, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BB%93+c%C3%A2u+ki%E1%BB%83ng+Nguy%E1%BB%85n+Tr%C6%B0%E1%BB%9Dng\/@10.7564242,106.7109668,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fa1acb05697:0xa02845b8bf67f77a!8m2!3d10.7564242!4d106.7109668!16s%2Fg%2F11h2kbx31v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng chim",
         "category_group":"df_shops"
     },
     {
@@ -6366,6 +6944,7 @@ const data = [
         "address":"714 Đoàn Văn Bơ, Phường 18, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+b%C3%A1nh+CH%C3%80NG+TRAI+B%C3%81NH+KEM+s%C3%A0i+g%C3%B2n\/@10.7567269,106.7149066,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb50ccb8441:0x6100b1a4069611f5!8m2!3d10.7567269!4d106.7149066!16s%2Fg%2F11b8z6yy3y?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bánh",
         "category_group":"df_shops"
     },
     {
@@ -6377,6 +6956,7 @@ const data = [
         "address":"538\/101, Số cũ, 166\/121 Đoàn Văn Bơ, Phường 14, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/photocopy\/@10.7578543,106.7089214,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6fadeb5105:0x8dcf13da1de14845!8m2!3d10.7578543!4d106.7089214!16s%2Fg%2F11g_msdt0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phô-tô-copy",
         "category_group":"df_shops"
     },
     {
@@ -6388,6 +6968,7 @@ const data = [
         "address":"372 Trần Hưng Đạo B, Phường 11, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+h%C3%A0ng+D%E1%BB%A5ng+C%E1%BB%A5+Th%E1%BB%83+Thao+Qu%E1%BA%ADn+5\/@10.7521114,106.6613616,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ef7214b8f99:0xd390ef40c5afa706!8m2!3d10.7521114!4d106.6613616!16s%2Fg%2F1tcwt6ms?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ thể thao",
         "category_group":"df_shops"
     },
     {
@@ -6399,6 +6980,7 @@ const data = [
         "address":"143 Đ. Nguyễn Trãi, Phường 2, Quận 5, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hasaki+Beauty+%26+Spa\/@10.7574875,106.6790787,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f1ceaa9d8e7:0x5d501e4181f5a65e!8m2!3d10.7574875!4d106.6790787!16s%2Fg%2F11qnf6x3_8?hl=vi&entry=ttu",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -6410,6 +6992,7 @@ const data = [
         "address":"190 Đ. Nguyễn Trãi, Phường 3, Quận 5, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/YaMe.vn\/@10.7571062,106.6773795,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f1b6b021d73:0xb3faf0e30d4ed11!8m2!3d10.7571062!4d106.6773795!16s%2Fg%2F11cs11cmq4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -6421,6 +7004,7 @@ const data = [
         "address":"100M-N-O-P, Đ. Hùng Vương, Phường 9, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HEAD+T%C6%B0%E1%BB%9Dng+Nguy%C3%AAn+2\/@10.7580268,106.6696881,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fe7b3341b31:0xaecbaccf0b0342f!8m2!3d10.7580268!4d106.6696881!16s%2Fg%2F11smmbqr5p?hl=vi&entry=ttu",
+        "categories":"Đại lý xe Honda",
         "category_group":"df_shops"
     },
     {
@@ -6432,6 +7016,7 @@ const data = [
         "address":"358 Đ. Nguyễn Trãi, Phường 8, Quận 5, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%E1%BA%AFt+K%C3%ADnh+Anna+-+Nguy%E1%BB%85n+Tr%C3%A3i\/@10.7555998,106.6738912,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f7b9c19d30b:0x7df7eb6a4d676e42!8m2!3d10.7555998!4d106.6738912!16s%2Fg%2F11s620qzl0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng kính mát",
         "category_group":"df_shops"
     },
     {
@@ -6443,6 +7028,7 @@ const data = [
         "address":"307 Đ. Trần Phú, Phường 8, Quận 5, Thành phố Hồ Chí Minh 72700, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ng%E1%BB%8Dc+Kh%C3%A1nh+LUXURY\/@10.7563845,106.6734478,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f807ccdaf47:0x4e5bce31d852add4!8m2!3d10.7563845!4d106.6734478!16s%2Fg%2F11vs48dp07?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trang sức",
         "category_group":"df_shops"
     },
     {
@@ -6454,6 +7040,7 @@ const data = [
         "address":"176 Đ. Nguyễn Tri Phương, Phường 9, Quận 5, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+th%E1%BB%8B+Th%E1%BA%BF+Gi%E1%BB%9Bi+Di+%C4%90%E1%BB%99ng\/@10.7595684,106.6691319,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ee495ea3593:0x5008c89bfecbc40c!8m2!3d10.7595684!4d106.6691319!16s%2Fg%2F11b6x5pk2q?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -6465,6 +7052,7 @@ const data = [
         "address":"147 149 Đ. Nguyễn Tri Phương, Phường 8, Quận 5, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chi%C3%AAm+T%C3%A0i+Mobile\/@10.7553843,106.6693986,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752efb780041c1:0x3681fc0587ba45f5!8m2!3d10.7553843!4d106.6693986!16s%2Fg%2F11b6_bggxl?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ kiện điện thoại di động, Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -6476,6 +7064,7 @@ const data = [
         "address":"68 Đ. An Bình, Phường 5, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%C3%A1+Phong+Thu%E1%BB%B7+B%C3%A9+B%E1%BA%A3y\/@10.7513051,106.6729964,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0058ee92d7:0xa2aed7dcfa8e08ce!8m2!3d10.7513051!4d106.6729964!16s%2Fg%2F11ld54gfwk?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trang sức",
         "category_group":"df_shops"
     },
     {
@@ -6487,6 +7076,7 @@ const data = [
         "address":"Chung cư Hùng Vương, Đ. Tản Đà, Phường 11, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+Th%E1%BB%8B+%C4%90i%E1%BB%87n+M%C3%A1y+N%E1%BB%99i+Th%E1%BA%A5t+Ch%E1%BB%A3+L%E1%BB%9Bn\/@10.7542272,106.6646016,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ef09d900001:0xa74756f802908594!8m2!3d10.7542272!4d106.6646016!16s%2Fg%2F11bbt53spk?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -6498,6 +7088,7 @@ const data = [
         "address":"Tòa nhà Ferrari, Đường số 7, Khu Chế Xuất, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ferrari+Supreme+-+Vietnam\/@10.7516425,106.7366972,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175258b9c2a5c7b:0x948d3a9964b0ef7b!8m2!3d10.7516425!4d106.7366972!16s%2Fg%2F11pd7cnzqq?hl=vi&entry=ttu",
+        "categories":"Đại lý Ferrari",
         "category_group":"df_shops"
     },
     {
@@ -6509,6 +7100,7 @@ const data = [
         "address":"Lô TH1A, Đường số 7, KCX Tân Thuận, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SUBARU+Qu%E1%BA%ADn+7\/@10.7515802,106.7356569,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525e847b34a71:0xed42c40026818f0!8m2!3d10.7515802!4d106.7356569!16s%2Fg%2F11qbb61_s8?hl=vi&entry=ttu",
+        "categories":"Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -6520,6 +7112,7 @@ const data = [
         "address":"105 đường 41, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vape+Qu%E1%BA%ADn+7+-+Vape+1998+Chi+nh%C3%A1nh+Qu%E1%BA%ADn+7\/@10.7433759,106.7146171,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f97fb0b36e7:0x6218d3c151fdbf07!8m2!3d10.7433759!4d106.7146171!16s%2Fg%2F11s2rnnzkf?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -6531,6 +7124,7 @@ const data = [
         "address":"276 Đ. Nguyễn Văn Linh, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Autos+Only+-+Car+Service+Premium+Center\/@10.7437269,106.7213216,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f80239c38e9:0x9ecbe75881561461!8m2!3d10.7437269!4d106.7213216!16s%2Fg%2F11b7slyws9?hl=vi&entry=ttu",
+        "categories":"Đại lý ô tô, Cửa hàng sửa chữa thân vỏ ô tô, Dịch vụ điện tự động, Cửa hàng kính ô tô, Sơn ô tô, Chợ phụ tùng xe ô tô, Xưởng sửa chữa ô tô, Cửa hàng phụ tùng xe ô tô, Dịch vụ ô tô riêng, Nhà buôn bán ô tô cũ",
         "category_group":"df_shops"
     },
     {
@@ -6542,6 +7136,7 @@ const data = [
         "address":"PPQ8+QX7, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%C6%A1n+Nghe+Nh%C3%ACn\/@10.739422,106.7174355,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f00767173b5:0x701b0045fe207934!8m2!3d10.739422!4d106.7174355!16s%2Fg%2F11lcyzjpxv?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -6553,6 +7148,7 @@ const data = [
         "address":"98A Nguyễn Thị Thập, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kingsport+Qu%E1%BA%ADn+7+-+HCM+(Gh%E1%BA%BF+Massage,+M%C3%A1y+Ch%E1%BA%A1y+B%E1%BB%99)\/@10.7383988,106.7212548,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fd5cfeb8b2b:0xa5e6f26bda522c0e!8m2!3d10.7383988!4d106.7212548!16s%2Fg%2F11q21nb69h?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị thể dục, Cửa hàng bán dụng cụ xoa bóp",
         "category_group":"df_shops"
     },
     {
@@ -6564,6 +7160,7 @@ const data = [
         "address":"369 Nguyễn Thị Thập, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+h%C3%A0ng+Andes+-+Nguy%E1%BB%85n+Th%E1%BB%8B+Th%E1%BA%ADp\/@10.7383726,106.7135954,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9bf48f826b:0x1193c57d67ca6f0b!8m2!3d10.7383726!4d106.7135954!16s%2Fg%2F11csrg42vq?hl=vi&entry=ttu",
+        "categories":"Cửa hàng mũ",
         "category_group":"df_shops"
     },
     {
@@ -6575,6 +7172,7 @@ const data = [
         "address":"207 Nguyễn Thị Thập, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90i%E1%BB%87n+Tho%E1%BA%A1i+Vui\/@10.738094,106.7184864,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175257bf230b433:0xaa3d3246ef1060a1!8m2!3d10.738094!4d106.7184864!16s%2Fg%2F11hctfv0th?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Dịch vụ sửa chữa đồng hồ, Dịch vụ sửa chữa máy tính, Dịch vụ sửa chữa điện thoại",
         "category_group":"df_shops"
     },
     {
@@ -6586,6 +7184,7 @@ const data = [
         "address":"248 Nguyễn Thị Thập, P. Phú Thuận, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CellphoneS\/@10.7385711,106.7155283,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f35080eb745:0xd613d73c3433d4f!8m2!3d10.7385711!4d106.7155283!16s%2Fg%2F11g0h84zjt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -6597,6 +7196,7 @@ const data = [
         "address":"330 Đ. Nguyễn Văn Linh, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Peugeot+Ph%C3%BA+M%E1%BB%B9+H%C6%B0ng\/@10.7400553,106.7212064,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fd181766397:0x6acc218a9cfb6e39!8m2!3d10.7400553!4d106.7212064!16s%2Fg%2F11h92hp218?hl=vi&entry=ttu",
+        "categories":"Đại lý xe Peugeot",
         "category_group":"df_shops"
     },
     {
@@ -6608,6 +7208,7 @@ const data = [
         "address":"48B Số 51, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/In+catalogue+-+t%E1%BB%9D+r%C6%A1i+-+card+visit+-+in+%E1%BA%A5n+%C6%AFu+Vi%E1%BB%87t\/@10.7411741,106.7164796,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f7ef2efc6eb:0x26326f20b2dfd196!8m2!3d10.7411741!4d106.7164796!16s%2Fg%2F11sk5jz96b?hl=vi&entry=ttu",
+        "categories":"Cửa hàng in ấn",
         "category_group":"df_shops"
     },
     {
@@ -6619,6 +7220,7 @@ const data = [
         "address":"314 Đ. Nguyễn Văn Linh, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh 700900, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KIA+Ph%C3%BA+M%E1%BB%B9+H%C6%B0ng\/@10.7412856,106.7212647,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f80dcc16f3d:0xcaf552b2737678b8!8m2!3d10.7412856!4d106.7212647!16s%2Fg%2F11df6gcync?hl=vi&entry=ttu",
+        "categories":"Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -6630,6 +7232,7 @@ const data = [
         "address":"94A Đường số 45, Tân Quy, Quận 7, Thành phố Hồ Chí Minh 72913, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/LEC+Vape+Qu%E1%BA%ADn+7\/@10.7425491,106.7144873,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f7bb3273e43:0x6816a3b3ceef02a0!8m2!3d10.7425491!4d106.7144873!16s%2Fg%2F11sl2rc0mh?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị hóa hơi",
         "category_group":"df_shops"
     },
     {
@@ -6641,6 +7244,7 @@ const data = [
         "address":"Số 107 Đường 39, Tân Quy, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CleanVape\/@10.7426535,106.7201583,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f706ee8a181:0x4674349df7e56f8b!8m2!3d10.7426535!4d106.7201583!16s%2Fg%2F11sbq1sw4k?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -6652,6 +7256,7 @@ const data = [
         "address":"47a Đ. Số 37, Tân Quy, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Bitis\/@10.744321,106.715202,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f827a7b131d:0x19eafe36e85178ac!8m2!3d10.744321!4d106.715202!16s%2Fg%2F11g6hzkwp2?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -6663,6 +7268,7 @@ const data = [
         "address":"87\/3 Đường 15, Tân Quy, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kwi+Store\/@10.7444064,106.7190181,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ff621665909:0x24ddb106c937f1bf!8m2!3d10.7444064!4d106.7190181!16s%2Fg%2F11thl5mjxs?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -6674,6 +7280,7 @@ const data = [
         "address":"KDC Jamona Golden Silk, Đường N 3\/210 Bùi Văn Ba, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh 710000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Greenhome+Decoration\/@10.7495539,106.7353851,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f992fc448cf:0x75840ac2531fc4f5!8m2!3d10.7495539!4d106.7353851!16s%2Fg%2F11g9gty6nm?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -6685,6 +7292,7 @@ const data = [
         "address":"157-157a Bùi Văn Ba, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Satrafoods+B%C3%B9i+V%C4%83n+Ba\/@10.7504524,106.7333242,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525a19406e29f:0x82e862f3bb481942!8m2!3d10.7504524!4d106.7333242!16s%2Fg%2F11fhqn3__c?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -6696,6 +7304,7 @@ const data = [
         "address":"Lô DVTM, 1A Đường số 7, KCX Tân Thuận, Quận 7, Thành phố Hồ Chí Minh 100000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ducati+H%E1%BB%93+Ch%C3%AD+Minh\/@10.7515848,106.7319331,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525415bf43923:0xe0e7291f23c90202!8m2!3d10.7515848!4d106.7319331!16s%2Fg%2F11swv0rwb9?hl=vi&entry=ttu",
+        "categories":"Đại lý xe mô tô",
         "category_group":"df_shops"
     },
     {
@@ -6707,6 +7316,7 @@ const data = [
         "address":"4 Đường số 7, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Porsche+S%C3%A0i+G%C3%B2n\/@10.7514329,106.7335202,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525965549a1ad:0x2038285876188496!8m2!3d10.7514329!4d106.7335202!16s%2Fg%2F11gxmgwqgx?hl=vi&entry=ttu",
+        "categories":"Đại lý xe Porsche",
         "category_group":"df_shops"
     },
     {
@@ -6718,6 +7328,7 @@ const data = [
         "address":"27 Lý Long Tường, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/L%C3%B4+%C4%90%E1%BB%81+Chu%E1%BA%A9n\/@10.7235253,106.7138928,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f02429bb497:0xd3cd9e0ea47f3632!8m2!3d10.7235253!4d106.7138928!16s%2Fg%2F11vs3mjbq6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -6729,6 +7340,7 @@ const data = [
         "address":"Số 56 Gò Ô Môi, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/K-Market\/@10.7301767,106.7386117,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175256e56afa69f:0x4d9cb1d7194312ad!8m2!3d10.7301767!4d106.7386117!16s%2Fg%2F11h4140xjs?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm Triều Tiên",
         "category_group":"df_shops"
     },
     {
@@ -6740,6 +7352,7 @@ const data = [
         "address":"Số 811-813 Thuộc lô\/2, Đ. Nguyễn Văn Linh, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Mercedes-Benz+Vietnam+Star\/@10.728193,106.7144103,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f1855ed03e7:0x5fcda6138755507d!8m2!3d10.728193!4d106.7144103!16s%2Fg%2F11kr_60rmz?hl=vi&entry=ttu",
+        "categories":"Đại lý Mercedes-Benz",
         "category_group":"df_shops"
     },
     {
@@ -6751,6 +7364,7 @@ const data = [
         "address":"77 Lê Văn Lương, Tân Kiểng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Min+Hamster+Qu%E1%BA%ADn+7\/@10.7501956,106.7067976,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fff92b4bf51:0x3c32d3567f880a77!8m2!3d10.7501956!4d106.7067976!16s%2Fg%2F11tflq2jk5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -6762,6 +7376,7 @@ const data = [
         "address":"89 lê văn lương. P Tân Kiểng. Quận 7, Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A1+C%E1%BA%A3nh+Thu%E1%BB%B7+Sinh+Thu%E1%BB%B7+Nguy%C3%AAn\/@10.75015,106.705149,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f7404e2f8e3:0xc3ef7370bfb556d3!8m2!3d10.75015!4d106.705149!16s%2Fg%2F11f086lsl5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -6773,6 +7388,7 @@ const data = [
         "address":"30 Lâm Văn Bền, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SHOP+BAO+CAO+SU+Q7\/@10.749391,106.712902,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ffd47135f87:0x5c40cd4c70175975!8m2!3d10.749391!4d106.712902!16s%2Fg%2F11rglscg_7?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -6784,6 +7400,7 @@ const data = [
         "address":"480-482-484, Đ. Nguyễn Văn Linh, P, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/AUTO+NAM+S%C3%80I+G%C3%92N\/@10.7360836,106.7211373,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f03f12bb961:0x214e0cf7329ede37!8m2!3d10.7360836!4d106.7211373!16s%2Fg%2F11l5wtc4j5?hl=vi&entry=ttu",
+        "categories":"Đại lý ô tô, Chợ ô tô, Nhà buôn bán ô tô cũ",
         "category_group":"df_shops"
     },
     {
@@ -6795,6 +7412,7 @@ const data = [
         "address":"46 Số 1, KDC Cityland Riverside, Quận 7, Thành phố Hồ Chí Minh 72908, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M+By+Ch%C3%AD+T%C3%A2m\/@10.7348844,106.7260628,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175255ba07b1c35:0x6e6e9c1ccd4706e4!8m2!3d10.7348844!4d106.7260628!16s%2Fg%2F11fd6mftpq?hl=vi&entry=ttu",
+        "categories":"Cửa hàng chăm sóc sức khỏe và làm đẹp",
         "category_group":"df_shops"
     },
     {
@@ -6806,6 +7424,7 @@ const data = [
         "address":"Hẻm 861, 87\/11a Trần Xuân Soạn, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BB%ADa+M%C3%A1y+T%C3%ADnh+Pro\/@10.7486372,106.6976361,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175252c930e55c9:0xedba511976612116!8m2!3d10.7486372!4d106.6976361!16s%2Fg%2F11h6ddgcp5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -6817,6 +7436,7 @@ const data = [
         "address":"33 Đ. Nguyễn Hữu Thọ, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+n%E1%BB%99i+th%E1%BA%A5t+My+Home+Decor\/@10.74605,106.7012534,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fceb24adf9d:0x72592cf670951e25!8m2!3d10.74605!4d106.7012534!16s%2Fg%2F11vpxwq0h5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -6828,6 +7448,7 @@ const data = [
         "address":"Đại học Tôn Đức Thắng, 19 Đ. Nguyễn Hữu Thọ, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/7-Eleven+TDTU+Campus+D7\/@10.7305434,106.6979009,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f7bbb9cdc45:0x8fa5173677604aaf!8m2!3d10.7305434!4d106.6979009!16s%2Fg%2F11h4g8q6tt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -6839,6 +7460,7 @@ const data = [
         "address":"PMHX+JMM, Đ. Nguyễn Văn Linh, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+h%C3%A0ng+%C4%91%E1%BB%93+c%C5%A9+Ng%C3%A2n+V%C5%A9\/@10.729099,106.6991782,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fbe06112a01:0x54f00dcf1a2885a1!8m2!3d10.729099!4d106.6991782!16s%2Fg%2F11b7st_p1_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -6850,6 +7472,7 @@ const data = [
         "address":"SC Vivo City, 1058 Đ. Nguyễn Văn Linh, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/UNIQLO+SC+VivoCity\/@10.7296727,106.7025627,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f36f63e35ad:0x9f8b61ed7ba3e470!8m2!3d10.7296727!4d106.7025627!16s%2Fg%2F11hfpg1qn1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -6861,6 +7484,7 @@ const data = [
         "address":"288 Đường Số 14, p, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hien's+Garden\/@10.7305176,106.7013721,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fdefc7a5267:0xc4a265fed8f1057b!8m2!3d10.7305176!4d106.7013721!16s%2Fg%2F11h0yl7rbt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn cây cảnh, Chợ hoa, Trung tâm cây cảnh, Dịch vụ cây cảnh, Vườn cây ăn quả",
         "category_group":"df_shops"
     },
     {
@@ -6872,6 +7496,7 @@ const data = [
         "address":"460\/4\/10 Lê Văn Lương, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+b%C3%A1nh+Dolce+Vita+%7C+B%C3%A1nh+Tiramisu+ngon+qu%E1%BA%ADn+7\/@10.7364395,106.7019765,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528b1311212df:0x71e96a9e4f5372fd!8m2!3d10.7364395!4d106.7019765!16s%2Fg%2F11b6d3jb3s?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bánh, Tiệm bánh",
         "category_group":"df_shops"
     },
     {
@@ -6883,6 +7508,7 @@ const data = [
         "address":"793\/51\/11, Trần Xuân Soạn, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/THE+GREENERY\/@10.7480285,106.7007182,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0068b1262f:0xa4e46d7b80df0856!8m2!3d10.7480285!4d106.7007182!16s%2Fg%2F11vpsr_mmq?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -6894,6 +7520,7 @@ const data = [
         "address":"47a Đ. Nguyễn Hữu Thọ, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%81+C%E1%BA%A2NH+THANH+H%E1%BA%A2I\/@10.7484435,106.7021614,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f28b179d6bf:0x8d84157bddd975fe!8m2!3d10.7484435!4d106.7021614!16s%2Fg%2F11ngk7dyqt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật nuôi",
         "category_group":"df_shops"
     },
     {
@@ -6905,6 +7532,7 @@ const data = [
         "address":"816\/72 Trần Xuân Soạn, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/XIAOMI+SHOP+ONLINE\/@10.7515831,106.6942351,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0027aaa183:0x448793ee8831a744!8m2!3d10.7515831!4d106.6942351!16s%2Fg%2F11vs2hq4zg?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -6916,6 +7544,7 @@ const data = [
         "address":"2 Nguyễn Văn Tưởng, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 760000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+View+Apartments+at+Riviera+Point\/@10.7331241,106.7287666,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175252d146a9555:0x3b0466cf6f02f2a!8m2!3d10.7331241!4d106.7287666!16s%2Fg%2F11f5q0fqwx?hl=vi&entry=ttu",
+        "categories":"Đại lý bất động sản",
         "category_group":"df_shops"
     },
     {
@@ -6927,6 +7556,7 @@ const data = [
         "address":"Đ. Nguyễn Văn Linh, Khu đô thị Phú Mỹ Hưng, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hoa+s%E1%BB%A9+kim+b%C3%ACnh\/@10.7340015,106.7234486,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0aa90d8873:0x17ffbd3e978f80b5!8m2!3d10.7340015!4d106.7234486!16s%2Fg%2F11txtxwd_4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn trái cây",
         "category_group":"df_shops"
     },
     {
@@ -6938,6 +7568,7 @@ const data = [
         "address":"845 Trần Xuân Soạn, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop2banh\/@10.7515249,106.6973664,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fde6554382d:0x400cee8d53b801ec!8m2!3d10.7515249!4d106.6973664!16s%2Fg%2F11f5h2x1x3?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -6949,6 +7580,7 @@ const data = [
         "address":"11 Nguyễn Thị Thập, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Garage+%C3%94+T%C3%B4+Gia+Ph%C3%A1t\/@10.7361254,106.7289404,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175257c7c1ed863:0x20f09fcf00758364!8m2!3d10.7361254!4d106.7289404!16s%2Fg%2F11pq8f921l?hl=vi&entry=ttu",
+        "categories":"Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -6960,6 +7592,7 @@ const data = [
         "address":"9 - 11 Nguyễn Thị Thập, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Phong+V%C5%A9+Computer,+Technology+%26+More\/@10.737394,106.729762,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525795e31dd33:0x46d12223d0dfae58!8m2!3d10.737394!4d106.729762!16s%2Fg%2F11t4yypp07?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính, Tư vấn viên máy tính, Dịch vụ sửa chữa máy tính, Cửa hàng phần mềm máy tính, Máy in kỹ thuật số",
         "category_group":"df_shops"
     },
     {
@@ -6971,6 +7604,7 @@ const data = [
         "address":"91 Số 3, Tân Kiểng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%A7a+H%C3%A0ng+Ph%C3%A1o+Hoa+S%E1%BB%91+17\/@10.7477746,106.7064873,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f2be8754c8b:0x98a400d0b4490e1c!8m2!3d10.7477746!4d106.7064873!16s%2Fg%2F11vr_qcrf0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán pháo hoa",
         "category_group":"df_shops"
     },
     {
@@ -6982,6 +7616,7 @@ const data = [
         "address":"146 Lê Văn Lương, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Change+shop+(gi%C3%A0y+d%C3%A9p+balo+t%C3%BAi+x%C3%A1ch+nam+n%E1%BB%AF)\/@10.7482261,106.704702,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ffe8abac567:0x1dd358e204a8dff0!8m2!3d10.7482261!4d106.704702!16s%2Fg%2F11h8d71bfj?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -6993,6 +7628,7 @@ const data = [
         "address":"128 Lê Văn Lương, Tân Kiểng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Q7+Mobile+Store\/@10.7486481,106.7046991,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f29ebb1d76f:0x1c07ff72bb5c8aae!8m2!3d10.7486481!4d106.7046991!16s%2Fg%2F11gydlhyzy?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -7004,6 +7640,7 @@ const data = [
         "address":"14-17 Trần Xuân Soạn, Tân Kiểng, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SOFA+HO%C3%80I+CH%C3%82U\/@10.7490676,106.7098149,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fc6dae9c27f:0xdc8534d14cf29825!8m2!3d10.7490676!4d106.7098149!16s%2Fg%2F11vpxx40g3?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -7015,6 +7652,7 @@ const data = [
         "address":"3\/14 Hẽm 108, Tân Kiểng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hb88+Work\/@10.7492148,106.7041919,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6931e6251b:0x266c6d3ff2f99437!8m2!3d10.7492148!4d106.7041919!16s%2Fg%2F11vs5txgkk?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -7026,6 +7664,7 @@ const data = [
         "address":"35\/12 Bế Văn Cấm, Tân Kiểng, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M-One+Nam+S%C3%A0i+g%C3%B2n\/@10.7500662,106.7111792,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8e2e7e1c03:0x949c00f6a80ef1b9!8m2!3d10.7500662!4d106.7111792!16s%2Fg%2F11k6x23wdv?hl=vi&entry=ttu",
+        "categories":"Đại lý cho thuê căn hộ",
         "category_group":"df_shops"
     },
     {
@@ -7037,6 +7676,7 @@ const data = [
         "address":"35\/7 Bế Văn Cấm, Tân Kiểng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CINE+H%C3%A0+N%E1%BB%99i+(+Chi+Nh%C3%A1nh+Mi%E1%BB%81n+Nam)\/@10.7506271,106.7094831,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f005b7e295b:0xa1edf64d6942247a!8m2!3d10.7506271!4d106.7094831!16s%2Fg%2F11lc_2tyfq?hl=vi&entry=ttu",
+        "categories":"Đại lý cho thuê thiết bị",
         "category_group":"df_shops"
     },
     {
@@ -7048,6 +7688,7 @@ const data = [
         "address":"Kế bên, 553 Trần Xuân Soạn, Tân Kiểng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%A2n+G%C3%A0+C%C3%B4+Ba\/@10.7516708,106.7057215,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0042ea5115:0x271cea4157d27cf9!8m2!3d10.7516708!4d106.7057215!16s%2Fg%2F11ld3n1g2g?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -7059,6 +7700,7 @@ const data = [
         "address":"60 Huỳnh Tấn Phát, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+h%C3%A0ng+th%E1%BB%B1c+ph%E1%BA%A9m+%C4%91%C3%B4ng+l%E1%BA%A1nh,+m%E1%BA%AFm,+kh%C3%B4+M%E1%BB%B9+C%E1%BA%A9m\/@10.7437007,106.7258781,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175250038692b99:0xf1b43e546ea6852!8m2!3d10.7437007!4d106.7258781!16s%2Fg%2F11lclcj3xr?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -7070,6 +7712,7 @@ const data = [
         "address":"Khu phố Riverpark Premier, 64-70 Nguyễn Đức Cảnh, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Annam+Gourmet+Riverpark+Premier\/@10.7249142,106.7084767,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f93b4b1a191:0x78286e296e725b!8m2!3d10.7249142!4d106.7084767!16s%2Fg%2F11xfpqmcg?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán thực phẩm sạch, Siêu thị",
         "category_group":"df_shops"
     },
     {
@@ -7081,6 +7724,7 @@ const data = [
         "address":"The Ascentia, Lô S4-3, 73 Đường Nguyễn Lương Bằng, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Annam+Gourmet+Ascentia\/@10.7205918,106.7271196,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752541b7b84447:0x19c670da2b93afee!8m2!3d10.7205918!4d106.7271196!16s%2Fg%2F11s5351g63?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán thực phẩm đặc sản",
         "category_group":"df_shops"
     },
     {
@@ -7092,6 +7736,7 @@ const data = [
         "address":"96 Bùi Bằng Đoàn, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Aura+Clinic+Q7+(%EC%95%84%EC%9A%B0%EB%9D%BC%ED%81%B4%EB%A6%AC%EB%8B%89+7%EA%B5%B0%EC%A0%90)\/@10.7331999,106.7083234,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f90f428d66b:0x90a78f4a109de132!8m2!3d10.7331999!4d106.7083234!16s%2Fg%2F11h54zvd2d?hl=vi&entry=ttu",
+        "categories":"Cửa hàng chăm sóc sức khỏe và làm đẹp",
         "category_group":"df_shops"
     },
     {
@@ -7103,6 +7748,7 @@ const data = [
         "address":"12 Đ. Phạm Văn Nghị, Khu Pho Sky Garden 1, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sky+Garden+1+Buildings\/@10.7296145,106.7066436,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f914b3c3eeb:0xc090097c31e8ea93!8m2!3d10.7296145!4d106.7066436!16s%2Fg%2F11clwkbccf?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán thực phẩm sạch, Khu tổ hợp công quản",
         "category_group":"df_shops"
     },
     {
@@ -7114,6 +7760,7 @@ const data = [
         "address":"S85-1 Sky Garden 3, Phạm Văn Nhị, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 000000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Aceline\/@10.7336868,106.7064838,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f90a5352bdf:0x35f87c0a109355a2!8m2!3d10.7336868!4d106.7064838!16s%2Fg%2F11byylz8fv?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bánh ngọt",
         "category_group":"df_shops"
     },
     {
@@ -7125,6 +7772,7 @@ const data = [
         "address":"Số 46, Khu Dân Cư Hưng Phúc (Lô S10-2, 196 Nguyễn Lương Bằng, P. Phú Thuận, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nam+An+Market+Ph%C3%BA+M%E1%BB%B9+H%C6%B0ng\/@10.7167115,106.7287375,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525194f95a615:0x5426b7843dd8f79f!8m2!3d10.7167115!4d106.7287375!16s%2Fg%2F11rd9glc54?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thực phẩm hữu cơ",
         "category_group":"df_shops"
     },
     {
@@ -7136,6 +7784,7 @@ const data = [
         "address":"55 Nguyễn Thị Thập, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HDRADIO+Qu%E1%BA%ADn+7+-+Audio+%26+Home+Cinema+%26+Karaoke\/@10.7375301,106.7278561,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175258f624ca7cb:0x6dd2b3512d06f3bc!8m2!3d10.7375301!4d106.7278561!16s%2Fg%2F11sx39c_n9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị âm thanh",
         "category_group":"df_shops"
     },
     {
@@ -7147,6 +7796,7 @@ const data = [
         "address":"19 Hà Huy Tập, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ki%C3%AA%CC%A3t's+Stationery\/@10.7262836,106.7116432,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f925a412053:0xb2f5ac2d157bd9bd!8m2!3d10.7262836!4d106.7116432!16s%2Fg%2F11cm05ch8w?hl=vi&entry=ttu",
+        "categories":"Cửa hàng văn phòng phẩm",
         "category_group":"df_shops"
     },
     {
@@ -7158,6 +7808,7 @@ const data = [
         "address":"502\/52 Huỳnh Tấn Phát, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tattoo+X%E1%BB%8F+Khuy%C3%AAn+Qu%E1%BA%ADn+7+%C3%9At+Tatts\/@10.7410146,106.7270815,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525e5a015eccb:0x9b367148680afced!8m2!3d10.7410146!4d106.7270815!16s%2Fg%2F11sfrnw7jm?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xăm hình",
         "category_group":"df_shops"
     },
     {
@@ -7169,6 +7820,7 @@ const data = [
         "address":"571 Huỳnh Tấn Phát, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CellphoneS\/@10.7422349,106.7298637,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175252c23859a8d:0xd0853e0bc718bd8b!8m2!3d10.7422349!4d106.7298637!16s%2Fg%2F11rmnbw5xs?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính, Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -7180,6 +7832,7 @@ const data = [
         "address":"232 Nguyễn Văn Quỳ, P. Phú Thuận, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Moshi+Moshi\/@10.7422434,106.7395879,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525de0e189be7:0xe3e27a013824c1cf!8m2!3d10.7422434!4d106.7395879!16s%2Fg%2F11ghftg8h9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán thực phẩm sạch, Cửa hàng mỹ phẩm, Nhà bán buôn gạo, Cửa hàng gia vị",
         "category_group":"df_shops"
     },
     {
@@ -7191,6 +7844,7 @@ const data = [
         "address":"Hẻm 77 Đường Chuyên Dùng Chính, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+May+T%C3%BA+H%E1%BB%93ng\/@10.7074056,106.740038,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175254edcb03321:0xc5debd2eb00f9bc9!8m2!3d10.7074056!4d106.740038!16s%2Fg%2F11hm462ggb?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -7202,6 +7856,7 @@ const data = [
         "address":"1741 Đường Huỳnh Tấn Phát, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%E1%BA%ADt+T%C6%B0+%C4%90i%E1%BB%87n+L%E1%BA%A1nh+Ng%E1%BB%8Dc+Hoan\/@10.7042076,106.7380811,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f1346b40e31:0x123e3a3ccc32796d!8m2!3d10.7042076!4d106.7380811!16s%2Fg%2F11gd4j6pst?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -7213,6 +7868,7 @@ const data = [
         "address":"1A Hoàng Trọng Mậu, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Elipsport+Qu%E1%BA%ADn+7+(Gh%E1%BA%BF+Massage+-+M%C3%A1y+Ch%E1%BA%A1y+B%E1%BB%99)+1A+Ho%C3%A0ng+Tr%E1%BB%8Dng+M%E1%BA%ADu,+Lotte+Mart\/@10.744339,106.6959657,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fa0e441f1cf:0x82c2db06c0c3c432!8m2!3d10.744339!4d106.6959657!16s%2Fg%2F11j00t3rfc?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị thể dục, Cửa hàng chăm sóc sức khỏe và làm đẹp, Cửa hàng bán dụng cụ xoa bóp, Cửa hàng bán dụng cụ thể thao ngoài trời",
         "category_group":"df_shops"
     },
     {
@@ -7224,6 +7880,7 @@ const data = [
         "address":"Số 56 Đ. Số 10, Khu dân cư Him Lam, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+B%E1%BA%A3o+H%C3%A0nh+Samsung+(T%C3%A2n+H%C6%B0ng,+Q7,+TP.+HCM)\/@10.7423825,106.6961644,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9b839bea5b:0xa0b3b1b92a1fee25!8m2!3d10.7423825!4d106.6961644!16s%2Fg%2F11c55s3zps?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -7235,6 +7892,7 @@ const data = [
         "address":"46\/20\/33A Lê Văn Lương, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/L%C3%AA+V%C4%83n+L%C6%B0%C6%A1ng+H%E1%BA%BBm+380\/@10.7379593,106.7016867,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f2c9ac66b35:0x689a5c178bf9b7b4!8m2!3d10.7379593!4d106.7016867!16s%2Fg%2F11nn45tq6g?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -7246,6 +7904,7 @@ const data = [
         "address":"441\/2A Lê Văn Lương, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/DZ+Store+-+Ph%E1%BB%A5+ki%E1%BB%87n+cao+c%E1%BA%A5p\/@10.7378049,106.7034738,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f19391fb761:0x200d1f4a886d4d2b!8m2!3d10.7378049!4d106.7034738!16s%2Fg%2F11q2v53vzf?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ kiện thời trang",
         "category_group":"df_shops"
     },
     {
@@ -7257,6 +7916,7 @@ const data = [
         "address":"1719 Huỳnh Tấn Phát, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh 72906, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+H%C3%A0ng+Nh%E1%BA%A1c+C%E1%BB%A5+_+Guitar+Ph%C3%A1t+-+QU%E1%BA%ACN+7,+TPHCM\/@10.7050163,106.7378163,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752591f2734563:0x10629c83dfc72fa6!8m2!3d10.7050163!4d106.7378163!16s%2Fg%2F11fmp4hrtm?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nhạc cụ, Cửa hàng bán trống, Cửa hàng bán đàn ghita, Cửa hàng âm nhạc, Cửa hàng sửa chữa nhạc cụ, Cửa hàng nhạc cụ cũ, Cửa hàng đàn viôlông",
         "category_group":"df_shops"
     },
     {
@@ -7268,6 +7928,7 @@ const data = [
         "address":"16 Đường Chuyên Dùng Chính, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BB%A9c+%C4%83n+m%C3%A8o+Nami+cat+home+2\/@10.705185,106.7382648,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175256544647571:0xd50416373722c18a!8m2!3d10.705185!4d106.7382648!16s%2Fg%2F11kc23jq2x?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật nuôi",
         "category_group":"df_shops"
     },
     {
@@ -7279,6 +7940,7 @@ const data = [
         "address":"155 Đường Chuyên Dùng Chính, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+Guitar+V%C4%A9nh+Kh%C3%A1nh+-+Guitar5Phut\/@10.7056772,106.7443964,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525497749489f:0xba747b627bba900a!8m2!3d10.7056772!4d106.7443964!16s%2Fg%2F11cm3qfppn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nhạc cụ",
         "category_group":"df_shops"
     },
     {
@@ -7290,6 +7952,7 @@ const data = [
         "address":"37 Đường Chuyên Dùng Chính, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/X%C6%B0%E1%BB%9Fng+m%E1%BB%99c+Anh+Thi\/@10.7065093,106.7440452,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752570022debaf:0xe6d724d884c1b92!8m2!3d10.7065093!4d106.7440452!16s%2Fg%2F11h88fpk74?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật tư chế biến gỗ",
         "category_group":"df_shops"
     },
     {
@@ -7301,6 +7964,7 @@ const data = [
         "address":"1627\/86, Huỳnh Tấn Phát, KP3, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kem+BODY+Tr%E1%BA%AFng+Da+T%C3%AD+N%E1%BB%8B\/@10.7093703,106.7398313,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752500de48e927:0x12c13fe8e6a2a4b1!8m2!3d10.7093703!4d106.7398313!16s%2Fg%2F11kj1g5pmr?hl=vi&entry=ttu",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -7312,6 +7976,7 @@ const data = [
         "address":"1541 Huỳnh Tấn Phát, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vape+Pod+Qu%E1%BA%ADn+7+-+Pod+1+l%E1%BA%A7n+qu%E1%BA%ADn+7+-+Red+Vape\/@10.7104794,106.7372731,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752538fc801c61:0x8fb5079dcad571a0!8m2!3d10.7104794!4d106.7372731!16s%2Fg%2F11spsrjc4t?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -7323,6 +7988,7 @@ const data = [
         "address":"713 Đường D6, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BA%BF+Gi%E1%BB%9Bi+T%C3%AD+Hon\/@10.7378119,106.738544,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175254dd19eeaab:0x56745842babcb1c7!8m2!3d10.7378119!4d106.738544!16s%2Fg%2F11btwrzfhm?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ chơi",
         "category_group":"df_shops"
     },
     {
@@ -7334,6 +8000,7 @@ const data = [
         "address":"Số 1 Nguyễn Văn Quỳ, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/cty+ho%C3%A0+b%C3%ACnh+minh.+chi+nh%C3%A1nh+qu%E1%BA%ADn+7\/@10.7428143,106.7412114,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175258c9226ec93:0x2f545f92d75fb8b8!8m2!3d10.7428143!4d106.7412114!16s%2Fg%2F11ght9kpgs?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật liệu xây dựng",
         "category_group":"df_shops"
     },
     {
@@ -7345,6 +8012,7 @@ const data = [
         "address":"Tầng G Block A1 Chung cư The Era Town, Đường 15B, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh 72906, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Foodmart+Era+Town\/@10.6991307,106.732611,17z\/data=!3m1!4b1!4m6!3m5!1s0x31753bfe8f68d369:0x2e676d5a02b21365!8m2!3d10.6991307!4d106.732611!16s%2Fg%2F11tfnpb_6b?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -7356,6 +8024,7 @@ const data = [
         "address":"Era Town, số 15B, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/GS25+Era+Town\/@10.6992233,106.7321861,17z\/data=!3m1!4b1!4m6!3m5!1s0x31753becee98405b:0xaead3e176a24eb68!8m2!3d10.6992233!4d106.7321861!16s%2Fg%2F11j5kcrj3x?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -7367,6 +8036,7 @@ const data = [
         "address":"dự án The Era Town, 15B Nguyễn Lương Bằng, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh 756110, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+Th%E1%BB%8B+Kingfoodmart+B4+EraTown\/@10.6999161,106.7311974,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525bac1437f01:0xad3983a4627e4b36!8m2!3d10.6999161!4d106.7311974!16s%2Fg%2F11tszn6fw5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -7378,6 +8048,7 @@ const data = [
         "address":"Era Town Đức Khải, Phú Mỹ, Quận 7, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CIRCLE+K+ERATOWN\/@10.7003534,106.732042,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752552d5434117:0x39528f91ea719e73!8m2!3d10.7003534!4d106.732042!16s%2Fg%2F11df4rnydh?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -7389,6 +8060,7 @@ const data = [
         "address":"1787 Huỳnh Tấn Phát, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+th%E1%BB%8B+Th%E1%BA%BF+Gi%E1%BB%9Bi+Di+%C4%90%E1%BB%99ng\/@10.7013858,106.7383213,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175254ce0408103:0x2300106c0b06fee1!8m2!3d10.7013858!4d106.7383213!16s%2Fg%2F11bx1qbxx2?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -7400,6 +8072,7 @@ const data = [
         "address":"Đường 16 KCX Tân Thận, Quận 7, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cong+Ty+TNHH+UACJ\/@10.7633723,106.740988,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259367977f33:0xc28cc6ecbe7cb82c!8m2!3d10.7633723!4d106.740988!16s%2Fg%2F11ggbrhbp3?hl=vi&entry=ttu",
+        "categories":"Cửa hàng gia công kim loại, Văn phòng công ty",
         "category_group":"df_shops"
     },
     {
@@ -7411,6 +8084,7 @@ const data = [
         "address":"QP8V+4HM, Đường số 19, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90i%E1%BB%87n+M%C3%A1y+Sanaky\/@10.7653432,106.7439082,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525a10d983a69:0xf33f8e7ee8f9769e!8m2!3d10.7653432!4d106.7439082!16s%2Fg%2F11h0zgy5cc?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -7422,6 +8096,7 @@ const data = [
         "address":"QP4V+85W, Tân Thuận, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Rikvip+Win\/@10.7558521,106.7429653,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525005f737f21:0x9f0f32e33ab9d1d1!8m2!3d10.7558521!4d106.7429653!16s%2Fg%2F11vpz0nmhy?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -7433,6 +8108,7 @@ const data = [
         "address":"Đường 12, KCX, Tân Thuận, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%94NG+TY+TNHH+UNIKA+VIE-PAN+X%C6%AF%E1%BB%9ENG12\/@10.758924,106.7404726,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259145f29531:0xce29f8898d7b804c!8m2!3d10.758924!4d106.7404726!16s%2Fg%2F11csqkp8l4?hl=vi&entry=ttu",
+        "categories":"Đại lý cho thuê văn phòng",
         "category_group":"df_shops"
     },
     {
@@ -7444,6 +8120,7 @@ const data = [
         "address":"đuong 18 kcx tân thuận, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Seiwa+Electric+VN\/@10.7615283,106.7459279,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752595bddc10d9:0xee9fc55efcaaf32!8m2!3d10.7615283!4d106.7459279!16s%2Fg%2F11c3pn24gm?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy móc",
         "category_group":"df_shops"
     },
     {
@@ -7455,6 +8132,7 @@ const data = [
         "address":"800 Đ. Nguyễn Văn Linh, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%A9u+H%E1%BB%99+Xe+M%C3%A1y+-+S%E1%BB%ADa+Xe+L%C6%B0u+%C4%90%E1%BB%99ng+24h+-+Th%C3%A0nh+Li%C3%AAm+Motor\/@10.7318784,106.7191332,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175293470c5c8cb:0x8b36b725e7040e79!8m2!3d10.7318784!4d106.7191332!16s%2Fg%2F11vk4b3hfr?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa xe máy, Xưởng sửa chữa ô tô",
         "category_group":"df_shops"
     },
     {
@@ -7466,6 +8144,7 @@ const data = [
         "address":"21 Đ. Nguyễn Văn Linh, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 756600, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%B4ng+gian+g%E1%BB%91m+b%C3%A1t+tr%C3%A0ng\/@10.728286,106.7134221,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8ddee5f0cb:0xf964012aa9e1943b!8m2!3d10.728286!4d106.7134221!16s%2Fg%2F11f3y6mz1t?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ gốm",
         "category_group":"df_shops"
     },
     {
@@ -7477,6 +8156,7 @@ const data = [
         "address":"1012 Huỳnh Tấn Phát, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kami+Farm\/@10.7242041,106.7347186,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752500096226eb:0x6c6929c01cdc5c2!8m2!3d10.7242041!4d106.7347186!16s%2Fg%2F11vk56xqmp?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -7488,6 +8168,7 @@ const data = [
         "address":"PPV4+H68, Đ. Số 2, Tân Quy, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Halal+meat\/@10.7439093,106.7055727,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9e7529a8b1:0xd72343ea7b7b4f14!8m2!3d10.7439093!4d106.7055727!16s%2Fg%2F11hss8xlcb?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thịt",
         "category_group":"df_shops"
     },
     {
@@ -7499,6 +8180,7 @@ const data = [
         "address":"313 HL34, Tân Quy, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+H%C3%A0ng+%C4%90i%E1%BB%87n+L%E1%BA%A1nh+Tr%E1%BA%A7n+V%C4%A9nh\/@10.7433265,106.7049423,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9ef3f08041:0xaab12670409fa87!8m2!3d10.7433265!4d106.7049423!16s%2Fg%2F1vhkh0pr?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -7510,6 +8192,7 @@ const data = [
         "address":"14 Đ. Số 10, P, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Qu%C3%A1n+Kem+X%C3%B4i+D%E1%BB%ABa+Bubu\/@10.7426336,106.7101883,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f77df8d1579:0xfcc291e29e1ba3df!8m2!3d10.7426336!4d106.7101883!16s%2Fg%2F11b7svgzvp?hl=vi&entry=ttu",
+        "categories":"Cửa hàng kem",
         "category_group":"df_shops"
     },
     {
@@ -7521,6 +8204,7 @@ const data = [
         "address":"39 Đ. Số 65, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VNB+Sports\/@10.737795,106.706721,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0b25223f2f:0x58b32de8d8e248fc!8m2!3d10.737795!4d106.706721!16s%2Fg%2F11ghzs1bpq?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày thể thao, Câu lạc bộ thể thao, Câu lạc bộ cầu lông, Cửa hàng bán dụng cụ thể thao ngoài trời, Cửa hàng quần áo thể thao",
         "category_group":"df_shops"
     },
     {
@@ -7532,6 +8216,7 @@ const data = [
         "address":"20 Đường số 53, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/F.Care+by+FPT+-+Trung+t%C3%A2m+b%E1%BA%A3o+h%C3%A0nh+Apple+(AASP)+H%E1%BB%93+Ch%C3%AD+Minh\/@10.7382568,106.7082328,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f365fb23be1:0x4b0b2f6810020e1b!8m2!3d10.7382568!4d106.7082328!16s%2Fg%2F11sckdp170?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -7543,6 +8228,7 @@ const data = [
         "address":"435 Nguyễn Thị Thập, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CellphoneS\/@10.7385402,106.7117469,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fc74043b68b:0x9c286b903d0f0d9e!8m2!3d10.7385402!4d106.7117469!16s%2Fg%2F11qb9x922z?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -7554,6 +8240,7 @@ const data = [
         "address":"62 Số 21, Tân Quy, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/7+Tha+Thu+-+Studio\/@10.7444347,106.7096934,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f00135d8715:0xfabd7800836661d9!8m2!3d10.7444347!4d106.7096934!16s%2Fg%2F11vrymw3bv?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xăm mình và xỏ lỗ",
         "category_group":"df_shops"
     },
     {
@@ -7565,6 +8252,7 @@ const data = [
         "address":"1135\/75 Huỳnh Tấn Phát P.Phú Thuận Q7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HNT+Store+-+Ph%E1%BB%A5+Ki%E1%BB%87n+Xiaomi+Uy+T%C3%ADn+T%E1%BA%A1i+HCM\/@10.7238788,106.7385942,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752518f6c97c91:0x415ee3e7ef783a29!8m2!3d10.7238788!4d106.7385942!16s%2Fg%2F11h9rbzv0t?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ kiện điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -7576,6 +8264,7 @@ const data = [
         "address":"994c\/57 Huỳnh Tấn Phát, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nguy%E1%BB%85n+Th%C3%A0nh+MS\/@10.724431,106.7322291,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175257bee62e3a9:0xa6d116d29057dc92!8m2!3d10.724431!4d106.7322291!16s%2Fg%2F11vjt2nvjn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ cũ",
         "category_group":"df_shops"
     },
     {
@@ -7587,6 +8276,7 @@ const data = [
         "address":"19 Đ Tôn Dật Tiên, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Lion+Golf+Outlet\/@10.732479,106.7152302,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f82c54fd98d:0x686894f152868d1!8m2!3d10.732479!4d106.7152302!16s%2Fg%2F11qbtv728h?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán dụng cụ chơi gôn",
         "category_group":"df_shops"
     },
     {
@@ -7598,6 +8288,7 @@ const data = [
         "address":"Căn số B0.02 - Tầng trệt Chung cư Green Valley, Đ. Nguyễn Đổng Chi, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Thi%C3%AAn+An+food\/@10.7336846,106.7156345,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8e4a9c6d03:0x8ab15ffca99a08d9!8m2!3d10.7336846!4d106.7156345!16s%2Fg%2F11jyh8s03l?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thực phẩm hữu cơ",
         "category_group":"df_shops"
     },
     {
@@ -7609,6 +8300,7 @@ const data = [
         "address":"Rạch Cát Bến Lức, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+s%E1%BB%ADa+xe+Th%C3%A0nh\/@10.7054133,106.611636,17z\/data=!3m1!4b1!4m6!3m5!1s0x31753390aabe0add:0x1ebb13d19213ee38!8m2!3d10.7054133!4d106.611636!16s%2Fg%2F11lbb1vx2j?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -7620,6 +8312,7 @@ const data = [
         "address":"15 Đường Số 2, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Xe+%C4%90i%E1%BB%87n+Th%E1%BB%9Di+Trang+Kim+Ph%C3%BAc\/@10.7120407,106.6194176,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fc37b333f3d:0x80c69c930037028c!8m2!3d10.7120407!4d106.6194176!16s%2Fg%2F11h5_t95y_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xe đạp điện",
         "category_group":"df_shops"
     },
     {
@@ -7631,6 +8324,7 @@ const data = [
         "address":"51 Phú Định, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%A1i+l%C3%BD+kem+H%C3%A2n+H%C3%A2n\/@10.7111742,106.6211223,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752df9700e5611:0xb05801eb767175fe!8m2!3d10.7111742!4d106.6211223!16s%2Fg%2F11d_wxw7yr?hl=vi&entry=ttu",
+        "categories":"Cửa hàng kem",
         "category_group":"df_shops"
     },
     {
@@ -7642,6 +8336,7 @@ const data = [
         "address":"3403 Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+hoa+g%E1%BA%A7n+%C4%91%C3%A2y+-+Ti%E1%BB%87m+hoa+Mei+Garden\/@10.7095949,106.6242375,17z\/data=!3m1!4b1!4m6!3m5!1s0x29cca63d776a810f:0x9cf3c39e9f585762!8m2!3d10.7095949!4d106.6242375!16s%2Fg%2F11tfkg_9qh?hl=vi&entry=ttu",
+        "categories":"Cửa hàng hoa, Chợ hoa",
         "category_group":"df_shops"
     },
     {
@@ -7653,6 +8348,7 @@ const data = [
         "address":"3419 Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Co.op+Food+Ph%C3%BA+L%E1%BB%A3i\/@10.708817,106.6238724,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dff2ec472c9:0xa16691d540b8232c!8m2!3d10.708817!4d106.6238724!16s%2Fg%2F11btrs05rt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -7664,6 +8360,7 @@ const data = [
         "address":"532K Đ. Nguyễn Văn Linh, Khu phố 1, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+%C4%90%E1%BB%93+G%E1%BB%97+Ph%C3%BAc+Th%C3%A0nh\/@10.6977142,106.6240408,17z\/data=!3m1!4b1!4m6!3m5!1s0x31753203774ca659:0x90c44272bc4251cd!8m2!3d10.6977142!4d106.6240408!16s%2Fg%2F11j00sd0b6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -7675,6 +8372,7 @@ const data = [
         "address":"2 Đ. Bình Đông, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B's+mart+-+C%E1%BB%ADa+h%C3%A0ng+125\/@10.7366764,106.6403327,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e7019e83427:0xb244f20a5b0cb87a!8m2!3d10.7366764!4d106.6403327!16s%2Fg%2F11d_2fvwfq?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -7686,6 +8384,7 @@ const data = [
         "address":"1498A Đ. Nguyễn Văn Linh, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cty+CP+B%C3%AA+t%C3%B4ng+H%E1%BB%93ng+H%C3%A0-+X%C3%AD+Nghi%E1%BB%87p+6\/@10.6964105,106.6235332,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e19c20a54e9:0x7584a7fcb55dd68b!8m2!3d10.6964105!4d106.6235332!16s%2Fg%2F11csrpmy9w?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật liệu xây dựng",
         "category_group":"df_shops"
     },
     {
@@ -7697,6 +8396,7 @@ const data = [
         "address":"892 Đ. Tạ Quang Bửu, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/b52coach\/@10.7349612,106.6615875,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f007e8ab167:0x7dba943cef783d59!8m2!3d10.7349612!4d106.6615875!16s%2Fg%2F11ld1fj8y9?hl=vi&entry=ttu",
+        "categories":"Đại lý giải trí",
         "category_group":"df_shops"
     },
     {
@@ -7708,6 +8408,7 @@ const data = [
         "address":"888 Đ. Tạ Quang Bửu, Phường 5, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VNB+Qu%E1%BA%ADn+8\/@10.7345075,106.6621037,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297e768a85fb:0x31f402422aab9f3a!8m2!3d10.7345075!4d106.6621037!16s%2Fg%2F11k11ny1fk?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày thể thao, Câu lạc bộ thể thao, Câu lạc bộ cầu lông, Cửa hàng bán dụng cụ thể thao ngoài trời, Cửa hàng quần áo thể thao",
         "category_group":"df_shops"
     },
     {
@@ -7719,6 +8420,7 @@ const data = [
         "address":"2486 Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+Th%C6%B0%C6%A1ng+M%E1%BA%A1i+D%E1%BB%8Bch+V%E1%BB%A5+V%C4%83n+Ph%C3%B2ng+Ph%E1%BA%A9m+Tl\/@10.7300005,106.6390409,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e7258ac0b5b:0x9fdb891e3ca6d8ce!8m2!3d10.7300005!4d106.6390409!16s%2Fg%2F11h6g4tnpr?hl=vi&entry=ttu",
+        "categories":"Cửa hàng văn phòng phẩm",
         "category_group":"df_shops"
     },
     {
@@ -7730,6 +8432,7 @@ const data = [
         "address":"2397 Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KH%E1%BA%AEC+D%E1%BA%A4U+PH%C3%9AC+V%C3%82N\/@10.7301126,106.6398614,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f000426a8cf:0xdff547b0ace506c6!8m2!3d10.7301126!4d106.6398614!16s%2Fg%2F11ty86dgyc?hl=vi&entry=ttu",
+        "categories":"Cửa hàng văn phòng phẩm",
         "category_group":"df_shops"
     },
     {
@@ -7741,6 +8444,7 @@ const data = [
         "address":"Ô H1-067, Chợ Đầu Mối Bình Điền, Nguyễn Văn Linh, Khu P, Phường 7, Quận 8, Thành Phố Hồ Chí Minh, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+S%E1%BA%A3n+Xu%E1%BA%A5t+Th%C6%B0%C6%A1ng+M%E1%BA%A1i+Th%E1%BB%B1c+Ph%E1%BA%A9m+Th%E1%BA%A1nh+V%C3%A2n+-+C%E1%BB%ADa+H%C3%A0ng+Th%E1%BB%B1c+Ph%E1%BA%A9m+Th%E1%BA%A1nh+V%C3%A2n\/@10.7033674,106.6127805,17z\/data=!3m1!4b1!4m6!3m5!1s0x31753209729b3c7b:0x29058ad687e10a1b!8m2!3d10.7033674!4d106.6127805!16s%2Fg%2F11c6w0sv7n?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán thực phẩm sạch",
         "category_group":"df_shops"
     },
     {
@@ -7752,6 +8456,7 @@ const data = [
         "address":"Đường số 1, khu dân cư bến lức, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Trung+t%C3%A2m+ph%C3%A2n+ph%E1%BB%91i+s%C6%A1n+n%C6%B0%E1%BB%9Bc+nh%C3%A0+ph%E1%BB%91+Gia+Ph%C3%A1t\/@10.6986963,106.6072751,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175339342ec2dc7:0x1e074039ae6fdec5!8m2!3d10.6986963!4d106.6072751!16s%2Fg%2F11tjlsqypg?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất phòng ngủ",
         "category_group":"df_shops"
     },
     {
@@ -7763,6 +8468,7 @@ const data = [
         "address":"42 Đường H, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%B7c+s%E1%BA%A3n+kh%C3%B4+nh%C3%A0+l%C3%A0m+s%C3%A1u+t%C3%A0i\/@10.6984825,106.6134631,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175334308821a8b:0xbfa6d5700a4dc334!8m2!3d10.6984825!4d106.6134631!16s%2Fg%2F11hfg46ds9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán thực phẩm sạch",
         "category_group":"df_shops"
     },
     {
@@ -7774,6 +8480,7 @@ const data = [
         "address":"16 Đ. Số 5, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BB%B1c+ph%E1%BA%A9m+chay+Di+L%E1%BA%A1c\/@10.6981386,106.6075479,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d6d58e8df11:0xe426cf1c03495661!8m2!3d10.6981386!4d106.6075479!16s%2Fg%2F11h1ywt7pw?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán thực phẩm sạch",
         "category_group":"df_shops"
     },
     {
@@ -7785,6 +8492,7 @@ const data = [
         "address":"43 Đ.Hồ Thành Biên, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gia+Huy+Store\/@10.7406401,106.6695118,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e51302a3627:0xdc7bb98a8b66406b!8m2!3d10.7406401!4d106.6695118!16s%2Fg%2F11lky56ygx?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -7796,6 +8504,7 @@ const data = [
         "address":"129a Đ. Phạm Hùng, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Thu%E1%BA%ADn+phu%E1%BB%99c+nh%C3%BAn\/@10.7430501,106.6689259,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0067d6674b:0x567e0d0ae8c54e12!8m2!3d10.7430501!4d106.6689259!16s%2Fg%2F11vs4lzhkr?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -7807,6 +8516,7 @@ const data = [
         "address":"2 Lô 37 Phạm Thế Hiển, Phường 4, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BA%A3i+s%E1%BA%A3n+24h\/@10.743015,106.670668,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9ec0c03901:0xcbe42bc026d4c287!8m2!3d10.743015!4d106.670668!16s%2Fg%2F11ld2rj3s6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng hải sản khô",
         "category_group":"df_shops"
     },
     {
@@ -7818,6 +8528,7 @@ const data = [
         "address":"27 Phạm Thế Hiển, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/oxbet\/@10.743552,106.669445,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f3fefb8c94b:0x388c9b9f541af498!8m2!3d10.743552!4d106.669445!16s%2Fg%2F11vq02h2_l?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -7829,6 +8540,7 @@ const data = [
         "address":"32-34 Đ. Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/N%E1%BB%87m+Topper+Xu%E1%BA%A5t+Nh%E1%BA%ADt+-+PHUONGTOPPER.COM\/@10.7436037,106.6759891,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f2abed95667:0xf7983fb9f355a84c!8m2!3d10.7436037!4d106.6759891!16s%2Fg%2F11tn0mlxby?hl=vi&entry=ttu",
+        "categories":"Cửa hàng chăn đệm, Cửa hàng bán đệm",
         "category_group":"df_shops"
     },
     {
@@ -7840,6 +8552,7 @@ const data = [
         "address":"723 Đ. Hưng Phú, Phường 9, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+Ph%C6%B0%E1%BB%A3t+Bikersaigon.net+N%C3%B3n+B%E1%BA%A3o+Hi%E1%BB%83m+3%2F4+Fullface+Ls2+Yohe+Bulldog+Ego+Royal+Roc\/@10.7458348,106.6675248,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fa8080d92dd:0x10c033495f72b684!8m2!3d10.7458348!4d106.6675248!16s%2Fg%2F11c5636_dh?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -7851,6 +8564,7 @@ const data = [
         "address":"715 Phạm Thế Hiển, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/L%C3%AA+L%C3%A2m+%C4%90%E1%BA%A1i+l%C3%BD+th%E1%BA%A1ch+cao\/@10.7447109,106.6755271,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5525436fb7:0x699d3099cf2abdfd!8m2!3d10.7447109!4d106.6755271!16s%2Fg%2F11gk6nzqt8?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật liệu xây dựng",
         "category_group":"df_shops"
     },
     {
@@ -7862,6 +8576,7 @@ const data = [
         "address":"Chợ Bình Điền, Phường 7, Quận 8, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+H%C3%A0ng+Tr%C3%A1i+C%C3%A2y+Nguy%E1%BB%85n+Th%E1%BB%8B+Ph%C3%A1t\/@10.7035392,106.6068585,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175320b3dad9227:0x162032ea4d8bc186!8m2!3d10.7035392!4d106.6068585!16s%2Fg%2F1pztdvc93?hl=vi&entry=ttu",
+        "categories":"Cửa hàng hoa",
         "category_group":"df_shops"
     },
     {
@@ -7873,6 +8588,7 @@ const data = [
         "address":"2393 Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+Th%E1%BB%9Di+Trang+Ho%C3%A0ng+V%C5%A9\/@10.730596,106.6399542,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e726f09860f:0x8fc00b4f629dbebb!8m2!3d10.730596!4d106.6399542!16s%2Fg%2F11dxf0wgmm?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -7884,6 +8600,7 @@ const data = [
         "address":"2385\/5 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%C3%B2+Ch%E1%BA%A3+Xu%C3%A2n+H%C6%B0%C6%A1ng\/@10.7311928,106.6410681,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f7bb7bf97cf:0xd7e1f517e2532c5!8m2!3d10.7311928!4d106.6410681!16s%2Fg%2F11tp90390k?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -7895,6 +8612,7 @@ const data = [
         "address":"PJMR+J3V, 40a Lương Văn Can, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+T%E1%BA%A1p+H%C3%B3a+L%C6%B0u+Th%E1%BB%8B+Ng%E1%BB%8Dc+Mai\/@10.7341761,106.6401253,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fcbde6c1ea1:0x46ed6ca34dfdf5fd!8m2!3d10.7341761!4d106.6401253!16s%2Fg%2F11rptm62tg?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm, Cửa hàng đồ gia dụng, Cửa hàng mỹ phẩm, Tiệm bánh kẹo",
         "category_group":"df_shops"
     },
     {
@@ -7906,6 +8624,7 @@ const data = [
         "address":"A34\/ 24D3 ấp 1, Bình Hưng, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BA%A1p+h%C3%B3a+Trang\/@10.7324445,106.6614292,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fb751233b8f:0x64df6e49d9f53b3!8m2!3d10.7324445!4d106.6614292!16s%2Fg%2F11kjm167bh?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán buôn hàng tạp hóa",
         "category_group":"df_shops"
     },
     {
@@ -7917,6 +8636,7 @@ const data = [
         "address":"13 Đ. Bình Đông, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+thu%E1%BB%91c+t%C3%A2y+XU%C3%82N+TR%C3%9AC\/@10.7342739,106.636094,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0033a00139:0x7656c2c03ed0f559!8m2!3d10.7342739!4d106.636094!16s%2Fg%2F11vs4q94vq?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán thuốc",
         "category_group":"df_shops"
     },
     {
@@ -7928,6 +8648,7 @@ const data = [
         "address":"355 Bông Sao, Phường 5, Quận 8, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Du+L%E1%BB%8Bch+H%E1%BB%93ng+%C3%81nh\/@10.7349214,106.6651178,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f322bee104b:0xc4e1224b88c0ff72!8m2!3d10.7349214!4d106.6651178!16s%2Fg%2F11sqcsm_bj?hl=vi&entry=ttu",
+        "categories":"Đại lý cho thuê xe ô tô",
         "category_group":"df_shops"
     },
     {
@@ -7939,6 +8660,7 @@ const data = [
         "address":"1387 Đ. Bình Đông, Phường 15, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%C6%A0N+%C3%81+%C4%90%C3%94NG\/@10.7358077,106.638521,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e7040c54c69:0xd136256668a6aaae!8m2!3d10.7358077!4d106.638521!16s%2Fg%2F1tfv2mff?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sơn",
         "category_group":"df_shops"
     },
     {
@@ -7950,6 +8672,7 @@ const data = [
         "address":"35B Rạch Cát Bến Lức, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BA%A1p+h%C3%B3a+L%C3%A2m+Tuy%E1%BB%81n\/@10.707917,106.6159026,17z\/data=!3m1!4b1!4m6!3m5!1s0x317533fdd9e948e9:0x22abb8db985fb5d5!8m2!3d10.707917!4d106.6159026!16s%2Fg%2F11rnk0b0k_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -7961,6 +8684,7 @@ const data = [
         "address":"227 Đường Trịnh Quang Nghị, Phường 7, Quận 8, Thành phố Hồ Chí Minh 70288, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sky88\/@10.7074367,106.6224875,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175399d1726cd53:0xa133ded476573c19!8m2!3d10.7074367!4d106.6224875!16s%2Fg%2F11vpz89jtk?hl=vi&entry=ttu",
+        "categories":"Đại lý giải trí",
         "category_group":"df_shops"
     },
     {
@@ -7972,6 +8696,7 @@ const data = [
         "address":"PJ69+9CG, Đ. An Dương Vương, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%C3%A0nh+Hu%E1%BB%B3nh+Fi+(+Ph%E1%BB%A5+t%C3%B9ng+xe+m%C3%A1y+)\/@10.7109372,106.6185691,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d536d5b0ba5:0x3bbe1cb8e391b7b!8m2!3d10.7109372!4d106.6185691!16s%2Fg%2F11v0hpvvbf?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -7983,6 +8708,7 @@ const data = [
         "address":"66 Đường 12 An Dương Vương, Phường 16, quận 08, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/GouMao+Pet\/@10.7122448,106.6205761,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dd13fec4d29:0x5af86dcdf0cef1f0!8m2!3d10.7122448!4d106.6205761!16s%2Fg%2F11sh70kw71?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật nuôi",
         "category_group":"df_shops"
     },
     {
@@ -7994,6 +8720,7 @@ const data = [
         "address":"PMQM+CMR, ẤP 4B, Bình Hưng, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BA%A1p+ho%C3%A1+B%C3%A0+T%C6%B0\/@10.7386044,106.6841326,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f003a044ed1:0xbdd42f5c93dd78cb!8m2!3d10.7386044!4d106.6841326!16s%2Fg%2F11lcj8l9wl?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -8005,6 +8732,7 @@ const data = [
         "address":"102 Đ. Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C4%83n+H%E1%BB%99+Chung+C%C6%B0+Topaz+Elite\/@10.7392189,106.6797322,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e52d6407a6b:0xd728b4f3bcf4ceaa!8m2!3d10.7392189!4d106.6797322!16s%2Fg%2F11j00ssdd5?hl=vi&entry=ttu",
+        "categories":"Đại lý bất động sản",
         "category_group":"df_shops"
     },
     {
@@ -8016,6 +8744,7 @@ const data = [
         "address":"2117\/A18 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HTC\/@10.7326765,106.6464723,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f80f209bebd:0x46e1dc84d173c65!8m2!3d10.7326765!4d106.6464723!16s%2Fg%2F11rsb3qpsx?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -8027,6 +8756,7 @@ const data = [
         "address":"2117\/69\/5 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/AloraShop21\/@10.732453,106.646913,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e695495c039:0x1aaae4a5035c185!8m2!3d10.732453!4d106.646913!16s%2Fg%2F11h414kwpv?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -8038,6 +8768,7 @@ const data = [
         "address":"3019 Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%C3%A0n+R%C3%A8m+Vi%E1%BB%87t+%C4%90%E1%BB%A9c\/@10.7163244,106.632283,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f883b22fb67:0x4feb2705df63bf3b!8m2!3d10.7163244!4d106.632283!16s%2Fg%2F11gj74m_wy?hl=vi&entry=ttu",
+        "categories":"Cửa hàng màn cửa",
         "category_group":"df_shops"
     },
     {
@@ -8049,6 +8780,7 @@ const data = [
         "address":"66 Đ. Phạm Nhữ Tăng, Phường 4, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Circle+K+Cao+L%E1%BB%97\/@10.7364456,106.6773745,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0043e7d35b:0x8257e67bad382427!8m2!3d10.7364456!4d106.6773745!16s%2Fg%2F11vptb9063?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -8060,6 +8792,7 @@ const data = [
         "address":"2826 Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+H%C3%A0ng+C%C3%A1+C%E1%BA%A3nh+Minh+H%C6%B0ng\/@10.7171623,106.6324647,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e07d3595eeb:0x98ef665131cc8382!8m2!3d10.7171623!4d106.6324647!16s%2Fg%2F1hc4nj1yl?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -8071,6 +8804,7 @@ const data = [
         "address":"1072 Đ. Tạ Quang Bửu, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%C3%A8n+Trang+Tr%C3%AD+Qu%E1%BB%91c+Ng%E1%BB%8Dc\/@10.7310059,106.6470851,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e6b8acc294f:0x3c0f24c5116b515a!8m2!3d10.7310059!4d106.6470851!16s%2Fg%2F11h4146s5r?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán dụng cụ sửa nhà",
         "category_group":"df_shops"
     },
     {
@@ -8082,6 +8816,7 @@ const data = [
         "address":"1065 Đ. Tạ Quang Bửu, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nha+Cai+Bet365Web\/@10.7310482,106.647805,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f81b89ca19f:0x358ee0f0cc20ebbd!8m2!3d10.7310482!4d106.647805!16s%2Fg%2F11vp_f3vlt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -8093,6 +8828,7 @@ const data = [
         "address":"2225 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh 100000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+Hoa+HT+Flowers\/@10.7323629,106.6433493,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299f11977a6b:0xf380ef246df5d741!8m2!3d10.7323629!4d106.6433493!16s%2Fg%2F11str980lt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng hoa",
         "category_group":"df_shops"
     },
     {
@@ -8104,6 +8840,7 @@ const data = [
         "address":"1828 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CHANGE+SHOP+(gi%C3%A0y+d%C3%A9p+nam+n%E1%BB%AF)\/@10.737264,106.649633,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fabb0acdaa1:0xffcb48fec23aaf9d!8m2!3d10.737264!4d106.649633!16s%2Fg%2F11h5kml3nl?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -8115,6 +8852,7 @@ const data = [
         "address":"1802 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Co.op+Food+Ph%E1%BA%A1m+Th%E1%BA%BF+Hi%E1%BB%83n+1802\/@10.7375168,106.6501917,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e6878e97a35:0xa60ec8e1dad19f1a!8m2!3d10.7375168!4d106.6501917!16s%2Fg%2F11btrqxkh5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -8126,6 +8864,7 @@ const data = [
         "address":"19A Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/D%E1%BA%A1y+H%E1%BB%8Dc+Piano-+D%E1%BA%A1y+H%E1%BB%8Dc+Organ-+D%E1%BA%A1y+H%E1%BB%8Dc+Guitar-+L%E1%BB%9Bp+Nh%E1%BA%A1c+Ph%C6%B0%C6%A1ng+%C3%82n\/@10.7193225,106.63467,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b4f5ecac35:0xf0d20204abbee16c!8m2!3d10.7193225!4d106.63467!16s%2Fg%2F11j99vb1fy?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -8137,6 +8876,7 @@ const data = [
         "address":"2889 Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+h%C3%A0ng+ph%C3%A1o+hoa+s%E1%BB%91+32\/@10.7194656,106.6338852,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f003ce3a4c5:0x407aa2d6ffb5cb8c!8m2!3d10.7194656!4d106.6338852!16s%2Fg%2F11ld5b8zmm?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán pháo hoa",
         "category_group":"df_shops"
     },
     {
@@ -8148,6 +8888,7 @@ const data = [
         "address":"99D\/9A Hoài Thanh, Phường 14, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90i%E1%BB%87n+t%E1%BB%AD+Gia+Ph%C3%BAc\/@10.738209,106.647817,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f722d2e42b9:0x69c44ef7a76a6046!8m2!3d10.738209!4d106.647817!16s%2Fg%2F11f8c00h43?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ gia dụng, Cửa hàng sửa chữa đồ điện tử, Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -8159,6 +8900,7 @@ const data = [
         "address":"85 Hoài Thanh, Phường 14, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B-Tech+Motor\/@10.7392444,106.6482067,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f5317707b5f:0x3444d03c35a1000!8m2!3d10.7392444!4d106.6482067!16s%2Fg%2F11tx_rt3dn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -8170,6 +8912,7 @@ const data = [
         "address":"65 Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C3%B5ng+x%E1%BA%BFp+S%C4%A9+Anh\/@10.7208584,106.6365184,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e0952165d6f:0x7cc644b3540389c4!8m2!3d10.7208584!4d106.6365184!16s%2Fg%2F11bxd6w0ln?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ gia dụng",
         "category_group":"df_shops"
     },
     {
@@ -8181,6 +8924,7 @@ const data = [
         "address":"103k3\/21A Đ. Bình Đông, Phường 14, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CH+VLNK+AN+PH%C3%9A\/@10.739264,106.648807,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f85480e5893:0x17f4a49653a278fe!8m2!3d10.739264!4d106.648807!16s%2Fg%2F11t2_773c6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ nha khoa",
         "category_group":"df_shops"
     },
     {
@@ -8192,6 +8936,7 @@ const data = [
         "address":"103K2\/6 Đ. Bình Đông, Phường 14, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BB%ADa+xe+T%C3%A2m\/@10.7398615,106.6482007,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f14077fc7f7:0x67723b541589dbc3!8m2!3d10.7398615!4d106.6482007!16s%2Fg%2F11sskyzq9_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -8203,6 +8948,7 @@ const data = [
         "address":"1B Trương Đình Hội, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+Photocopy\/@10.716845,106.6255192,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dfcd3ed4027:0x6c266d0107af7e48!8m2!3d10.716845!4d106.6255192!16s%2Fg%2F11dxdz639x?hl=vi&entry=ttu",
+        "categories":"Cửa hàng in ấn",
         "category_group":"df_shops"
     },
     {
@@ -8214,6 +8960,7 @@ const data = [
         "address":"15 Mễ Cốc, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/c%E1%BA%A7u+nh%C3%A0+th%C6%B0%C6%A1ng\/@10.7154225,106.6267293,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d7667afed21:0x10782d880ead1aa7!8m2!3d10.7154225!4d106.6267293!16s%2Fg%2F11jlx_h9h6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -8225,6 +8972,7 @@ const data = [
         "address":"15 Nguyễn Thị Tần, Phường 2, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/MIXUE+Nguy%E1%BB%85n+Th%E1%BB%8B+T%E1%BA%A7n+-+Qu%E1%BA%ADn+8\/@10.748396,106.685193,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fdd7ba0ed39:0x33a2fd9e90953145!8m2!3d10.748396!4d106.685193!16s%2Fg%2F11ssbkxsqd?hl=vi&entry=ttu",
+        "categories":"Cửa hàng kem",
         "category_group":"df_shops"
     },
     {
@@ -8236,6 +8984,7 @@ const data = [
         "address":"81 D. Bá Trạc, Phường 1, Quận 8, Thành phố Hồ Chí Minh 751717, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BB%93ng+H%E1%BB%93+H%E1%BA%A3i+Tri%E1%BB%81u\/@10.7484443,106.6887524,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fec6f5a6635:0x42626220938ef76a!8m2!3d10.7484443!4d106.6887524!16s%2Fg%2F11qn9rx8kn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồng hồ",
         "category_group":"df_shops"
     },
     {
@@ -8247,6 +8996,7 @@ const data = [
         "address":"80b Đ. Dạ Nam, Phường 2, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/G%C3%A0+R%C3%A1n+FKT+D%E1%BA%A1+Nam\/@10.7489335,106.6849202,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ffbf510a8f1:0x225eb49996a18183!8m2!3d10.7489335!4d106.6849202!16s%2Fg%2F11s2s62_s5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thịt gà",
         "category_group":"df_shops"
     },
     {
@@ -8258,6 +9008,7 @@ const data = [
         "address":"51b\/32 Phạm Thế Hiển, Phường 1, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/G%C3%80+H%E1%BA%A4P+MU%E1%BB%90I+L%C3%81+CHANH+AN+S%C6%A0N\/@10.7502222,106.688942,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0030e26fe7:0xa4348685f958a33b!8m2!3d10.7502222!4d106.688942!16s%2Fg%2F11vpvsyw4_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thịt gà",
         "category_group":"df_shops"
     },
     {
@@ -8269,6 +9020,7 @@ const data = [
         "address":"125 Đ. Dạ Nam, Phường 3, Quận 8, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Junie+House+Pet+Shop\/@10.750026,106.6840373,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f1e1d633c7b:0xded5efdca9f459c4!8m2!3d10.750026!4d106.6840373!16s%2Fg%2F11bccm3970?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật nuôi",
         "category_group":"df_shops"
     },
     {
@@ -8280,6 +9032,7 @@ const data = [
         "address":"16 Phạm Thế Hiển, Phường 1, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KIKIWAKA+SHOP\/@10.750311,106.688646,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f08a28030fb:0x3ce78ff5fce4430d!8m2!3d10.750311!4d106.688646!16s%2Fg%2F11gdsgqyh9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ chơi",
         "category_group":"df_shops"
     },
     {
@@ -8291,6 +9044,7 @@ const data = [
         "address":"406-408 Tùng Thiện Vương, Phường 13, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+H%C3%A0ng+Trang+S%E1%BB%A9c+PNJ+T%C3%B9ng+Thi%E1%BB%87n+V%C6%B0%C6%A1ng\/@10.7447962,106.6566106,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5ee5bcb8b5:0x1bf7110853db54f1!8m2!3d10.7447962!4d106.6566106!16s%2Fg%2F11d_bc02gq?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trang sức",
         "category_group":"df_shops"
     },
     {
@@ -8302,6 +9056,7 @@ const data = [
         "address":"752 Đ. Nguyễn Duy, Phường 12, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/X%C6%B0%E1%BB%9Fng+%C3%81o+Ki%E1%BB%83u+N%E1%BB%AF+%C4%90%E1%BB%A9c+M%E1%BA%A1nh\/@10.742934,106.658353,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6bb71907a5:0x5bd414a883d6d33b!8m2!3d10.742934!4d106.658353!16s%2Fg%2F11vhtfgl_g?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -8313,6 +9068,7 @@ const data = [
         "address":"27L\/3 Đ. Ngô Sĩ Liên, Phường 14, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/AZGameShop\/@10.7410879,106.651608,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f049fddb3c1:0xf2abf8d1b466b346!8m2!3d10.7410879!4d106.651608!16s%2Fg%2F11sszn_100?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -8324,6 +9080,7 @@ const data = [
         "address":"1283 Phạm Thế Hiển, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Rain+Bu+Shop\/@10.7411007,106.6582022,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5c73111bd9:0xa4d81664901519b8!8m2!3d10.7411007!4d106.6582022!16s%2Fg%2F11fkn11jmg?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -8335,6 +9092,7 @@ const data = [
         "address":"322A Đ. Phạm Hùng, Phường 5, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Givral+Bakery+322A+Ph%E1%BA%A1m+H%C3%B9ng,+TP.HCM\/@10.7387521,106.6696764,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5182b74023:0x89e1599533997211!8m2!3d10.7387521!4d106.6696764!16s%2Fg%2F11g9gtb7jj?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bánh Pháp, Tiệm bánh",
         "category_group":"df_shops"
     },
     {
@@ -8346,6 +9104,7 @@ const data = [
         "address":"157 Liên Tỉnh 5, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/FPT+Shop\/@10.737497,106.6564719,17z\/data=!3m1!4b1!4m6!3m5!1s0x317113cb29815555:0x45f2559d10c4ec78!8m2!3d10.737497!4d106.6564719!16s%2Fg%2F11bxjmj_bv?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -8357,6 +9116,7 @@ const data = [
         "address":"1619\/59 Đ. Bùi Minh Trực, Phường 6, Quận 8, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%E1%BA%AEc+QUY+B%E1%BB%ACU+PH%C3%81T+-+NH%C3%80+PH%C3%82N+PH%E1%BB%90I+%E1%BA%AEC+QUY+HCM\/@10.7364346,106.6535066,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fc7c9003179:0x6c1579d861166f7!8m2!3d10.7364346!4d106.6535066!16s%2Fg%2F11pcrl1fhw?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán pin ô tô, Chợ phụ tùng xe ô tô, Cửa hàng phụ tùng xe ô tô, Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -8368,6 +9128,7 @@ const data = [
         "address":"477 Đ. Bùi Minh Trực, Phường 6, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Bigsize+Thanh+Tr%C3%BAc\/@10.7354958,106.6514265,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fa0ef0cf073:0xf3ea4f3ee05ca1de!8m2!3d10.7354958!4d106.6514265!16s%2Fg%2F11tngyqjqj?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo cỡ lớn",
         "category_group":"df_shops"
     },
     {
@@ -8379,6 +9140,7 @@ const data = [
         "address":"238\/21D liên tỉnh 5, Phường 6, Quận 8, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+%C3%94+T%C3%B4+Vi%E1%BB%87t+Nh%E1%BA%ADt\/@10.7356653,106.6510255,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e6846d2c561:0x20d5d5785ed27521!8m2!3d10.7356653!4d106.6510255!16s%2Fg%2F1pzrhm3k3?hl=vi&entry=ttu",
+        "categories":"Đại lý ô tô, Cho thuê ô tô, Đại lý cho thuê xe máy",
         "category_group":"df_shops"
     },
     {
@@ -8390,6 +9152,7 @@ const data = [
         "address":"49 Đ. Số 2, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gia+Ph%C3%A1t+-+%C4%90i%E1%BB%87n+Tho%E1%BA%A1i+Gi%C3%A1+T%E1%BB%91t\/@10.7338339,106.6534829,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f00794a04ab:0xb7c654b87daf7edb!8m2!3d10.7338339!4d106.6534829!16s%2Fg%2F11vpw7jdx8?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -8401,6 +9164,7 @@ const data = [
         "address":"995 Đ. Tạ Quang Bửu, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Xe+H%C3%A0+My\/@10.7337741,106.6544517,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e4252cb4cf3:0xa85dbf92b20c8765!8m2!3d10.7337741!4d106.6544517!16s%2Fg%2F11h414gdp0?hl=vi&entry=ttu",
+        "categories":"Đại lý du lịch bằng xe buýt",
         "category_group":"df_shops"
     },
     {
@@ -8412,6 +9176,7 @@ const data = [
         "address":"366\/13 Đ. Bùi Minh Trực, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Y%E1%BA%BEN+S%C3%80O+2+HUY\/@10.736257,106.6517891,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0057bf8d1f:0x1888b610c04f80b2!8m2!3d10.736257!4d106.6517891!16s%2Fg%2F11ld2g7hmw?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -8423,6 +9188,7 @@ const data = [
         "address":"1680 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+th%E1%BB%8B+Th%E1%BA%BF+Gi%E1%BB%9Bi+Di+%C4%90%E1%BB%99ng\/@10.7393451,106.6532638,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5d70f60779:0x5d45d480fc79baf5!8m2!3d10.7393451!4d106.6532638!16s%2Fg%2F11c5sgtfxb?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -8434,6 +9200,7 @@ const data = [
         "address":"141\/66B Đ. Tám Danh, Phường 4, Quận 8, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BB%93ng+H%E1%BB%93+2hand+Nh%E1%BA%ADt\/@10.7390953,106.6729264,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fd29527d14d:0x68a947921842f3d6!8m2!3d10.7390953!4d106.6729264!16s%2Fg%2F11gfjcpfqc?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồng hồ",
         "category_group":"df_shops"
     },
     {
@@ -8445,6 +9212,7 @@ const data = [
         "address":"49\/6 Hoài Thanh, Phường 14, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A1+c%E1%BA%A3nh+T%C3%A1m+Ti%E1%BB%81n\/@10.739713,106.64975,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6a838d7a69:0x3974605f877917f9!8m2!3d10.739713!4d106.64975!16s%2Fg%2F11rdv0bqry?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -8456,6 +9224,7 @@ const data = [
         "address":"2988B Phạm Thế Hiển, Khu phố 1, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+h%C3%A0ng+Xe+%C4%91%E1%BA%A1p+3K+Bike\/@10.7116053,106.6267602,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d006e99f293:0x83878e0717191813!8m2!3d10.7116053!4d106.6267602!16s%2Fg%2F11vpszw4xq?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -8467,6 +9236,7 @@ const data = [
         "address":"550 Phạm Thế Hiển, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+h%C3%A0ng+Mobifone+Qu%E1%BA%ADn+8\/@10.7463455,106.6777315,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f074d27587d:0x3429352c671429be!8m2!3d10.7463455!4d106.6777315!16s%2Fg%2F11rn3v1by4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng, Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -8478,6 +9248,7 @@ const data = [
         "address":"225 20\/20, Phường 3, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Tu%E1%BA%A5n+Ph%C6%B0%C6%A1ng\/@10.7465377,106.6824556,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0063c7aac9:0x8d413c84ed5eb10a!8m2!3d10.7465377!4d106.6824556!16s%2Fg%2F11lcyssjpw?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -8489,6 +9260,7 @@ const data = [
         "address":"182\/39 Đ. Âu Dương Lân, Phường 3, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90i%E1%BB%83m+B%C3%A1n+C%E1%BB%B1a+G%C3%A0\/@10.7454628,106.6813784,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752faa901f9a61:0x24a70d4fda8a6813!8m2!3d10.7454628!4d106.6813784!16s%2Fg%2F11g8ww8yjb?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -8500,6 +9272,7 @@ const data = [
         "address":"184, Đ. Âu Dương Lân, Phường 3, Quận 8, Thành phố Hồ Chí Minh 73019, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nomad+Garden+(+Nomad-g.com+)\/@10.743851,106.6823074,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fe6563f1077:0x82103abac8ab16bb!8m2!3d10.743851!4d106.6823074!16s%2Fg%2F11rkp3gx20?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ thủ công",
         "category_group":"df_shops"
     },
     {
@@ -8511,6 +9284,7 @@ const data = [
         "address":"160b Đ. Tạ Quang Bửu, Phường 3, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BB%ADa+m%C3%A1y+n%C6%B0%E1%BB%9Bc+n%C3%B3ng+n%C4%83ng+l%C6%B0%E1%BB%A3ng+m%E1%BA%B7t+tr%E1%BB%9Di+qu%E1%BA%ADn+8\/@10.742917,106.682397,17z\/data=!3m1!4b1!4m6!3m5!1s0x3135d1033fe81041:0xccd9aac845d16ac7!8m2!3d10.742917!4d106.682397!16s%2Fg%2F11s7d1n1x4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -8522,6 +9296,7 @@ const data = [
         "address":"120 Đ. Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh 73018, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/YODY+Cao+L%E1%BB%97\/@10.740219,106.6777557,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9c5e7cf0df:0x5e0d6db650b0740!8m2!3d10.740219!4d106.6777557!16s%2Fg%2F11sywynvm5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo, Cửa hàng quần áo trẻ em, Cửa hàng phụ kiện thời trang, Cửa hàng quần áo công sở, Cửa hàng quần áo nam, Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -8533,6 +9308,7 @@ const data = [
         "address":"PMRJ+M5V, Hẻm 45 Đ. Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C3%B2+N%C3%A9+3+Ngon+Chung+C%C6%B0+Topaz\/@10.7417378,106.6804339,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ff24aec83d5:0x21c1e0e77d717707!8m2!3d10.7417378!4d106.6804339!16s%2Fg%2F11vbrpdd8r?hl=vi&entry=ttu",
+        "categories":"Cửa hàng ăn nhanh",
         "category_group":"df_shops"
     },
     {
@@ -8544,6 +9320,7 @@ const data = [
         "address":"PMVH+5F5, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tea+N%E1%BB%99i+Th%E1%BA%A5t\/@10.7423135,106.6784401,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f82c798364f:0xfb979505604cff1d!8m2!3d10.7423135!4d106.6784401!16s%2Fg%2F11sc09ywlr?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -8555,6 +9332,7 @@ const data = [
         "address":"Hẻm 35 Đ. Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BB%ADa+Xe+Tr%E1%BA%A7n+S%C3%B4\/@10.7438144,106.6776029,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ffed8c9d4f7:0xc555e3241209bbf7!8m2!3d10.7438144!4d106.6776029!16s%2Fg%2F11lgv2nw3v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -8566,6 +9344,7 @@ const data = [
         "address":"1000 Đ. Cách Mạng Tháng 8, Phường 5, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/PEAK+Sport+T%C3%A2n+B%C3%ACnh+-+1000+CMT8\/@10.7903693,106.6585475,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8d31e0c03d:0x3517f5d93bfb628f!8m2!3d10.7903693!4d106.6585475!16s%2Fg%2F11t51pflw6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày thể thao",
         "category_group":"df_shops"
     },
     {
@@ -8577,6 +9356,7 @@ const data = [
         "address":"544\/17 Lý Thường Kiệt, Phường 7, Tân Bình, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SOR+STORE+-+Ti%E1%BB%87m+Gi%C3%A0y+C%C5%A9+Ch%C3%ADnh+H%C3%A3ng\/@10.7900639,106.6530679,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f24fcc6daa1:0x298686c8065017bb!8m2!3d10.7900639!4d106.6530679!16s%2Fg%2F11svvmk3yh?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -8588,6 +9368,7 @@ const data = [
         "address":"89 Phan Sào Nam, Phường 11, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+S%C3%A1ch+Sao+Mai\/@10.7879053,106.645036,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6bad99df0b:0x65af1fd4018719ad!8m2!3d10.7879053!4d106.645036!16s%2Fg%2F11pz8cgp4w?hl=vi&entry=ttu",
+        "categories":"Cửa hàng văn phòng phẩm",
         "category_group":"df_shops"
     },
     {
@@ -8599,6 +9380,7 @@ const data = [
         "address":"QJQX+5HC, Hẻm 1017 Lạc Long Quân, Phường 11, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%C3%A0y+Si+B%C3%A0+B%C3%A9o+(Th%C3%A1i+Lan)\/@10.7879416,106.6488863,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f004f566a9b:0x6ce15d1ffd5ade30!8m2!3d10.7879416!4d106.6488863!16s%2Fg%2F11vpzdfmbd?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -8610,6 +9392,7 @@ const data = [
         "address":"04 Đ. Bảy Hiền, Phường 11, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%C4%83ng+Keo+Song+%C4%90%C3%A0o\/@10.7879586,106.6510242,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0055287d23:0x27ae0b228c74bc1e!8m2!3d10.7879586!4d106.6510242!16s%2Fg%2F11vpsgp3c_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -8621,6 +9404,7 @@ const data = [
         "address":"1017\/113 Lạc Long Quân, Phường 11, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/ShopMrHeo\/@10.7879392,106.6478515,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb46ca1d311:0x1afe953c88d33e53!8m2!3d10.7879392!4d106.6478515!16s%2Fg%2F1q62dt4c6?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ kiện điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -8632,6 +9416,7 @@ const data = [
         "address":"189 Đ. Hồng Lạc, P.10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cabasports\/@10.7875576,106.6468264,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528a96678db5d:0x642a2e74245f011f!8m2!3d10.7875576!4d106.6468264!16s%2Fg%2F11fxdx03jg?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo thể thao, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -8643,6 +9428,7 @@ const data = [
         "address":"71 Đ. Đông Hồ, Phường 8, Tân Bình, Thành phố Hồ Chí Minh 700925, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C4%83n+Ph%C3%B2ng+Ph%E1%BA%A9m+Sao+Mai\/@10.7844359,106.6514978,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb624d6bb8b:0x90d720825991f48b!8m2!3d10.7844359!4d106.6514978!16s%2Fg%2F11gzvc3cn?hl=vi&entry=ttu",
+        "categories":"Cửa hàng văn phòng phẩm",
         "category_group":"df_shops"
     },
     {
@@ -8654,6 +9440,7 @@ const data = [
         "address":"536\/43\/84 Đ. Âu Cơ, Phường 10, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Mytoyvn\/@10.7819285,106.6461872,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fb98a973ef7:0xc493a1a2993a56ae!8m2!3d10.7819285!4d106.6461872!16s%2Fg%2F11fnwvw7px?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ chơi",
         "category_group":"df_shops"
     },
     {
@@ -8665,6 +9452,7 @@ const data = [
         "address":"45c Vân Côi, Phường 7, Tân Bình, Thành phố Hồ Chí Minh 77000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/N20+Fi+Workshop\/@10.7864924,106.6562052,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ecbd092891f:0xa33908218d39bf17!8m2!3d10.7864924!4d106.6562052!16s%2Fg%2F11clyt0qzz?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa xe máy, Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -8676,6 +9464,7 @@ const data = [
         "address":"50 Chử Đồng Tử, Phường 7, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SV66Mobi\/@10.7864221,106.6567117,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752feccd4087b5:0x726d1eef026a2db7!8m2!3d10.7864221!4d106.6567117!16s%2Fg%2F11vs4q88nb?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -8687,6 +9476,7 @@ const data = [
         "address":"151A Lý Thường Kiệt, Phường 6, Tân Bình, Thành phố Hồ Chí Minh 72117, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Toyota+L%C3%BD+Th%C6%B0%E1%BB%9Dng+Ki%E1%BB%87t\/@10.7842296,106.6545375,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f64da448f61:0xf6b74f3c68fe6b8c!8m2!3d10.7842296!4d106.6545375!16s%2Fg%2F11h1jgqhkb?hl=vi&entry=ttu",
+        "categories":"Đại lý xe Toyota, Xưởng sửa chữa ô tô, Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -8698,6 +9488,7 @@ const data = [
         "address":"104\/4D Nhất Chi Mai, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+C%E1%BB%95+Ph%E1%BA%A7n+C%C3%B4ng+Ngh%E1%BB%87+HDIT\/@10.8064889,106.6397821,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175295b16ec3767:0xee1debd400d970ec!8m2!3d10.8064889!4d106.6397821!16s%2Fg%2F12vr33tdw?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính, Dịch vụ sửa chữa máy tính",
         "category_group":"df_shops"
     },
     {
@@ -8709,6 +9500,7 @@ const data = [
         "address":"28 - 30 Trần Triệu Luật, Phường 6, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tin+H%E1%BB%8Dc+Ng%C3%B4i+Sao\/@10.7850551,106.6566326,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294f708b975f:0x2076e7f098a1b065!8m2!3d10.7850551!4d106.6566326!16s%2Fg%2F11h414k2vg?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -8720,6 +9512,7 @@ const data = [
         "address":"17 Phú Hòa, Phường 7, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BA%A1p+L%E1%BB%99c+D%C6%B0%C6%A1ng\/@10.7858046,106.6548849,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f084b84f117:0xf070b5f31585b7bc!8m2!3d10.7858046!4d106.6548849!16s%2Fg%2F11vpv3qz54?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -8731,6 +9524,7 @@ const data = [
         "address":"07 Lê Minh Xuân, Phường 8, Tân Bình, Thành phố Hồ Chí Minh 72118, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Viettien+House+07+L%C3%AA+Minh+Xu%C3%A2n\/@10.7874607,106.6556831,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eca47ee48fd:0x93795183c45d3ce3!8m2!3d10.7874607!4d106.6556831!16s%2Fg%2F1tgqfxnw?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo, Nhà sản xuất quần áo và vải, Văn phòng công ty, Cửa hàng quần áo nam",
         "category_group":"df_shops"
     },
     {
@@ -8742,6 +9536,7 @@ const data = [
         "address":"103 Ni Sư Huỳnh Liên, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BB%AFa+Chua+C%E1%BB%A7+Chi+DUMI\/@10.7824747,106.6448684,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0041576d29:0x67b077754fc4a086!8m2!3d10.7824747!4d106.6448684!16s%2Fg%2F11vrzckys3?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sữa chua đông lạnh",
         "category_group":"df_shops"
     },
     {
@@ -8753,6 +9548,7 @@ const data = [
         "address":"107\/38 Ni Sư Huỳnh Liên, Phường 10, Tân Bình, Thành phố Hồ Chí Minh 72508, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cani\/@10.7834694,106.6480395,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9164828aa5:0x836ceeb964158f93!8m2!3d10.7834694!4d106.6480395!16s%2Fg%2F11vpvg0j71?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán va li",
         "category_group":"df_shops"
     },
     {
@@ -8764,6 +9560,7 @@ const data = [
         "address":"1110 Lạc Long Quân, Phường 8, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%A1i+L%C3%BD+Ph%E1%BB%A5+Li%E1%BB%87u+T%C3%B3c+Trung+H%E1%BA%A1nh\/@10.7854267,106.6511265,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb66be86ce7:0xc11bc4d0b35fefd4!8m2!3d10.7854267!4d106.6511265!16s%2Fg%2F1hc3g1lzh?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -8775,6 +9572,7 @@ const data = [
         "address":"54 Đặng Minh Trứ, Phường 10, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+du+l%E1%BB%8Bch+Saco+Travel\/@10.7855547,106.6473188,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0d86f830f9:0xf3ce9776aac57879!8m2!3d10.7855547!4d106.6473188!16s%2Fg%2F11fpk6w9__?hl=vi&entry=ttu",
+        "categories":"Đại lý du lịch",
         "category_group":"df_shops"
     },
     {
@@ -8786,6 +9584,7 @@ const data = [
         "address":"490 Lý Thường Kiệt, Phường 7, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/JOMO+HAIR+%26+BEAUTY\/@10.7869146,106.6536941,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0009b3d391:0xf6da24b069d49c9a!8m2!3d10.7869146!4d106.6536941!16s%2Fg%2F11vs2vmsjp?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -8797,6 +9596,7 @@ const data = [
         "address":"153 Đ. Hồng Lạc, Phường 10, Tân Bình, Thành phố Hồ Chí Minh 72508, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hi+Friends+Gaming+-+H%E1%BB%93ng+L%E1%BA%A1c\/@10.7870439,106.6475737,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8d5998b24f:0x8f76af5ff15b31b2!8m2!3d10.7870439!4d106.6475737!16s%2Fg%2F11v5vyd_5g?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trò chơi điện tử",
         "category_group":"df_shops"
     },
     {
@@ -8808,6 +9608,7 @@ const data = [
         "address":"50 Nhất Chi Mai, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Circle+K+-+Nh%E1%BA%A5t+Chi+Mai\/@10.8044912,106.6398301,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175295abedd93b5:0xb59313547ffe54f6!8m2!3d10.8044912!4d106.6398301!16s%2Fg%2F11cs38l8m0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -8819,6 +9620,7 @@ const data = [
         "address":"83 Phạm Phú Thứ, Phường 11, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%E1%BA%A3i+Thun+-+D%C5%A9ng+%C3%81nh+Store\/@10.788864,106.647943,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb4647104f7:0x6b7150f55038fd3d!8m2!3d10.788864!4d106.647943!16s%2Fg%2F11znp7j9m?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán vải, Nhà bán buôn vải vóc, Cửa hàng đồng phục",
         "category_group":"df_shops"
     },
     {
@@ -8830,6 +9632,7 @@ const data = [
         "address":"115 Đ.C18, Phường 12, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/K%E1%BA%BFt+N%E1%BB%91i+Ti%C3%AAu+D%C3%B9ng\/@10.7971707,106.6507833,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb522d3dd33:0x8fa16d75f1219fc3!8m2!3d10.7971707!4d106.6507833!16s%2Fg%2F11ddx4kcls?hl=vi&entry=ttu",
+        "categories":"Cửa hàng dụng cụ, Nhà bán buôn dụng cụ",
         "category_group":"df_shops"
     },
     {
@@ -8841,6 +9644,7 @@ const data = [
         "address":"02 Hoàng Hoa Thám, Phường 13, Tân Bình, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Phong+V%C5%A9\/@10.796518,106.6471141,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529187115913f:0x47f8002f2aa3f8d4!8m2!3d10.796518!4d106.6471141!16s%2Fg%2F11tfzkbc_b?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính, Tư vấn viên máy tính, Dịch vụ sửa chữa máy tính, Dịch vụ máy tính, Cửa hàng phần mềm máy tính",
         "category_group":"df_shops"
     },
     {
@@ -8852,6 +9656,7 @@ const data = [
         "address":"51\/12 Đ. Trường Chinh, Phường 12, Tân Bình, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/BigBag.vn+-+Chuy%C3%AAn+cung+c%E1%BA%A5p+Balo,+C%E1%BA%B7p,+T%C3%BAi+cao+c%E1%BA%A5p+h%C3%A0ng+%C4%91%E1%BA%A7u+Vi%E1%BB%87t+Nam\/@10.7935199,106.651507,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294f3e08069b:0xb10d1f6440812dba!8m2!3d10.7935199!4d106.651507!16s%2Fg%2F1hc3zpjbq?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ kiện thời trang, Cửa hàng túi xách",
         "category_group":"df_shops"
     },
     {
@@ -8863,6 +9668,7 @@ const data = [
         "address":"103 Quảng Hiền, Phường 11, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%E1%BB%A3+B%C3%A0+Hoa\/@10.7911371,106.647569,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f74495ec6c1:0xf139ef41133a07f6!8m2!3d10.7911371!4d106.647569!16s%2Fg%2F11jz43_zh5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -8874,6 +9680,7 @@ const data = [
         "address":"55\/71 Nguyễn Văn Công, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Lan+Ph%C6%B0%C6%A1ng+Organic\/@10.8220012,106.6766024,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529eeb9de3273:0xe58dbecd9474b969!8m2!3d10.8220012!4d106.6766024!16s%2Fg%2F11rcwd6jxc?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán thực phẩm sạch",
         "category_group":"df_shops"
     },
     {
@@ -8885,6 +9692,7 @@ const data = [
         "address":"108\/11 Đ. Số 2, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+Betta+And+Love\/@10.8217727,106.6759122,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752987b208571b:0xe89975802d7eaae6!8m2!3d10.8217727!4d106.6759122!16s%2Fg%2F11rcpxbgww?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -8896,6 +9704,7 @@ const data = [
         "address":"61 Võ Thành Trang, Phường 11, Tân Bình, Thành phố Hồ Chí Minh 72113, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+TNHH+In+Nhanh+Nhanh\/@10.7917106,106.6512053,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb047ca0a55:0x734e5b25f35d1f96!8m2!3d10.7917106!4d106.6512053!16s%2Fg%2F1ydpgpq16?hl=vi&entry=ttu",
+        "categories":"Cửa hàng in ấn",
         "category_group":"df_shops"
     },
     {
@@ -8907,6 +9716,7 @@ const data = [
         "address":"56 Võ Thành Trang, Phường 11, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%C3%B9ng+Gi%E1%BA%A5y+T%C3%A2n+B%C3%ACnh+H%E1%BB%99p+Carton+COD\/@10.7921978,106.6514881,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290477709791:0x6fd4d4572765d177!8m2!3d10.7921978!4d106.6514881!16s%2Fg%2F11h__f5tpy?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán dụng cụ đóng gói",
         "category_group":"df_shops"
     },
     {
@@ -8918,6 +9728,7 @@ const data = [
         "address":"148\/3 Bàu Cát 1, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+Virion\/@10.7927133,106.6456038,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294cb7145555:0x617f78a7f6275144!8m2!3d10.7927133!4d106.6456038!16s%2Fg%2F11j00s2hvw?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -8929,6 +9740,7 @@ const data = [
         "address":"148 Đ. Trường Chinh, Phường 12, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CellphoneS\/@10.7950367,106.649866,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299547f5a1af:0x9ebce1aa24686eb5!8m2!3d10.7950367!4d106.649866!16s%2Fg%2F11rfcvd96j?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -8940,6 +9752,7 @@ const data = [
         "address":"206 Nguyễn Thái Bình, Phường 12, Tân Bình, Thành phố Hồ Chí Minh 72510, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BB%92+SI+NO+BRAND\/@10.796819,106.653189,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b8f4f39a2d:0xb9cc238cab479af1!8m2!3d10.796819!4d106.653189!16s%2Fg%2F11kpp06frx?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -8951,6 +9764,7 @@ const data = [
         "address":"5 Nguyễn Phúc Chu, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vinamilk+-+Gi%E1%BA%A5c+M%C6%A1+S%E1%BB%AFa+Vi%E1%BB%87t\/@10.8218807,106.6309302,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290001fed353:0xb246577b6ab162e0!8m2!3d10.8218807!4d106.6309302!16s%2Fg%2F11vprtrgh5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bơ sữa",
         "category_group":"df_shops"
     },
     {
@@ -8962,6 +9776,7 @@ const data = [
         "address":"293 Đ. Trường Chinh, Phường 14, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/D%E1%BB%A5ng+C%E1%BB%A5+v%C3%A0+Nguy%C3%AAn+Li%E1%BB%87u+L%C3%A0m+B%C3%A1nh+-+Th%C3%ADch+L%C3%A0m+B%C3%A1nh+.com\/@10.7972084,106.6450378,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d0324b80f3f:0x264e9db28c6b68f3!8m2!3d10.7972084!4d106.6450378!16s%2Fg%2F11fsfm6n1y?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ làm bánh",
         "category_group":"df_shops"
     },
     {
@@ -8973,6 +9788,7 @@ const data = [
         "address":"82 Hoàng Bật Đạt, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/MOMENT+HOUSE\/@10.8259045,106.6349237,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175296e9b654de1:0x216f5e8a564b2cc0!8m2!3d10.8259045!4d106.6349237!16s%2Fg%2F11lgmjxbld?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -8984,6 +9800,7 @@ const data = [
         "address":"149 Nguyễn Phúc Chu, Phường 15, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/R%C6%B0%E1%BB%A3u+B%C3%A0u+%C4%90%C3%A1+N%C4%83m+Ph%C6%B0%E1%BB%A3ng+B%C3%ACnh+%C4%90%E1%BB%8Bnh\/@10.8235552,106.6363966,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f49cc83f17:0x50dfced291fb9f2c!8m2!3d10.8235552!4d106.6363966!16s%2Fg%2F11ksp_vwms?hl=vi&entry=ttu",
+        "categories":"Cửa hàng rượu",
         "category_group":"df_shops"
     },
     {
@@ -8995,6 +9812,7 @@ const data = [
         "address":"51\/12\/2e, Đ. Trần Thị Trọng, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Y%E1%BA%BFn+S%C3%A0o+H%E1%BA%A3i+Ng%E1%BB%8Dc\/@10.82641,106.633413,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b9421813f5:0x74869b76df40a6a5!8m2!3d10.82641!4d106.633413!16s%2Fg%2F11vs27gp01?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thực phẩm thiên nhiên",
         "category_group":"df_shops"
     },
     {
@@ -9006,6 +9824,7 @@ const data = [
         "address":"118\/97 Phan Huy Ích, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%C3%A1obank\/@10.8302316,106.6352038,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752900699d39f5:0x90f7f6078cf7cfe6!8m2!3d10.8302316!4d106.6352038!16s%2Fg%2F11lc_z2r4v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -9017,6 +9836,7 @@ const data = [
         "address":"RJJM+C8Q, Hẻm 108 Phan Huy Ích, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+c%E1%BA%A7u+l%C3%B4ng+H%E1%BA%A3i+Hi%E1%BB%81n+Sport\/@10.8310767,106.6333476,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529006113c637:0x6d5283b6b608fb1!8m2!3d10.8310767!4d106.6333476!16s%2Fg%2F11vs3wtgg2?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ thể thao",
         "category_group":"df_shops"
     },
     {
@@ -9028,6 +9848,7 @@ const data = [
         "address":"BPB 01.06 Chung cư Botanica Premier, 108 Hồng Hà, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+H%C3%A0ng+Gia+D%E1%BB%A5ng+S%C3%A0i+G%C3%B2n\/@10.8105297,106.6696025,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175295f2e03ce77:0xc6f04e7ff25d0e04!8m2!3d10.8105297!4d106.6696025!16s%2Fg%2F11fhv3x6nf?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ nhà bếp, Cửa hàng đồ gia dụng",
         "category_group":"df_shops"
     },
     {
@@ -9039,6 +9860,7 @@ const data = [
         "address":"B20 Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/FamilyMart+B%E1%BA%A1ch+%C4%90%E1%BA%B1ng\/@10.8147824,106.6677704,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752918fa00f523:0xe47fe8733d62b4ce!8m2!3d10.8147824!4d106.6677704!16s%2Fg%2F11f2clk_pw?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -9050,6 +9872,7 @@ const data = [
         "address":"398 Đ. Lê Văn Sỹ, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+bigsize+VBD+Store\/@10.798643,106.662777,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292b4f56de1b:0xe38c03651efaec0b!8m2!3d10.798643!4d106.662777!16s%2Fg%2F11s5x8j03b?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo cỡ lớn, Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -9061,6 +9884,7 @@ const data = [
         "address":"120 Đ. Cộng Hòa, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/MWC+SHOP+10\/@10.801297,106.657989,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175293748c5c08f:0x21e5fddc6ae8f7bf!8m2!3d10.801297!4d106.657989!16s%2Fg%2F11ggsxfjmt?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -9072,6 +9896,7 @@ const data = [
         "address":"75 Thăng Long, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vinamilk+-+Gi%E1%BA%A5c+M%C6%A1+S%E1%BB%AFa+Vi%E1%BB%87t\/@10.8038012,106.6607354,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529002d228be7:0x57940536067e3587!8m2!3d10.8038012!4d106.6607354!16s%2Fg%2F11vrx_5wl_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bơ sữa",
         "category_group":"df_shops"
     },
     {
@@ -9083,6 +9908,7 @@ const data = [
         "address":"Haindeco, 75 Nguyễn Sỹ Sách, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tranh+da%CC%81n+t%C6%B0%C6%A1%CC%80ng+3D+Vietdekor\/@10.8072647,106.6538576,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529fb77a4293b:0x84c77a0c5438f8ed!8m2!3d10.8072647!4d106.6538576!16s%2Fg%2F11f70r8l5s?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tranh",
         "category_group":"df_shops"
     },
     {
@@ -9094,6 +9920,7 @@ const data = [
         "address":"Trường Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 70040, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Habanos+Specialist\/@10.8152789,106.6614292,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291e2d33ff4d:0x10bce0a3cddd8fed!8m2!3d10.8152789!4d106.6614292!16s%2Fg%2F11rmp46776?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nhỏ, Nhà bán buôn thức uống có cồn, Nhà phân phối đồ uống, Cửa hàng xì-gà, Tiệm thuốc lá, Cửa hàng rượu",
         "category_group":"df_shops"
     },
     {
@@ -9105,6 +9932,7 @@ const data = [
         "address":"44 Đường Số 17, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+s%E1%BB%ADa+xe+Nguy%E1%BB%85n+Trung\/@10.831395,106.6628541,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529004935086b:0xc17b5a9f9e409f7!8m2!3d10.831395!4d106.6628541!16s%2Fg%2F11vs1yw6yq?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -9116,6 +9944,7 @@ const data = [
         "address":"16 Đ. Cộng Hòa, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+H%C3%A0ng+Th%E1%BB%A7y+Sinh+SG+AQUA\/@10.8062849,106.6377098,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bc7be1e6b7:0x78ad299b1b7d022d!8m2!3d10.8062849!4d106.6377098!16s%2Fg%2F11s116q0q_?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -9127,6 +9956,7 @@ const data = [
         "address":"812 Lạc Long Quân, Phường 9, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chobaoho.vn+-+%C4%90%E1%BB%93+ph%C6%B0%E1%BB%A3t+du+l%E1%BB%8Bch,+%C4%90%E1%BB%93+b%E1%BA%A3o+h%E1%BB%99+v%C3%A0+N%C3%B3n+b%E1%BA%A3o+hi%E1%BB%83m+xe+m%C3%A1y+ch%C3%ADnh+h%C3%A3ng\/@10.7786791,106.6499623,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb33ff8e227:0xfdc5dbba58aecbc!8m2!3d10.7786791!4d106.6499623!16s%2Fg%2F11bw1zqjy8?hl=vi&entry=ttu",
+        "categories":"Cửa hàng mũ, Cửa hàng phụ kiện thời trang, Cửa hàng phụ tùng xe máy, Cửa hàng bán dụng cụ thể thao ngoài trời, Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -9138,6 +9968,7 @@ const data = [
         "address":"44 Trần Văn Danh, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Madde2018+-+C%E1%BB%ADa+h%C3%A0ng+trang+s%E1%BB%A9c,+ph%E1%BB%A5+ki%E1%BB%87n+thi%E1%BA%BFt+k%E1%BA%BF\/@10.8075815,106.6475422,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bb806a7073:0x5755c42fa177b9d0!8m2!3d10.8075815!4d106.6475422!16s%2Fg%2F11h71n6tj9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trang sức",
         "category_group":"df_shops"
     },
     {
@@ -9149,6 +9980,7 @@ const data = [
         "address":"5\/7A Đ. Âu Cơ, Phường 9, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/MINISTOP\/@10.7755593,106.6506395,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f152cddb775:0x12da2d3da54b7a75!8m2!3d10.7755593!4d106.6506395!16s%2Fg%2F11kk4jxrwl?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -9160,6 +9992,7 @@ const data = [
         "address":"499\/6\/79 Quang Trung, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/h%E1%BA%BBm+c%C3%A2y+kh%E1%BA%BF\/@10.8305374,106.6655668,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529980a319959:0xcce2a36404c1149e!8m2!3d10.8305374!4d106.6655668!16s%2Fg%2F11gy71cnzx?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -9171,6 +10004,7 @@ const data = [
         "address":"87\/57\/6\/1, Nguyễn Sỹ Sách, Phường 15, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%E1%BB%99t+Gia+%C4%90%C3%ACnh\/@10.8222822,106.6371705,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752990703f7bcb:0xf2a8f007404acb36!8m2!3d10.8222822!4d106.6371705!16s%2Fg%2F11lc_yy6jv?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -9182,6 +10016,7 @@ const data = [
         "address":"139 Đ. Tân Sơn, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BB%83+Thao+%C4%90%C6%B0%C6%A1ng+%C4%90%E1%BA%A1i+-+Shop+%C3%81o+B%C3%B3ng+%C4%90%C3%A1+-+Gi%C3%A0y+%C4%90%C3%A1+B%C3%B3ng+Uy+T%C3%ADn\/@10.8209346,106.6393599,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bb38b875667:0x17cac73b2cfc7946!8m2!3d10.8209346!4d106.6393599!16s%2Fg%2F11pzydg60n?hl=vi&entry=ttu",
+        "categories":"Cửa hàng giày thể thao",
         "category_group":"df_shops"
     },
     {
@@ -9193,6 +10028,7 @@ const data = [
         "address":"70\/64D Nguyễn Sỹ Sách, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ken+Camera\/@10.8199388,106.637707,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529eecc2668d3:0xd7f0052ca05bfd7!8m2!3d10.8199388!4d106.637707!16s%2Fg%2F11j20ml6v8?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán máy ảnh",
         "category_group":"df_shops"
     },
     {
@@ -9204,6 +10040,7 @@ const data = [
         "address":"155 Phạm Văn Bạch, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/G%C3%A0+R%C3%A1n+FKT+T%C3%A2n+B%C3%ACnh\/@10.8165919,106.6360828,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297d2e5d2acd:0x83d38ebe621d07a4!8m2!3d10.8165919!4d106.6360828!16s%2Fg%2F11scms3whb?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thịt gà",
         "category_group":"df_shops"
     },
     {
@@ -9215,6 +10052,7 @@ const data = [
         "address":"2\/9 Phạm Văn Bạch, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%E1%BB%A5+Ki%E1%BB%87n+Bida+Tr%E1%BA%A7n+Ch%C3%A2n\/@10.8176229,106.6378274,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b098d9f1c5:0x6160d03c3897b593!8m2!3d10.8176229!4d106.6378274!16s%2Fg%2F11tspjkf6x?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trò chơi",
         "category_group":"df_shops"
     },
     {
@@ -9226,6 +10064,7 @@ const data = [
         "address":"161 Phạm Văn Bạch, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+H%C3%A0ng+T%E1%BA%A1p+H%C3%B3a+Xu%C3%A2n+Nhi\/@10.816916,106.6364668,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529671e34475b:0xd36ae8bc6e3bccc4!8m2!3d10.816916!4d106.6364668!16s%2Fg%2F11fv1bnsfq?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bách hóa",
         "category_group":"df_shops"
     },
     {
@@ -9237,6 +10076,7 @@ const data = [
         "address":"98 Đ. Huỳnh Văn Nghệ, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/MINISTOP\/@10.8296993,106.6387865,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291691bb0c3b:0x3184fba11b21278a!8m2!3d10.8296993!4d106.6387865!16s%2Fg%2F11kqrggtpc?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -9248,6 +10088,7 @@ const data = [
         "address":"346 Phạm Văn Bạch, Phường 15, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BB%8Bnh+V%E1%BB%8B+Xe+M%C3%A1y+Viettel+-+Tr%E1%BB%A5+S%E1%BB%9F+346+Ph%E1%BA%A1m+V%C4%83n+B%E1%BA%A1ch,+Tp+HCM\/@10.82632,106.640662,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297223e7c413:0x84ae1518e8f157a2!8m2!3d10.82632!4d106.640662!16s%2Fg%2F11gr6hvy7x?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -9259,6 +10100,7 @@ const data = [
         "address":"390\/15 Phạm Văn Bạch, Phường 15, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Laptop+Minh+M%E1%BA%ABn\/@10.8275059,106.6415463,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297083300d87:0xc9a3267b86bf2bbe!8m2!3d10.8275059!4d106.6415463!16s%2Fg%2F11g8vq19kf?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -9270,6 +10112,7 @@ const data = [
         "address":"21\/6B, Hẻm 87 31, Nguyễn Sỹ Sách, Phường 15, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HoKa+Guitar+Shop\/@10.8214814,106.6357728,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752effe5f993ed:0xc2ebf1f7d602f1c9!8m2!3d10.8214814!4d106.6357728!16s%2Fg%2F11g9g0w_0v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nhạc cụ",
         "category_group":"df_shops"
     },
     {
@@ -9281,6 +10124,7 @@ const data = [
         "address":"275\/75\/48 Quang Trung, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/828+Store\/@10.8273915,106.6707044,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175296e19ef5b57:0xeb9ef474d70e39!8m2!3d10.8273915!4d106.6707044!16s%2Fg%2F11nxq71c_1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp hóa",
         "category_group":"df_shops"
     },
     {
@@ -9292,6 +10136,7 @@ const data = [
         "address":"87\/27 Đ. Số 7, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+C%E1%BB%A7a+T%C3%A2m\/@10.8277733,106.6696884,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752905c297985d:0xe2c69948ac0c2a3c!8m2!3d10.8277733!4d106.6696884!16s%2Fg%2F11khz8fdnh?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ tùng xe ô tô",
         "category_group":"df_shops"
     },
     {
@@ -9303,6 +10148,7 @@ const data = [
         "address":"RJCV+9F2, Hẻm 104 Tân Sơn, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BB%83+thao+iWin+Store\/@10.8208857,106.6436432,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529001b9bb10d:0x9a47b4101ad3bfd6!8m2!3d10.8208857!4d106.6436432!16s%2Fg%2F11lcybzl_q?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -9314,6 +10160,7 @@ const data = [
         "address":"385\/66 Quang Trung, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Imaxsaigon\/@10.828771,106.6678534,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ecd55f62e1:0x38d3ba7e3573e5ed!8m2!3d10.828771!4d106.6678534!16s%2Fg%2F11j0c3nzt4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thiết bị và phụ kiện máy ảnh",
         "category_group":"df_shops"
     },
     {
@@ -9325,6 +10172,7 @@ const data = [
         "address":"23\/46 Quang Trung, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/PH%E1%BB%A4+T%C3%99NG+SUZUKI+HONDA+HUY%E1%BB%80N+PH%E1%BA%A0M\/@10.8293036,106.6674291,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529015d00db4f:0x1c5291a030e8bfa4!8m2!3d10.8293036!4d106.6674291!16s%2Fg%2F11f3vv2t6f?hl=vi&entry=ttu",
+        "categories":"Cửa hàng phụ tùng xe máy, Văn phòng công ty",
         "category_group":"df_shops"
     },
     {
@@ -9336,6 +10184,7 @@ const data = [
         "address":"171 P, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HD+MOBILE+C%C6%A1+S%E1%BB%9F+04\/@10.8217865,106.6397411,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a103f9303f:0xb0d21b1dc31307b7!8m2!3d10.8217865!4d106.6397411!16s%2Fg%2F11vprd6t83?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -9347,6 +10196,7 @@ const data = [
         "address":"27 Đường D52, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Thanh+H%C3%B9ng+Futsal+-+Shop+Gi%C3%A0y+%C4%90%C3%A1+B%C3%B3ng+Ch%C3%ADnh+H%C3%A3ng\/@10.8013947,106.6484087,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752948eb24bad7:0x3f21a55ad141a809!8m2!3d10.8013947!4d106.6484087!16s%2Fg%2F11fz9d44f0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng đồ bóng đá, Cửa hàng quần áo thể thao",
         "category_group":"df_shops"
     },
     {
@@ -9358,6 +10208,7 @@ const data = [
         "address":"63 Đ. Âu Cơ, Phường 9, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/WinMart%2B\/@10.7747351,106.649935,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ebf2604b1ad:0x8c56e831f8872582!8m2!3d10.7747351!4d106.649935!16s%2Fg%2F11jd9bfqw4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -9369,6 +10220,7 @@ const data = [
         "address":"292 Đ. Âu Cơ, Phường 10, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Si%C3%AAu+th%E1%BB%8B+Th%E1%BA%BF+Gi%E1%BB%9Bi+Di+%C4%90%E1%BB%99ng\/@10.7748846,106.6482682,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ebeb8a7f505:0xe5c0737a94e07983!8m2!3d10.7748846!4d106.6482682!16s%2Fg%2F11d_d2z2b0?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -9380,6 +10232,7 @@ const data = [
         "address":"654\/36 Lạc Long Quân, Phường 9, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+C%C3%B4ng+Sang+(CSJ)\/@10.7756261,106.6501464,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ebf2b272909:0x79f16abe0478272c!8m2!3d10.7756261!4d106.6501464!16s%2Fg%2F11cls72dmj?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trang sức",
         "category_group":"df_shops"
     },
     {
@@ -9391,6 +10244,7 @@ const data = [
         "address":"527 Lạc Long Quân, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+Mua+S%E1%BA%AFm+%C4%90i%E1%BB%87n+M%C3%A1y+Nguy%E1%BB%85n+Kim+L%E1%BA%A1c+Long+Qu%C3%A2n\/@10.7756542,106.648377,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ebeca1207bf:0x48ba21ac1929fdf5!8m2!3d10.7756542!4d106.648377!16s%2Fg%2F11g9q4kpb7?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -9402,6 +10256,7 @@ const data = [
         "address":"13\/20 Đ. Gò Cẩm Đệm, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+B%C6%A1+S%E1%BB%AFa\/@10.7772218,106.6480177,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f000e6e2f39:0xda7d2c80cc259161!8m2!3d10.7772218!4d106.6480177!16s%2Fg%2F11vq05c8_2?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -9413,6 +10268,7 @@ const data = [
         "address":"13\/13A Đ. Gò Cẩm Đệm, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/GIAN+SAIGON\/@10.7777699,106.6477284,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fe01dc5475f:0xf2055cec1e00695a!8m2!3d10.7777699!4d106.6477284!16s%2Fg%2F11sng3p3hh?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -9424,6 +10280,7 @@ const data = [
         "address":"153 Trần Văn Quang, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C5%A9+Tr%E1%BB%A5+Th%C3%BA+C%C6%B0ng\/@10.7794701,106.6454142,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fc1d366749f:0x5442f1c849daa2c9!8m2!3d10.7794701!4d106.6454142!16s%2Fg%2F11vpt16r66?hl=vi&entry=ttu",
+        "categories":"Cửa hàng vật nuôi",
         "category_group":"df_shops"
     },
     {
@@ -9435,6 +10292,7 @@ const data = [
         "address":"66\/28 Trần Văn Quang, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Pon+Pet+Shop\/@10.7804334,106.6479958,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f30113d77db:0xc97734fce232521a!8m2!3d10.7804334!4d106.6479958!16s%2Fg%2F11vpqv04b5?hl=vi&entry=ttu",
+        "categories":"Cửa hàng thức ăn gia súc",
         "category_group":"df_shops"
     },
     {
@@ -9446,6 +10304,7 @@ const data = [
         "address":"RJ5R+VQW, Nguyễn Đức Thuận, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vape+Pod+Shop+Alo+GiaoLien\/@10.809761,106.6419791,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752900092b07ff:0x7e6e792127eb7fb9!8m2!3d10.809761!4d106.6419791!16s%2Fg%2F11lcm2g14b?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -9457,6 +10316,7 @@ const data = [
         "address":"119\/9 Trần Văn Dư, Phường 13, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/GIA+H%C6%AFNG+-+Chuy%C3%AAn+Laptop,+M%C3%A1y+t%C3%ADnh+b%E1%BA%A3ng+(Tablet)+Microsoft+Surface+-+DELL\/@10.8097927,106.6443579,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752936557a4585:0x6781285bd5b1fdce!8m2!3d10.8097927!4d106.6443579!16s%2Fg%2F11cs31vc41?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -9468,6 +10328,7 @@ const data = [
         "address":"165 Hoàng Hoa Thám, Phường 13, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Camera+%26+truy%E1%BB%81n+h%C3%ACnh\/@10.8052759,106.647543,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529007e1fd635:0xe20bd6d42562c936!8m2!3d10.8052759!4d106.647543!16s%2Fg%2F11vrymh9pc?hl=vi&entry=ttu",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -9479,6 +10340,7 @@ const data = [
         "address":"956 Đ. Âu Cơ, Phường 14, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CellphoneS\/@10.7969874,106.6380005,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529cbb75df57b:0x6a4b241b9dd22ad4!8m2!3d10.7969874!4d106.6380005!16s%2Fg%2F11q1v83mlz?hl=vi&entry=ttu",
+        "categories":"Cửa hàng máy tính, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -9490,6 +10352,7 @@ const data = [
         "address":"968 Đ. Âu Cơ, Phường 14, Tân Bình, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%87+th%E1%BB%91ng+c%E1%BB%ADa+h%C3%A0ng+xe+%C4%91%E1%BA%A1p+Xedap.vn+-+Chi+nh%C3%A1nh+968+%C3%82u+C%C6%A1,+T%C3%A2n+B%C3%ACnh+HCM\/@10.7975303,106.6378897,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529286a4c3563:0x58a3bd78a009f751!8m2!3d10.7975303!4d106.6378897!16s%2Fg%2F11qpkzhx8l?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xe đạp",
         "category_group":"df_shops"
     },
     {
@@ -9501,6 +10364,7 @@ const data = [
         "address":"183 Nguyễn Phúc Chu, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/TU%E1%BA%A4N+NGUY%E1%BB%84N+TATTOO+(TN+TATTOO+SUPPLY)\/@10.8240265,106.6374543,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bff99aeff1:0x8b2b4a5c0f5ae61b!8m2!3d10.8240265!4d106.6374543!16s%2Fg%2F11tc7pyzz9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng xăm hình",
         "category_group":"df_shops"
     },
     {
@@ -9512,6 +10376,7 @@ const data = [
         "address":"910 Đ. Âu Cơ, Phường 14, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Minh+Tu%E1%BA%A5n+Mobile\/@10.7961587,106.6383461,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a788dfa6fd:0x4374c5f3d6eab116!8m2!3d10.7961587!4d106.6383461!16s%2Fg%2F11k3y1rwsx?hl=vi&entry=ttu",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -9523,6 +10388,7 @@ const data = [
         "address":"138\/22 Trương Công Định, Phường 14, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tea.Joy+Station+Tr%C6%B0%C6%A1ng+C%C3%B4ng+%C4%90%E1%BB%8Bnh\/@10.7947078,106.6399882,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529834ab539ad:0xd582834fb43e93f!8m2!3d10.7947078!4d106.6399882!16s%2Fg%2F11krkd6z45?hl=vi&entry=ttu",
+        "categories":"Cửa hàng trà",
         "category_group":"df_shops"
     },
     {
@@ -9534,6 +10400,7 @@ const data = [
         "address":"87 Bàu Cát, Phường 14, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Moji+-+Ph%E1%BB%A5+Ki%E1%BB%87n+%26+Qu%C3%A0+T%E1%BA%B7ng\/@10.7929265,106.6418064,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529c6ed1ed8b9:0x6e812dc20a6d62e5!8m2!3d10.7929265!4d106.6418064!16s%2Fg%2F11g0h_wb0v?hl=vi&entry=ttu",
+        "categories":"Cửa hàng quà tặng",
         "category_group":"df_shops"
     },
     {
@@ -9545,6 +10412,7 @@ const data = [
         "address":"50A Đường số 182, Tăng Nhơn Phú A, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJoYDfFS0pdTERLxJzN4_bvgg",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -9556,6 +10424,7 @@ const data = [
         "address":"224\/10 Dương Đình Hội Phước Long B, Quận 9, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJm4DiEtondTER-KhJZxGIu6U",
+        "categories":"Cửa hàng in ấn",
         "category_group":"df_shops"
     },
     {
@@ -9567,6 +10436,7 @@ const data = [
         "address":"Đ. D2, Tăng Nhơn Phú B, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZx_PUt8mdTERgA-Re_Eqins",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -9578,6 +10448,7 @@ const data = [
         "address":"RRQM+9M2, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQ4KohIohdTERfFDpqMYkveY",
+        "categories":"Đại lý bất động sản",
         "category_group":"df_shops"
     },
     {
@@ -9589,6 +10460,7 @@ const data = [
         "address":"Sảnh S1.07 01S05 Vinhomes Grand Park, 512 Nguyễn Xiển, Long Thạnh Mỹ, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW6TqWxchdTERNtal8LBkApc",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -9600,6 +10472,7 @@ const data = [
         "address":"80C Gò Cát, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxecYepgpdTERQl03dJMvtd4",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -9611,6 +10484,7 @@ const data = [
         "address":"VP3F+4PP, Đ. Số 8, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJefnhAgAndTERtIhKz6DM1eQ",
+        "categories":"Cửa hàng quà tặng",
         "category_group":"df_shops"
     },
     {
@@ -9622,6 +10496,7 @@ const data = [
         "address":"17 Đường 43, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQ2wg47UndTER9aahGj42i9g",
+        "categories":"Đại lý cho thuê xe ô tô",
         "category_group":"df_shops"
     },
     {
@@ -9633,6 +10508,7 @@ const data = [
         "address":"13\/3a Đ. 41, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJG3PscoUndTERxOBbuWFgCtM",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -9644,6 +10520,7 @@ const data = [
         "address":"4\/14 Đường Số 15, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtaYbEQApdTERCkznajkOeg0",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -9655,6 +10532,7 @@ const data = [
         "address":"Đường Số 37, Khu đô Thị Vạn Phúc, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJf3zbo8MtdTERg2Ti6_I_faU",
+        "categories":"Cửa hàng đồ chơi",
         "category_group":"df_shops"
     },
     {
@@ -9666,6 +10544,7 @@ const data = [
         "address":"133 Đ. Hiệp Bình, Khu Phố 7, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCUHJY68ndTERcUuzmWRPzdo",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -9677,6 +10556,7 @@ const data = [
         "address":"35\/2 A Đ. Số 6, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJm8fGJXgodTERf4wCLZG0CCo",
+        "categories":"Đại lý vé máy bay, Quầy bán vé xe lửa",
         "category_group":"df_shops"
     },
     {
@@ -9688,6 +10568,7 @@ const data = [
         "address":"1 Đ. Số 14, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJgQyTfK4pdTER4YJNQn4LMRc",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -9699,6 +10580,7 @@ const data = [
         "address":"520 QL13, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJzYIlMQApdTER4sKKB5fWY7U",
+        "categories":"Cửa hàng bán thực phẩm sạch",
         "category_group":"df_shops"
     },
     {
@@ -9710,6 +10592,7 @@ const data = [
         "address":"Mặt tiền, 61\/36G Đ. Số 48, khu phố 6, TP. Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPx0eEuApdTERERcrDYOHFWQ",
+        "categories":"Cửa hàng in ấn",
         "category_group":"df_shops"
     },
     {
@@ -9721,6 +10604,7 @@ const data = [
         "address":"327 QL13, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJXysEPJyrNTERoQQx26NGkLc",
+        "categories":"Đại lý ô tô, Trường kinh doanh, Văn phòng công ty, Đại lý xe Hyundai",
         "category_group":"df_shops"
     },
     {
@@ -9732,6 +10616,7 @@ const data = [
         "address":"173 Nguyễn Xiển, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-Tk6TzQhdTER6tml8ZvVwWo",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -9743,6 +10628,7 @@ const data = [
         "address":"104\/4 Đường Số 8, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ6cziGhIndTERVWzYRwvmQHU",
+        "categories":"Cửa hàng bán dụng cụ Bi-a",
         "category_group":"df_shops"
     },
     {
@@ -9754,6 +10640,7 @@ const data = [
         "address":"97 Đ. Đinh Thị Thi, Khu đô Thị Vạn Phúc, TP. Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJlVI3iV8pdTERyRvBniRkXNs",
+        "categories":"Cửa hàng xe đạp",
         "category_group":"df_shops"
     },
     {
@@ -9765,6 +10652,7 @@ const data = [
         "address":"RR8F+94V, Khu đô thị mới Đông Tăng Long, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJeelkDKEhdTER6QUlTZ5d0lU",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -9776,6 +10664,7 @@ const data = [
         "address":"4 Đ. Số 7, Khu đô Thị Vạn Phúc, Thủ Đức, Thành phố Hồ Chí Minh 71314, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJc0-oG70pdTERYqn0S5i4ikU",
+        "categories":"Đại lý thương mại điện tử, Dịch vụ viết quảng cáo",
         "category_group":"df_shops"
     },
     {
@@ -9787,6 +10676,7 @@ const data = [
         "address":"1792 Đ. Nguyễn Duy Trinh, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGbZDkZ4hdTER4zOGrC7JKak",
+        "categories":"Đại lý xe Toyota, Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -9798,6 +10688,7 @@ const data = [
         "address":"17 Đường A5, Khu đô thị mới Đông Tăng Long, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8T9HcQAhdTERF14W_G2JH6A",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -9809,6 +10700,7 @@ const data = [
         "address":"1396 Đ. Nguyễn Duy Trinh, Long Trường, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJs5vOVgAhdTER5bLmDVfdjJ8",
+        "categories":"Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -9820,6 +10712,7 @@ const data = [
         "address":"RR3C+V64, 69 Đ. Trường Lưu, Long Trường, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpZos7DUhdTERpXkUMLVLD6I",
+        "categories":"Đại lý bất động sản, Khu nhà liền kề",
         "category_group":"df_shops"
     },
     {
@@ -9831,6 +10724,7 @@ const data = [
         "address":"Đường 19, Phường Phú Hữu, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJV61zpgYldTERI3allGCfodE",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -9842,6 +10736,7 @@ const data = [
         "address":"61 Đ. Số 1, Phường Phú Hữu, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJv11tzmoldTERgidEqDCmUTc",
+        "categories":"Cửa hàng thiết bị điện",
         "category_group":"df_shops"
     },
     {
@@ -9853,6 +10748,7 @@ const data = [
         "address":"VRFM+3GX, Nguyễn Xiển, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJkTWPVPLfdDERC38Nk0-a1Po",
+        "categories":"Cửa hàng vật liệu xây dựng",
         "category_group":"df_shops"
     },
     {
@@ -9864,6 +10760,7 @@ const data = [
         "address":"77\/77\/9\/6A 1, Khu Phố Long Đại, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ15ikKgAhdTERYmUPXnhF0z8",
+        "categories":"Cửa hàng bán vải",
         "category_group":"df_shops"
     },
     {
@@ -9875,6 +10772,7 @@ const data = [
         "address":"54\/19 Long Phước, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxQoAvmshdTERbzp4gHQEc-Q",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -9886,6 +10784,7 @@ const data = [
         "address":"266B Long Thuận, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJi63O5VEhdTER1cLbfhxNHiM",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -9897,6 +10796,7 @@ const data = [
         "address":"127 Đường Lò Lu, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRbn-KgkndTER5Phz5slZros",
+        "categories":"Cửa hàng đồ cắt tóc",
         "category_group":"df_shops"
     },
     {
@@ -9908,6 +10808,7 @@ const data = [
         "address":"11A Đường Số 4, Long Phước, Quận 9, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUx4HI1UhdTERuQGYf0YrqTs",
+        "categories":"Đại lý du lịch tham quan",
         "category_group":"df_shops"
     },
     {
@@ -9919,6 +10820,7 @@ const data = [
         "address":"128 Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJz_58wwMhdTERDQjsUHN0f1c",
+        "categories":"Cửa hàng vật liệu xây dựng",
         "category_group":"df_shops"
     },
     {
@@ -9930,6 +10832,7 @@ const data = [
         "address":"41\/2a, Dương Đình Hội, Phước Long B, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJFQNrXwAndTER-swriofXzLU",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -9941,6 +10844,7 @@ const data = [
         "address":"Khu dân cư Sim city, Đường Số 4, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9-PU_2kndTERI8cXuUgBXAM",
+        "categories":"Cửa hàng bán buôn trái cây",
         "category_group":"df_shops"
     },
     {
@@ -9952,6 +10856,7 @@ const data = [
         "address":"1241 Đ. Nguyễn Duy Trinh, Long Trường, Quận 9, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJR60smrUmdTERn4gshNZCL5E",
+        "categories":"Cửa hàng bán đồ điện tử, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động, Cửa hàng đồ gia dụng, Cửa hàng máy lạnh, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -9963,6 +10868,7 @@ const data = [
         "address":"38 Đ. Số 6, Long Trường, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8yJYSvEndTERuqET9sGMH10",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -9974,6 +10880,7 @@ const data = [
         "address":"1074\/4a, Đ. Nguyễn Duy Trinh, Long Trường, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJjRMSAAAndTER5kmBCN_TpQA",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -9985,6 +10892,7 @@ const data = [
         "address":"QRX2+P3J, Đ. Số 2, khu dân cư, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKzTnUAAndTERVvHAbW-kzB4",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -9996,6 +10904,7 @@ const data = [
         "address":"969 Đ. Nguyễn Duy Trinh, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJM0nicisldTERn6pvMQStV_Q",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -10007,6 +10916,7 @@ const data = [
         "address":"D67 Khu đô thị Dragon Village, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJIYNZXwIndTERSPEhUyIfeCs",
+        "categories":"Cửa hàng thực phẩm thiên nhiên",
         "category_group":"df_shops"
     },
     {
@@ -10018,6 +10928,7 @@ const data = [
         "address":"Tp, Chung cư Ricca, 33\/2 Gò Cát, KP4, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2xgbUqondTERRDslZtk12bM",
+        "categories":"Đại lý bất động sản",
         "category_group":"df_shops"
     },
     {
@@ -10029,6 +10940,7 @@ const data = [
         "address":"Đường 904, Phường Tân Phú, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHVFluHkndTERZiMXVmJNrBw",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -10040,6 +10952,7 @@ const data = [
         "address":"115 Thống Nhất, Bình Thọ, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtf8CBAAndTERDTPoI164bck",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -10051,6 +10964,7 @@ const data = [
         "address":"632A Đ. Kha Vạn Cân, P, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJS0jdG94ndTER0EcKOwqhmKE",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -10062,6 +10976,7 @@ const data = [
         "address":"541 Đ. Kha Vạn Cân, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJ2tXYgAndTERkmWVIogvh4o",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -10073,6 +10988,7 @@ const data = [
         "address":"By night, Trần Quý Kiên, Bình Khánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJkTEkgUIldTERVjUXupirH08",
+        "categories":"Cửa hàng kem",
         "category_group":"df_shops"
     },
     {
@@ -10084,6 +11000,7 @@ const data = [
         "address":"150\/9 Long Thuận, Long Phước, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJBXIsu1khdTERqCeDN1gC7ZA",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -10095,6 +11012,7 @@ const data = [
         "address":"836 TL43, Bình Chiểu, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJi2oP-gbYdDER_pJg-j18V8w",
+        "categories":"Cửa hàng bán đồ điện tử, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động, Cửa hàng đồ gia dụng, Cửa hàng máy lạnh, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -10106,6 +11024,7 @@ const data = [
         "address":"70 Đ. Bình Chiểu, Bình Chiểu, Thủ Đức, Thành phố Hồ Chí Minh 721063, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8XwWWADZdDERw9bUIbIt2gs",
+        "categories":"Cửa hàng đậu hũ",
         "category_group":"df_shops"
     },
     {
@@ -10117,6 +11036,7 @@ const data = [
         "address":"56\/77\/60\/8 Đường 8, Long Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJqX7SagAhdTER3WgNGWxvwC0",
+        "categories":"Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -10128,6 +11048,7 @@ const data = [
         "address":"384 Long Phước, Quận 9, Thành phố Hồ Chí Minh 716500, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2bb_YekhdTERpDdtBfImkxg",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -10139,6 +11060,7 @@ const data = [
         "address":"20 Đường Số 10, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJK660qJghdTERdS7xS2mCiqQ",
+        "categories":"Cửa hàng thịt",
         "category_group":"df_shops"
     },
     {
@@ -10150,6 +11072,7 @@ const data = [
         "address":"254 Nguyễn Hoàng, An Phú, quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJlfQMu50ndTERhlC53cKaJyM",
+        "categories":"Cửa hàng giày thể thao, Câu lạc bộ thể thao, Câu lạc bộ cầu lông, Cửa hàng bán dụng cụ thể thao ngoài trời, Cửa hàng quần áo thể thao",
         "category_group":"df_shops"
     },
     {
@@ -10161,6 +11084,7 @@ const data = [
         "address":"391 Đ. Võ Nguyên Giáp, An Phú, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdSvvYdwndTERdF-_ssbNSt4",
+        "categories":"Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -10172,6 +11096,7 @@ const data = [
         "address":"507 Đ. Võ Nguyên Giáp, An Phú, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJlYr3JXAqdTERpx02YVp1T1k",
+        "categories":"Đại lý xe Toyota",
         "category_group":"df_shops"
     },
     {
@@ -10183,6 +11108,7 @@ const data = [
         "address":"142A Xa Lộ Hà Nội, phường An Phú, Quận 2, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJXyaMaG8ndTERqGykrao6kL8",
+        "categories":"Đại lý cho thuê nhà chung cư, Chung cư, Khu liên hợp căn hộ, Đại lý cho thuê căn hộ, Khu tổ hợp công quản, Khu phức hợp nhà ở, Chương trình nhà ở cho người có thu nhập thấp, Công ty cho thuê căn hộ ngắn hạn, Trung tâm nhà ở sinh viên",
         "category_group":"df_shops"
     },
     {
@@ -10194,6 +11120,7 @@ const data = [
         "address":"Cầu Rạch Chiếc, Phước Long A, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJU7jJbwAndTERxsx8rdPtjmk",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -10205,6 +11132,7 @@ const data = [
         "address":"30e khu phố 3, Đ. Mai Chí Thọ, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKz-stmkmdTERNUj2T_XW5aw",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -10216,6 +11144,7 @@ const data = [
         "address":"Lô D3, đường D1, KCN, Phường Thạnh Mỹ Lợi, Q.2, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtXw4RNQvdTERIuh6xZy5LbQ",
+        "categories":"Đại lý xe Subaru, Cửa hàng phụ tùng xe ô tô, Xưởng sửa chữa ô tô, Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -10227,6 +11156,7 @@ const data = [
         "address":"Phước Long B, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJO7sIVRQndTER47YwV-LQmZI",
+        "categories":"Đại lý giao dịch bất động sản",
         "category_group":"df_shops"
     },
     {
@@ -10238,6 +11168,7 @@ const data = [
         "address":"D2 KCN, Thành phố Hồ Chí Minh, 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJr6cNnxwldTERnXGuxChzWGc",
+        "categories":"Đại lý xe Hyundai",
         "category_group":"df_shops"
     },
     {
@@ -10249,6 +11180,7 @@ const data = [
         "address":"Đỗ Xuân Hợp, An Phú, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJYxQ-ea8ndTER9UX0cmBffck",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -10260,6 +11192,7 @@ const data = [
         "address":"176 Song Hành, KĐT Lakeview City, Quận 2, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJmQT_dlIndTERt6QBpjNbLi0",
+        "categories":"Cửa hàng thịt",
         "category_group":"df_shops"
     },
     {
@@ -10271,6 +11204,7 @@ const data = [
         "address":"15 Đường R, KĐT Lakeview City, Quận 2, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ_cpHib8ndTERt4cUdZIaViU",
+        "categories":"Đại lý bất động sản",
         "category_group":"df_shops"
     },
     {
@@ -10282,6 +11216,7 @@ const data = [
         "address":"K1, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtbXw2LMldTERm-XkXlxmNJM",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -10293,6 +11228,7 @@ const data = [
         "address":"La Astoria, 383 Đ. Nguyễn Duy Trinh, Phường Bình Trưng Tây, Thủ Đức, Thành phố Hồ Chí Minh 713200, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJD_hWyjAndTERf3FFWiU89g8",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -10304,6 +11240,7 @@ const data = [
         "address":"382 Đ. Nguyễn Duy Trinh, Phường Bình Trưng Tây, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJX8uW_4ImdTERWniKMpijSKo",
+        "categories":"Cửa hàng bán đồ điện tử, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động, Cửa hàng đồ gia dụng, Cửa hàng máy lạnh, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -10315,6 +11252,7 @@ const data = [
         "address":"Đường 3\/35\/3 Phước Thiện, Khu phố, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJr0SWVqwhdTERB3o1Sx4fKxg",
+        "categories":"Cửa hàng bán buôn cây cảnh",
         "category_group":"df_shops"
     },
     {
@@ -10326,6 +11264,7 @@ const data = [
         "address":"Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJp4TYKF8ndTERLLS6Nis_yXs",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -10337,6 +11276,7 @@ const data = [
         "address":"số 30 đường số 31, Khu Phố 6, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN8k1XuondTERK_VnLuiXpLI",
+        "categories":"Cửa hàng kính",
         "category_group":"df_shops"
     },
     {
@@ -10348,6 +11288,7 @@ const data = [
         "address":"S10 07.08.09, Vinhomes Grand Park, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJIckxhzEhdTERUvv55hSqPeI",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -10359,6 +11300,7 @@ const data = [
         "address":"148 Bưng Ông Thoàn, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJFSluNQAndTERf1JGrrDtd5A",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -10370,6 +11312,7 @@ const data = [
         "address":"Vinhomes Grand Park D2A-56, tại phân khu Manhattan, Long Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJqZqca0ondTERubP0P7GvUyg",
+        "categories":"Cửa hàng xe đạp",
         "category_group":"df_shops"
     },
     {
@@ -10381,6 +11324,7 @@ const data = [
         "address":"Đ. Nguyễn Xiển, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJwXwTnKIhdTERRrQEM11Mq4o",
+        "categories":"Đại lý bất động sản",
         "category_group":"df_shops"
     },
     {
@@ -10392,6 +11336,7 @@ const data = [
         "address":"Khu Biệt Thự Manhantan Glory, Vinhome Grand Park, Thủ Đức, Thành phố Hồ Chí Minh 71300, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ64JPhMUhdTERy70XcikhxBA",
+        "categories":"Đại lý cho thuê căn hộ",
         "category_group":"df_shops"
     },
     {
@@ -10403,6 +11348,7 @@ const data = [
         "address":"744A Tỉnh Lộ 43, P. Bình Chiểu, Q.Thủ Đức, Hồ Chí Minh, 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiSmZhRzYdDER9i8ODtiGFa4",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -10414,6 +11360,7 @@ const data = [
         "address":"12 Số 2, Tam Phú, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJTSbVMAAndTERhu2eWJYydjQ",
+        "categories":"Cửa hàng sửa chữa đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -10425,6 +11372,7 @@ const data = [
         "address":"80 Đường Số 31, Linh Đông, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJO7lbTgAndTERcWATg9hQfVU",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -10436,6 +11384,7 @@ const data = [
         "address":"229 Lý Tế Xương, Linh Đông, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ7VN6JgAndTERAn9yrMXixPs",
+        "categories":"Cửa hàng bánh",
         "category_group":"df_shops"
     },
     {
@@ -10447,6 +11396,7 @@ const data = [
         "address":"188\/34 Đ. Tam Bình, Thành Phố, Thủ Đức, Thành phố Hồ Chí Minh 71311, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJIbPBaB4ndTERSQFoNDpuJxY",
+        "categories":"Cửa hàng vật nuôi, Dịch vụ chăm sóc thú nuôi, Cửa hàng đồ vật nuôi, Cửa hàng bò sát",
         "category_group":"df_shops"
     },
     {
@@ -10458,6 +11408,7 @@ const data = [
         "address":"1137 TL43, Bình Chiểu, Thủ Đức, Thành phố Hồ Chí Minh 77000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLeIlasnZdDERH7zdgXIcldA",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng sửa chữa điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -10469,6 +11420,7 @@ const data = [
         "address":"70 Đ. Số 5, Khu phố 4, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJgWbl103ZdDERNNoTLoN0WR0",
+        "categories":"Đại lý xe gắn máy, Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -10480,6 +11432,7 @@ const data = [
         "address":"48G4 đường 51A, kdc, Thuận An, Bình Dương 820000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJaU7mUujXdDERn2Ir1kxIu14",
+        "categories":"Cửa hàng cửa nhà tắm",
         "category_group":"df_shops"
     },
     {
@@ -10491,6 +11444,7 @@ const data = [
         "address":"185\/49\/13 Ng. Chí Quốc, Bình Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJEV_cZKbXdDERG7OcRaL7d1A",
+        "categories":"Cửa hàng nhạc cụ",
         "category_group":"df_shops"
     },
     {
@@ -10502,6 +11456,7 @@ const data = [
         "address":"TPHCM, 185\/63\/38 Ngô Chí Quốc, P. Bình Chiểu, TP. Thủ Đức, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQVmN33YndTERSNMi57v9m5Y",
+        "categories":"Cửa hàng sơn, Cửa hàng vật liệu xây dựng, Thợ sơn",
         "category_group":"df_shops"
     },
     {
@@ -10513,6 +11468,7 @@ const data = [
         "address":"186C Đ. Số 8, Linh Xuân, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUVLrAITYdDERVn_rrsY-sFI",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -10524,6 +11480,7 @@ const data = [
         "address":"43 Quốc lộ 1K, Khu phố 2, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJDaGV2X7YdDERGkDirbW2ahk",
+        "categories":"Cửa hàng bán đồ điện tử, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động, Cửa hàng đồ gia dụng, Cửa hàng máy lạnh, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -10535,6 +11492,7 @@ const data = [
         "address":"130 Bưng Ông Thoàn, Phường Phú Hữu, Thủ Đức, Thành phố Hồ Chí Minh 71254, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJIyrBADfNCjERxYslolZ2ZFY",
+        "categories":"Cửa hàng vật liệu xây dựng",
         "category_group":"df_shops"
     },
     {
@@ -10546,6 +11504,7 @@ const data = [
         "address":"415A Song Hành Xa Lộ Hà Nội, Phước Long A, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJMwVLwCsndTERCfKD8OH9wYM",
+        "categories":"Cửa hàng máy tính, Cửa hàng máy tính cũ",
         "category_group":"df_shops"
     },
     {
@@ -10557,6 +11516,7 @@ const data = [
         "address":"Km9 Đ. Võ Nguyên Giáp, Thành Phố, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2R_636wndTERHIwI9hPWH98",
+        "categories":"Cửa hàng thiết bị điện, Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -10568,6 +11528,7 @@ const data = [
         "address":"409 Đ. Nguyễn Văn Bá, Phước Long A, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJR_fw9_4ndTERmZzzw8Bg4ew",
+        "categories":"Đại lý xe Hyundai",
         "category_group":"df_shops"
     },
     {
@@ -10579,6 +11540,7 @@ const data = [
         "address":"62A Nam Hoà, Phường Phước Long A, Quận 9, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJP2mrQvEndTER68Bj5ZFGuX0",
+        "categories":"Cửa hàng xe đạp",
         "category_group":"df_shops"
     },
     {
@@ -10590,6 +11552,7 @@ const data = [
         "address":"32 Tổ 3, Khu phố 6, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJf61EKAAndTER5EA8LlbDxCk",
+        "categories":"Cửa hàng máy phát điện",
         "category_group":"df_shops"
     },
     {
@@ -10601,6 +11564,7 @@ const data = [
         "address":"Đường Số 11, Bình Trưng Đông, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJweuflowndTERtop80AMxwoU",
+        "categories":"Cửa hàng, Chung cư, Quầy cà phê",
         "category_group":"df_shops"
     },
     {
@@ -10612,6 +11576,7 @@ const data = [
         "address":"Chọ, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJs-P339AhdTERWSSy8SpQWiA",
+        "categories":"Cửa hàng nội thất, Cửa hàng đồ nội thất thô mộc",
         "category_group":"df_shops"
     },
     {
@@ -10623,6 +11588,7 @@ const data = [
         "address":"Đường số 8, P, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJd_J-URIhdTERMK9leylfcE4",
+        "categories":"Đại lý bất động sản",
         "category_group":"df_shops"
     },
     {
@@ -10634,6 +11600,7 @@ const data = [
         "address":"65 Nguyễn Văn Tăng, Long Thạnh Mỹ, Thủ Đức, Thành phố Hồ Chí Minh 00084, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ83kWjqEvdTERqGo-aWIjMac",
+        "categories":"Đại lý xe mô tô",
         "category_group":"df_shops"
     },
     {
@@ -10645,6 +11612,7 @@ const data = [
         "address":"25\/14 Đường số 18, Bình Trưng Đông, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ7di-2ysldTERZriO64NwGyU",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -10656,6 +11624,7 @@ const data = [
         "address":"108 Lê Văn Thịnh, Bình Trưng Tây, Thủ Đức, Thành phố Hồ Chí Minh 71100, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJwVIhMjsldTEROSefPEu8rEQ",
+        "categories":"Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -10667,6 +11636,7 @@ const data = [
         "address":"49 1 Đường số 17, Bình Trưng Đông, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ644BlOIndTERsaZw6mWZCjA",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -10678,6 +11648,7 @@ const data = [
         "address":"48\/7, Đường 17, Phường Bình Trưng Đông, Quận 2, Bình Trưng Đông, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4XwwvikkdTERXImsGC0xTVQ",
+        "categories":"Cửa hàng thiết bị điện, Thợ sửa ống nước",
         "category_group":"df_shops"
     },
     {
@@ -10689,6 +11660,7 @@ const data = [
         "address":"22A Đ Làng Tăng Phú, Tăng Nhơn Phú A, Quận 9, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxUyfNwAndTERV8aTkhxgXnA",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -10700,6 +11672,7 @@ const data = [
         "address":"136D Đ. Mai Chí Thọ, An Phú, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOysouRkndTER28G9GEK7T3c",
+        "categories":"Đại lý xe Honda",
         "category_group":"df_shops"
     },
     {
@@ -10711,6 +11684,7 @@ const data = [
         "address":"26\/8 Đ Làng Tăng Phú, Tăng Nhơn Phú A, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJySPjvfondTERLPtqAW0mfoI",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -10722,6 +11696,7 @@ const data = [
         "address":"Đường 659 Đường Đỗ Xuân Hợp, Phước Long B, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh 800000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJay0wMYwmdTER1fqHjDaCP_4",
+        "categories":"Cửa hàng bảo trì và sửa chữ ô tô",
         "category_group":"df_shops"
     },
     {
@@ -10733,6 +11708,7 @@ const data = [
         "address":"4 Đường số 1, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ7VvypdIndTERiQOLxSWVfGg",
+        "categories":"Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -10744,6 +11720,7 @@ const data = [
         "address":"1075A Nguyễn Xiển, Long Bình, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiYB7vL0hdTERaF3c7f7ISsY",
+        "categories":"Cửa hàng sơn",
         "category_group":"df_shops"
     },
     {
@@ -10755,6 +11732,7 @@ const data = [
         "address":"VR5Q+FQR, 35, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ465Bw6IgdTERdMAnWTJjp60",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -10766,6 +11744,7 @@ const data = [
         "address":"129 Đường Số 6, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0QbsIJggdTER1Q_UkUrRVu8",
+        "categories":"Cửa hàng bán đàn ghita",
         "category_group":"df_shops"
     },
     {
@@ -10777,6 +11756,7 @@ const data = [
         "address":"967B Nguyễn Xiển, Long Bình, Quận 9, Thành phố Hồ Chí Minh 71217, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJM-ZLKNUhdTERDTz36DxBMhc",
+        "categories":"Cửa hàng, Cửa hàng chăm sóc sức khỏe và làm đẹp, Trung tâm mua sắm",
         "category_group":"df_shops"
     },
     {
@@ -10788,6 +11768,7 @@ const data = [
         "address":"4\/Đường 12\/1 1, Khu Phố 1, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJYZKgJgAldTERIu0jpFx4mWE",
+        "categories":"Cửa hàng rèm và màn trập",
         "category_group":"df_shops"
     },
     {
@@ -10799,6 +11780,7 @@ const data = [
         "address":"543 Nguyễn Thị Định, Cát Lái, Tp Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJx7Y3M3YmdTERpg2aVVFwxro",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -10810,6 +11792,7 @@ const data = [
         "address":"10 Phạm Văn Đồng, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGQzjeQApdTERbxFSwaDyxv4",
+        "categories":"Cửa hàng sửa chữa xe tay ga",
         "category_group":"df_shops"
     },
     {
@@ -10821,6 +11804,7 @@ const data = [
         "address":"76 Nguyễn Văn Thạnh, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJb6e1FgAhdTERjkULyJx4H4c",
+        "categories":"Cửa hàng vật nuôi",
         "category_group":"df_shops"
     },
     {
@@ -10832,6 +11816,7 @@ const data = [
         "address":"54\/16b Quang Trung Tăng, Nhơn Phú B, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJgYWT7scldTERvL8UPDzhIxg",
+        "categories":"Cửa hàng bán buôn",
         "category_group":"df_shops"
     },
     {
@@ -10843,6 +11828,7 @@ const data = [
         "address":"121 Đ. Số 2, Tăng Nhơn Phú B, Quận 9, Thành phố Hồ Chí Minh 171034, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJk7TDy4sndTERZ8hktQc6VQU",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -10854,6 +11840,7 @@ const data = [
         "address":"1\/126D Thích Mật Thể, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1-t7OBIldTERe0HoMuvy5YI",
+        "categories":"Cửa hàng sửa chữa xe máy, Tiệm rửa xe hai bánh, Nhà buôn bán xe máy cũ",
         "category_group":"df_shops"
     },
     {
@@ -10865,6 +11852,7 @@ const data = [
         "address":"203 Lã Xuân Oai, KP.04, P, Q. 09, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ_yIk3hMndTER_vgi1CfLEPU",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -10876,6 +11864,7 @@ const data = [
         "address":"12 Đ. 182, Tăng Nhơn Phú A, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxdOmtS8ndTERkN7SStWKBHM",
+        "categories":"Cửa hàng bán thực phẩm sạch",
         "category_group":"df_shops"
     },
     {
@@ -10887,6 +11876,7 @@ const data = [
         "address":"1213 Thích Mật Thể, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJC9A4QHgldTER0RCzMm2N80M",
+        "categories":"Cửa hàng tạp hóa",
         "category_group":"df_shops"
     },
     {
@@ -10898,6 +11888,7 @@ const data = [
         "address":"T18, tầng trệt, TTTM Giga Mall, 240- 242 Phạm Văn Đồng, Đ. Kha Vạn Cân, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe1pBLQwpdTER0EpIAk-H4Xw",
+        "categories":"Cửa hàng bán va li",
         "category_group":"df_shops"
     },
     {
@@ -10909,6 +11900,7 @@ const data = [
         "address":"75\/1\/14 đường long thuận Phường trường thạnh Quận 9, thanh phố, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbTBSWXsvdTERLJ9rnZnEsaE",
+        "categories":"Cửa hàng xăm hình",
         "category_group":"df_shops"
     },
     {
@@ -10920,6 +11912,7 @@ const data = [
         "address":"173 Long Thuận, Long Phước, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJh4eOtxAhdTER52FT4bfkuiM",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -10931,6 +11924,7 @@ const data = [
         "address":"53 Đường, 12 Tam Đa, Trường Thạnh, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJT0-d06YndTERzvUbrsZGEnc",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -10942,6 +11936,7 @@ const data = [
         "address":"20 \/14 Đường Số 22, Nguyễn Xiển, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJsbHQnZYhdTERcoYlMvlkoPo",
+        "categories":"Cửa hàng chăm sóc sức khỏe và làm đẹp",
         "category_group":"df_shops"
     },
     {
@@ -10953,6 +11948,7 @@ const data = [
         "address":"38\/3 đường 12 khu phố tam đa phường trường thạnh quận 9, Thủ Đức, Thành phố Hồ Chí Minh 716323, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJSW2uAbQndTERR4sIUTKZ8Rk",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -10964,6 +11960,7 @@ const data = [
         "address":"191E Đường Tam Đa KP, Tam Đa, P, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJYfwNbX0hdTER_6tt4sNgGIw",
+        "categories":"Cửa hàng bán mô hình",
         "category_group":"df_shops"
     },
     {
@@ -10975,6 +11972,7 @@ const data = [
         "address":"Đường D10, Đ. D1, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWRl9R2khdTERATl2_172730",
+        "categories":"Đại lý cho thuê cần cẩu",
         "category_group":"df_shops"
     },
     {
@@ -10986,6 +11984,7 @@ const data = [
         "address":"36 Đường Số 22, Phước Long B, Thủ Đức, Thành phố Hồ Chí Minh 71200, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJb11BiRwndTERX_OGAnqIJoU",
+        "categories":"Cửa hàng máy tính, Dịch vụ sửa chữa máy tính, Cửa hàng máy tính cũ",
         "category_group":"df_shops"
     },
     {
@@ -10997,6 +11996,7 @@ const data = [
         "address":"38B Đường Số 22, Phước Long B, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJeTNol28ndTERpIWK20PcKdI",
+        "categories":"Cửa hàng, Quán bar có bán thuốc lá, Cửa hàng pin, Quán bar đứng, Tiệm thuốc lá",
         "category_group":"df_shops"
     },
     {
@@ -11008,6 +12008,7 @@ const data = [
         "address":"241-243 Đỗ Xuân Hợp, Phước Long B, Quận 9, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4_oZ_QondTERk2xip4VnqCg",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -11019,6 +12020,7 @@ const data = [
         "address":"Lake View, 00.21, tầng trệt, CC, 19 Tố Hữu, P, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe_p8jtwvdTERXRRvxLbw47A",
+        "categories":"Cửa hàng bán dụng cụ chơi gôn, Cửa hàng phụ kiện thời trang, Sân gôn trong nhà, Siêu thị",
         "category_group":"df_shops"
     },
     {
@@ -11030,6 +12032,7 @@ const data = [
         "address":"Đường Trần Bạch Đằng, An Phú, Quận 2, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJA7P2fOondTERD0R03zpXuow",
+        "categories":"Đại lý cho thuê văn phòng",
         "category_group":"df_shops"
     },
     {
@@ -11041,6 +12044,7 @@ const data = [
         "address":"Đ. Võ Chí Công, Phường Phú Hữu, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ6_4mC78ndTER091u7P_wqsA",
+        "categories":"Cửa hàng bảo trì và sửa chữ ô tô, Bãi đỗ xe",
         "category_group":"df_shops"
     },
     {
@@ -11052,6 +12056,7 @@ const data = [
         "address":"QPGH+9FJ, Đ. Mai Chí Thọ, An Lợi Đông, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJd-RaHEsldTERyr9vhq4fxC8",
+        "categories":"Đại lý vé xe buýt",
         "category_group":"df_shops"
     },
     {
@@ -11063,6 +12068,7 @@ const data = [
         "address":"1070 Đ. Nguyễn Duy Trinh, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJhVwLUgAndTERIrAZcjIo2-0",
+        "categories":"Cửa hàng máy phát điện",
         "category_group":"df_shops"
     },
     {
@@ -11074,6 +12080,7 @@ const data = [
         "address":"Empire City, Thủ Thiêm, Thủ Đức, Thành phố Hồ Chí Minh 721400, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJMyDO8FgvdTERNj0ZCVFrteQ",
+        "categories":"Cửa hàng đồ vật nuôi",
         "category_group":"df_shops"
     },
     {
@@ -11085,6 +12092,7 @@ const data = [
         "address":"6 Đường Số 11, Long Phước, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJgZJmYUghdTERn7HH8fPH5w4",
+        "categories":"Cửa hàng vật liệu xây dựng",
         "category_group":"df_shops"
     },
     {
@@ -11096,6 +12104,7 @@ const data = [
         "address":"423 Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJTy_2IPAhdTERBI0mMcYGjWo",
+        "categories":"Cửa hàng vật nuôi",
         "category_group":"df_shops"
     },
     {
@@ -11107,6 +12116,7 @@ const data = [
         "address":"588 Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN2OpGRYhdTERu9hQpbffFNg",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -11118,6 +12128,7 @@ const data = [
         "address":"845 Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJgQGUZHkhdTERMiBh_W0ao-A",
+        "categories":"Cửa hàng tạp hóa",
         "category_group":"df_shops"
     },
     {
@@ -11129,6 +12140,7 @@ const data = [
         "address":"114 Đ. 120, KP2, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJo6d5xJIndTERwByUDShLDWU",
+        "categories":"Cửa hàng quần áo lao động",
         "category_group":"df_shops"
     },
     {
@@ -11140,6 +12152,7 @@ const data = [
         "address":"20\/1 Nguyễn Hữu Nam, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4aWUZZIndTERxiBAFFOCHnc",
+        "categories":"Cửa hàng vá xe",
         "category_group":"df_shops"
     },
     {
@@ -11151,6 +12164,7 @@ const data = [
         "address":"41\/21\/13, Đường Cầu Xây, Phường Tân Phú, Quận 9, Phường Tân Phú, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN6AANU8ndTERvYMT51tBqSc",
+        "categories":"Cửa hàng nội thất, Cửa hàng lưu niệm",
         "category_group":"df_shops"
     },
     {
@@ -11162,6 +12176,7 @@ const data = [
         "address":"190 Nguyễn Thị Định, An Phú, Quận 2, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJoWT3-RkndTERrOPgF2udKzs",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -11173,6 +12188,7 @@ const data = [
         "address":"79\/30\/52 Đ. Âu Cơ, Phường 14, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJeXyMi5UudTER3XgTBwvnK40",
+        "categories":"Cửa hàng xe máy thể thao, Nhà cung cấp quần áo bảo hộ",
         "category_group":"df_shops"
     },
     {
@@ -11184,6 +12200,7 @@ const data = [
         "address":"364 Lạc Long Quân, Phường 5, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ7_Tz0NAvdTERavUzCOjJxBI",
+        "categories":"Cửa hàng giày thể thao, Câu lạc bộ thể thao, Câu lạc bộ cầu lông, Cửa hàng bán dụng cụ thể thao ngoài trời, Cửa hàng quần áo thể thao",
         "category_group":"df_shops"
     },
     {
@@ -11195,6 +12212,7 @@ const data = [
         "address":"79\/1 ĐƯỜNG 100 Bình Thới, Phường 14, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJP1qLwJUudTEROJTpGssUJi0",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -11206,6 +12224,7 @@ const data = [
         "address":"86\/68 Ông Ích Khiêm, Phường 14, Quận 11, Thành phố Hồ Chí Minh 08408, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLXa8cx4vdTERST0EGuSwQ7U",
+        "categories":"Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -11217,6 +12236,7 @@ const data = [
         "address":"220 Bình Thới, Phường 14, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrT9ymuMvdTER0-HS60x6OJg",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -11228,6 +12248,7 @@ const data = [
         "address":"58 Hẻm 86 Ông Ích Khiêm, Phường 14, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJ97hFmIvdTER8jcHw0vfMz4",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -11239,6 +12260,7 @@ const data = [
         "address":"203\/18\/23 Lạc Long Quân, Phường 3, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiTUdcB8vdTERzu-qKYvEUak",
+        "categories":"Cửa hàng bánh",
         "category_group":"df_shops"
     },
     {
@@ -11250,6 +12272,7 @@ const data = [
         "address":"161G\/3 Lạc Long Quân, Phường 3, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJAdYycpoudTERzkkNSbFbISw",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -11261,6 +12284,7 @@ const data = [
         "address":"565\/19 Bình Thới, Phường 10, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJyz7fpYudTERFrGhXRUHLL8",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -11272,6 +12296,7 @@ const data = [
         "address":"Lạc Long Quân, Phường 3, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbZnIBccudTERtBgO-UqMWgg",
+        "categories":"Cửa hàng in ấn, Thợ đóng sách, Cửa hàng phô-tô-copy, Nhà thiết kế đồ họa, Dịch vụ in ấn giấy mời, Cửa hàng bán sách hiếm, Nhà thiết kế trang web",
         "category_group":"df_shops"
     },
     {
@@ -11283,6 +12308,7 @@ const data = [
         "address":"206\/22 Lạc Long Quân, Phường 10, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJo7R6WwAvdTER4tRXMKZM0Yw",
+        "categories":"Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -11294,6 +12320,7 @@ const data = [
         "address":"245 Thái Phiên, Phường 8, Quận 11, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrfYPj5EudTERSNNyHyEMAQw",
+        "categories":"Đại lý vé xe buýt",
         "category_group":"df_shops"
     },
     {
@@ -11305,6 +12332,7 @@ const data = [
         "address":"256\/90\/5 Hàn Hải Nguyên, Phường 9, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUTLZvZEudTERj-1Hey81Qpo",
+        "categories":"Cửa hàng phụ kiện điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -11316,6 +12344,7 @@ const data = [
         "address":"439 Đ. Minh Phụng, Phường 10, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJBwyJtBsvdTERqSprca_ePdg",
+        "categories":"Cửa hàng sandwich",
         "category_group":"df_shops"
     },
     {
@@ -11327,6 +12356,7 @@ const data = [
         "address":"427\/7 Đ. Minh Phụng, Phường 10, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJyf8M8LAvdTERzHUetdVv2ow",
+        "categories":"Cửa hàng thiết bị hóa hơi",
         "category_group":"df_shops"
     },
     {
@@ -11338,6 +12368,7 @@ const data = [
         "address":"26c\/23 Lạc Long Quân, Phường 3, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJK4GV05kudTER9yXypPGb8Hk",
+        "categories":"Cửa hàng đồ chơi",
         "category_group":"df_shops"
     },
     {
@@ -11349,6 +12380,7 @@ const data = [
         "address":"212 Đ. Xóm Đất, Phường 10, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtaYzFgAvdTERY1m7jo1p0ns",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -11360,6 +12392,7 @@ const data = [
         "address":"75 Phú Thọ, Phường 1, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJn0SV7Y8udTERoWdyE4555ZY",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -11371,6 +12404,7 @@ const data = [
         "address":"160 Hàn Hải Nguyên, Phường 8, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJYcNRuqovdTERWDT-bjptRok",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -11382,6 +12416,7 @@ const data = [
         "address":"347\/15 Đ. Minh Phụng, Phường 2, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2yXHH-0vdTERNBg8OMNbbS4",
+        "categories":"Cửa hàng bán đồ tráng miệng",
         "category_group":"df_shops"
     },
     {
@@ -11393,6 +12428,7 @@ const data = [
         "address":"117B Lò Siêu, Phường 8, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ87eWVWMvdTER3dLi1oPDqnk",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -11404,6 +12440,7 @@ const data = [
         "address":"1247 Đ. 3 Tháng 2, Phường 6, Quận 11, Thành phố Hồ Chí Minh 744910, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJwyaGIacvdTER6i-FjkG8W7k",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -11415,6 +12452,7 @@ const data = [
         "address":"96 Trần Quý, Phường 6, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVwbpPpMvdTERr2AgO6SejyA",
+        "categories":"Cửa hàng thiết bị âm thanh",
         "category_group":"df_shops"
     },
     {
@@ -11426,6 +12464,7 @@ const data = [
         "address":"128 Phó Cơ Điều, Phường 4, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ7ZIgMNgvdTEROe1fR_xFjj8",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -11437,6 +12476,7 @@ const data = [
         "address":"1273 Đ. 3 Tháng 2, P. 06, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ926kX40udTERXTGHeLGcgrc",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -11448,6 +12488,7 @@ const data = [
         "address":"199 Đ. Đỗ Ngọc Thạnh, Phường 4, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJz50ezPMudTERG9tt9_NkesM",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -11459,6 +12500,7 @@ const data = [
         "address":"122\/12D Tạ Uyên, Phường 4, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxWetKXAvdTERzd4w7Jf2WMc",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -11470,6 +12512,7 @@ const data = [
         "address":"83 Hàn Hải Nguyên, Phường 16, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ69Ien40udTERZCk8jE9CjhM",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -11481,6 +12524,7 @@ const data = [
         "address":"335 Đ. Lê Đại Hành, Phường 13, Quận 11, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJD4OanpQvdTERh_u-NGsauZs",
+        "categories":"Cửa hàng xe máy, Đại lý xe Honda",
         "category_group":"df_shops"
     },
     {
@@ -11492,6 +12536,7 @@ const data = [
         "address":"121 Lê Thị Bạch Cát, Phường 13, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJF_CdV0gvdTER6oNi1xgdeJ8",
+        "categories":"Cửa hàng quần áo nữ, Cửa hàng quần áo, Cửa hàng quần áo công sở",
         "category_group":"df_shops"
     },
     {
@@ -11503,6 +12548,7 @@ const data = [
         "address":"33 Quân Sự, Phường 11, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJp1OOZZMudTERF0i_4oZmTio",
+        "categories":"Cửa hàng máy tính, Nhà cung cấp máy trò chơi giải trí, Nhà cung cấp sản phẩm làm đẹp, Dịch vụ máy tính, Cửa hàng đồ gia dụng",
         "category_group":"df_shops"
     },
     {
@@ -11514,6 +12560,7 @@ const data = [
         "address":"270d Đ. Võ Thị Sáu, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJx7QbgQQvdTERAbunVGVp93Y",
+        "categories":"Cửa hàng văn phòng phẩm",
         "category_group":"df_shops"
     },
     {
@@ -11525,6 +12572,7 @@ const data = [
         "address":"451\/22 Hai Bà Trưng, Phường 8, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWfSj6KkpdTERkG1wqm9NKeQ",
+        "categories":"Cửa hàng sách cũ",
         "category_group":"df_shops"
     },
     {
@@ -11536,6 +12584,7 @@ const data = [
         "address":"Tòa nhà Anh Đăng, 215 Đ. Nam Kỳ Khởi Nghĩa, Phường 7, Quận 3, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJv4OjHC0vdTERDK0MdN37OpE",
+        "categories":"Đại lý du lịch, Đại lý vé máy bay, Khách sạn, Nhà điều hành du lịch",
         "category_group":"df_shops"
     },
     {
@@ -11547,6 +12596,7 @@ const data = [
         "address":"72b Trần Quốc Toản, Phường 8, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfdCKLwAvdTERPH-sgIBETC0",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -11558,6 +12608,7 @@ const data = [
         "address":"Hẻm 58 Phạm Ngọc Thạch, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJo3XYVDgvdTERZX8fFbGkIu4",
+        "categories":"Cửa hàng văn phòng phẩm, Cửa hàng bán dụng cụ nghệ thuật, Công ty thiết kế, Cửa hàng lưu niệm",
         "category_group":"df_shops"
     },
     {
@@ -11569,6 +12620,7 @@ const data = [
         "address":"61A Trần Quang Diệu, Phường 13, Quận 3, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrzRsNyovdTERPVisRpkNr7I",
+        "categories":"Cửa hàng đồ làm bánh, Cửa hàng bán thực phẩm sạch",
         "category_group":"df_shops"
     },
     {
@@ -11580,6 +12632,7 @@ const data = [
         "address":"195\/36 Trần Văn Đang, Phường 11, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ6750yvspdTERMsn1Nrtd7Zo",
+        "categories":"Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -11591,6 +12644,7 @@ const data = [
         "address":"77A Trần Văn Đang, Phường 11, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWYqwCAAvdTERCRQHJ24znlQ",
+        "categories":"Cửa hàng sơn",
         "category_group":"df_shops"
     },
     {
@@ -11602,6 +12656,7 @@ const data = [
         "address":"372\/1 Đ. Cách Mạng Tháng 8, Phường 10, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJoVGRzzovdTER_seYV2tswRk",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -11613,6 +12668,7 @@ const data = [
         "address":"38 Đ. Kỳ Đồng, Phường 9, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJP-9PxygvdTERHaPiasQUfeE",
+        "categories":"Cửa hàng sách tôn giáo, Nhà thờ",
         "category_group":"df_shops"
     },
     {
@@ -11624,6 +12680,7 @@ const data = [
         "address":"249 Đ. Nguyễn Văn Luông, Phường 11, Quận 6, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3ZYA36svdTERl6UBlxg_N5Q",
+        "categories":"Cửa hàng sửa chữa đồ điện tử, Cửa hàng sửa chữa điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -11635,6 +12692,7 @@ const data = [
         "address":"671\/3 Đ. Hồng Bàng, Phường 6, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ56ZOyI4udTER0qMOCe--Ho8",
+        "categories":"Cửa hàng văn phòng phẩm",
         "category_group":"df_shops"
     },
     {
@@ -11646,6 +12704,7 @@ const data = [
         "address":"56A Đ. Lê Quang Sung, P. 02, Q. 06, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJb2RnHYsudTER3oK6kkRKlMw",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -11657,6 +12716,7 @@ const data = [
         "address":"58-62 Tháp Mười, Phường 2, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ5bnWwooudTERDZYW6j8z4nc",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -11668,6 +12728,7 @@ const data = [
         "address":"137 - 139 Ngô Nhân Tịnh F2 Q6, Phường 2, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ6y6mOvUudTERgT0axw-Z8a8",
+        "categories":"Cửa hàng đồ chơi",
         "category_group":"df_shops"
     },
     {
@@ -11679,6 +12740,7 @@ const data = [
         "address":"8\/43d Tân Hóa, Phường 1, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ5R78lsEvdTERekIKwFA9POA",
+        "categories":"Cửa hàng bánh ngọt",
         "category_group":"df_shops"
     },
     {
@@ -11690,6 +12752,7 @@ const data = [
         "address":"3 Đ. Hậu Giang, Phường 2, Quận 6, Thành phố Hồ Chí Minh 73107, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJq9ByZFwvdTERSSBTEmHNBDs",
+        "categories":"Cửa hàng trang sức",
         "category_group":"df_shops"
     },
     {
@@ -11701,6 +12764,7 @@ const data = [
         "address":"144\/1, Q6 Đ. Chu Văn An, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe1uFDSAtdTER6HKCiv2cjCg",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -11712,6 +12776,7 @@ const data = [
         "address":"56a Đ. Phạm Đình Hổ, Phường 2, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-0G0ZIoudTER4TbfWTF4phI",
+        "categories":"Cửa hàng phô-tô-copy, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -11723,6 +12788,7 @@ const data = [
         "address":"50A Phú Thọ, Phường 2, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJU3CBWrQvdTERf06a9CLQLJ0",
+        "categories":"Cửa hàng xe lăn",
         "category_group":"df_shops"
     },
     {
@@ -11734,6 +12800,7 @@ const data = [
         "address":"753 Đ. Hồng Bàng, Phường 6, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJvYC81SYvdTERkrlLLvNEVEc",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -11745,6 +12812,7 @@ const data = [
         "address":"552 Đ. Lê Quang Sung, Phường 9, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJEyfrHQAvdTERTHKozeWYl5M",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -11756,6 +12824,7 @@ const data = [
         "address":"71 Nguyễn Đình Chi, Phường 9, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ47zbfwAvdTER8-1IJUw2yrI",
+        "categories":"Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -11767,6 +12836,7 @@ const data = [
         "address":"178A3 Tân Hòa Đông, Phường 14, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4YBlDogtdTERXwCIlgyotmw",
+        "categories":"Cửa hàng kem, Trà trân châu, Quán cà phê",
         "category_group":"df_shops"
     },
     {
@@ -11778,6 +12848,7 @@ const data = [
         "address":"126 Đ. Hậu Giang, P.6, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJM4YCUzUvdTER4p3ShKFTY4k",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -11789,6 +12860,7 @@ const data = [
         "address":"269 Tân Hòa Đông, P. Phú Thuận, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ063goigsdTERD_OfTnlCvFE",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -11800,6 +12872,7 @@ const data = [
         "address":"94 Đ. Hậu Giang, Phường 6, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN69dw4svdTERH__4aYACzjU",
+        "categories":"Cửa hàng mỹ phẩm, Cửa hàng chăm sóc sức khỏe và làm đẹp",
         "category_group":"df_shops"
     },
     {
@@ -11811,6 +12884,7 @@ const data = [
         "address":"170F Tân Hòa Đông, Phường 14, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJFzEWbigsdTERBGcro1v8b0k",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -11822,6 +12896,7 @@ const data = [
         "address":"416 Đ. Hậu Giang, Phường 12, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZWulh4cudTERaLpO6es0RYM",
+        "categories":"Cửa hàng bán đồ điện tử, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động, Cửa hàng đồ gia dụng, Cửa hàng máy lạnh, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -11833,6 +12908,7 @@ const data = [
         "address":"460 Đ. Hậu Giang, Phường 12, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJNx-wxUwvdTERBpWOH1uJNBY",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -11844,6 +12920,7 @@ const data = [
         "address":"669\/36D, Đ. An Dương Vương, Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUy3Pn8ktdTERCAgsMA70-5Y",
+        "categories":"Cửa hàng vật nuôi",
         "category_group":"df_shops"
     },
     {
@@ -11855,6 +12932,7 @@ const data = [
         "address":"934\/8 Đ. An Dương Vương, Phường 13, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJV5b1jBEtdTERMD2LxThjdt0",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -11866,6 +12944,7 @@ const data = [
         "address":"Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJr547JTQsdTER0MeZSsGZMQw",
+        "categories":"Cửa hàng tạp phẩm, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -11877,6 +12956,7 @@ const data = [
         "address":"200 Bà Hom, Phường 13, Quận 6, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZRaYa2ctdTERt9xO96O9eBA",
+        "categories":"Cửa hàng giày dép, Trung tâm mua sắm",
         "category_group":"df_shops"
     },
     {
@@ -11888,6 +12968,7 @@ const data = [
         "address":"26 Đ. Kinh Dương Vương, Phường 13, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-YPFKIIudTER0ksx6Yij5ys",
+        "categories":"Đại lý xe Toyota, Đại lý ô tô, Văn phòng công ty",
         "category_group":"df_shops"
     },
     {
@@ -11899,6 +12980,7 @@ const data = [
         "address":"457 Đ. Nguyễn Văn Luông, Phường 12, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiyn4UPUvdTERO042rb9Bz0c",
+        "categories":"Cửa hàng kem",
         "category_group":"df_shops"
     },
     {
@@ -11910,6 +12992,7 @@ const data = [
         "address":"287 Đ. Bãi Sậy, Phường 8, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJF8DhcQAvdTEReSW0JAYPES8",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -11921,6 +13004,7 @@ const data = [
         "address":"442 Đ. Nguyễn Văn Luông, Phường 12, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJb0KTVBIvdTERz-BBgYSuEWc",
+        "categories":"Cửa hàng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -11932,6 +13016,7 @@ const data = [
         "address":"PJWV+4RW, Lô D Cư Xá Bình Tiên, Phường 4, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe-mRB7UvdTER81JGCQJSmCQ",
+        "categories":"Cửa hàng bán đồ tráng miệng",
         "category_group":"df_shops"
     },
     {
@@ -11943,6 +13028,7 @@ const data = [
         "address":"27\/18 Đ. Kinh Dương Vương, Phường 12, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJAZerdQAvdTERptiOL7vjRno",
+        "categories":"Cửa hàng hoa",
         "category_group":"df_shops"
     },
     {
@@ -11954,6 +13040,7 @@ const data = [
         "address":"231\/86\/5, Đ. Bình Tiên, Phường 8, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKbUmRQAvdTERSO2_4HN2m7I",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -11965,6 +13052,7 @@ const data = [
         "address":"48-48a Đ. Kinh Dương Vương, Phường 13, Quận 6, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWyPsmHUvdTERDvltKXMCqh0",
+        "categories":"Đại lý xe Honda",
         "category_group":"df_shops"
     },
     {
@@ -11976,6 +13064,7 @@ const data = [
         "address":"5 Hẻm 165 Van Than, Phường 8, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJw32AUEvdTERDTaMM_qZK-I",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -11987,6 +13076,7 @@ const data = [
         "address":"496 Đ. Hậu Giang, Phường 12, Quận 6, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJSa16JlQvdTERZhw13NsUT_g",
+        "categories":"Cửa hàng mũ",
         "category_group":"df_shops"
     },
     {
@@ -11998,6 +13088,7 @@ const data = [
         "address":"449A Đ. Phạm Văn Chí, Phường 7, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ5Xv0lWQudTER4IFaO5FPByY",
+        "categories":"Cửa hàng bánh",
         "category_group":"df_shops"
     },
     {
@@ -12009,6 +13100,7 @@ const data = [
         "address":"96 Văn Thân, Phường 8, Quận 6, Thành phố Hồ Chí Minh 10000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJY7gJxxovdTERBOhVO9WCAzs",
+        "categories":"Cửa hàng sửa chữa xe tay ga",
         "category_group":"df_shops"
     },
     {
@@ -12020,6 +13112,7 @@ const data = [
         "address":"596 Đ. Hậu Giang, P.12, Quận 6, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1-Pw4X0udTERS4IjpXLYv3w",
+        "categories":"Đại lý xe Honda, Đại lý xe mô tô, Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -12031,6 +13124,7 @@ const data = [
         "address":"47-49B Đ. Phạm Phú Thứ, Phường 3, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRaELQGQudTER5gONnUVQnV4",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -12042,6 +13136,7 @@ const data = [
         "address":"674 Đ. Hậu Giang, Phường 12, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJ0rSzd8vdTERz4l6ZNiYrkU",
+        "categories":"Cửa hàng bán va li",
         "category_group":"df_shops"
     },
     {
@@ -12053,6 +13148,7 @@ const data = [
         "address":"794A Đ. Hậu Giang, Phường 12, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJBcVru38udTERUXa2EIGMOrw",
+        "categories":"Cửa hàng giày dép, Cửa hàng túi xách, Cửa hàng phụ kiện thời trang",
         "category_group":"df_shops"
     },
     {
@@ -12064,6 +13160,7 @@ const data = [
         "address":"715A Đ. Hậu Giang, Phường 11, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJj4aLLgAvdTER4xol7QTDO3Q",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -12075,6 +13172,7 @@ const data = [
         "address":"85 Đ. Lý Chiêu Hoàng, Phường 10, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJO35TsBhxNjERttY13G8hhOI",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -12086,6 +13184,7 @@ const data = [
         "address":"106 Đ. Trần Văn Kiểu, Khu II, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJMQNQg9MvdTERSuEa0Dmu0G0",
+        "categories":"Đại lý xe mô tô",
         "category_group":"df_shops"
     },
     {
@@ -12097,6 +13196,7 @@ const data = [
         "address":"362\/26A1 Trần Văn Kiểu, Phường 7, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJgVp4PwAvdTERNRHhsq1uNMM",
+        "categories":"Cửa hàng trà",
         "category_group":"df_shops"
     },
     {
@@ -12108,6 +13208,7 @@ const data = [
         "address":"96 Đ. Lý Chiêu Hoàng, Khu II, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJz7H1PggvdTERZ4jFgC0xuvY",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -12119,6 +13220,7 @@ const data = [
         "address":"1034 Đ. Lò Gốm, Phường 7, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOQuWnhkvdTERgoLdgJLCKRM",
+        "categories":"Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -12130,6 +13232,7 @@ const data = [
         "address":"38 Đ. Chế Lan Viên, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ10qoXJ0pdTERTr6hjLZ3-ag",
+        "categories":"Đại lý ô tô",
         "category_group":"df_shops"
     },
     {
@@ -12141,6 +13244,7 @@ const data = [
         "address":"38 Đ. Chế Lan Viên, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJI84quLQpdTER3e2aB1gjf5I",
+        "categories":"Đại lý Mercedes-Benz",
         "category_group":"df_shops"
     },
     {
@@ -12152,6 +13256,7 @@ const data = [
         "address":"14A Huỳnh Thiện Lộc, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrawwjUkvdTER494r1GpFwmY",
+        "categories":"Cửa hàng tạp phẩm Triều Tiên, Nhà hàng Hàn Quốc",
         "category_group":"df_shops"
     },
     {
@@ -12163,6 +13268,7 @@ const data = [
         "address":"407 Đ. Kênh Tân Hóa, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxZV47EkvdTER5IgPeMJu2hQ",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -12174,6 +13280,7 @@ const data = [
         "address":"60 Huỳnh Thiện Lộc, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJk3x8G_AvdTERphMw0mj-SsE",
+        "categories":"Cửa hàng bán thực phẩm sạch",
         "category_group":"df_shops"
     },
     {
@@ -12185,6 +13292,7 @@ const data = [
         "address":"504 Đ. Âu Cơ, Phường 10, Tân Bình, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJu128nMwvdTERN6dxWy7qa4E",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -12196,6 +13304,7 @@ const data = [
         "address":"129\/18 Huỳnh Thiện Lộc, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtz1PMAAvdTERK9PzF2KTbVY",
+        "categories":"Cửa hàng ăn nhanh",
         "category_group":"df_shops"
     },
     {
@@ -12207,6 +13316,7 @@ const data = [
         "address":"126 Huỳnh Thiện Lộc, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZ7UITxovdTERveRX6Krs2nc",
+        "categories":"Cửa hàng bán dụng cụ thể thao ngoài trời",
         "category_group":"df_shops"
     },
     {
@@ -12218,6 +13328,7 @@ const data = [
         "address":"54 Đường, B Khu ADC, Thành phố Hồ Chí Minh 00000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3VOcUQ4vdTERSZI_-9Q7boE",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -12229,6 +13340,7 @@ const data = [
         "address":"225\/30A Thoại Ngọc Hầu, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh 76000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJzba-KBssdTERNvTAqgXSQEM",
+        "categories":"Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -12240,6 +13352,7 @@ const data = [
         "address":"412 Đ. Lũy Bán Bích, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh 761101, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQSYppqYudTERq4gDanDhskM",
+        "categories":"Đại lý xe gắn máy, Đại lý xe mô tô",
         "category_group":"df_shops"
     },
     {
@@ -12251,6 +13364,7 @@ const data = [
         "address":"400 Đ. Lũy Bán Bích, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJs_B2ACcvdTERcz30ndDZ3MA",
+        "categories":"Cửa hàng bán va li, Cửa hàng túi xách",
         "category_group":"df_shops"
     },
     {
@@ -12262,6 +13376,7 @@ const data = [
         "address":"24 Nguyễn Súy, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ239xHE4tdTERUsWX7v8nMOQ",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -12273,6 +13388,7 @@ const data = [
         "address":"80 Đ. Kênh Tân Hóa, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQ9xrsd4vdTERNEa9zUix3FI",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -12284,6 +13400,7 @@ const data = [
         "address":"241 Tân Hương, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJTWJ9fgAtdTERoqVcAhiwOE8",
+        "categories":"Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -12295,6 +13412,7 @@ const data = [
         "address":"416 Bình Long, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ76LFLvordTERnervE3F5hvE",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -12306,6 +13424,7 @@ const data = [
         "address":"10\/30 Tân Quý, Tân Phú, Thành phố Hồ Chí Minh 72000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW6eqY3UrdTER3A2Xr7Z4QDQ",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -12317,6 +13436,7 @@ const data = [
         "address":"Đ. Tân Kỳ Tân Quý, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJP1zEUB0rdTERNgfV9EHWDqg",
+        "categories":"Cửa hàng gia vị",
         "category_group":"df_shops"
     },
     {
@@ -12328,6 +13448,7 @@ const data = [
         "address":"71 Kênh Nước Đen, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJcPwHwAtdTERggO03bat_mI",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -12339,6 +13460,7 @@ const data = [
         "address":"55\/4 Tân Quý, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxyDZAo8udTER2Pk_BjdKSlY",
+        "categories":"Cửa hàng sửa chữa xe máy, Cửa hàng bảo trì và sửa chữ ô tô",
         "category_group":"df_shops"
     },
     {
@@ -12350,6 +13472,7 @@ const data = [
         "address":"173 Lê Thiệt, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJeVSJiJ0tdTERkYzNtZ1VPEU",
+        "categories":"Cửa hàng đồ gia dụng",
         "category_group":"df_shops"
     },
     {
@@ -12361,6 +13484,7 @@ const data = [
         "address":"171B Nguyễn Súy, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrW1bZw4tdTERmH3JlU01vPA",
+        "categories":"Cửa hàng giày thể thao, Câu lạc bộ thể thao, Câu lạc bộ cầu lông, Cửa hàng bán dụng cụ thể thao ngoài trời, Cửa hàng quần áo thể thao",
         "category_group":"df_shops"
     },
     {
@@ -12372,6 +13496,7 @@ const data = [
         "address":"116 Dương Văn Dương, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ427DXPcrdTERvZCKELbOMyI",
+        "categories":"Cửa hàng đồng phục",
         "category_group":"df_shops"
     },
     {
@@ -12383,6 +13508,7 @@ const data = [
         "address":"179 Đ. số 8, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJD5EhKwAtdTERDfRWXybmeuo",
+        "categories":"Cửa hàng sửa chữa xe máy",
         "category_group":"df_shops"
     },
     {
@@ -12394,6 +13520,7 @@ const data = [
         "address":"8 Đường S7, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtxVWwlYrdTERbqV1h_AVX6c",
+        "categories":"Cửa hàng bán dụng cụ thể thao ngoài trời",
         "category_group":"df_shops"
     },
     {
@@ -12405,6 +13532,7 @@ const data = [
         "address":"307 Tây Thạnh, Khu Phố 4, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ_ykRRwArdTER8MBuwH2JBM0",
+        "categories":"Cửa hàng ăn nhanh",
         "category_group":"df_shops"
     },
     {
@@ -12416,6 +13544,7 @@ const data = [
         "address":"58 Đ. T8, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJs1TCJlopdTERhR7oY6-dse4",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -12427,6 +13556,7 @@ const data = [
         "address":"287 Đ. Lê Trọng Tấn, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4VdrWXgrdTERt4W5a_Q5F1g",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -12438,6 +13568,7 @@ const data = [
         "address":"23\/36\/97, Nguyễn Hữu Tiến, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUVsj_dcrdTERu2ZG7pVlVvU",
+        "categories":"Cửa hàng túi xách",
         "category_group":"df_shops"
     },
     {
@@ -12449,6 +13580,7 @@ const data = [
         "address":"474 đường Đ. Lê Trọng Tấn, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJp9CoeLYrdTER_ytCWHmYB8I",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -12460,6 +13592,7 @@ const data = [
         "address":"449-451 Đ. Lê Trọng Tấn, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHxmqJO8rdTERZPR2ODgCGcA",
+        "categories":"Cửa hàng bán đồ điện tử, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động, Cửa hàng đồ gia dụng, Cửa hàng máy lạnh, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -12471,6 +13604,7 @@ const data = [
         "address":"406A Đ. Lê Trọng Tấn, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh 760302, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ14XYiuUrdTEREDVJW4ocEUA",
+        "categories":"Đại lý xe Honda, Đại lý xe gắn máy",
         "category_group":"df_shops"
     },
     {
@@ -12482,6 +13616,7 @@ const data = [
         "address":"425 Đ. Lê Trọng Tấn, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 008428, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJp5huidMrdTERgdr1EzLjCzI",
+        "categories":"Cửa hàng nội thất trẻ em",
         "category_group":"df_shops"
     },
     {
@@ -12493,6 +13628,7 @@ const data = [
         "address":"93C Đ. Tân Thắng, P, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVaXCujcrdTER9OK_PHUMtGI",
+        "categories":"Cửa hàng xe đạp",
         "category_group":"df_shops"
     },
     {
@@ -12504,6 +13640,7 @@ const data = [
         "address":"Lô IV-22 (KCN Tân Bình, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh 72000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJC6E29-UrdTERfOPucLISSb4",
+        "categories":"Đại lý xe Audi, Đại lý ô tô, Trạm sạc xe điện",
         "category_group":"df_shops"
     },
     {
@@ -12515,6 +13652,7 @@ const data = [
         "address":"AEON MALL, 30 Đ. Tân Thắng, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJE3fiF4crdTEReB9I3EaJQlo",
+        "categories":"Cửa hàng quần áo thể thao, Cửa hàng thiết bị thể dục, Cửa hàng bán dụng cụ thể thao ngoài trời, Cửa hàng giày thể thao",
         "category_group":"df_shops"
     },
     {
@@ -12526,6 +13664,7 @@ const data = [
         "address":"336\/5 Đ. Tân Kỳ Tân Quý, P, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4VOn14QpdTERLxCOA9f7C5I",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -12537,6 +13676,7 @@ const data = [
         "address":"32 Đ. Tân Thắng, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ_9uVpj0pdTERhEg99H5tLGc",
+        "categories":"Đại lý Mercedes-Benz",
         "category_group":"df_shops"
     },
     {
@@ -12548,6 +13688,7 @@ const data = [
         "address":"821 Đ. Trường Chinh, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh 72000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJK7Xcbq8vdTERWzpzT2v37YM",
+        "categories":"Đại lý xe Mitsubishi",
         "category_group":"df_shops"
     },
     {
@@ -12559,6 +13700,7 @@ const data = [
         "address":"75 Bùi Xuân Phái, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJAZjfjDYpdTER_1V548_pV4U",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -12570,6 +13712,7 @@ const data = [
         "address":"915 Đ. Lũy Bán Bích, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ75WqhXkvdTERjxCgX-Cis80",
+        "categories":"Cửa hàng kính mát",
         "category_group":"df_shops"
     },
     {
@@ -12581,6 +13724,7 @@ const data = [
         "address":"732 Đ. Trường Chinh, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJU2PMQgApdTERodFS_9EgNMg",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -12592,6 +13736,7 @@ const data = [
         "address":"8 Đ. Chu Thiên, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJR5V4dGgtdTERz9n7rR7E5EI",
+        "categories":"Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -12603,6 +13748,7 @@ const data = [
         "address":"TP, 343A Đ. Lũy Bán Bích, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJf_xGNaAudTERMOmYskqjVC0",
+        "categories":"Đại lý xe mô tô",
         "category_group":"df_shops"
     },
     {
@@ -12614,6 +13760,7 @@ const data = [
         "address":"161 Nguyễn Sơn, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJeQkl8Z0tdTERM_XySMN_Wa4",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -12625,6 +13772,7 @@ const data = [
         "address":"117 Cây Keo, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJl2bJ8R8sdTERZPQyUaxUZhA",
+        "categories":"Cửa hàng trang sức, Nhà cung cấp sản phẩm làm đẹp, Nhà thiết kế đồ trang sức, Thợ bạc, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -12636,6 +13784,7 @@ const data = [
         "address":"29 Hẻm 19 Nguyễn Cửu Đàm, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN_RTHrgudTERfCJjRGx7GfA",
+        "categories":"Cửa hàng in ấn, Cửa hàng phụ kiện điện thoại di động, Cửa hàng phụ kiện thời trang, Cửa hàng quà tặng, Dịch vụ đặt in",
         "category_group":"df_shops"
     },
     {
@@ -12647,6 +13796,7 @@ const data = [
         "address":"237\/23 Hòa Bình, P, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ_fcZP9otdTERi5RU60u09gQ",
+        "categories":"Cửa hàng trang sức",
         "category_group":"df_shops"
     },
     {
@@ -12658,6 +13808,7 @@ const data = [
         "address":"51 Quách Đình Bảo, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJUJrZHUtdTER1b0fp1KjSTU",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -12669,6 +13820,7 @@ const data = [
         "address":"172 Hòa Bình, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh 72015, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJhVjzF84vdTERmawiHulSUlM",
+        "categories":"Cửa hàng quần áo, Cửa hàng quần áo trẻ em, Cửa hàng phụ kiện thời trang, Cửa hàng quần áo công sở, Cửa hàng quần áo nam, Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -12680,6 +13832,7 @@ const data = [
         "address":"260\/2\/7 Phan Anh, P, Tân Phú, Thành phố Hồ Chí Minh 72000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrwafRXAwn44Rrss_HbFSdJw",
+        "categories":"Đại lý cho thuê xe máy",
         "category_group":"df_shops"
     },
     {
@@ -12691,6 +13844,7 @@ const data = [
         "address":"138B Gò Dầu, P, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1_TwKf8rdTER2F_tm1QzGy0",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -12702,6 +13856,7 @@ const data = [
         "address":"20 Nguyễn Văn Vịnh, Hiệp Tân, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0UqYQ-kpdTER4-Gh6GjBlvM",
+        "categories":"Cửa hàng quần áo cũ, Cửa hàng quần áo, Cửa hàng quần áo nam, Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -12713,6 +13868,7 @@ const data = [
         "address":"396 Đ. Tân Sơn Nhì, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh 72008, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJq8_hU8UpdTERB8fTJoO3W6Q",
+        "categories":"Cửa hàng quần áo, Cửa hàng quần áo trẻ em, Cửa hàng phụ kiện thời trang, Cửa hàng quần áo công sở, Cửa hàng quần áo nam, Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -12724,6 +13880,7 @@ const data = [
         "address":"Vương Quốc Cá Betta, 75 Phan Đình Phùng, P, Tân Phú, Thành phố Hồ Chí Minh 760000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJqbYTh-EvdTERGVnEX-8H3Ws",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -12735,6 +13892,7 @@ const data = [
         "address":"123 Nguyễn Ngọc Nhựt, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLdvvbBEtdTERwPOXOp6xL90",
+        "categories":"Cửa hàng máy tính cũ",
         "category_group":"df_shops"
     },
     {
@@ -12746,6 +13904,7 @@ const data = [
         "address":"309 Đ. Vườn Lài, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJc2ehmPAtdTER92QB3AwSzuc",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -12757,6 +13916,7 @@ const data = [
         "address":"23A Đường số 27, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ7xV5jOYrdTERRn8bSDcmvuo",
+        "categories":"Cửa hàng thiết bị hóa hơi, Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -12768,6 +13928,7 @@ const data = [
         "address":"174 Đ. Tân Kỳ Tân Quý, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 77000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe97cBGgpdTERMEurSVpfFfA",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -12779,6 +13940,7 @@ const data = [
         "address":"12 Đường Đô Đốc Long, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKy3ir_grdTER4m_4cuN1swc",
+        "categories":"Cửa hàng đồ nhà bếp, Cửa hàng đồ làm bánh, Nhà cung cấp thiết bị điện, Nhà cung cấp thiết bị công nghiệp, Cửa hàng bán buôn thiết bị gia dụng",
         "category_group":"df_shops"
     },
     {
@@ -12790,6 +13952,7 @@ const data = [
         "address":"22 Nguyễn Ngọc Nhựt, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJn_cTT6ktdTERHARnd2zNZ_Q",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -12801,6 +13964,7 @@ const data = [
         "address":"324 Đ. Tân Kỳ Tân Quý, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdfRmjPwrdTER_smdu4rVoMM",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -12812,6 +13976,7 @@ const data = [
         "address":"229\/43\/2, Đ. Tân Kỳ Tân Quý, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh 72008, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJFws20uspdTERNsPf1oXfJbM",
+        "categories":"Cửa hàng đồ gia dụng",
         "category_group":"df_shops"
     },
     {
@@ -12823,6 +13988,7 @@ const data = [
         "address":"295 Đ. Tân Kỳ Tân Quý, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJ4BBjYMvdTER-LjEtFrOC7Y",
+        "categories":"Đại lý cho thuê nhà chung cư",
         "category_group":"df_shops"
     },
     {
@@ -12834,6 +14000,7 @@ const data = [
         "address":"710\/53\/8 Hẻm 710 Lũy Bán Bích, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-VQrT0kvdTERZ0eMuQB0waA",
+        "categories":"Cửa hàng bán đồ câu cá",
         "category_group":"df_shops"
     },
     {
@@ -12845,6 +14012,7 @@ const data = [
         "address":"86 Nguyễn Quý Anh, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh 72000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW_woaw0rdTERlkxDTkXfx_A",
+        "categories":"Cửa hàng trò chơi điện tử",
         "category_group":"df_shops"
     },
     {
@@ -12856,6 +14024,7 @@ const data = [
         "address":"867 Đ. Lũy Bán Bích, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJkRDWRawudTER6iIuJHgQ4mw",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -12867,6 +14036,7 @@ const data = [
         "address":"135 Nguyễn Cửu Đàm, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJm_BpdhordTER81RfJB89nr8",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -12878,6 +14048,7 @@ const data = [
         "address":"681\/53 Đ. Âu Cơ, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJj1CmEboudTERHwXz48DuZrs",
+        "categories":"Cửa hàng bán dụng cụ nghệ thuật, Cửa hàng văn phòng phẩm",
         "category_group":"df_shops"
     },
     {
@@ -12889,6 +14060,7 @@ const data = [
         "address":"80A Đ. Vườn Lài, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJC0sWEDcpdTER9XKuALB0r6s",
+        "categories":"Cửa hàng phụ tùng xe máy, Cửa tiệm bán lẻ trực tiếp",
         "category_group":"df_shops"
     },
     {
@@ -12900,6 +14072,7 @@ const data = [
         "address":"29 Nguyễn Nhữ Lãm, P, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJm7fOW5MtdTERjmm_bcwxZcI",
+        "categories":"Cửa hàng đồ gia dụng",
         "category_group":"df_shops"
     },
     {
@@ -12911,6 +14084,7 @@ const data = [
         "address":"156, Phú Thọ Hòa, Phường Phú Thọ Hòa, Quận Tân Phú, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJIWKx96gudTERWG9NhN1pW5Y",
+        "categories":"Cửa hàng tổng hợp",
         "category_group":"df_shops"
     },
     {
@@ -12922,6 +14096,7 @@ const data = [
         "address":"803 Đ. Lũy Bán Bích, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfRlNBKEudTERh8yGFD7W9KA",
+        "categories":"Cửa hàng giày dép, Cửa hàng túi xách, Cửa hàng phụ kiện thời trang",
         "category_group":"df_shops"
     },
     {
@@ -12933,6 +14108,7 @@ const data = [
         "address":"280 Thạch Lam, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJB46ebTctdTERLNV43D76HPA",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -12944,6 +14120,7 @@ const data = [
         "address":"2 Thoại Ngọc Hầu, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJyevB6kYvdTERDs-46--6GNg",
+        "categories":"Cửa hàng bán dụng cụ thể thao ngoài trời",
         "category_group":"df_shops"
     },
     {
@@ -12955,6 +14132,7 @@ const data = [
         "address":"60\/22 Lê Văn Phan, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHeGR_pMudTEREdg-qNq398U",
+        "categories":"Cửa hàng quần áo, Nhà bán buôn vải và quần áo, Thợ may đo, Cửa hàng phụ kiện thời trang, Cửa hàng quần áo nam, Cửa hàng in ấn, Cửa hàng áo thun, Cửa hàng đồng phục, Xưởng dệt, Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -12966,6 +14144,7 @@ const data = [
         "address":"38\/47 Nguyễn Văn Vịnh, f, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrbPiBhotdTERpBK94jHrR6I",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -12977,6 +14156,7 @@ const data = [
         "address":"58 Thoại Ngọc Hầu, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh 760000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJi9gPgFIvdTERS-FxEenLwPk",
+        "categories":"Cửa hàng tạp phẩm Châu Á",
         "category_group":"df_shops"
     },
     {
@@ -12988,6 +14168,7 @@ const data = [
         "address":"128, Phú Thọ Hoà, Tân Phú, 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGVVycVUvdTERcYUaFg7ufS4",
+        "categories":"Cửa hàng bán vải",
         "category_group":"df_shops"
     },
     {
@@ -12999,6 +14180,7 @@ const data = [
         "address":"46 Lý Thánh Tông, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8WPrAwAvdTERKa8V8NzQ8Bc",
+        "categories":"Cửa hàng tiện lợi",
         "category_group":"df_shops"
     },
     {
@@ -13010,6 +14192,7 @@ const data = [
         "address":"226 Phan Anh, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJeyXy4iMsdTER0u1NYbvxuBw",
+        "categories":"Cửa hàng chăm sóc sức khỏe và làm đẹp",
         "category_group":"df_shops"
     },
     {
@@ -13021,6 +14204,7 @@ const data = [
         "address":"159 Lý Thánh Tông, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJL9vCHM8rdTERBt1v5nVCaAc",
+        "categories":"Cửa hàng bán thực phẩm đặc sản",
         "category_group":"df_shops"
     },
     {
@@ -13032,6 +14216,7 @@ const data = [
         "address":"149\/B45 Lý Thánh Tông, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3-vaEyEsdTER8s39ufLdYzA",
+        "categories":"Cửa hàng phụ tùng xe máy",
         "category_group":"df_shops"
     },
     {
@@ -13043,6 +14228,7 @@ const data = [
         "address":"149\/47\/20 Đ. Lũy Bán Bích, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJTWahMt0vdTERzLwJky36FkY",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -13054,6 +14240,7 @@ const data = [
         "address":"352 Thoại Ngọc Hầu, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJY5IZbgAtdTER6VnV6WLtSwo",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -13065,6 +14252,7 @@ const data = [
         "address":"137\/92 Phan Anh, Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJXd5EXSAtdTERf9Jgb5JdLEQ",
+        "categories":"Cửa hàng chăn đệm",
         "category_group":"df_shops"
     },
     {
@@ -13076,6 +14264,7 @@ const data = [
         "address":"381Thoại Ngọc Hầu, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPWqXb0UvdTER0WfdHnDz1xc",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -13087,6 +14276,7 @@ const data = [
         "address":"Gần ngã 3 Tô Hiệu, 25 Phan Anh, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHVVsWmstdTERk0jqoGwb0xU",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -13098,6 +14288,7 @@ const data = [
         "address":"47b Lê Liễu, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh 72011, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJg9hO1H0rdTERkiL7sVNsk3k",
+        "categories":"Đại lý giải trí",
         "category_group":"df_shops"
     },
     {
@@ -13109,6 +14300,7 @@ const data = [
         "address":"46 Đường CN1, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJS7kGlPArdTER0MTKQisRsls",
+        "categories":"Cửa hàng bán đồ điện tử, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động, Cửa hàng đồ gia dụng, Cửa hàng máy lạnh, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -13120,6 +14312,7 @@ const data = [
         "address":"651 Hương Lộ 3, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh 71912, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOwiUxBUrdTERiKsvQ6pJuu4",
+        "categories":"Cửa hàng quần áo, Cửa hàng quần áo trẻ em, Cửa hàng phụ kiện thời trang, Cửa hàng quần áo công sở, Cửa hàng quần áo nam, Cửa hàng quần áo nữ",
         "category_group":"df_shops"
     },
     {
@@ -13131,6 +14324,7 @@ const data = [
         "address":"412 Thạch Lam, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPT0Pmu0tdTERi32Gp6xn87M",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -13142,6 +14336,7 @@ const data = [
         "address":"18\/14C Đường số 1B, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQ90ukIctdTERSpgk0BXoIcY",
+        "categories":"Cửa hàng nội thất",
         "category_group":"df_shops"
     },
     {
@@ -13153,6 +14348,7 @@ const data = [
         "address":"96 Đ. số 4, Khu phố 27, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJAQB8gj0sdTERU-a4pkLC7WA",
+        "categories":"Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -13164,6 +14360,7 @@ const data = [
         "address":"445a Hương Lộ 3, P, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKwXIqqwhdTERZByMPn88B-s",
+        "categories":"Cửa hàng đồ vật nuôi, Dịch vụ chăm sóc thú nuôi, Dịch vụ trông thú cưng",
         "category_group":"df_shops"
     },
     {
@@ -13175,6 +14372,7 @@ const data = [
         "address":"34e Đường số 2, khu phố 27, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJXz3UbwAtdTERYP96jZ693h8",
+        "categories":"Cửa hàng tạp phẩm",
         "category_group":"df_shops"
     },
     {
@@ -13186,6 +14384,7 @@ const data = [
         "address":"378\/34 Thoại Ngọc Hầu, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJMVLsF8EtdTERZHIXtayw0-I",
+        "categories":"Cửa hàng hoa",
         "category_group":"df_shops"
     },
     {
@@ -13197,6 +14396,7 @@ const data = [
         "address":"2A Đ. Lê Văn Quới, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCcJN5BgsdTERgFXWf4w8fcU",
+        "categories":"Đại lý xe Honda",
         "category_group":"df_shops"
     },
     {
@@ -13208,6 +14408,7 @@ const data = [
         "address":"386 Hương Lộ 2 (Ngã Tư Bốn Xã, P. Phú Thuận, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ7Y8VW9AtdTER_QsqezjOcRw",
+        "categories":"Cửa hàng điện thoại di động, Cửa hàng phụ kiện điện thoại di động, Cửa hàng máy tính",
         "category_group":"df_shops"
     },
     {
@@ -13219,6 +14420,7 @@ const data = [
         "address":"265 Hòa Bình, Hiệp Tân, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJH-uNwRgsdTERF3sjHVq62Ss",
+        "categories":"Cửa hàng bán đồ điện tử, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động, Cửa hàng đồ gia dụng, Cửa hàng máy lạnh, Cửa hàng",
         "category_group":"df_shops"
     },
     {
@@ -13230,6 +14432,7 @@ const data = [
         "address":"123 Nguyễn Thế Truyện, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJo9RWzycpdTER6l55cQWChZ0",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -13241,6 +14444,7 @@ const data = [
         "address":"968 Đ. Âu Cơ, Phường 14, Tân Bình, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJYzVMaigpdTERUfcJoHi9o1g",
+        "categories":"Cửa hàng xe đạp",
         "category_group":"df_shops"
     },
     {
@@ -13252,6 +14456,7 @@ const data = [
         "address":"956 Đ. Âu Cơ, Phường 14, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe_Vdt8spdTER1CrSnRskS2o",
+        "categories":"Cửa hàng máy tính, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -13263,6 +14468,7 @@ const data = [
         "address":"96 Nguyễn Thế Truyện, P. Phú Thuận, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0WqTSH8pdTERQaYM6taKjpI",
+        "categories":"Cửa hàng vật liệu xây dựng",
         "category_group":"df_shops"
     },
     {
@@ -13274,6 +14480,7 @@ const data = [
         "address":"55\/34 Lê Ngã, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJg2XHxAIpdTERKjKjXVr696A",
+        "categories":"Cửa hàng đồ cưới",
         "category_group":"df_shops"
     },
     {
@@ -13285,6 +14492,7 @@ const data = [
         "address":"910 Đ. Âu Cơ, Phường 14, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ_abfiKcpdTERFrHq1vPFdEM",
+        "categories":"Cửa hàng điện thoại di động",
         "category_group":"df_shops"
     },
     {
@@ -13296,6 +14504,7 @@ const data = [
         "address":"92 Đường Trần Hưng Đạo, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ_5Doc78pdTERc0mpO1Twq3M",
+        "categories":"Cửa hàng bán đồ điện tử",
         "category_group":"df_shops"
     },
     {
@@ -13307,6 +14516,7 @@ const data = [
         "address":"49 Đường Trần Hưng Đạo, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJO4IhFMkpdTERqLkbAuwsL4M",
+        "categories":"Cửa hàng mỹ phẩm",
         "category_group":"df_shops"
     },
     {
@@ -13318,6 +14528,7 @@ const data = [
         "address":"108 Dân Tộc, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJj5ScQKEpdTERnN07wXKuMEk",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -13329,6 +14540,7 @@ const data = [
         "address":"138\/22 Trương Công Định, Phường 14, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrTm1SoMpdTERP-lD-zQoWA0",
+        "categories":"Cửa hàng trà",
         "category_group":"df_shops"
     },
     {
@@ -13340,6 +14552,7 @@ const data = [
         "address":"07 Ngô Quyền, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJF9pGYDspdTERBiLB4kCRfZ8",
+        "categories":"Cửa hàng văn phòng phẩm",
         "category_group":"df_shops"
     },
     {
@@ -13351,6 +14564,7 @@ const data = [
         "address":"1041 Đ. Lũy Bán Bích, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJr8lH68IvdTERHtgV2rc-npc",
+        "categories":"Cửa hàng quần áo",
         "category_group":"df_shops"
     },
     {
@@ -13362,6 +14576,7 @@ const data = [
         "address":"57 Vũ Trọng Phụng, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2309P6QvdTERo95d20YpHQU",
+        "categories":"Cửa hàng in ấn",
         "category_group":"df_shops"
     },
     {
@@ -13373,6 +14588,7 @@ const data = [
         "address":"90 Đ. Độc Lập, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJH3Z6p6wudTER5wbkaiFUje0",
+        "categories":"Cửa hàng bánh ngọt",
         "category_group":"df_shops"
     },
     {
@@ -13384,6 +14600,7 @@ const data = [
         "address":"46079 Nguyễn Văn Săng, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUXz2ck8pdTERSi-a58QOPo4",
+        "categories":"Cửa hàng tạp phẩm Châu Á",
         "category_group":"df_shops"
     },
     {
@@ -13395,6 +14612,7 @@ const data = [
         "address":"1022 Đ. Âu Cơ, Phường 14, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJz20biTopdTER9tcDj5eltzo",
+        "categories":"Cửa hàng cá cảnh",
         "category_group":"df_shops"
     },
     {
@@ -13406,6 +14624,7 @@ const data = [
         "address":"580 Đ. Lê Trọng Tấn, P, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJv2DDleUrdTERfZekWDJPxEA",
+        "categories":"Cửa hàng giày dép",
         "category_group":"df_shops"
     },
     {
@@ -13417,6 +14636,7 @@ const data = [
         "address":"188 Đ. Lê Trọng Tấn, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh 72009, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-43hYLgrdTERfsu5cXBtBAM",
+        "categories":"Đại lý xe Toyota, Xưởng sửa chữa ô tô, Đại lý ô tô",
         "category_group":"df_shops"
     }
 ]

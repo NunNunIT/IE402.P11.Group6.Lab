@@ -88,11 +88,11 @@
       // pointsLayer.visible = false;
       pointsLayer.visible = false;
 
-      // places.forEach(function (place) {
-      //   place.forEach(function (data) {
-      //     pointsLayer.add(createGraphic(data));
-      //   });
-      // })
+      places.forEach(function (place) {
+        place.forEach(function (data) {
+          pointsLayer.add(createGraphic(data));
+        });
+      })
 
       map.add(pointsLayer);
 

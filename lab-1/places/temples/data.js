@@ -8,6 +8,7 @@ const data = [
         "address":"621\/6 TL10, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+V%E1%BA%A1n+Ph%C6%B0%E1%BB%9Bc\/@10.7568823,106.6144231,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c310996d875:0x5ddac3e587cf627e!8m2!3d10.7568823!4d106.6144231!16s%2Fg%2F1hc1tl6nf?hl=vi&entry=ttu",
+        "categories":"Chùa, Điểm thu hút khách du lịch",
         "category_group":"df_temples"
     },
     {
@@ -19,6 +20,7 @@ const data = [
         "address":"280 Đ. Vành Đai Trong, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh 71908, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Th%C3%A1nh+Phaol%C3%B4\/@10.7523098,106.616141,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c328d8c3647:0xe3dd0258051ed020!8m2!3d10.7523098!4d106.616141!16s%2Fg%2F1tvm07n5?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -30,6 +32,7 @@ const data = [
         "address":"KP2 Đỗ Năng Tế, An Lạc A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Hu%E1%BB%87+Nghi%C3%AAm\/@10.7425037,106.6160317,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dcfcdfc4c77:0xa63ceeea43f641b1!8m2!3d10.7425037!4d106.6160317!16s%2Fg%2F1tr79912?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -41,6 +44,7 @@ const data = [
         "address":"PJW8+6WQ, An Lạc A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Nam+T%C3%B4ng\/@10.745575,106.6173654,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dcdf7a8dfab:0x93966e7d4391a4c2!8m2!3d10.745575!4d106.6173654!16s%2Fg%2F1tt1dqvm?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -52,6 +56,7 @@ const data = [
         "address":"574 Đ. Kinh Dương Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+T%E1%BB%AB+H%E1%BA%A1nh\/@10.7314979,106.6098408,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dc10bb4e415:0x93950f3d73b8fc71!8m2!3d10.7314979!4d106.6098408!16s%2Fg%2F1hc15lwrj?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -63,6 +68,7 @@ const data = [
         "address":"791 Đ. Lê Trọng Tấn, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh 71913, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Th%E1%BB%9D+Gi%C3%A1o+X%E1%BB%A9+G%C3%B2+M%C3%A2y\/@10.8159194,106.6019354,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b958f35235b:0xd0ef08bc549e4576!8m2!3d10.8159194!4d106.6019354!16s%2Fg%2F1hc59f9zw?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -74,6 +80,7 @@ const data = [
         "address":"1756 ĐT825, Tân Tạo, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Long+Th%E1%BA%A1nh\/@10.7602955,106.5750167,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752cfbb0434d9d:0x50edb2392cec4f96!8m2!3d10.7602955!4d106.5750167!16s%2Fg%2F1vl9n_3_?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo, Điểm thu hút khách du lịch",
         "category_group":"df_temples"
     },
     {
@@ -85,6 +92,7 @@ const data = [
         "address":"QJX5+7J8, Đường số 8, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%E1%BB%95+Hu%E1%BB%87\/@10.7981658,106.6090832,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bf45cb3611d:0x777577916d62ee77!8m2!3d10.7981658!4d106.6090832!16s%2Fg%2F11b69ckw1h?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -96,6 +104,7 @@ const data = [
         "address":"67 Đường số 10, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Huy%E1%BB%81n+Quang\/@10.7907552,106.593842,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c775f12a431:0xc2ce4c31c0f2a292!8m2!3d10.7907552!4d106.593842!16s%2Fg%2F11btrs3g6m?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -107,6 +116,7 @@ const data = [
         "address":"PHWM+5F9, Nguyễn Cửu Phú, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+B%C3%ACnh+An\/@10.7454165,106.5837285,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752da9941e6d6d:0x15955aabd57b076a!8m2!3d10.7454165!4d106.5837285!16s%2Fg%2F1tctj8b_?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -118,6 +128,7 @@ const data = [
         "address":"722 Đ. Tân Kỳ Tân Quý, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Th%E1%BB%9D+B%C3%ACnh+Thu%E1%BA%ADn,\/@10.7912532,106.6043746,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c74dbbb4a97:0x75abc4c3eb0a711c!8m2!3d10.7912532!4d106.6043746!16s%2Fg%2F1tgtbz_6?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -129,6 +140,7 @@ const data = [
         "address":"4\/44 Đường Số 2, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Long+V%C3%A2n\/@10.7386187,106.576729,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d5c001f87f9:0xd6b0345bb4bc356b!8m2!3d10.7386187!4d106.576729!16s%2Fg%2F11s5qrygj3?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -140,6 +152,7 @@ const data = [
         "address":"Hẻm 246\/31A Đ. Lê Văn Quới, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BB%8Bnh+x%C3%A1+Ph%C3%A1p+Hu%E1%BB%87\/@10.7779784,106.6099408,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c138a576e1b:0xb78c6bdaeb46cf6e!8m2!3d10.7779784!4d106.6099408!16s%2Fg%2F11cr_7zysz?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -151,6 +164,7 @@ const data = [
         "address":"840\/123, HL2, P, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Hi%E1%BA%BFu+Nghi%C3%AAm\/@10.7715082,106.5992307,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c422658e3ef:0x68e68250c1fdead0!8m2!3d10.7715082!4d106.5992307!16s%2Fg%2F11b682vb5k?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -162,6 +176,7 @@ const data = [
         "address":"93\/9 Nơ Trang Long, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+B%C3%ACnh+H%C3%B2a\/@10.809918,106.6943377,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528c1f4aeb761:0xd10422809c0de9b!8m2!3d10.809918!4d106.6943377!16s%2Fg%2F1v4pqh4q?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -173,6 +188,7 @@ const data = [
         "address":"67\/170 Bùi Đình Tuý, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+L%C3%A2m+Hu%C3%AA\/@10.8094362,106.699401,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528c06d882fbf:0xcf628723367488da!8m2!3d10.8094362!4d106.699401!16s%2Fg%2F11c56w3590?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -184,6 +200,7 @@ const data = [
         "address":"153 Xô Viết Nghệ Tĩnh, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Th%E1%BB%9D+Gi%C3%A1o+X%E1%BB%A9+Th%C3%A1nh+Martin%C3%B4\/@10.7961368,106.7097461,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528b1b9a566cd:0x442ba4cac979d130!8m2!3d10.7961368!4d106.7097461!16s%2Fg%2F11cm0jzlst?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -195,6 +212,7 @@ const data = [
         "address":"280\/93 Bùi Hữu Nghĩa, Phường 2, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Linh+Quang\/@10.7992426,106.7023903,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528b784b47cfb:0xe152acc0e1e1ad2c!8m2!3d10.7992426!4d106.7023903!16s%2Fg%2F11fkn10b79?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -206,6 +224,7 @@ const data = [
         "address":"45\/4n Đ. Điện Biên Phủ, Phường 15, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Ch%C3%ADnh+L%E1%BB%99\/@10.7967793,106.7017102,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528b64ed2beb9:0x45a383bd3b1ce794!8m2!3d10.7967793!4d106.7017102!16s%2Fg%2F1hc61c9l0?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -217,6 +236,7 @@ const data = [
         "address":"78 Đ. Nguyễn Cửu Vân, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+M%C3%B4ng+Tri%E1%BB%87u\/@10.7968937,106.7059013,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528b1325d0591:0x80d003e245cdf679!8m2!3d10.7968937!4d106.7059013!16s%2Fg%2F1tdz6x8s?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -228,6 +248,7 @@ const data = [
         "address":"107 Ng. Đức Kế, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+%C4%90%E1%BA%A1i+H%E1%BA%A1nh\/@10.8097129,106.7008035,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528bfed3917db:0xd03e013c8c0b7394!8m2!3d10.8097129!4d106.7008035!16s%2Fg%2F1thd45c0?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -239,6 +260,7 @@ const data = [
         "address":"215 Đ. Phan Văn Trị, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ho%C3%A0+Kh%C3%A1nh\/@10.8112135,106.6953366,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528c1e1e295a5:0x90e75adeb51d6fe7!8m2!3d10.8112135!4d106.6953366!16s%2Fg%2F1tj1j_c0?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -250,6 +272,7 @@ const data = [
         "address":"244 Nguyễn Văn Đậu, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%C3%A1p+V%C3%A2n\/@10.8122079,106.6930287,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528e9ee6380bb:0xdd6b632f6b359d38!8m2!3d10.8122079!4d106.6930287!16s%2Fg%2F1tg8g6dn?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo, Điểm thu hút khách du lịch",
         "category_group":"df_temples"
     },
     {
@@ -261,6 +284,7 @@ const data = [
         "address":"76 Đ. Bạch Đằng, Phường 24, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+H%C3%A0ng+Xanh\/@10.8033406,106.7085234,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528bba6442919:0x69fa872704b8153e!8m2!3d10.8033406!4d106.7085234!16s%2Fg%2F1tx4lvx3?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -272,6 +296,7 @@ const data = [
         "address":"482\/74\/14, 482\/76 Lê Quang Định, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Li%C3%AAn+%E1%BB%A8ng\/@10.8155314,106.6918364,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528e9ed8cddb5:0x6d4a82814a8b068e!8m2!3d10.8155314!4d106.6918364!16s%2Fg%2F1tjyl68x?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo, Chùa",
         "category_group":"df_temples"
     },
     {
@@ -283,6 +308,7 @@ const data = [
         "address":"550 Phạm Văn Đồng, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+B%C3%A1t+Nh%C3%A3\/@10.8229925,106.7044992,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289327da7a6f:0x2d5258192ca853f4!8m2!3d10.8229925!4d106.7044992!16s%2Fg%2F1vgw63zn?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -294,6 +320,7 @@ const data = [
         "address":"Hẻm 332 Đ. Phan Văn Trị, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Gi%C3%A1c+Quang\/@10.819239,106.6955049,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528ec3b12dd39:0xa33d87e102184796!8m2!3d10.819239!4d106.6955049!16s%2Fg%2F1v7thvqk?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -305,6 +332,7 @@ const data = [
         "address":"02 Thiên Hộ Dương, Phường 1, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%E1%BB%95+Minh+(Nam+T%C3%B4ng)\/@10.8197879,106.6933826,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528eee3098855:0x5bf5c31aebc4bf2!8m2!3d10.8197879!4d106.6933826!16s%2Fg%2F1tdrttt1?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -316,6 +344,7 @@ const data = [
         "address":"970 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tu+vi%E1%BB%87n+La+San+Mai+Th%C3%B4n\/@10.8223509,106.7304489,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175262f3ed8780f:0x593e3b49a0f1a43a!8m2!3d10.8223509!4d106.7304489!16s%2Fg%2F11b7chrgpg?hl=vi&entry=ttu",
+        "categories":"Nhà thờ, Tu viện",
         "category_group":"df_temples"
     },
     {
@@ -327,6 +356,7 @@ const data = [
         "address":"42\/38, 42\/38 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Long+%C4%90%E1%BB%A9c\/@10.8185442,106.7402848,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175263a11171735:0x29a550be6b8b044c!8m2!3d10.8185442!4d106.7402848!16s%2Fg%2F11csqkdwcz?hl=vi&entry=ttu",
+        "categories":"Chùa",
         "category_group":"df_temples"
     },
     {
@@ -338,6 +368,7 @@ const data = [
         "address":"482\/10\/28 Nơ Trang Long, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%C3%A1p+Quang+(Ph%E1%BA%ADt+gi%C3%A1o+Nguy%C3%AAn+thu%E1%BB%B7+Theravada)\/@10.8194289,106.705995,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528ecc0a09fa9:0xbb907c9cd7f1781a!8m2!3d10.8194289!4d106.705995!16s%2Fg%2F11h1b93bs?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -349,6 +380,7 @@ const data = [
         "address":"453 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%99i+Th%C3%A1nh+Tin+L%C3%A0nh+Vi%E1%BB%87t+Nam+-+Chi+H%E1%BB%99i+Thanh+%C4%90a\/@10.8311333,106.7419392,17z\/data=!3m1!4b1!4m6!3m5!1s0x317526278826fcb1:0x3c70687fb1ce780d!8m2!3d10.8311333!4d106.7419392!16s%2Fg%2F1hc0_5t4y?hl=vi&entry=ttu",
+        "categories":"Nhà thờ đạo Tin Lành",
         "category_group":"df_temples"
     },
     {
@@ -360,6 +392,7 @@ const data = [
         "address":"1 Bình Lợi, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+B%C3%ACnh+L%E1%BB%A3i\/@10.8254719,106.7064528,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175288eae750773:0x235eb34518ac138c!8m2!3d10.8254719!4d106.7064528!16s%2Fg%2F1hc5pmb9f?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -371,6 +404,7 @@ const data = [
         "address":"222 Bùi Đình Tuý, Phường 24, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Th%E1%BB%9D+Gi%C3%A1o+X%E1%BB%A9+Th%C3%A1nh+M%E1%BA%ABu+3\/@10.8077524,106.7020412,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528bf06042787:0xf7d1040233907dd1!8m2!3d10.8077524!4d106.7020412!16s%2Fg%2F11cs11n460?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -382,6 +416,7 @@ const data = [
         "address":"5GH Ng. Tất Tố, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+Hi%E1%BB%83n+Linh\/@10.7918498,106.7137428,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528adbad4f1b3:0x20c0b7392444b203!8m2!3d10.7918498!4d106.7137428!16s%2Fg%2F1thn2_pd?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -393,6 +428,7 @@ const data = [
         "address":"115\/9 Ng. Tất Tố, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+V%C4%83n+Tha%CC%81nh\/@10.7922914,106.7140007,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528adb82ddc1d:0xbf752c80ada39a74!8m2!3d10.7922914!4d106.7140007!16s%2Fg%2F1tcwj17s?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -404,6 +440,7 @@ const data = [
         "address":"117\/8 Xô Viết Nghệ Tĩnh, Phường 21, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ch%C3%A2u+L%C3%A2m+Ni+T%E1%BB%B1\/@10.7950052,106.7131981,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528b3c68feb8d:0x2c532fe8f25d5649!8m2!3d10.7950052!4d106.7131981!16s%2Fg%2F1tf13c8m?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -415,6 +452,7 @@ const data = [
         "address":"449 Nơ Trang Long, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Th%C3%A1i+B%C3%ACnh\/@10.8267955,106.7030223,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175288c7c185c2d:0x41a05564adc26b3b!8m2!3d10.8267955!4d106.7030223!16s%2Fg%2F1hc2sdvzp?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -426,6 +464,7 @@ const data = [
         "address":"280 Bùi Hữu Nghĩa, Phường 2, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Th%E1%BB%9D+Gi%C3%A1o+X%E1%BB%A9+Gia+%C4%90%E1%BB%8Bnh\/@10.7998987,106.6999009,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528b7ff0b40af:0x642b1711df3fa853!8m2!3d10.7998987!4d106.6999009!16s%2Fg%2F1vy7d26g?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -437,6 +476,7 @@ const data = [
         "address":"801\/67 Xô Viết Nghệ Tĩnh, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+Thanh+%C4%90a\/@10.8159227,106.7149253,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289bd3e7b3c3:0x3b368382436085d1!8m2!3d10.8159227!4d106.7149253!16s%2Fg%2F1tm2756n?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -448,6 +488,7 @@ const data = [
         "address":"618 Xô Viết Nghệ Tĩnh, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+B%E1%BA%A3o+Minh\/@10.8111842,106.7149767,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752898718440ad:0xae8167dfb45f1c60!8m2!3d10.8111842!4d106.7149767!16s%2Fg%2F1tdbncfh?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -459,6 +500,7 @@ const data = [
         "address":"464 Lê Quang Định, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+D%C6%B0%E1%BB%A3c+S%C6%B0\/@10.8130727,106.6902887,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528c0d797ad17:0xfbe16bd1f5445feb!8m2!3d10.8130727!4d106.6902887!16s%2Fg%2F1tdj1q6p?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo, Chùa",
         "category_group":"df_temples"
     },
     {
@@ -470,6 +512,7 @@ const data = [
         "address":"số 33, đường 792, ấp An Bình, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Vi%C3%AAn+Minh\/@11.1061884,106.4873176,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33c33492fe0d:0xbaf1b3ba1cdfa1b0!8m2!3d11.1061884!4d106.4873176!16s%2Fg%2F11gmcbjkxn?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -481,6 +524,7 @@ const data = [
         "address":"196 Bến Súc, An Phú, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%99i+Th%C3%A1nh+Tin+L%C3%A0nh+Vi%E1%BB%87t+Nam+-+Chi+H%E1%BB%99i+B%E1%BA%BFn+D%C6%B0%E1%BB%A3c\/@11.1073046,106.4850108,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33aada19fd5b:0xb281334fd4dccbb9!8m2!3d11.1073046!4d106.4850108!16s%2Fg%2F1hc5qkjsm?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Tin Lành",
         "category_group":"df_temples"
     },
     {
@@ -492,6 +536,7 @@ const data = [
         "address":"3C2G+56G, Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C3%B4+%C6%AFu+T%E1%BB%8Bnh+Vi%E1%BB%87n\/@11.0504319,106.4255795,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f2b4d81ca17:0x9c0dd38d710701c!8m2!3d11.0504319!4d106.4255795!16s%2Fg%2F11gn1hbtfk?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -503,6 +548,7 @@ const data = [
         "address":"XGQV+F6J, Tân Thạnh Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+H%C6%B0%C6%A1ng+Quang\/@10.9887218,106.5430173,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d34ed2b4faaf:0xbec077e959cdc62b!8m2!3d10.9887218!4d106.5430173!16s%2Fg%2F11csqg565j?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -514,6 +560,7 @@ const data = [
         "address":"XGGR+WG5, Unnamed Rd,, Phước Vĩnh An, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%C6%B0%E1%BB%9Bc+T%C3%A2m\/@10.9772562,106.5413523,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d356aff42281:0x5d342d312f9cf1a7!8m2!3d10.9772562!4d106.5413523!16s%2Fg%2F11bzq2sr4q?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -525,6 +572,7 @@ const data = [
         "address":"63 Đường 755 Ấp, Gò Nổi, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BB%8Bnh+Th%E1%BA%A5t+D%C6%B0%E1%BB%A3c+S%C6%B0\/@11.0466419,106.4673279,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d9428840765:0x7ed5b72917a49f45!8m2!3d11.0466419!4d106.4673279!16s%2Fg%2F11fsm7rp3z?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -536,6 +584,7 @@ const data = [
         "address":"XG8Q+PRG, ấp1, Tân Phú Trung, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+V%E1%BA%A1n+H%E1%BA%A1nh\/@10.9668204,106.5395703,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d4ac09560433:0x2e1dff893a2fdb2b!8m2!3d10.9668204!4d106.5395703!16s%2Fg%2F11c1ww7m3m?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -547,6 +596,7 @@ const data = [
         "address":"613 Đ. Đỗ Đăng Tuyển, Phú Mỹ Hưng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Hu%E1%BB%87+Quang\/@11.0930818,106.4578213,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33a446f2e82f:0xb8e06287b65a6892!8m2!3d11.0930818!4d106.4578213!16s%2Fg%2F11pm4f4z21?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -558,6 +608,7 @@ const data = [
         "address":"32, đường 693, ấp Bình Thượng 1, Thái Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ng%E1%BB%99+Ph%C3%A1p+C%E1%BB%A7+Chi\/@10.9869302,106.3957615,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f2f76a01bdf:0xbb7242dde32280f9!8m2!3d10.9869302!4d106.3957615!16s%2Fg%2F11s190gk8j?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -569,6 +620,7 @@ const data = [
         "address":"59\/6A tổ 3, đường 89, ấp cây da, Củ Chi, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Hi%E1%BB%87p+Gi%C3%A1c\/@10.961103,106.5410737,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d4b1fa583839:0x5f10c08c7e09a63a!8m2!3d10.961103!4d106.5410737!16s%2Fg%2F11b6b9rbj3?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -580,6 +632,7 @@ const data = [
         "address":"19\/11 Đường Số 64, Tân Phú Trung, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Li%C3%AAn+Hoa\/@10.9521593,106.5540007,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d5083737f465:0xed1cb8bc155bff0b!8m2!3d10.9521593!4d106.5540007!16s%2Fg%2F11vcw_qbkh?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -591,6 +644,7 @@ const data = [
         "address":"13\/4 đường 93, Ấp, Đ. Số 93, Tân Phú Trung, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BB%8Bnh+Vi%E1%BB%87n+Ph%C3%A1p+H%E1%BA%A1nh\/@10.9411373,106.5302543,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2b32151deb6d:0xc2e16af34326521d!8m2!3d10.9411373!4d106.5302543!16s%2Fg%2F11btrrlgpf?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -602,6 +656,7 @@ const data = [
         "address":"WGQX+RX4, HL2, Tân Phú Trung, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Li%C3%AAn+Tr%C3%AC\/@10.9395115,106.5499625,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d4da58366bdb:0x86a8b09bfabf0cd2!8m2!3d10.9395115!4d106.5499625!16s%2Fg%2F11b69x5wsw?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -613,6 +668,7 @@ const data = [
         "address":"WGRP+JCV, QL22, Tân Phú Trung, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+S%C6%A1n+L%E1%BB%99c\/@10.9416214,106.5360373,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d4deb4415593:0x6a56ffd2c9ccdde7!8m2!3d10.9416214!4d106.5360373!16s%2Fg%2F1hc3y037n?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -624,6 +680,7 @@ const data = [
         "address":"23 Ấp 3, Phạm Văn Cội, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Th%E1%BA%A7y+Nhu%E1%BA%ADn+T%E1%BB%AB\/@11.0265074,106.5116883,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d46213cfcd3:0x599ead272ec1f748!8m2!3d11.0265074!4d106.5116883!16s%2Fg%2F11k5vxn67y?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -635,6 +692,7 @@ const data = [
         "address":"2GH8+JCJ, Bùi Thị Điệt, Phạm Văn Cội, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%BAc+L%C3%A2m+Ph%E1%BA%ADt+Nguy%E1%BB%87n\/@11.0290799,106.5160309,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d3b6fb5bdc9:0x7706c9a6e20fd0f7!8m2!3d11.0290799!4d106.5160309!16s%2Fg%2F11c1xpqysw?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -646,6 +704,7 @@ const data = [
         "address":"543 Bùi Thị Điệt, Phạm Văn Cội, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%C6%B0%E1%BB%9Bc+Th%C3%A0nh\/@11.0249871,106.5070568,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d3ca32accb3:0x49b020f5ba2b8285!8m2!3d11.0249871!4d106.5070568!16s%2Fg%2F11dxdhj74q?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -657,6 +716,7 @@ const data = [
         "address":"16 đường, 98 ấp Giòng Sao, Tân Phú Trung, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+S%C3%B9ng+Nghi%C3%AAm\/@10.9443387,106.5562085,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d58945651ca7:0xb5bf457f1d51d8da!8m2!3d10.9443387!4d106.5562085!16s%2Fg%2F11h84q4_wl?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -668,6 +728,7 @@ const data = [
         "address":"XH8G+XWV, Tân Thạnh Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+%C6%AFu+%C4%90%C3%A0m\/@10.9674867,106.5772945,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d481741824dd:0x9bb8da3701a5fa02!8m2!3d10.9674867!4d106.5772945!16s%2Fg%2F11ggbng_k_?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -679,6 +740,7 @@ const data = [
         "address":"297 Cây Trôm Mỹ Khánh, Thái Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%C6%B0%E1%BB%9Bc+Kh%C3%A1nh\/@10.9842379,106.4206634,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f363698a26b:0x9f6ccce7ac381c57!8m2!3d10.9842379!4d106.4206634!16s%2Fg%2F11j7cv9jxr?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -690,6 +752,7 @@ const data = [
         "address":"557, 7, Thái Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%C3%A1o+x%E1%BB%A9+M%E1%BB%B9+Kh%C3%A1nh\/@10.9909441,106.4105165,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2ec5fa20a3b3:0xd764e93e72d93254!8m2!3d10.9909441!4d106.4105165!16s%2Fg%2F1hc578n5z?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -701,6 +764,7 @@ const data = [
         "address":"129 Đường Số 538, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Thi%E1%BB%81n+Th%E1%BA%A5t+T%E1%BB%8Bnh+Ho%C3%A0\/@11.061318,106.497261,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d87246bfd6d:0x9ba7a8ab77d35ff8!8m2!3d11.061318!4d106.497261!16s%2Fg%2F11j96pwxwr?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -712,6 +776,7 @@ const data = [
         "address":"3GG2+79M, An Nhơn Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Nh%E1%BA%ADt+Quang+C%E1%BB%A7+Chi\/@11.0757198,106.5009148,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b32903548066b:0xa44f8070f9cf1047!8m2!3d11.0757198!4d106.5009148!16s%2Fg%2F11g6bxmk2v?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -723,6 +788,7 @@ const data = [
         "address":"471 Cây Gõ, An Phú, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chu%CC%80a+Ph%C3%B4%CC%89+Hi%C3%AA%CC%80n\/@11.1288064,106.4975674,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b3372c5b204c7:0x895f202051a634ce!8m2!3d11.1288064!4d106.4975674!16s%2Fg%2F11hbthkm12?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -734,6 +800,7 @@ const data = [
         "address":"49\/7 đường số 654, Phước Thạnh, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BB%ADu+%C4%90%C3%A0+T%E1%BB%8Bnh+Vi%E1%BB%87n\/@11.019973,106.4305761,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f1e6cb973f5:0xd822f489d808efff!8m2!3d11.019973!4d106.4305761!16s%2Fg%2F11h4qbqc3d?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -745,6 +812,7 @@ const data = [
         "address":"44 Đường số 766, An Nhơn Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%E1%BA%A1n+Ph%C6%B0%E1%BB%9Bc+H%E1%BA%A3i+Tri%E1%BB%81u+%C3%82m\/@11.0797196,106.5126052,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33ac216b937d:0x4b8025ff40001842!8m2!3d11.0797196!4d106.5126052!16s%2Fg%2F11mpcstwg0?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -756,6 +824,7 @@ const data = [
         "address":"766 Bến Đình, An Nhơn Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ho%E1%BA%B1ng+Linh\/@11.0817156,106.512766,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b32bf0345fc5f:0x72a25729f9154fca!8m2!3d11.0817156!4d106.512766!16s%2Fg%2F1pzrn4g_x?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -767,6 +836,7 @@ const data = [
         "address":"537 Road, Nhuận Đức, Củ Chi, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Li%C3%AAn+T%C3%ADch\/@11.0464999,106.507366,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d69697ac8f3:0x535b8814c0cab564!8m2!3d11.0464999!4d106.507366!16s%2Fg%2F11g5z_147y?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -778,6 +848,7 @@ const data = [
         "address":"3G47+88J, Đường 499, Phạm Văn Cội, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+T%E1%BB%AB+Hi%E1%BA%BFu+(+C%E1%BB%A7+Chi+)\/@11.0558385,106.5132767,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d5dd8f82b87:0xfb5ff970551d30d0!8m2!3d11.0558385!4d106.5132767!16s%2Fg%2F11c1sbdf3b?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -789,6 +860,7 @@ const data = [
         "address":"Trung Lập\/Hẻm 530 Tổ 4, Ấp Đồng Lớn, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a\/@11.079057,106.441414,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b3315fde94211:0x26eedf6cfae0e5eb!8m2!3d11.079057!4d106.441414!16s%2Fg%2F11vc06ssps?hl=vi&entry=ttu",
+        "categories":"Chùa",
         "category_group":"df_temples"
     },
     {
@@ -800,6 +872,7 @@ const data = [
         "address":"25A đường 588, Ấp Đồn, Trung Lập Hạ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%C3%A1p+Vi%C3%AAn\/@11.0299278,106.4604713,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2dc8f20af479:0xcd9920703224fe0a!8m2!3d11.0299278!4d106.4604713!16s%2Fg%2F11b75px18m?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -811,6 +884,7 @@ const data = [
         "address":"Đường Kênh, ấp Gia Bẹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+H%C6%B0%C6%A1ng+Ph%C3%A1p\/@11.0205195,106.4658664,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2cc2cc949c41:0x25e82b28bcef8c10!8m2!3d11.0205195!4d106.4658664!16s%2Fg%2F11bx8kv35y?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -822,6 +896,7 @@ const data = [
         "address":"Đường 564-Ấp xóm mới, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+A+Di+%C4%90%C3%A0\/@11.0066771,106.4801642,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2c5a472013ed:0x542ab0b859740261!8m2!3d11.0066771!4d106.4801642!16s%2Fg%2F11gdt1bqxd?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -833,6 +908,7 @@ const data = [
         "address":"96C Đường số 111, Tân Thạnh Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%C6%B0%E1%BB%9Bc+Nguy%C3%AAn+(C%E1%BB%A7+Chi)\/@10.9547528,106.6096658,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d413b46c4f85:0xe4caf10c211ff7e4!8m2!3d10.9547528!4d106.6096658!16s%2Fg%2F11fy_6fc0v?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -844,6 +920,7 @@ const data = [
         "address":"97 Phạm Hữu Tâm, TT. Củ Chi, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+B%E1%BA%AFc+H%C3%A0\/@10.980366,106.499263,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2c84ae4f1079:0x4628d4287d1bd208!8m2!3d10.980366!4d106.499263!16s%2Fg%2F11g6pzpf77?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -855,6 +932,7 @@ const data = [
         "address":"369B Đường Xuyên Á, Quốc lộ 22, ấp Mũi Côn Đại, xã, Phước Hiệp, Củ Chi, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%99i+Th%C3%A1nh+Tin+L%C3%A0nh+Vi%E1%BB%87t+Nam,+Chi+h%E1%BB%99i+C%E1%BB%A7+Chi\/@10.9880556,106.4530515,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2c0ffc94298f:0xfc261c16f50c753f!8m2!3d10.9880556!4d106.4530515!16s%2Fg%2F1hc6_l2p1?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Tin Lành",
         "category_group":"df_temples"
     },
     {
@@ -866,6 +944,7 @@ const data = [
         "address":"XCGV+FHQ, Phước Hiệp, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+t%C6%B0%E1%BB%9Fng+ni%E1%BB%87m+M%E1%BA%B9+VNAH+Nguy%E1%BB%85n+Th%E1%BB%8B+R%C3%A0nh\/@10.9762167,106.4439836,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2bff0c44fd95:0xbc505393657ca580!8m2!3d10.9762167!4d106.4439836!16s%2Fg%2F11g871wdq3?hl=vi&entry=ttu",
+        "categories":"Nhà thờ",
         "category_group":"df_temples"
     },
     {
@@ -877,6 +956,7 @@ const data = [
         "address":"15\/7 đường 628 ( tên cũ) Phạm thị Thàng ( tên mới) ấp Mũi Côn Đại, Phước Hiệp, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Thi%E1%BB%87n+Th%E1%BB%87\/@10.9798804,106.4493837,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d4afc0ba9db:0xe73ff9b74566aa51!8m2!3d10.9798804!4d106.4493837!16s%2Fg%2F11h2llbtz7?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -888,6 +968,7 @@ const data = [
         "address":"212 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+H%C6%B0u+D%C6%B0%E1%BB%A1ng+Ph%C3%A1t+Di%E1%BB%87m\/@10.84574,106.671615,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b20db6ae21:0x9fb2027db89eeac7!8m2!3d10.84574!4d106.671615!16s%2Fg%2F1pztf43r2?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -899,6 +980,7 @@ const data = [
         "address":"226\/43\/64 Nguyễn Văn Lượng, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+%C4%90%E1%BB%8Bnh+Hu%E1%BB%87\/@10.8410907,106.6714034,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ac16665f21:0xc1f70c204bffbe73!8m2!3d10.8410907!4d106.6714034!16s%2Fg%2F12qf6tsfl?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -910,6 +992,7 @@ const data = [
         "address":"1111 Đ. Lê Đức Thọ, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Trung+Ngh%C4%A9a\/@10.8411152,106.6777032,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528533de389bb:0x9e53adde46fd890c!8m2!3d10.8411152!4d106.6777032!16s%2Fg%2F1thxsqcb?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -921,6 +1004,7 @@ const data = [
         "address":"154\/4A Lê Hoàng Phái, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+K%E1%BB%B3+Quang+2\/@10.8415228,106.6735284,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ad153098af:0x9d823f002834a53!8m2!3d10.8415228!4d106.6735284!16s%2Fg%2F11h7s4t2lv?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo, Nơi thờ cúng",
         "category_group":"df_temples"
     },
     {
@@ -932,6 +1016,7 @@ const data = [
         "address":"153 Lê Hoàng Phái, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+An+Nh%C6%A1n\/@10.8421294,106.6752133,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175295da213f4ff:0x18d947a894141418!8m2!3d10.8421294!4d106.6752133!16s%2Fg%2F11hdqp0r21?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -943,6 +1028,7 @@ const data = [
         "address":"RMFM+7WH, Hẻm 155 Nguyễn Thái Sơn, Phường 4, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+An+L%E1%BA%A1c\/@10.8231963,106.6848549,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528fb29038b43:0x83103719cc262fb9!8m2!3d10.8231963!4d106.6848549!16s%2Fg%2F1hc66q6bv?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -954,6 +1040,7 @@ const data = [
         "address":"41 Đ. Nguyễn Văn Khối, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%C3%A1p+B%E1%BA%A3o\/@10.8440733,106.6594335,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a4905f2321:0x20f6a56be337905c!8m2!3d10.8440733!4d106.6594335!16s%2Fg%2F11xc0_r7b?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -965,6 +1052,7 @@ const data = [
         "address":"15 Đ. Số 8, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+T%E1%BA%BF+%C4%90%E1%BB%99\/@10.8375708,106.6637925,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a62d016111:0x59215a75f64c3332!8m2!3d10.8375708!4d106.6637925!16s%2Fg%2F1tdqr0g3?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -976,6 +1064,7 @@ const data = [
         "address":"581\/5c Vườn Lài, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+T%C6%B0%E1%BB%9Dng+Quang\/@10.8355215,106.6932931,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175296a86bf1b4d:0x73d77ba6fd8aa89d!8m2!3d10.8355215!4d106.6932931!16s%2Fg%2F11kq4l0t4r?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -987,6 +1076,7 @@ const data = [
         "address":"Hẻm 730, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/GX+%C4%90%E1%BB%A9c+M%E1%BA%B9+H%E1%BA%B1ng+C%E1%BB%A9u+Gi%C3%BAp+-+H%E1%BA%A1t+X%C3%B3m+M%E1%BB%9Bi+-+Gp+S%C3%A0i+G%C3%B2n\/@10.8493422,106.6716021,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ef20fd5059:0xdd1d8b393022395d!8m2!3d10.8493422!4d106.6716021!16s%2Fg%2F11lkq6sr3_?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -998,6 +1088,7 @@ const data = [
         "address":"323\/9\/29 Tổ29 KP3, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Thi%E1%BB%81n+Quang\/@10.8355968,106.693761,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f3c46ed6d7:0x23568a06f56c31a0!8m2!3d10.8355968!4d106.693761!16s%2Fg%2F11j4l1w6vv?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1009,6 +1100,7 @@ const data = [
         "address":"679\/11 Phạm Văn Chiêu, Phường 13, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+H%E1%BB%A3p+An\/@10.8545443,106.6645082,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b787ee53e5:0x980b3020c823aab3!8m2!3d10.8545443!4d106.6645082!16s%2Fg%2F1tdqr0g8?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1020,6 +1112,7 @@ const data = [
         "address":"90 Nguyễn Thái Sơn, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+M%C3%A2n+C%C3%B4i\/@10.8167736,106.6811516,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528e15cd224b5:0x17c0c0aec8f4834a!8m2!3d10.8167736!4d106.6811516!16s%2Fg%2F1tk88mdk?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1031,6 +1124,7 @@ const data = [
         "address":"564 Đ. Thống Nhất, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+H%C3%A0+%C4%90%C3%B4ng\/@10.8485914,106.664924,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b08316ea17:0xb841a7dfe94dcf1f!8m2!3d10.8485914!4d106.664924!16s%2Fg%2F1tdw0zhz?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1042,6 +1136,7 @@ const data = [
         "address":"41 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Th%E1%BB%9D+Gi%C3%A1o+X%E1%BB%A9+Ho%C3%A0ng+Mai\/@10.8489358,106.6679581,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b11b0e311d:0x876d0c71ec27514d!8m2!3d10.8489358!4d106.6679581!16s%2Fg%2F1tdn64qp?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1053,6 +1148,7 @@ const data = [
         "address":"748 Đ. Thống Nhất, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+B%E1%BA%AFc+D%C5%A9ng\/@10.8522313,106.66587,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b7406f4f6d:0xd75077ba8ece445f!8m2!3d10.8522313!4d106.66587!16s%2Fg%2F11c55kkk7p?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1064,6 +1160,7 @@ const data = [
         "address":"751 Đ. Thống Nhất, P.13, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+Th%C3%A1i+B%C3%ACnh\/@10.8527034,106.6653179,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b768d28ea3:0x1f2c2e8999a3db7d!8m2!3d10.8527034!4d106.6653179!16s%2Fg%2F1tgf0pzp?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1075,6 +1172,7 @@ const data = [
         "address":"20\/216 To 80 Đ. Thống Nhất, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+T%E1%BB%AD+%C4%90%C3%ACnh\/@10.8547742,106.6656001,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b7942b7e2f:0x50d7a6c4ec8fc737!8m2!3d10.8547742!4d106.6656001!16s%2Fg%2F1tgw_j2d?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1086,6 +1184,7 @@ const data = [
         "address":"688 Quang Trung, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+H%E1%BA%A1nh+Th%C3%B4ng+T%C3%A2y\/@10.8367455,106.6588746,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a731fe27d7:0x96dcb21bbb6ebe0e!8m2!3d10.8367455!4d106.6588746!16s%2Fg%2F12b02cxhw?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo, Điểm thu hút khách du lịch",
         "category_group":"df_temples"
     },
     {
@@ -1097,6 +1196,7 @@ const data = [
         "address":"782 Quang Trung, Phường 8, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Th%E1%BB%9Bi+H%C3%B2a\/@10.837386,106.6559205,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a0f9bfa823:0x98230b0fce1b90f!8m2!3d10.837386!4d106.6559205!16s%2Fg%2F1tfljy44?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1108,6 +1208,7 @@ const data = [
         "address":"25 Đ. Lê Đức Thọ, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+L%E1%BA%A1ng+S%C6%A1n\/@10.8517396,106.6607391,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bed262d10b:0x6a1f9138893dbd71!8m2!3d10.8517396!4d106.6607391!16s%2Fg%2F1tfkn75r?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1119,6 +1220,7 @@ const data = [
         "address":"450\/19 Đ. Lê Đức Thọ, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%E1%BB%95+Minh\/@10.8460125,106.6694046,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ae3781dc7f:0xdb52c713c3ee7a66!8m2!3d10.8460125!4d106.6694046!16s%2Fg%2F1hc3p_tqf?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1130,6 +1232,7 @@ const data = [
         "address":"229 Nguyễn Thái Sơn, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Nh%C6%B0+Lai\/@10.8286935,106.6917517,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528fa85d05c1f:0xae9ab848b9339bcb!8m2!3d10.8286935!4d106.6917517!16s%2Fg%2F1tc_br4_?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1141,6 +1244,7 @@ const data = [
         "address":"173\/2\/3 Đ. Dương Quảng Hàm, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+B%E1%BA%BFn+C%C3%A1t\/@10.8279165,106.6904113,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528f72d078d21:0x8095362a2213ef6b!8m2!3d10.8279165!4d106.6904113!16s%2Fg%2F1tfqc915?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1152,6 +1256,7 @@ const data = [
         "address":"237\/33\/129 Phạm Văn Chiêu, Phường 14, Gò Vấp, Thành phố Hồ Chí Minh 80000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+B%E1%BA%A3o+L%C3%A2m\/@10.8522843,106.6473986,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299404718d41:0x2c6b19e095a18bb6!8m2!3d10.8522843!4d106.6473986!16s%2Fg%2F11ckkxq4n9?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1163,6 +1268,7 @@ const data = [
         "address":"384 Phạm Văn Chiêu, Phường 9, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Th%E1%BA%A1ch+%C4%90%C3%A0\/@10.8502689,106.6540052,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bd94e20825:0xef0f1defe5f99eba!8m2!3d10.8502689!4d106.6540052!16s%2Fg%2F1td5cm0f?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1174,6 +1280,7 @@ const data = [
         "address":"332\/60 Đ. Dương Quảng Hàm, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+B%E1%BA%BFn+H%E1%BA%A3i\/@10.8258769,106.6952075,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528f3c0c28d0f:0xca0a86a8991a42d3!8m2!3d10.8258769!4d106.6952075!16s%2Fg%2F1tg37lf3?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo, Điểm thu hút khách du lịch",
         "category_group":"df_temples"
     },
     {
@@ -1185,6 +1292,7 @@ const data = [
         "address":"1 Đ Lê Lợi, Tân Thới 3, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJX761m3bVdDER-pj_ZvWbKt8",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1196,6 +1304,7 @@ const data = [
         "address":"RHVG+2H3, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJoe4hgf4qdTERF6LN3nk79yw",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1207,6 +1316,7 @@ const data = [
         "address":"4 ấp Mỹ Hòa 1, Trung Chánh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJowfDpUYrdTERm8PeXfavpJU",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1218,6 +1328,7 @@ const data = [
         "address":"VGQV+J8, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJw3_8_ZfVdDERwv7UtLOb2FA",
+        "categories":"Chùa",
         "category_group":"df_temples"
     },
     {
@@ -1229,6 +1340,7 @@ const data = [
         "address":"22\/2B ấp, Thới Tây 1, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJyZYvYSLVdDERB7BTRrG9ovg",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1240,6 +1352,7 @@ const data = [
         "address":"156\/4B ấp Thới Tây 2, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfS5lAJfVdDEReHfc-zeUjl8",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1251,6 +1364,7 @@ const data = [
         "address":"2\/5d ấp, Thới Tây 1, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe_ze_I7VdDERc-L2ZcahSCY",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1262,6 +1376,7 @@ const data = [
         "address":"4\/2 Ấp Tân Tiến, Xuân Thới Đông, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJORuWBG8qdTER-cWz8Zt61HE",
+        "categories":"Nhà thờ, Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1273,6 +1388,7 @@ const data = [
         "address":"258\/239, 150 ấp 1, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJvYwMxNvVdDERiYvxb10lQvI",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1284,6 +1400,7 @@ const data = [
         "address":"5\/74f Huỳnh Thị Na, Ap 1, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJTW2pHszVdDERDvbgoyKO2z0",
+        "categories":"Chùa",
         "category_group":"df_temples"
     },
     {
@@ -1295,6 +1412,7 @@ const data = [
         "address":"185 Đường Xuân Thới Sơn, 13 ấp 5, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLZUtAV8rdTERrrWmHpVZMKM",
+        "categories":"Nhà thờ Tin Lành",
         "category_group":"df_temples"
     },
     {
@@ -1306,6 +1424,7 @@ const data = [
         "address":"30\/2 ấp Đông Lân, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJE1bJFTcqdTERptzCpRD6oX8",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1317,6 +1436,7 @@ const data = [
         "address":"3 Đông Thạnh 2-3, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ6ZDbZuDVdDERq1BZRrAg3HA",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1328,6 +1448,7 @@ const data = [
         "address":"19\/1 tổ 1 ấp 1, Nhị Bình, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJuxSouVPWdDERcehdDr3eapw",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1339,6 +1460,7 @@ const data = [
         "address":"40 QL1A, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJgyEC8cordTERHowcibCxydw",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1350,6 +1472,7 @@ const data = [
         "address":"26\/7 Ấp Tiền Lân, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJE2r0W7MrdTER6w2HrW82mtk",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1361,6 +1484,7 @@ const data = [
         "address":"39 Đường Phạm Văn Sáng, Ấp 2, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJp8b0wi4rdTERpEvJO9h5gtg",
+        "categories":"Chùa",
         "category_group":"df_temples"
     },
     {
@@ -1372,6 +1496,7 @@ const data = [
         "address":"144\/9 Đ. Song Hành, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJk9qxFpnVdDERSR3t0QHojXE",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1383,6 +1508,7 @@ const data = [
         "address":"96 ấp Tân Thới 3, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHZx_9nXVdDERkrdjx4J7zsg",
+        "categories":"Chùa phật giáo, Chùa, Điểm thu hút khách du lịch",
         "category_group":"df_temples"
     },
     {
@@ -1394,6 +1520,7 @@ const data = [
         "address":"VHWG+4W2, Tân Thới Nhì, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJu5fdQHfVdDER6g35sujSQgo",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1405,6 +1532,7 @@ const data = [
         "address":"92c 6 ấp 6, D. Công Khi, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRUnRkmLVdDERpK036RgB8nU",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1416,6 +1544,7 @@ const data = [
         "address":"VHVH+8JM, Tân Thới Nhì, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdz6hznnVdDERRPE6ehZx6XE",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1427,6 +1556,7 @@ const data = [
         "address":"100\/3 Phan Văn Hớn, ấp 5, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJG2G4KY0qdTERNgIpFByaqyg",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1438,6 +1568,7 @@ const data = [
         "address":"3 QL22, Tân Thới Nhì, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJBb4ofoLVdDERyE2KCq1pPnI",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1449,6 +1580,7 @@ const data = [
         "address":"VJW7+P43, Đường Nguyễn Thị Sáu, Thới Tam Thôn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJK174x-7VdDERE4hQizm8ND8",
+        "categories":"Chùa",
         "category_group":"df_temples"
     },
     {
@@ -1460,6 +1592,7 @@ const data = [
         "address":"36\/2B Đường Xuân Thới 2, Xuân Thới Đông, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGyLITmMqdTERU2fETASuPZ8",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1471,6 +1604,7 @@ const data = [
         "address":"499\/160, 13 Tổ 22 Ấp 6, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1zdXauPVdDERxdaH0nz6JXM",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1482,6 +1616,7 @@ const data = [
         "address":"128 Đ. Nguyễn Ảnh Thủ, Trung Mỹ Tây, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJuZd3eh8rdTERD9H4SA3PD5Y",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1493,6 +1628,7 @@ const data = [
         "address":"100\/9 Đ. ĐT 1-2A, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiZCQiAzWdDERQ0t1CpR_faE",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1504,6 +1640,7 @@ const data = [
         "address":"14\/4A ấp Trung Chánh 2, Trung Chánh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOy-r0moqdTEROrYPbYunTdc",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1515,6 +1652,7 @@ const data = [
         "address":"VH5X+26H, 7, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZcZXNUIqdTERRemJZ4SXqNI",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1526,6 +1664,7 @@ const data = [
         "address":"đường Nguyễn Thị Bảy\/15\/6D Ap Bac Lân, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4SWdI0kqdTERuNnSUWuplNQ",
+        "categories":"Nhà thờ Thiên Chúa giáo",
         "category_group":"df_temples"
     },
     {
@@ -1537,6 +1676,7 @@ const data = [
         "address":"64\/4 ấp3, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0ZvVd2fWdDERlQ9fMZSInkA",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1548,6 +1688,7 @@ const data = [
         "address":"3 17 Ấp 3, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJucDVkWjWdDERyl2UfWHv2Xw",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1559,6 +1700,7 @@ const data = [
         "address":"1 Bùi Công Trừng, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJH6dcKm_WdDER-mfHT1BG4ZU",
+        "categories":"Chùa phật giáo, Điểm thu hút khách du lịch",
         "category_group":"df_temples"
     },
     {
@@ -1570,6 +1712,7 @@ const data = [
         "address":"10A Đ. Trịnh Thị Dối, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpRmUrWvWdDERWS2qwF4lMXY",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1581,6 +1724,7 @@ const data = [
         "address":"11 Huỳnh Tấn Phát, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiW22yLI6dTERUdioiTW-tt4",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1592,6 +1736,7 @@ const data = [
         "address":"MPVR+J7Q, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJDT-uVrE6dTERvBzPdOUdkpk",
+        "categories":"Nhà thờ",
         "category_group":"df_temples"
     },
     {
@@ -1603,6 +1748,7 @@ const data = [
         "address":"5\/2 Hẻm 456, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJATmYDu87dTER67bW7HDquCU",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1614,6 +1760,7 @@ const data = [
         "address":"485 Đ. Nguyễn Kiệm, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Ph%C3%A1t+Di%E1%BB%87m\/@10.8028511,106.6789518,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d84b9d8c41:0xa46c68f0ce60d288!8m2!3d10.8028511!4d106.6789518!16s%2Fg%2F1hc4b96yz?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1625,6 +1772,7 @@ const data = [
         "address":"127\/25\/11 Cô Giang, Phường 1, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BB%95+%C4%90%C3%ACnh+Ph%E1%BB%95+Quang\/@10.7982531,106.683734,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752959dfeac513:0x45de1d498cd31245!8m2!3d10.7982531!4d106.683734!16s%2Fg%2F11rbyvdx_n?hl=vi&entry=ttu",
+        "categories":"Chùa",
         "category_group":"df_temples"
     },
     {
@@ -1636,6 +1784,7 @@ const data = [
         "address":"112 Đ. Nguyễn Văn Trỗi, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+%C4%90%E1%BA%A1i+Gi%C3%A1c\/@10.7977183,106.6725039,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292914af66c7:0x7ccd3e498aee20f6!8m2!3d10.7977183!4d106.6725039!16s%2Fg%2F1vbnlwxj?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1647,6 +1796,7 @@ const data = [
         "address":"91 Đ. Hoàng Văn Thụ, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Ph%C3%BA+Nhu%E1%BA%ADn\/@10.7990828,106.6773601,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529409d3bcb5b:0x6d7e272745d532e4!8m2!3d10.7990828!4d106.6773601!16s%2Fg%2F11gmdfj4rc?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1658,6 +1808,7 @@ const data = [
         "address":"52A Đông Hưng Thuận 2, Phường, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Linh+S%C6%A1n\/@10.8334835,106.6242798,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bd4660cb77d:0xfb422070f7a5ced6!8m2!3d10.8334835!4d106.6242798!16s%2Fg%2F11xc0pc5z?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1669,6 +1820,7 @@ const data = [
         "address":"35 Đông Hưng Thuận 2, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+%C4%90%C3%B4ng+Quang\/@10.8309208,106.6263961,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bd6779425f9:0x74442ebecb93c22!8m2!3d10.8309208!4d106.6263961!16s%2Fg%2F1hc4b9jqf?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1680,6 +1832,7 @@ const data = [
         "address":"303\/14 QL1, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Thi%C3%AAn+V%C3%A2n\/@10.8623976,106.6827649,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752831679c9d49:0x1cdb4a562c199d44!8m2!3d10.8623976!4d106.6827649!16s%2Fg%2F11cpj3bm1q?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1691,6 +1844,7 @@ const data = [
         "address":"Mái Ấm Minh Tâm - Chùa Linh Sơn, 460\/17 Trần Thị Cờ, Thới An, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Linh+S%C6%A1n\/@10.8893589,106.6498711,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d619c91aaaaf:0xf58f124780788562!8m2!3d10.8893589!4d106.6498711!16s%2Fg%2F11c6rg4ly6?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1702,6 +1856,7 @@ const data = [
         "address":"136 A Tổ 14, KP3, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+K%E1%BB%B3+Quang+2\/@10.8717217,106.695184,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290bded0c3cf:0x67d001d06b341781!8m2!3d10.8717217!4d106.695184!16s%2Fg%2F11hzhfrnc4?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1713,6 +1868,7 @@ const data = [
         "address":"1 QL1A, Tân Thới Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%C3%A1o+x%E1%BB%A9+T%C3%A2n+H%C6%B0ng\/@10.8565562,106.6388563,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175298d163dcfd5:0x6c1667613c4b3f11!8m2!3d10.8565562!4d106.6388563!16s%2Fg%2F1tzglqkd?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1724,6 +1880,7 @@ const data = [
         "address":"30\/7 Nguyễn Văn Quá, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%C3%A1o+x%E1%BB%A9+Ch%E1%BB%A3+C%E1%BA%A7u\/@10.8535331,106.6386027,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175298db4889e5f:0xdc04d41186db8f0a!8m2!3d10.8535331!4d106.6386027!16s%2Fg%2F11gr6w0v_q?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1735,6 +1892,7 @@ const data = [
         "address":"1055\/3D đường Võ Thị Thừa, QL1A, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tu+vi%E1%BB%87n+Kh%C3%A1nh+An\/@10.8610964,106.7050938,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528140636d3cf:0x270be7240491bf3d!8m2!3d10.8610964!4d106.7050938!16s%2Fg%2F11bwylprtx?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo, Tu viện",
         "category_group":"df_temples"
     },
     {
@@ -1746,6 +1904,7 @@ const data = [
         "address":"70 QL1A, Tân Thới Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+An+H%C3%B2a\/@10.858562,106.6453317,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ecedce0fbb:0xf679ef948c86babf!8m2!3d10.858562!4d106.6453317!16s%2Fg%2F1vgq9l3g?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1757,6 +1916,7 @@ const data = [
         "address":"21\/3A Nguyễn Thị Búp, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Tr%C3%BAc+L%C3%A2m\/@10.8750905,106.6304223,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ff4fdfc1ff:0x5d62c93c978c811f!8m2!3d10.8750905!4d106.6304223!16s%2Fg%2F11dxq40kvt?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1768,6 +1928,7 @@ const data = [
         "address":"VJ7C+99H, Unnamed, Road, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Mi%E1%BA%BFu+V%C6%B0%C6%A1ng+Ph%C3%B9\/@10.8634383,106.6209739,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b1c36cdc687:0x9885251837073258!8m2!3d10.8634383!4d106.6209739!16s%2Fg%2F11gk96cbbz?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1779,6 +1940,7 @@ const data = [
         "address":"124\/3B, 124\/3B Tổ 31 KP2, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Gi%C3%A1c+V%C6%B0%C6%A1ng\/@10.8607453,106.6214308,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752a1908977449:0xff157b2696d79e6a!8m2!3d10.8607453!4d106.6214308!16s%2Fg%2F11dzdc6v_0?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1790,6 +1952,7 @@ const data = [
         "address":"73 Đ. Mai Thị Lựu, Đa Kao, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJYffbXBkpdTERjQgD7Syp7Tg",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1801,6 +1964,7 @@ const data = [
         "address":"66 Đông Du, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrTDZaUYvdTERUZ2LGrGD0rg",
+        "categories":"Nhà thờ Hồi giáo, Điểm thu hút khách du lịch",
         "category_group":"df_temples"
     },
     {
@@ -1812,6 +1976,7 @@ const data = [
         "address":"31 Trần Đình Xu, Cầu Kho, Quận 1, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVVWVABEvdTER_qfyFR7AcSU",
+        "categories":"Nhà thờ Công giáo, Nhà thờ",
         "category_group":"df_temples"
     },
     {
@@ -1823,6 +1988,7 @@ const data = [
         "address":"266\/40\/29 Tôn Đản, Phường 8, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%C6%B0%E1%BB%9Bc+An\/@10.7581501,106.7051005,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6ed40a3679:0x35387df7228184f6!8m2!3d10.7581501!4d106.7051005!16s%2Fg%2F11f88xvs0y?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1834,6 +2000,7 @@ const data = [
         "address":"40 Nguyễn Khoái, Phường 3, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BB%8Bnh+X%C3%A1+Linh+Quang\/@10.7550752,106.696379,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0c339e6f0d:0xa64543a181842820!8m2!3d10.7550752!4d106.696379!16s%2Fg%2F1tfg9qv7?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1845,6 +2012,7 @@ const data = [
         "address":"QP52+MMG, Đ. Số 41, Phường 6, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Gi%C3%A1c+Nguy%C3%AAn\/@10.7591887,106.7016988,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f3b6e7a12bb:0x66ee8ec56fdc86!8m2!3d10.7591887!4d106.7016988!16s%2Fg%2F11f5h8gr15?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1856,6 +2024,7 @@ const data = [
         "address":"129F\/183BIS Đ. Bến Vân Đồn, Phường 8, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+T%C6%B0%E1%BB%9Dng+Nguy%C3%AAn\/@10.759779,106.702663,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fdf1ab79bd7:0x6141a4421f04fec9!8m2!3d10.759779!4d106.702663!16s%2Fg%2F11s21m1s6y?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1867,6 +2036,7 @@ const data = [
         "address":"2 Nguyễn Hữu Hào, Phường 6, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Kim+Li%C3%AAn\/@10.7612252,106.7011342,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6b3283998f:0x6965161bb972b6f9!8m2!3d10.7612252!4d106.7011342!16s%2Fg%2F1td7wkw9?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1878,6 +2048,7 @@ const data = [
         "address":"Hẻm 772 Đoàn Văn Bơ, Phường 16, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Mi%E1%BA%BFu+B%C3%A0+C%E1%BB%91\/@10.7559711,106.7138137,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6531fb2d8f:0xe4fa989f3f6f6d00!8m2!3d10.7559711!4d106.7138137!16s%2Fg%2F11d_d0dqwt?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1889,6 +2060,7 @@ const data = [
         "address":"442B Đoàn Văn Bơ, Phường 18, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+B%C3%A1t+Nh%C3%A3\/@10.75671,106.7172392,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6f7f12f2e1:0x989425dba47b0293!8m2!3d10.75671!4d106.7172392!16s%2Fg%2F1tgby7tl?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1900,6 +2072,7 @@ const data = [
         "address":"124 Xóm Chiếu, Phường 14, Quận 4, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%C6%B0%E1%BB%9Bc+Duy%C3%AAn\/@10.7580895,106.7096941,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6fc1c6248b:0x6f3011513b398f4e!8m2!3d10.7580895!4d106.7096941!16s%2Fg%2F1tmg40sb?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1911,6 +2084,7 @@ const data = [
         "address":"120 Đ. Trần Bình Trọng, Phường 2, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+Ch%E1%BB%A3+Qu%C3%A1n\/@10.756967,106.6815822,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f1cb4baf3f5:0x99112a0fcdc0171d!8m2!3d10.756967!4d106.6815822!16s%2Fg%2F119x702yj?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -1922,6 +2096,7 @@ const data = [
         "address":"1334 Đ. Võ Văn Kiệt, Phường 13, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C4%83n+Ph%C3%B2ng+Ban+%C4%90%E1%BA%A1i+Di%E1%BB%87n+Ph%E1%BA%ADt+Gi%C3%A1o+H%C3%B2a+H%E1%BA%A3o-+HCM\/@10.7480966,106.6570508,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f54c5b48969:0xdae0ea8417c5339b!8m2!3d10.7480966!4d106.6570508!16s%2Fg%2F11t9n76kmt?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1933,6 +2108,7 @@ const data = [
         "address":"66\/14 Nghĩa Thục, Phường 5, Quận 5, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+V%E1%BA%A1n+Ph%E1%BA%ADt\/@10.7533702,106.6752996,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752efdee443bdf:0xf5802db1fe006759!8m2!3d10.7533702!4d106.6752996!16s%2Fg%2F1tgpq311?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo, Chùa, Điểm thu hút khách du lịch",
         "category_group":"df_temples"
     },
     {
@@ -1944,6 +2120,7 @@ const data = [
         "address":"117\/3\/2 Đ. An Bình, Phường 6, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Thi%C3%AAn+T%C3%B4n\/@10.7520042,106.6719903,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752efe9aa9e049:0xe8ae0063663d2a27!8m2!3d10.7520042!4d106.6719903!16s%2Fg%2F1tjdnv5c?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1955,6 +2132,7 @@ const data = [
         "address":"QP26+FPW, Tân Kiểng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+B%E1%BB%ADu+Quang\/@10.7512254,106.7118218,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f7a08129425:0x40b1fc481d8e90a7!8m2!3d10.7512254!4d106.7118218!16s%2Fg%2F1tmz4f5l?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1966,6 +2144,7 @@ const data = [
         "address":"288\/6 Lê Văn Lương, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BB%8Bnh+x%C3%A1+Ng%E1%BB%8Dc+Quy\/@10.7303325,106.7005093,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9613c00001:0x8f8c9c008a3278d7!8m2!3d10.7303325!4d106.7005093!16s%2Fg%2F11hzxjyyqj?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1977,6 +2156,7 @@ const data = [
         "address":"PPVH+2G2, Huỳnh Tấn Phát, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Thi%C3%AAn+Tr%C3%BAc\/@10.7425167,106.7287605,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f62b66a18ad:0x4bc0c4f1f184b995!8m2!3d10.7425167!4d106.7287605!16s%2Fg%2F1thbt4j6?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1988,6 +2168,7 @@ const data = [
         "address":"30\/9 (hẻm, 77 Đường Chuyên Dùng Chính, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Tam+B%E1%BB%ADu\/@10.7065103,106.7401067,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175254ebc3498f5:0x100bcb1620f911f2!8m2!3d10.7065103!4d106.7401067!16s%2Fg%2F11b8z_3pd2?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -1999,6 +2180,7 @@ const data = [
         "address":"11 Huỳnh Tấn Phát, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Thi%C3%AAn+%E1%BA%A4n\/@10.6997112,106.7383388,17z\/data=!3m1!4b1!4m6!3m5!1s0x31753ab2c8b66d89:0xdeb6be3589a8d851!8m2!3d10.6997112!4d106.7383388!16s%2Fg%2F1hc30my0n?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2010,6 +2192,7 @@ const data = [
         "address":"10\/18 Đ. Bình Đông, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%C3%A1p+Thi%E1%BB%81n\/@10.7366665,106.6410874,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0878f8bb5d:0xce07211e1fa97da4!8m2!3d10.7366665!4d106.6410874!16s%2Fg%2F11p64gqz99?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2021,6 +2204,7 @@ const data = [
         "address":"203 Đ. Lưu Hữu Phước, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Long+Th%E1%BB%8D\/@10.7301853,106.6374648,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e73a9a63d59:0x9bd7dde92219597f!8m2!3d10.7301853!4d106.6374648!16s%2Fg%2F1pp2v33rc?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2032,6 +2216,7 @@ const data = [
         "address":"PJJM+M77, Phú Định, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Th%C6%B0%E1%BB%9Dng+Quang\/@10.7316742,106.6331677,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e7440e742cf:0xc2243789d5f66948!8m2!3d10.7316742!4d106.6331677!16s%2Fg%2F11c1s3mbxm?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2043,6 +2228,7 @@ const data = [
         "address":"374\/6 Đ. Bình Đông, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+%C4%90%C3%B4ng+Ph%C6%B0%E1%BB%9Bc\/@10.7331018,106.6354223,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e715150b86f:0xaace257f561f1128!8m2!3d10.7331018!4d106.6354223!16s%2Fg%2F11g8txshj7?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo, Điểm thu hút khách du lịch",
         "category_group":"df_temples"
     },
     {
@@ -2054,6 +2240,7 @@ const data = [
         "address":"909E\/16 Đ. Tạ Quang Bửu, Bình Hưng, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Mi%E1%BA%BFu+Ng%C5%A9+H%C3%A0nh+D%E1%BB%ABa+D%C4%83ng\/@10.73185,106.6601031,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e4425cc0895:0x76b935edd07abb0f!8m2!3d10.73185!4d106.6601031!16s%2Fg%2F11c550qdtr?hl=vi&entry=ttu",
+        "categories":"Chùa",
         "category_group":"df_temples"
     },
     {
@@ -2065,6 +2252,7 @@ const data = [
         "address":"166\/10 Đ. Lưu Hữu Phước, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Gi%C3%A1c+Ng%E1%BA%A1n\/@10.734231,106.641616,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f529b1c25d1:0xd2942d46742dbe63!8m2!3d10.734231!4d106.641616!16s%2Fg%2F11n2vfrxmv?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2076,6 +2264,7 @@ const data = [
         "address":"47 Lương Văn Can, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Gi%C3%A1c+Quang\/@10.7347885,106.6403361,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e71c513f039:0xd8e7c79f062fa136!8m2!3d10.7347885!4d106.6403361!16s%2Fg%2F1tjdcp7s?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2087,6 +2276,7 @@ const data = [
         "address":"122 Đ. Bùi Minh Trực, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Li%C3%AAn+Hoa+(Qu%E1%BA%ADn+8)\/@10.7358802,106.6602141,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e44c41f6d7d:0x13d2bc3103a453a6!8m2!3d10.7358802!4d106.6602141!16s%2Fg%2F11bx5p851k?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2098,6 +2288,7 @@ const data = [
         "address":"10\/63 Sau Chợ Binh Đông, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%C3%A1p+T%E1%BB%B1u+(Phap+Tuu+Pagoda)\/@10.7358077,106.641461,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ff48f857b2b:0xfc5a5959a11eb3e!8m2!3d10.7358077!4d106.641461!16s%2Fg%2F11kjp98mdn?hl=vi&entry=ttu",
+        "categories":"Chùa",
         "category_group":"df_temples"
     },
     {
@@ -2109,6 +2300,7 @@ const data = [
         "address":"258\/14 Bông Sao, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Linh+B%E1%BB%ADu\/@10.7367283,106.6626917,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5bd2655c6d:0x3f93014f565b9c14!8m2!3d10.7367283!4d106.6626917!16s%2Fg%2F1tdg58gl?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2120,6 +2312,7 @@ const data = [
         "address":"103 Phú Định, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Gi%C3%A1c+Linh\/@10.7126947,106.6236403,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dfc121f5a89:0x82095317d02021ae!8m2!3d10.7126947!4d106.6236403!16s%2Fg%2F1tf0n366?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2131,6 +2324,7 @@ const data = [
         "address":"8 Phú Định, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+%C4%90%E1%BB%8Bnh+L%C3%A2m\/@10.7132561,106.6242859,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dfc6dc43bc3:0x45151ea6515154dc!8m2!3d10.7132561!4d106.6242859!16s%2Fg%2F1hc2y3x_m?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2142,6 +2336,7 @@ const data = [
         "address":"2287 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%C3%A1o+X%E1%BB%A9+B%C3%ACnh+An\/@10.7322194,106.642558,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e6e0adaadc9:0x36601fac4969504a!8m2!3d10.7322194!4d106.642558!16s%2Fg%2F1tfpm5jy?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2153,6 +2348,7 @@ const data = [
         "address":"2347\/72 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BB%95+%C4%90%C3%ACnh+T%E1%BB%AB+Tho%C3%A0n\/@10.730495,106.642382,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e6dfb4d0ded:0x3609b5bf8d775f4e!8m2!3d10.730495!4d106.642382!16s%2Fg%2F1xn_kx2w?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2164,6 +2360,7 @@ const data = [
         "address":"2903 Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+B%C3%ACnh+An+Th%C6%B0%E1%BB%A3ng\/@10.718866,106.633801,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f06e466158d:0x7cb589e34ec1b2c!8m2!3d10.718866!4d106.633801!16s%2Fg%2F11cmctkw0l?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2175,6 +2372,7 @@ const data = [
         "address":"132\/69 Đ. Bình Đông, Phường 14, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%C3%A1o+x%E1%BB%A9+B%C3%ACnh+Minh\/@10.7385977,106.6450657,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f77d71edca3:0x94348ad9894c642e!8m2!3d10.7385977!4d106.6450657!16s%2Fg%2F11qbkpdbrx?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2186,6 +2384,7 @@ const data = [
         "address":"17 Trương Đình Hội, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%99i+Qu%C3%A1n+S%C3%B9ng+Ch%C3%ADnh+Kh%C3%A1ch+Gia+(H%E1%BB%99i+Qu%C3%A1n+T%E1%BB%AB+Thi%E1%BB%87n)\/@10.7181299,106.6238415,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752de4c0a8489b:0x48d354b8ab2f60c1!8m2!3d10.7181299!4d106.6238415!16s%2Fg%2F11c6stj0d8?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2197,6 +2396,7 @@ const data = [
         "address":"9 Hẻm 157 Đ. Bá Trạc, Phường 1, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%C3%A1nh+%C4%90%C6%B0%E1%BB%9Dng+H%E1%BB%93i+Gi%C3%A1o+Jamiul+Anwar\/@10.7470894,106.6905325,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f08312b8885:0x192e7a6038d26c7!8m2!3d10.7470894!4d106.6905325!16s%2Fg%2F12qh4_6gv?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Hồi giáo",
         "category_group":"df_temples"
     },
     {
@@ -2208,6 +2408,7 @@ const data = [
         "address":"68 D. Bá Trạc, Phường 2, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+B%C3%ACnh+Xuy%C3%AAn\/@10.7489375,106.6876041,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f07d2e22a25:0x255f60d7a02f8bdf!8m2!3d10.7489375!4d106.6876041!16s%2Fg%2F1tgntqp0?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2219,6 +2420,7 @@ const data = [
         "address":"154_160 Cao Xuân Dục, Phường 12, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Kh%E1%BA%A3+Di%E1%BB%87u+%C4%90%C3%A0n\/@10.7438563,106.657503,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5ec6d6e60d:0x76cbb61642a2a3d5!8m2!3d10.7438563!4d106.657503!16s%2Fg%2F1hc1jfkcw?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2230,6 +2432,7 @@ const data = [
         "address":"69-71 Đ. Tuy Lý Vương, Phường 12, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Tin+l%C3%A0nh+Tuy+L%C3%BD+V%C6%B0%C6%A1ng\/@10.7436951,106.6548117,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5e6f264b3f:0x1ab38cf0100954cf!8m2!3d10.7436951!4d106.6548117!16s%2Fg%2F1td5nr_f?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Tin Lành",
         "category_group":"df_temples"
     },
     {
@@ -2241,6 +2444,7 @@ const data = [
         "address":"1491 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%E1%BB%95+%C4%90%C3%A0+S%C6%A1n\/@10.7392142,106.6552692,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5d0a056d5b:0xa7c3e5714bc769f4!8m2!3d10.7392142!4d106.6552692!16s%2Fg%2F1tf33g14?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2252,6 +2456,7 @@ const data = [
         "address":"1755 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+B%C3%ACnh+Th%C3%A1i\/@10.7371106,106.6508329,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e67d843d179:0xe109b645a33083ae!8m2!3d10.7371106!4d106.6508329!16s%2Fg%2F11cl_5g1vq?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2263,6 +2468,7 @@ const data = [
         "address":"21 Lo C, Đ. Bùi Minh Trực, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%C6%B0%E1%BB%9Bc+Anh\/@10.7368497,106.6541501,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f4958bfbbd9:0x92b988c3f2560607!8m2!3d10.7368497!4d106.6541501!16s%2Fg%2F11fk_f51xz?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2274,6 +2480,7 @@ const data = [
         "address":"502c\/2 Đ. Hưng Phú, Phường 9, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Long+V%C3%A2n\/@10.7476864,106.6718341,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e56084e56af:0xbef23b929aa58414!8m2!3d10.7476864!4d106.6718341!16s%2Fg%2F1tdq3hlj?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2285,6 +2492,7 @@ const data = [
         "address":"574 Phạm Thế Hiển, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+T%E1%BB%AB+Ph%C6%B0%E1%BB%9Bc\/@10.7459979,106.6773523,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752faab7c6f541:0xe66dd24bf4ea1c82!8m2!3d10.7459979!4d106.6773523!16s%2Fg%2F1td02jwk?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2296,6 +2504,7 @@ const data = [
         "address":"154 102\/40B, Đ. Âu Dương Lân, Phường 3, Quận 8, Thành phố Hồ Chí Minh 750000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Thi%E1%BB%81n+vi%E1%BB%87n+H%E1%BA%A3i+%C4%90%E1%BB%A9c\/@10.7445935,106.6813519,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fded52e345f:0x8e62ccc5de1b54ed!8m2!3d10.7445935!4d106.6813519!16s%2Fg%2F11fk3_ll4y?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2307,6 +2516,7 @@ const data = [
         "address":"1434 Đ. Bảy Hiền, Phường 11, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%C3%A1o+x%E1%BB%A9+Ph%C3%BA+Trung\/@10.7881355,106.65026,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb5c6d7abd5:0xea52bf1d7094dcf1!8m2!3d10.7881355!4d106.65026!16s%2Fg%2F1hc2w4409?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2318,6 +2528,7 @@ const data = [
         "address":"21\/2 Bùi Thế Mỹ, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Bodhivangsa+Pathi+Vong+(Khmer)\/@10.7844304,106.6482412,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb6e7a3a3b5:0x267a346991f24431!8m2!3d10.7844304!4d106.6482412!16s%2Fg%2F11fyxdpqrs?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo, Chùa",
         "category_group":"df_temples"
     },
     {
@@ -2329,6 +2540,7 @@ const data = [
         "address":"QMJ2+XV2, Hẻm 958 Lạc Long Quân, Phường 8, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Gi%C3%A1c+T%C3%A1nh\/@10.7823978,106.652125,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb7dd128563:0x3e92a1b3e6db2c71!8m2!3d10.7823978!4d106.652125!16s%2Fg%2F1tdpcpvd?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2340,6 +2552,7 @@ const data = [
         "address":"22-24 Lạc Long Quân, Phường 8, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Long+H%C6%B0ng\/@10.7820267,106.6510058,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb7944a21c5:0x737a3572138213b4!8m2!3d10.7820267!4d106.6510058!16s%2Fg%2F1tk8l25v?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2351,6 +2564,7 @@ const data = [
         "address":"25\/18 Đ. Nghĩa Hòa, Phường 6, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%C3%A1o+x%E1%BB%A9+Ngh%C4%A9a+H%C3%B2a\/@10.7863949,106.659249,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ecc05877a39:0xa4fab7ba6e49e674!8m2!3d10.7863949!4d106.659249!16s%2Fg%2F1hc77crj9?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2362,6 +2576,7 @@ const data = [
         "address":"10\/2 Nghĩa Phát, Phường 6, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%C3%A1o+x%E1%BB%A9+Vinh+S%C6%A1n-Ngh%C4%A9a+H%C3%B2a\/@10.7851938,106.6576676,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ec9450671af:0xc5a9920111326112!8m2!3d10.7851938!4d106.6576676!16s%2Fg%2F1td3nzvx?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2373,6 +2588,7 @@ const data = [
         "address":"28 Long Hưng, Phường 7, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Khi%E1%BA%BFt+T%C3%A2m+(Qu%E1%BA%ADn+T%C3%A2n+B%C3%ACnh)\/@10.785341,106.6557009,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ec9781bdac7:0x32678a53b0b338a7!8m2!3d10.785341!4d106.6557009!16s%2Fg%2F1hc2thz3g?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2384,6 +2600,7 @@ const data = [
         "address":"54 Sao Mai, Phường 7, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Sao+Mai\/@10.7869808,106.6583771,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ecbf15604cf:0x9f9cdb890b4598be!8m2!3d10.7869808!4d106.6583771!16s%2Fg%2F11h54zs44f?hl=vi&entry=ttu",
+        "categories":"Nhà thờ",
         "category_group":"df_temples"
     },
     {
@@ -2395,6 +2612,7 @@ const data = [
         "address":"149 Bành Văn Trân, Phường 7, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Ch%C3%AD+H%C3%B2a\/@10.788425,106.6556875,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f55cd0c8ead:0x1f66c4ead68d0963!8m2!3d10.788425!4d106.6556875!16s%2Fg%2F11h563jsjc?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2406,6 +2624,7 @@ const data = [
         "address":"90\/153 Đ. Trường Chinh, Phường 12, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+T%E1%BB%AB+T%C3%A2n\/@10.7958402,106.6528114,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752991caadfe21:0xbdf1f8a6d8ae87a3!8m2!3d10.7958402!4d106.6528114!16s%2Fg%2F11thq566cb?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2417,6 +2636,7 @@ const data = [
         "address":"97 Đ. Trường Chinh, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+%C4%90%E1%BA%AFc+L%E1%BB%99\/@10.7948646,106.6491369,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294ba57a05d1:0x208ea7c48b31bf82!8m2!3d10.7948646!4d106.6491369!16s%2Fg%2F1hc16zj4r?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo, Tổ chức tôn giáo",
         "category_group":"df_temples"
     },
     {
@@ -2428,6 +2648,7 @@ const data = [
         "address":"239 Đ. Trường Chinh, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+T%C3%A2n+Vi%E1%BB%87t\/@10.7960939,106.645936,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294c6d1e27a9:0x9099741bd46e44ec!8m2!3d10.7960939!4d106.645936!16s%2Fg%2F1tfzzkqh?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2439,6 +2660,7 @@ const data = [
         "address":"69 Phan Huy Ích, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+Hy+V%E1%BB%8Dng\/@10.8276225,106.6316626,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297d190a60b9:0x31136e6c8eed5a31!8m2!3d10.8276225!4d106.6316626!16s%2Fg%2F1tfr7pfs?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2450,6 +2672,7 @@ const data = [
         "address":"245 Nguyễn Thị Nhỏ, Phường 9, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+Gi%C3%A1o+x%E1%BB%A9+T%C3%A2n+Ph%C6%B0%E1%BB%9Bc\/@10.7742208,106.6526944,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ebf5f871547:0x14049d87e57c05f4!8m2!3d10.7742208!4d106.6526944!16s%2Fg%2F1tgq447l?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2461,6 +2684,7 @@ const data = [
         "address":"565 Lạc Long Quân, Phường 10, Tân Bình, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Gi%C3%A1c+L%C3%A2m\/@10.7785965,106.6492171,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb90706b8c1:0x2effe0e170ac0aff!8m2!3d10.7785965!4d106.6492171!16s%2Fm%2F0417cjk?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo, Điểm thu hút khách du lịch",
         "category_group":"df_temples"
     },
     {
@@ -2472,6 +2696,7 @@ const data = [
         "address":"673\/3 Lạc Long Quân, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+Ph%E1%BA%ADt+B%E1%BA%A3o\/@10.7803945,106.649331,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb9d1db90a5:0x8548d219247fc180!8m2!3d10.7803945!4d106.649331!16s%2Fg%2F12vzps6hh?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo, Điểm thu hút khách du lịch",
         "category_group":"df_temples"
     },
     {
@@ -2483,6 +2708,7 @@ const data = [
         "address":"170 958\/87 Lạc Long Quân, Phường 8, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C3%B9a+V%C3%B4+%C6%AFu\/@10.7808961,106.6526663,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ec7ffec60bf:0x3c9976ececebf95a!8m2!3d10.7808961!4d106.6526663!16s%2Fg%2F1ts_42h6?hl=vi&entry=ttu",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2494,6 +2720,7 @@ const data = [
         "address":"Hẻm 54\/19 Đ. Nguyễn Hồng Đào, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+th%E1%BB%9D+T%C3%A2n+Th%C3%A0nh\/@10.7963157,106.6426954,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294db8a91cff:0x171215c04e78529d!8m2!3d10.7963157!4d106.6426954!16s%2Fg%2F1hc4bxrwv?hl=vi&entry=ttu",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2505,6 +2732,7 @@ const data = [
         "address":"273\/33 Đ. Quốc lộ 13 cũ, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJx46kxgUodTERFMi0-IIdW3E",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2516,6 +2744,7 @@ const data = [
         "address":"76\/1 Gò Cát, Phường Phú Hữu, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHVgxJXAldTERdY0QUI6bG1M",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2527,6 +2756,7 @@ const data = [
         "address":"63 Đ. Tam Bình, Tam Phú, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJsTCK490ndTER-NU7uzVnrtc",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2538,6 +2768,7 @@ const data = [
         "address":"1261 Nguyễn Xiển, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJD77AIUffdDERP3aFovia5lY",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2549,6 +2780,7 @@ const data = [
         "address":"168 Tam Đa, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPR1kIgAhdTERThTvAxgRen0",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2560,6 +2792,7 @@ const data = [
         "address":"130\/3A Đ. Võ Nguyên Giáp, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ6RhXUUzfdDERxTIhBOU7tP8",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2571,6 +2804,7 @@ const data = [
         "address":"đường 45, Cát Lái, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJTZtjYxgkdTERx1xw_7vuSs8",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2582,6 +2816,7 @@ const data = [
         "address":"QQFW+WC5, Đ. Số 44, Cát Lái, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3VJ3RBgkdTER3YotoPgGy4A",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2593,6 +2828,7 @@ const data = [
         "address":"RVM5+R8R, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJy6dHCPogdTERpM-2DxQv0Cc",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2604,6 +2840,7 @@ const data = [
         "address":"81 Nguyễn Xiển, Long Bình, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJmWI0qFzfdDERyycx50mNPk4",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2615,6 +2852,7 @@ const data = [
         "address":"VRHW+69V, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJr-FtFmbfdDERE9qQGUIezJM",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2626,6 +2864,7 @@ const data = [
         "address":"1A1 Cầu Ông Tán, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJw9KF1F_fdDERR1WsDEkGTxc",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2637,6 +2876,7 @@ const data = [
         "address":"191 Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVzkqEQYhdTERUzcWwxUPF5g",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2648,6 +2888,7 @@ const data = [
         "address":"VPJM+56M, Bình Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ76ABxQXYdDERDeSmrn4SgJM",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2659,6 +2900,7 @@ const data = [
         "address":"600 Đ. Võ Nguyên Giáp, An Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOciT5WkmdTERDvAQNDwvPxE",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2670,6 +2912,7 @@ const data = [
         "address":"505 Đ. Võ Nguyên Giáp, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJY0af91EndTERZLOFFCLPsqY",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2681,6 +2924,7 @@ const data = [
         "address":"QQ98+585, Đ. Số 99, P. Bình An, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJ0NqBZwldTER7Zpx6hIGPrI",
+        "categories":"Chùa",
         "category_group":"df_temples"
     },
     {
@@ -2692,6 +2936,7 @@ const data = [
         "address":"QQXH+6G8, Đỗ Xuân Hợp, Phước Long B, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ5WeiBI8mdTER7fPH2-SqLs0",
+        "categories":"Chùa phật giáo, Nơi thờ cúng",
         "category_group":"df_temples"
     },
     {
@@ -2703,6 +2948,7 @@ const data = [
         "address":"180 Đ. Tam Châu, Tam Binh, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJXZytvUndTERINfftyeU14c",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2714,6 +2960,7 @@ const data = [
         "address":"502 Tô Ngọc Vân, Tam Phú, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJu1Z4C_IndTER5JO3JvsQ-Ro",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2725,6 +2972,7 @@ const data = [
         "address":"66 Đ. Tam Hà, khu phố 4, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtShEs5IndTERPsOUCKRXzJs",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2736,6 +2984,7 @@ const data = [
         "address":"52\/7 Truông Tre, Linh Xuân, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJL3Kn_0_ZdDERfHxfcOjtiJk",
+        "categories":"Chùa",
         "category_group":"df_temples"
     },
     {
@@ -2747,6 +2996,7 @@ const data = [
         "address":"54 Đ. Số 5, Khu phố 4, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCb2gZnzYdDER4nQpc6Ou1go",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2758,6 +3008,7 @@ const data = [
         "address":"31 Đ. Số 2, khu phố 3, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJd910nLbZdDERewucvxiAEiw",
+        "categories":"Nhà thờ",
         "category_group":"df_temples"
     },
     {
@@ -2769,6 +3020,7 @@ const data = [
         "address":"24 Lê Văn Việt, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJp5nEI0ondTERr-hRjR4cjvA",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2780,6 +3032,7 @@ const data = [
         "address":"RQC6+VG7, Đ. Hồ Bá Phấn, Phước Long A, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJc46Qo1EmdTERqaZ7vAFRr5A",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2791,6 +3044,7 @@ const data = [
         "address":"12 Đường số 11, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxQJOHDUndTEREhtoZ07-KEA",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2802,6 +3056,7 @@ const data = [
         "address":"136 Đ. 11, Bình Trưng Đông, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJub75C4ImdTERNmKN26FDZZY",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2813,6 +3068,7 @@ const data = [
         "address":"VV92+H4H, Long Hưng, Thành phố Biên Hòa, Đồng Nai, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ06d8kS_fdDER4yDoujijuCI",
+        "categories":"Chùa",
         "category_group":"df_temples"
     },
     {
@@ -2824,6 +3080,7 @@ const data = [
         "address":"1099 Nguyễn Xiển, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHV6WWwAhdTERcX47TMpAxNE",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2835,6 +3092,7 @@ const data = [
         "address":"154 10 Đường Số, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJIUVagFcndTER3WSr_pcgwbQ",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2846,6 +3104,7 @@ const data = [
         "address":"264 Đường số 30, Cát Lái, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOzrOaNEldTERZn97UCZv1sQ",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2857,6 +3116,7 @@ const data = [
         "address":"259 Đ. Kha Vạn Cân, Hiệp Bình Chánh, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0xurMIAodTERT3MuOIevdMY",
+        "categories":"Chùa phật giáo, Chùa",
         "category_group":"df_temples"
     },
     {
@@ -2868,6 +3128,7 @@ const data = [
         "address":"23\/253 Nguyễn Xiển, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbYoi2scgdTERn_bEArbEmmM",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2879,6 +3140,7 @@ const data = [
         "address":"67 Phan Đạt Đức, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ05I4AckgdTERLUy4eTbIoZ4",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2890,6 +3152,7 @@ const data = [
         "address":"58 Đường Số 7, Phường Bình Trưng Tây, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJF7prD9cldTERzE1E4p1JOQg",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2901,6 +3164,7 @@ const data = [
         "address":"13\/32B Lã Xuân Oai, Tăng Nhơn Phú A, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGdSSPrcndTERPdoZG6jPw1A",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2912,6 +3176,7 @@ const data = [
         "address":"86\/75 Hẻm 86 Ông Ích Khiêm, Phường 5, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9xPucZYudTERjSaoJBRMex4",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2923,6 +3188,7 @@ const data = [
         "address":"Đường Đ. 3 Tháng 2, Phường 2, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ338G944udTERngkA8rLFPiQ",
+        "categories":"Chùa phật giáo, Điểm thu hút khách du lịch",
         "category_group":"df_temples"
     },
     {
@@ -2934,6 +3200,7 @@ const data = [
         "address":"70 Đ. Nguyễn Chí Thanh, Phường 16, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJYcNIDwAvdTERl_-gEKndLDQ",
+        "categories":"Chùa",
         "category_group":"df_temples"
     },
     {
@@ -2945,6 +3212,7 @@ const data = [
         "address":"84 Đ. Tôn Thất Hiệp, Phường 13, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJI51FWOsudTERO6qWa4NpzQ8",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -2956,6 +3224,7 @@ const data = [
         "address":"3 Đ. Kỳ Đồng, Phường 9, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUfHzsi4vdTER-Gl-10qD2Oc",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -2967,6 +3236,7 @@ const data = [
         "address":"870 Đ. Trường Sa, Phường 14, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJDXwNkisvdTERvqQPycu5sb0",
+        "categories":"Chùa phật giáo, Chùa",
         "category_group":"df_temples"
     },
     {
@@ -2978,6 +3248,7 @@ const data = [
         "address":"89 Bà Huyện Thanh Quan, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbyo7aiUvdTEREbeQQvg6Wm0",
+        "categories":"Chùa phật giáo, Chùa, Điểm thu hút khách du lịch",
         "category_group":"df_temples"
     },
     {
@@ -2989,6 +3260,7 @@ const data = [
         "address":"339 Đ. Nam Kỳ Khởi Nghĩa, Phường 7, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0RNrUNModTERAoiOkzbLzT4",
+        "categories":"Chùa phật giáo, Chùa, Tổ chức tôn giáo",
         "category_group":"df_temples"
     },
     {
@@ -3000,6 +3272,7 @@ const data = [
         "address":"680 Đ. Hồng Bàng, Phường 2, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtRYeNI8udTERhobfRP8GPVk",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -3011,6 +3284,7 @@ const data = [
         "address":"887 Đ. Hồng Bàng, Phường 9, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe7TE_4UudTER1tcUme4s5C8",
+        "categories":"Chùa phật giáo, Điểm thu hút khách du lịch",
         "category_group":"df_temples"
     },
     {
@@ -3022,6 +3296,7 @@ const data = [
         "address":"735 Đ. Hồng Bàng, Phường 6, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3cdBUokudTERQvigcOfMXsk",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -3033,6 +3308,7 @@ const data = [
         "address":"6Q Đ. Hậu Giang, Phường 11, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJb2qqaX0udTERkz4vf8lSXgM",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -3044,6 +3320,7 @@ const data = [
         "address":"38 Đ. Kinh Dương Vương, Phường 13, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJgQ4wS4AudTERQoJ0t50vR9Y",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -3055,6 +3332,7 @@ const data = [
         "address":"551 Đ. Phạm Văn Chí, Phường 7, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe1xcL3sudTERvWnt5fbna74",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -3066,6 +3344,7 @@ const data = [
         "address":"6 Trịnh Đình Thảo, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJjazLtaMudTER1DiyWajnjLg",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -3077,6 +3356,7 @@ const data = [
         "address":"126 Văn Cao, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJr_3UXQQsdTERE3B08UCVk-M",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -3088,6 +3368,7 @@ const data = [
         "address":"596\/9 Bình Long, Bình Hưng Hoà A, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJuwMy1vcrdTERg-TJoG36tU4",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -3099,6 +3380,7 @@ const data = [
         "address":"1 Đ. Hoàng Văn Hòe, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGwnBhQcsdTERh1Ukzcb94Uw",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -3110,6 +3392,7 @@ const data = [
         "address":"17 Bình Long, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJd4t2PAgsdTERUTfKFI2fzX8",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -3121,6 +3404,7 @@ const data = [
         "address":"45 Hồ Đắc Di, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJf2wOsFkpdTERyPgRiWYKNdk",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -3132,6 +3416,7 @@ const data = [
         "address":"179 Đường Lê Niệm, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJozeQYhssdTERBYbw9iXTUJU",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -3143,6 +3428,7 @@ const data = [
         "address":"16 Đ. Lê Thúc Hoạch, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJMwvJWAAtdTER9-hrmL4UdJ0",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -3154,6 +3440,7 @@ const data = [
         "address":"84 Tân Hương, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8WyDHwEsdTERIKs1nPb7PgI",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -3165,6 +3452,7 @@ const data = [
         "address":"192\/68 Đ. Phú Thọ Hòa, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ20WLmwMsdTERMCwEQxb3GGQ",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -3176,6 +3464,7 @@ const data = [
         "address":"249 Thạch Lam, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJwSNlZRwsdTERhu9XDQuhXB0",
+        "categories":"Chùa phật giáo",
         "category_group":"df_temples"
     },
     {
@@ -3187,6 +3476,7 @@ const data = [
         "address":"39 Lương Trúc Đàm, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJDSmki6AudTERWXfzExsn1q8",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -3198,6 +3488,7 @@ const data = [
         "address":"19\/2 Hoàng Xuân Nhị, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJg0gQ67sudTERm9yDKlH3Z7w",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -3209,6 +3500,7 @@ const data = [
         "address":"423 Lạc Long Quân, Phường 5, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJD7C0-LwudTEREUIcgdMN198",
+        "categories":"Nhà thờ Công giáo",
         "category_group":"df_temples"
     },
     {
@@ -3220,6 +3512,7 @@ const data = [
         "address":"90 Nguyễn Hậu, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLQoQXqsudTER5ww4M6uaaO0",
+        "categories":"Nhà thờ",
         "category_group":"df_temples"
     }
 ]

@@ -23,37 +23,37 @@ const POINT_TEMPLATE_DISTRICT = {
 
 const POINT_TEMPLATE_SCHOOL = {
   title: "{Name}",
-  content: "Trường học này ở <b>{Location}</b>.",
+  content: "Trường học này ở <b>{Location}</b>. <br/> {categoryName}, {categories}",
 };
 
 const POINT_TEMPLATE_HOSPITAL = {
   title: "{Name}",
-  content: "Bệnh viện này ở <b>{Location}</b>.",
+  content: "Bệnh viện này ở <b>{Location}</b>. <br/> {categoryName}, {categories}",
 };
 
 const POINT_TEMPLATE_DEFAULT = {
   title: "{Name}",
-  content: "Địa điểm này ở <b>{Location}</b>.",
+  content: "Địa điểm này ở <b>{Location}</b>. <br/> {categoryName}, {categories}",
 };
 
 const POINT_TEMPLATE_SHOP = {
   title: "{Name}",
-  content: "Cửa hàng này ở <b>{Location}</b>.",
+  content: "Cửa hàng này ở <b>{Location}</b>. <br/> {categoryName}, {categories}",
 };
 
 const POINT_TEMPLATE_TEMPLE = {
   title: "{Name}",
-  content: "Chùa này ở <b>{Location}</b>.",
+  content: "Chùa này ở <b>{Location}</b>. <br/> {categoryName}, {categories}",
 };
 
 const POINT_TEMPLATE_DRINK = {
   title: "{Name}",
-  content: "Quán nước này ở <b>{Location}</b>.",
+  content: "Quán nước này ở <b>{Location}</b>. <br/> {categoryName}, {categories}",
 };
 
 const POINT_TEMPLATE_FOOD = {
   title: "{Name}",
-  content: "Quán ăn này ở <b>{Location}</b>.",
+  content: "Quán ăn này ở <b>{Location}</b>. <br/> {categoryName}, {categories}",
 };
 
 const POINT_TEMPLATE_REAL_ESTATE = {
@@ -78,37 +78,37 @@ const POINT_TEMPLATE_LINE = {
 
 const POINT_TEMPLATE_HOTEL = {
   title: "{Name}",
-  content: "Khách sạn này ở <b>{Location}</b>.",
+  content: "Khách sạn này ở <b>{Location}</b>. <br/> {categoryName}, {categories}",
 };
 
 const POINT_TEMPLATE_APARTMENT = {
   title: "{Name}",
-  content: "Tòa nhà này ở <b>{Location}</b>.",
+  content: "Tòa nhà này ở <b>{Location}</b>. <br/> {categoryName}, {categories}",
 };
 
 const POINT_TEMPLATE_COMPANY = {
   title: "{Name}",
-  content: "Công ty này ở <b>{Location}</b>.",
+  content: "Công ty này ở <b>{Location}</b>. <br/> {categoryName}, {categories}",
 };
 
 const POINT_TEMPLATE_FACTORY = {
   title: "{Name}",
-  content: "Nhà máy này ở <b>{Location}</b>.",
+  content: "Nhà máy này ở <b>{Location}</b>. <br/> {categoryName}, {categories}",
 };
 
 const POINT_TEMPLATE_SALON = {
   title: "{Name}",
-  content: "Tiệm tóc này ở <b>{Location}</b>.",
+  content: "Tiệm tóc này ở <b>{Location}</b>. <br/> {categoryName}, {categories}",
 };
 
 const POINT_TEMPLATE_GARA = {
   title: "{Name}",
-  content: "Gara này ở <b>{Location}</b>.",
+  content: "Gara này ở <b>{Location}</b>. <br/> {categoryName}, {categories}",
 };
 
 const POINT_TEMPLATE_MARKET = {
   title: "{Name}",
-  content: "Chợ/Siêu thị này ở <b>{Location}</b>.",
+  content: "Chợ/Siêu thị này ở <b>{Location}</b>. <br/> {categoryName}, {categories}",
 };
 
 const POINT_TEMPLATE_AREA = {

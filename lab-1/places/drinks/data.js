@@ -8,6 +8,7 @@ const data = [
         "address":"PHVC+CQV, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A2u+c%C3%A1+gi%E1%BA%A3i+tr%C3%AD+H%E1%BB%93+Tr%C3%BAc+2\/@10.7436152,106.5719135,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d845c0b2605:0x8e0fab970027ac0c!8m2!3d10.7436152!4d106.5719135!16s%2Fg%2F11fj466d2c?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -19,6 +20,7 @@ const data = [
         "address":"1170 ĐT825, Tân Tạo, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%93ng+Tr%C3%A0+Ng%C3%B4+Gia+H119\/@10.7554022,106.5970234,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d006dc6df37:0x23682e19cd7d09c1!8m2!3d10.7554022!4d106.5970234!16s%2Fg%2F11ld2mtt2n?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -30,6 +32,7 @@ const data = [
         "address":"34 Đường số 46, Tân Tạo, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/AT+Coffee\/@10.7520676,106.5999431,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dd8789ee4b9:0xd8d26d74821a755f!8m2!3d10.7520676!4d106.5999431!16s%2Fg%2F11ffvs5f3n?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -41,6 +44,7 @@ const data = [
         "address":"78 Đường số 49, Tân Tạo, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kim+Ng%C3%A2n+Tea\/@10.7526575,106.6017917,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d00102ed7bf:0xc3b646fe867e7d2b!8m2!3d10.7526575!4d106.6017917!16s%2Fg%2F11vq04mp5r?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -52,6 +56,7 @@ const data = [
         "address":"609 Tên Lửa, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+s%E1%BB%AFa+Miss+Mie\/@10.754651,106.6064858,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d00695343b7:0xdc7381a34618c126!8m2!3d10.754651!4d106.6064858!16s%2Fg%2F11lc_pn7vm?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -63,6 +68,7 @@ const data = [
         "address":"64a Đ. Vành Đai Trong, An Lạc A, Bình Tân, Thành phố Hồ Chí Minh 71908, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/G+coffee\/@10.7432916,106.6154058,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dea5c9e248b:0x960feabe713ebb5c!8m2!3d10.7432916!4d106.6154058!16s%2Fg%2F11ld16ltfb?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -74,6 +80,7 @@ const data = [
         "address":"26 Đường số 13C, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+v%C3%B5ng+c%C3%B4+th%E1%BA%AFm+khu+t%C3%AAn+l%E1%BB%ADa\/@10.746457,106.6098193,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d15a71ab7cf:0xd61a6b0fa9f99d11!8m2!3d10.746457!4d106.6098193!16s%2Fg%2F11fp372jtc?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -85,6 +92,7 @@ const data = [
         "address":"356 Tên Lửa, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KATINAT+SAIGON+KAFE\/@10.7516773,106.6106844,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d7c066a6191:0x7477e38da82b9109!8m2!3d10.7516773!4d106.6106844!16s%2Fg%2F11rmj8bzzj?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -96,6 +104,7 @@ const data = [
         "address":"106\/3a Đường Sinco, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SEVEN+Coffee\/@10.7363148,106.6059164,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d05cdbe0a37:0xa5a31a7c07e426d7!8m2!3d10.7363148!4d106.6059164!16s%2Fg%2F11pd3jd24v?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -107,6 +116,7 @@ const data = [
         "address":"PHQ7+FMV, Unnamed Road, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%93+c%C3%A2u+ph%C6%B0%C6%A1ng+tr%C3%BAc\/@10.7387381,106.5641681,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d192ada7833:0x443b261e8be02587!8m2!3d10.7387381!4d106.5641681!16s%2Fg%2F11jp05_x6w?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -118,6 +128,7 @@ const data = [
         "address":"RH9Q+V3J, Đ. Số 2A, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%99i+Qu%C3%A1n+Thanh+Ni%C3%AAn+Khu+C%C3%B4ng+Nghi%E1%BB%87p+V%C4%A9nh+L%E1%BB%99c\/@10.8197025,106.587629,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ba17ff17bdf:0xdfafc809d37313!8m2!3d10.8197025!4d106.587629!16s%2Fg%2F1hc2sx35s?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -129,6 +140,7 @@ const data = [
         "address":"69 Đường số 8, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Qu%C3%A1n+cafe+Ngo%E1%BA%A1i+%C3%94\/@10.7927288,106.5920238,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d8d5140f85f:0xfbdc383f67bba517!8m2!3d10.7927288!4d106.5920238!16s%2Fg%2F11ghl0szb9?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -140,6 +152,7 @@ const data = [
         "address":"655 Đ. Tân Kỳ Tân Quý, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+Ph%C3%AA+Ng%E1%BB%8Dc+Xuy%C3%AAn\/@10.793417,106.6083621,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d005e51a817:0x85922ee2f159917e!8m2!3d10.793417!4d106.6083621!16s%2Fg%2F11vr_pt7q_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -151,6 +164,7 @@ const data = [
         "address":"336 Đ. 26\/3, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VIVA+STAR+Coffee\/@10.7967826,106.6041514,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b8ae9663ead:0x89a6d9fd585db0de!8m2!3d10.7967826!4d106.6041514!16s%2Fg%2F11f_tfrhh8?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -162,6 +176,7 @@ const data = [
         "address":"Đ. Số 4\/23 Đ. Vĩnh Lộc, KDC, Bình Tân, Thành phố Hồ Chí Minh 71914, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+S%E1%BB%AFa+%C4%82n+V%E1%BA%B7t+%C6%A0+R%C3%B4\/@10.7968351,106.5948478,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bea17f3e80b:0x509eb246c0564e1!8m2!3d10.7968351!4d106.5948478!16s%2Fg%2F11vr_60mfv?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -173,6 +188,7 @@ const data = [
         "address":"3 Hẻm 182 Đường 26 Tháng 3, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/N%C6%B0%E1%BB%9Bc+%C4%91%C3%A1+s%E1%BB%89+l%E1%BA%BB\/@10.7996113,106.6064903,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b0071aa900f:0x65d2f9f8e09b0e89!8m2!3d10.7996113!4d106.6064903!16s%2Fg%2F11vryn98y1?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -184,6 +200,7 @@ const data = [
         "address":"129 Đường Số 1, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Koi+Paradise+Coffee+Garden\/@10.8074424,106.5954819,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bf04ed9c041:0xbd5905999b02c045!8m2!3d10.8074424!4d106.5954819!16s%2Fg%2F11sb0jpplj?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -195,6 +212,7 @@ const data = [
         "address":"638\/45\/4 Đ. Lê Trọng Tấn, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%C3%A1y+Pha+C%C3%A0+Ph%C3%AA+Gi%C3%A1+R%E1%BA%BB+-+C%C3%B4ng+Ty+TNHH+Th%E1%BA%BF+Gi%E1%BB%9Bi+M%C3%A1y+Pha\/@10.8157407,106.607188,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bb298353fab:0x7e3b0646a52fe28b!8m2!3d10.8157407!4d106.607188!16s%2Fg%2F11k4wtjxwp?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Nhà cung cấp máy pha cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -206,6 +224,7 @@ const data = [
         "address":"hẻm 111 Bình Thành, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+vi%C3%AAn+n%C6%B0%E1%BB%9Bc+con+n%C3%ADt+b%C3%ACnh+t%C3%A2n\/@10.8033871,106.5871153,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b560b0770f1:0x5544c19c20730f4!8m2!3d10.8033871!4d106.5871153!16s%2Fg%2F11v0y4z2yd?hl=vi&entry=ttu",
+        "categories":"Công viên nước",
         "category_group":"df_drinks"
     },
     {
@@ -217,6 +236,7 @@ const data = [
         "address":"Hẻm 221\/219 Bình Thành, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+Tr%C6%B0%E1%BB%9Dng+Vi%E1%BB%87t\/@10.8081681,106.5847119,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ba1ec95b52d:0x5b9d76828d6786a!8m2!3d10.8081681!4d106.5847119!16s%2Fg%2F11qn5cljn8?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -228,6 +248,7 @@ const data = [
         "address":"49 Đường số 16, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%C3%A0ng+c%C3%A0+ph%C3%AA\/@10.813327,106.5932271,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b78923a0f0f:0xb8842d3dfcc2072c!8m2!3d10.813327!4d106.5932271!16s%2Fg%2F11j492bf5b?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -239,6 +260,7 @@ const data = [
         "address":"282a ĐH80, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Net+101\/@10.8173737,106.5840501,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752baced11497f:0x80396d221b5bfe80!8m2!3d10.8173737!4d106.5840501!16s%2Fg%2F11k4zplw9q?hl=vi&entry=ttu",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -250,6 +272,7 @@ const data = [
         "address":"26\/48\/H3 Đ. Lê Văn Quới, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+l%E1%BB%87+%C4%91%C3%A1\/@10.7766532,106.6017156,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752da6f483baf9:0xa11295c0ad83620!8m2!3d10.7766532!4d106.6017156!16s%2Fg%2F11h4c9m3bm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Nhà hàng ăn nhanh, Nhà hàng",
         "category_group":"df_drinks"
     },
     {
@@ -261,6 +284,7 @@ const data = [
         "address":"195\/10\/2 Đ. Điện Biên Phủ, Phường 15, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%E1%BB%99t+Cafe\/@10.800749,106.7067983,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290bdad4aea7:0x3e5d2195d169c174!8m2!3d10.800749!4d106.7067983!16s%2Fg%2F11stsdzhkk?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -272,6 +296,7 @@ const data = [
         "address":"18\/1 Bình Quới, Phường 27, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+Ph%C3%AA+Ven+S%C3%B4ng\/@10.8158999,106.72314,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289df730a8d5:0xc6438884879ca3d6!8m2!3d10.8158999!4d106.72314!16s%2Fg%2F11c3v6zjn_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -283,6 +308,7 @@ const data = [
         "address":"02 Thanh Đa, Phường 27, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+ph%C3%AA+C%C3%A1nh+Di%E1%BB%81u\/@10.8138335,106.7219203,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289e6ac41b71:0x5f9671ba8d1ba8c4!8m2!3d10.8138335!4d106.7219203!16s%2Fg%2F1tfpxbkb?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -294,6 +320,7 @@ const data = [
         "address":"021 Lô K, Thanh Đa, Cư xá Thanh Đa, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+s%E1%BB%AFa+M%E1%BB%99c\/@10.8143771,106.721563,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752961ebd45e9d:0x1cee1cc4b3240a6d!8m2!3d10.8143771!4d106.721563!16s%2Fg%2F11h2n35xdx?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -305,6 +332,7 @@ const data = [
         "address":"215 Nguyễn Gia Trí, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vnlux+Cafe\/@10.8069246,106.716054,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b10002d9d1:0xb5ea0ad8394269f!8m2!3d10.8069246!4d106.716054!16s%2Fg%2F11vry17rg3?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -316,6 +344,7 @@ const data = [
         "address":"23 Nguyễn Gia Trí, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh 717219, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/D.O.M+-+Coffee+Capsule\/@10.8068764,106.7152761,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d3854af1cb:0xe1e2f57da9ef39c6!8m2!3d10.8068764!4d106.7152761!16s%2Fg%2F11jts_g4p7?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -327,6 +356,7 @@ const data = [
         "address":"231c Đ. Phan Văn Trị, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/N%C6%B0%E1%BB%9Bc+M%C3%ADa+Nh%E1%BA%ADt+Duy\/@10.8121204,106.6950743,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529007f9a2ad9:0xe545c05694e23616!8m2!3d10.8121204!4d106.6950743!16s%2Fg%2F11ld3m10n2?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán nước quả ép",
         "category_group":"df_drinks"
     },
     {
@@ -338,6 +368,7 @@ const data = [
         "address":"33 Nguyễn Khuyến, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+tr%C3%A0+M%C3%B9a+Hoa+N%E1%BB%9F+Nguy%E1%BB%85n+Khuy%E1%BA%BFn+B%C3%ACnh+Th%E1%BA%A1nh\/@10.8101676,106.6968449,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290078786719:0x5c2317a076643d0d!8m2!3d10.8101676!4d106.6968449!16s%2Fg%2F11sn023t1y?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Phòng trà",
         "category_group":"df_drinks"
     },
     {
@@ -349,6 +380,7 @@ const data = [
         "address":"RP6C+RG3, Cư xá Thanh Đa, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Qu%C3%A1n+cafe+view+s%C3%B4ng\/@10.8120001,106.7212889,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529c10b33064f:0x893a7794e6964d10!8m2!3d10.8120001!4d106.7212889!16s%2Fg%2F11r350l2qg?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -360,6 +392,7 @@ const data = [
         "address":"236\/43\/11, Đ. Điện Biên Phủ, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/noveri+cafe+%26+chanhhome.decor\/@10.7975932,106.7076966,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529335a2caa41:0x1273b5c33fc33a65!8m2!3d10.7975932!4d106.7076966!16s%2Fg%2F11twdnpq0g?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -371,6 +404,7 @@ const data = [
         "address":"141 Xô Viết Nghệ Tĩnh, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cheese+Coffee\/@10.794916,106.709238,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528b19b05b10b:0x4af573dbd29132cc!8m2!3d10.794916!4d106.709238!16s%2Fg%2F11c5z_d0lz?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -382,6 +416,7 @@ const data = [
         "address":"134 136 Đ. Điện Biên Phủ, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%99ng+C%C3%A0+Ph%C3%AA\/@10.7959365,106.7033434,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529581a01da6d:0x97c2f0b15c3e95eb!8m2!3d10.7959365!4d106.7033434!16s%2Fg%2F11kmngkxwl?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -393,6 +428,7 @@ const data = [
         "address":"1\/50\/34 Thanh Đa, Cư xá Thanh Đa, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Mi%C3%AAu+Hoa+Qua%CC%81n\/@10.8131231,106.7196636,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529005835ce9b:0x31698b488d9589a!8m2!3d10.8131231!4d106.7196636!16s%2Fg%2F11y2nmsj2d?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -404,6 +440,7 @@ const data = [
         "address":"335 Chu Văn An, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cyber+Legend\/@10.8114162,106.6991249,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290f6ff9e44d:0xe0bbcbc3ae539945!8m2!3d10.8114162!4d106.6991249!16s%2Fg%2F11jzfms6zm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -415,6 +452,7 @@ const data = [
         "address":"469 Đ. Điện Biên Phủ, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Coffee+House+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7\/@10.8016729,106.7140252,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f20de4c9adf:0x59ed55baa1622c69!8m2!3d10.8016729!4d106.7140252!16s%2Fg%2F11b6mvh5sc?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -426,6 +464,7 @@ const data = [
         "address":"36\/32\/6 Nguyễn Gia Trí, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+Zone+-+Nguy%E1%BB%85n+Gia+Tr%C3%AD\/@10.8020965,106.7164173,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291b30570f89:0x5e77d5e51457b31f!8m2!3d10.8020965!4d106.7164173!16s%2Fg%2F11vc2dksvp?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -437,6 +476,7 @@ const data = [
         "address":"482\/48G Lê Quang Định, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+N%C3%82U\/@10.8145671,106.6915166,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299f0493ef53:0x6e119f5e06c27d5a!8m2!3d10.8145671!4d106.6915166!16s%2Fg%2F11h582jhf8?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Phòng trưng bày nghệ thuật, Tranh",
         "category_group":"df_drinks"
     },
     {
@@ -448,6 +488,7 @@ const data = [
         "address":"141 Võ Oanh, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Win.D+Gaming+2+B%C3%ACnh+Th%E1%BA%A1nh\/@10.8045234,106.7144093,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bc61a9aea9:0x57d7abfe8f680384!8m2!3d10.8045234!4d106.7144093!16s%2Fg%2F11sd1wp7y_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -459,6 +500,7 @@ const data = [
         "address":"37-39 Đường D5, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BB%91ng+C%C3%A0+Ph%C3%AA\/@10.8064059,106.7141033,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e146e87427:0xee322fb0f6d69cef!8m2!3d10.8064059!4d106.7141033!16s%2Fg%2F11hrb6pw65?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -470,6 +512,7 @@ const data = [
         "address":"24A Đường D5, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A3+Nam+Books+N'+Coffee+S%C3%A0i+G%C3%B2n\/@10.8064798,106.7127848,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528a33dcfd689:0xed3139f805df690f!8m2!3d10.8064798!4d106.7127848!16s%2Fg%2F11g7_6_735?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -481,6 +524,7 @@ const data = [
         "address":"140\/52 Bình Quới phường 27, 271 Nguyễn Gia Trí, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+s%E1%BB%AFa+Anh+%C4%90%C3%B9\/@10.8165267,106.7235793,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290f8bf33d61:0xc8cf36f7eb3d594b!8m2!3d10.8165267!4d106.7235793!16s%2Fg%2F11rkcx_klh?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -492,6 +536,7 @@ const data = [
         "address":"135\/39 Đ. Nguyễn Hữu Cảnh, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/2PM+Coffee\/@10.7972578,106.7178871,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529925c7d6f19:0x8f41d0868ea671f2!8m2!3d10.7972578!4d106.7178871!16s%2Fg%2F11ffvtgycs?hl=vi&entry=ttu",
+        "categories":"Quán cà phê espresso",
         "category_group":"df_drinks"
     },
     {
@@ -503,6 +548,7 @@ const data = [
         "address":"480\/31\/10, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+ph%C3%AA+V%C3%B5ng+Ph%C6%B0%C6%A1ng+Vy\/@10.8252561,106.7418713,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175274baa2b0dff:0xd5bb2a25a8270087!8m2!3d10.8252561!4d106.7418713!16s%2Fg%2F11jdxbzn_v?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -514,6 +560,7 @@ const data = [
         "address":"40\/18 Nguyễn Văn Đậu, Phường 5, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%80+VI%E1%BA%BET+HOA+cafe\/@10.8058499,106.6877661,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f508bcb8e3:0x3abab385c370e156!8m2!3d10.8058499!4d106.6877661!16s%2Fg%2F11v9jjbshk?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -525,6 +572,7 @@ const data = [
         "address":"Hẻm 93\/30 Hoàng Hoa Thám, Phường 6, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/nh%C3%A0ph%E1%BA%A1m\/@10.8064638,106.6893133,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292d82dffa59:0x379500a261208939!8m2!3d10.8064638!4d106.6893133!16s%2Fg%2F11fjyvhnnm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -536,6 +584,7 @@ const data = [
         "address":"80\/20 Hoàng Hoa Thám, Phường 7, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HaKi+Cafe\/@10.8072601,106.6905897,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752900373c9fa9:0x1c6cfae4414652f4!8m2!3d10.8072601!4d106.6905897!16s%2Fg%2F11vm4z4bf8?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -547,6 +596,7 @@ const data = [
         "address":"311\/27 Nơ Trang Long, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+Ph%C3%AA+Ch%E1%BB%A3+%C4%90%E1%BB%93+C%E1%BB%95\/@10.8199619,106.6987482,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752892e50e3419:0x18e3b3ad0ed98d75!8m2!3d10.8199619!4d106.6987482!16s%2Fg%2F1hd_7hft5?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Chợ trời",
         "category_group":"df_drinks"
     },
     {
@@ -558,6 +608,7 @@ const data = [
         "address":"448 Phạm Văn Đồng, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/JeJu+coffee\/@10.8213479,106.6982884,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d9dbec760689:0xf9eb0394929e5f36!8m2!3d10.8213479!4d106.6982884!16s%2Fg%2F11jpyfkhwt?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -569,6 +620,7 @@ const data = [
         "address":"5 Đ. số 10, Khu phố 5, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Opal+Riverside+Coffee\/@10.8242209,106.7261363,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175275498fb641b:0xe86b7f627ea4c816!8m2!3d10.8242209!4d106.7261363!16s%2Fg%2F11jm46xpsj?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -580,6 +632,7 @@ const data = [
         "address":"RPHX+54H, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/AMAZON+COFFEE\/@10.8279288,106.7478522,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527005849ec23:0x7955e19d572ff60b!8m2!3d10.8279288!4d106.7478522!16s%2Fg%2F11vlzgvnyw?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -591,6 +644,7 @@ const data = [
         "address":"177 Phan Chu Trinh, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Color+Man+Coffee+%26+Choco\/@10.8183027,106.700429,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175295d2d48d043:0x9c3cad714a0c6537!8m2!3d10.8183027!4d106.700429!16s%2Fg%2F11fnqbzxpl?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -602,6 +656,7 @@ const data = [
         "address":"RP9V+26F, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CAFE+%C3%9AT\/@10.8175629,106.7430606,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527a2b9d0f243:0x6225e6595207096!8m2!3d10.8175629!4d106.7430606!16s%2Fg%2F11qnttskzj?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -613,6 +668,7 @@ const data = [
         "address":"480\/58 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+Bida+Black+House\/@10.8217642,106.7390062,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752768f3e163c3:0xf2e354fbc5068de8!8m2!3d10.8217642!4d106.7390062!16s%2Fg%2F11v5_wzqqg?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -624,6 +680,7 @@ const data = [
         "address":"480\/34 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/URS+CAF%C3%89\/@10.8235335,106.739593,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f087071a9e7:0x9e70db20b61bcd2b!8m2!3d10.8235335!4d106.739593!16s%2Fg%2F11lfbgvjxh?hl=vi&entry=ttu",
+        "categories":"Cơ sở rang cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -635,6 +692,7 @@ const data = [
         "address":"422\/2 Nơ Trang Long, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+Ph%C3%AA+Trung+Nguy%C3%AAn\/@10.8212026,106.7059544,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289201d7840f:0xc62b1ec5b9ba2512!8m2!3d10.8212026!4d106.7059544!16s%2Fg%2F1hc25hczk?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -646,6 +704,7 @@ const data = [
         "address":"173\/1a Bình Lợi, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sunny+farm+Coffee+and+BBQ\/@10.8321008,106.7047284,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529283f86b05f:0x712bd75dc4758e3d!8m2!3d10.8321008!4d106.7047284!16s%2Fg%2F11j5wdxw2w?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Nhà hàng món nướng",
         "category_group":"df_drinks"
     },
     {
@@ -657,6 +716,7 @@ const data = [
         "address":"210 Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Jade+by+C\/@10.8315276,106.7020126,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292d4aa90c55:0x802fa2cf1ae3ddff!8m2!3d10.8315276!4d106.7020126!16s%2Fg%2F11t4xxzbmt?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -668,6 +728,7 @@ const data = [
         "address":"23\/4 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Coffee+L%C6%B0%E1%BB%A3m'S\/@10.8159243,106.7475571,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175278d0ff4b813:0x5d733ebc904f346b!8m2!3d10.8159243!4d106.7475571!16s%2Fg%2F11t40mqwt5?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -679,6 +740,7 @@ const data = [
         "address":"RP8V+JWJ, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+rau+m%C3%A1+-+MAXH\/@10.8165805,106.7447687,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527d8658aa471:0xc557f932a3a7eae9!8m2!3d10.8165805!4d106.7447687!16s%2Fg%2F11rbsntkfy?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -690,6 +752,7 @@ const data = [
         "address":"64 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+H%E1%BA%A1nh\/@10.8173917,106.7485244,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752647bde9c0dd:0x6b2891bea1dd697e!8m2!3d10.8173917!4d106.7485244!16s%2Fg%2F11fx9mb16n?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -701,6 +764,7 @@ const data = [
         "address":"558\/64\/13 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+N%C4%83m+H%C6%B0%E1%BB%9Dng\/@10.8174504,106.7450027,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175271637bb1a19:0xd1a8026abda9fbb8!8m2!3d10.8174504!4d106.7450027!16s%2Fg%2F11f67jbjc8?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -712,6 +776,7 @@ const data = [
         "address":"65 Hẻm 47\/52 Bùi Đình Túy, Phường 24, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+KOVE+%E2%80%A2+Coffee+and+Tea\/@10.808147,106.7066747,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299f50d1dd73:0xcfca5bfe518020b4!8m2!3d10.808147!4d106.7066747!16s%2Fg%2F11rc2gtj98?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -723,6 +788,7 @@ const data = [
         "address":"160\/29 Bùi Đình Tuý, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+ph%C3%AA+Ng%C3%A1ch+160\/@10.808643,106.7040169,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528be5cebe925:0xbb7db0ab032b9325!8m2!3d10.808643!4d106.7040169!16s%2Fg%2F11gb3qmtmj?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -734,6 +800,7 @@ const data = [
         "address":"353\/7A Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+C%C3%A0+Ph%C3%AA+D%C6%B0%E1%BB%9Bi+T%C3%A1n+C%C3%A2y+(Sunset+View)\/@10.8274207,106.7343208,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175272b5abcef9f:0xa2a4902d197a099e!8m2!3d10.8274207!4d106.7343208!16s%2Fg%2F11pyy8f8ds?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -745,6 +812,7 @@ const data = [
         "address":"24\/4 Võ Oanh, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh 72308, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/NO+LIMIT+COFFEE\/@10.8038655,106.7195119,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175298365c7d8c5:0x466c04853947d32!8m2!3d10.8038655!4d106.7195119!16s%2Fg%2F11rbdrt2nz?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -756,6 +824,7 @@ const data = [
         "address":"75 Nguyễn Văn Thương, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Coffee+House+D1\/@10.801948,106.7189811,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529938c421d19:0xaa17689dd7252ab6!8m2!3d10.801948!4d106.7189811!16s%2Fg%2F11h5n4r6mv?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -767,6 +836,7 @@ const data = [
         "address":"262 Ung Văn Khiêm, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%BA+Tr%C3%AAn+C%C3%A2y+Coffee\/@10.8040436,106.7215075,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175270d856a4c49:0x8da9bacf36b229ba!8m2!3d10.8040436!4d106.7215075!16s%2Fg%2F11fmpbdhx9?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -778,6 +848,7 @@ const data = [
         "address":"29 Đường Số 13, Khu Phố 5, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Trung+Nguy%C3%AAn+E-Coffee+29+%C4%90%C6%B0%E1%BB%9Dng+S%E1%BB%91+13\/@10.8290372,106.7307193,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527783c8b23d5:0x5d590500ecadcda3!8m2!3d10.8290372!4d106.7307193!16s%2Fg%2F11tjk_zwgq?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -789,6 +860,7 @@ const data = [
         "address":"8 Đường số 12, Khu nhà ở Hiệp Bình Chánh, KP 5, P. Hiệp Bình Chánh, Q. Thủ, Đức, Ho Chi Minh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Lam+Kafe\/@10.8291956,106.7288961,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175262cad6c1b49:0x6313b0dce0338bd4!8m2!3d10.8291956!4d106.7288961!16s%2Fg%2F11fx7pdgp_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Cơ sở rang cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -800,6 +872,7 @@ const data = [
         "address":"243\/2\/26, Chu Văn An, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+Ph%C3%AA+Mu%E1%BB%91i+3A\/@10.8099909,106.7036172,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ac4a614071:0x26d3e1100ce95a3b!8m2!3d10.8099909!4d106.7036172!16s%2Fg%2F11ty70vynw?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -811,6 +884,7 @@ const data = [
         "address":"261\/22 Chu Văn An, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%C3%B3c+Tr%C3%A0+S%E1%BB%AFa+%C4%82n+V%E1%BA%B7t\/@10.8102322,106.7013425,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e5876a836b:0xaef4b2f889f00210!8m2!3d10.8102322!4d106.7013425!16s%2Fg%2F11ght79dnl?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -822,6 +896,7 @@ const data = [
         "address":"197 Đ. Đinh Bộ Lĩnh, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+Th%E1%BB%A7y+Tr%C3%BAc\/@10.8103601,106.7089454,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528bd7c6a52bd:0xff0a259cfb82dda1!8m2!3d10.8103601!4d106.7089454!16s%2Fg%2F1tflvcr8?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -833,6 +908,7 @@ const data = [
         "address":"Chung cư Phạm Viết Chánh, đối diện, 24 Đ. Trần Quang Long, Phường 19, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ng%E1%BB%8Dt+cafe\/@10.7908508,106.7113454,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529c5ebff4a79:0x2bcdd79e1aa9af10!8m2!3d10.7908508!4d106.7113454!16s%2Fg%2F11j61bssd5?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -844,6 +920,7 @@ const data = [
         "address":"170 Đ. Đinh Bộ Lĩnh, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Highlands+Coffee+170+%C4%90inh+B%E1%BB%99+L%C4%A9nh\/@10.8106872,106.70929,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175296cfda9a8f5:0x38db5601ce3d934!8m2!3d10.8106872!4d106.70929!16s%2Fg%2F11t7xtfb_h?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -855,6 +932,7 @@ const data = [
         "address":"87 Ng. Tất Tố, Phường 21, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%E1%BB%91n+C%C3%A0+Ph%C3%AA\/@10.7926034,106.7127203,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528ad93247613:0xf1dcbd5edb724e83!8m2!3d10.7926034!4d106.7127203!16s%2Fg%2F11c52qg6j1?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -866,6 +944,7 @@ const data = [
         "address":"2 Đường Số 14, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+Melody\/@10.811976,106.7043573,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752895eb578279:0x412a02220388656f!8m2!3d10.811976!4d106.7043573!16s%2Fg%2F1ptwrp969?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -877,6 +956,7 @@ const data = [
         "address":"65 Ng. Tất Tố, Phường 21, Bình Thạnh, Thành phố Hồ Chí Minh 70604, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+S%E1%BB%AFa+Maycha\/@10.7928972,106.7113755,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528b20beb8eb3:0xa20a5408e67dbae2!8m2!3d10.7928972!4d106.7113755!16s%2Fg%2F11q2yk9ghw?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -888,6 +968,7 @@ const data = [
         "address":"69 Ng. Tất Tố, Phường 21, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Bamos+Coffee+-+Ng%C3%B4+T%E1%BA%A5t+T%E1%BB%91,+B%C3%ACnh+Th%E1%BA%A1nh+(+Open+24%2F7)\/@10.7930039,106.7117081,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ed340f2d7d:0xa06142ab255e4fd9!8m2!3d10.7930039!4d106.7117081!16s%2Fg%2F11l59j8d0z?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -899,6 +980,7 @@ const data = [
         "address":"14B1 Ng. Tất Tố, Phường 19, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Coffee+House+-+Ng%C3%B4+T%E1%BA%A5t+T%E1%BB%91\/@10.7930862,106.7097958,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528adae1dc29f:0xd95ee5d63cfcdf9b!8m2!3d10.7930862!4d106.7097958!16s%2Fg%2F11c55c6stl?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -910,6 +992,7 @@ const data = [
         "address":"123\/20 Nguyễn Xí, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+V%C3%B5ng\/@10.8137299,106.70874,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289655155eeb:0xf414ffdfd6c1db7e!8m2!3d10.8137299!4d106.70874!16s%2Fg%2F11c58fpqyz?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -921,6 +1004,7 @@ const data = [
         "address":"154 Nguyễn Xí, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Highland+Coffee\/@10.8145267,106.7086783,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529328222c0f1:0x68ed163fde465304!8m2!3d10.8145267!4d106.7086783!16s%2Fg%2F11frt6ckfx?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -932,6 +1016,7 @@ const data = [
         "address":"184 Nguyễn Xí, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Coffee+House+-+Nguy%E1%BB%85n+X%C3%AD\/@10.8152937,106.7079154,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752952606bb6f9:0xe7f834a1e31de257!8m2!3d10.8152937!4d106.7079154!16s%2Fg%2F11gmfxp_cp?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -943,6 +1028,7 @@ const data = [
         "address":"158\/1 Xô Viết Nghệ Tĩnh, Phường 21, Bình Thạnh, Thành phố Hồ Chí Minh 72322, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/TR%E1%BB%90N+%C4%91%E1%BB%83+d%E1%BB%ABng+ch%C3%A2n+Coffee+and+Academy\/@10.797025,106.7111606,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bb0cdd4af1:0x9fffc4a56cbde6d!8m2!3d10.797025!4d106.7111606!16s%2Fg%2F11vjkx4plx?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -954,6 +1040,7 @@ const data = [
         "address":"1\/48 Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Jan+Caf%C3%A9\/@10.825577,106.701604,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529707ff48387:0xe1fc3373a8383574!8m2!3d10.825577!4d106.701604!16s%2Fg%2F11r2k7f97h?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -965,6 +1052,7 @@ const data = [
         "address":"10 Đ. Điện Biên Phủ, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Qu%C3%A1n+Cafe+%C4%90%E1%BB%A7ng+%C4%90%E1%BB%89nh\/@10.7985479,106.7165958,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528af5b14b839:0xc30d6feefed628c8!8m2!3d10.7985479!4d106.7165958!16s%2Fg%2F1th0vvwl?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -976,6 +1064,7 @@ const data = [
         "address":"20 Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/DALAT+COFFEE\/@10.8255826,106.7034929,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175288cf6bcd455:0x735f06d16a1b72cc!8m2!3d10.8255826!4d106.7034929!16s%2Fg%2F11ckkynvz_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -987,6 +1076,7 @@ const data = [
         "address":"50 Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+s%E1%BB%AFa+TuTiMi+-+%C4%90%E1%BA%B7ng+Th%C3%B9y+Tr%C3%A2m\/@10.8268108,106.7015211,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529c289cfa515:0x421c17cc7f4528b5!8m2!3d10.8268108!4d106.7015211!16s%2Fg%2F11tk8s5bk3?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -998,6 +1088,7 @@ const data = [
         "address":"76-98 Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+ph%C3%AA+V%C3%95NG\/@10.8278,106.7032424,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529c901f973c9:0x6c1714d847f5fd16!8m2!3d10.8278!4d106.7032424!16s%2Fg%2F11twq1qmtw?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1009,6 +1100,7 @@ const data = [
         "address":"41f\/44\/7, Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Show+Coffee\/@10.827745,106.701533,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175296d3240ec67:0x30a27dc5a9a07b86!8m2!3d10.827745!4d106.701533!16s%2Fg%2F11v5b4c5wj?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1020,6 +1112,7 @@ const data = [
         "address":"46 Hẻm 69 Đặng Thùy Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%C3%81CH+T%C3%81CH+KAFE\/@10.8281869,106.7015933,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752967cad785bd:0x2a91642b8abde52a!8m2!3d10.8281869!4d106.7015933!16s%2Fg%2F11nmj0lw2l?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1031,6 +1124,7 @@ const data = [
         "address":"12 Bình Lợi, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+B%E1%BB%9D+S%C3%B4ng\/@10.8284746,106.7075474,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752955845e97c5:0x84696bf6d15abc7d!8m2!3d10.8284746!4d106.7075474!16s%2Fg%2F11kg94cxh5?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1042,6 +1136,7 @@ const data = [
         "address":"101 Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+%C3%94ng+B%E1%BA%A7u\/@10.8292312,106.7003124,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529849eb7befb:0xfc1ee25ddac79123!8m2!3d10.8292312!4d106.7003124!16s%2Fg%2F11ssbjqk2g?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1053,6 +1148,7 @@ const data = [
         "address":"Hẻm 78 Bình Lợi, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+ph%C3%AA+Thu%E1%BB%B7+M%E1%BB%99c\/@10.8293427,106.7075489,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528890a3ada27:0xdbd9b112bf2bf3e0!8m2!3d10.8293427!4d106.7075489!16s%2Fg%2F11c2kk5qb_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1064,6 +1160,7 @@ const data = [
         "address":"130 - 132 Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 72311, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gobi+Premium+Kids+Cafe\/@10.8296135,106.7029025,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f8edf938ef:0x8a109d3002262fde!8m2!3d10.8296135!4d106.7029025!16s%2Fg%2F11vpd8zv69?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1075,6 +1172,7 @@ const data = [
         "address":"157 Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/JinJoo+Bingsu%26Tea\/@10.8303457,106.7022613,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297748a2bc99:0xeef74f075ef720d!8m2!3d10.8303457!4d106.7022613!16s%2Fg%2F11ssc37rn5?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1086,6 +1184,7 @@ const data = [
         "address":"229 Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Baba+Espresso+Cafe\/@10.8324775,106.7009125,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752920362e2863:0xb0999b61ab4246ca!8m2!3d10.8324775!4d106.7009125!16s%2Fg%2F11f9y05lyz?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1097,6 +1196,7 @@ const data = [
         "address":"23 Đường Nguyễn An Ninh, Phường 14, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sai+Gon+90s+Coffee\/@10.8049494,106.6966817,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175295ac1d68545:0xde3d81e7369d12df!8m2!3d10.8049494!4d106.6966817!16s%2Fg%2F11hz780jyv?hl=vi&entry=ttu",
+        "categories":"Cơ sở rang cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1108,6 +1208,7 @@ const data = [
         "address":"356\/6\/2 Đ. Bạch Đằng, Phường 14, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gathering+coffee\/@10.8035656,106.6996548,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291d668672e1:0xc75ed4e3eebc6edd!8m2!3d10.8035656!4d106.6996548!16s%2Fg%2F11khnn0pc4?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1119,6 +1220,7 @@ const data = [
         "address":"204\/6 QL13, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/the-Link+Cafe\/@10.8151965,106.7136873,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528998ec207a1:0x819252066c94923a!8m2!3d10.8151965!4d106.7136873!16s%2Fg%2F11gfm6hc45?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1130,6 +1232,7 @@ const data = [
         "address":"31\/5 Ung Văn Khiêm, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/DOSE+COFFEE\/@10.8093238,106.7137252,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290a2892917f:0x803f4a78d2f092d6!8m2!3d10.8093238!4d106.7137252!16s%2Fg%2F11tw_mp84l?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1141,6 +1244,7 @@ const data = [
         "address":"107 Đ. Số 20, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+ph%C3%AA+v%C3%B5ng+c%C3%A2y+b%C3%A0ng\/@10.8235028,106.7237174,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752714e8aba953:0x926546821408ed00!8m2!3d10.8235028!4d106.7237174!16s%2Fg%2F11sw27h08s?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1152,6 +1256,7 @@ const data = [
         "address":"860\/60D Xô Viết Nghệ Tĩnh, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gaia+Caf%C3%A9\/@10.8117493,106.7177541,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a47a61138f:0xd564a80fe5ac022e!8m2!3d10.8117493!4d106.7177541!16s%2Fg%2F11h9gvn_jm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1163,6 +1268,7 @@ const data = [
         "address":"6\/4 Phan Bội Châu, phường 2, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+S%E1%BB%AFa+Meuw+Meuw\/@10.802481,106.701033,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529002b34f5d1:0x7b957d0e74b127af!8m2!3d10.802481!4d106.701033!16s%2Fg%2F11vr_f2nmp?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1174,6 +1280,7 @@ const data = [
         "address":"86a Đường 17, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/TA+Coffee+%26+Tea\/@10.8221237,106.7173686,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752884a0d1cfe5:0x64e74465c1edd4da!8m2!3d10.8221237!4d106.7173686!16s%2Fg%2F11h119649?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1185,6 +1292,7 @@ const data = [
         "address":"Duong 18 Kha Van Can, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+T%26T\/@10.821447,106.7193551,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528833bb21b1d:0xb441327ff59724b6!8m2!3d10.821447!4d106.7193551!16s%2Fg%2F11c4vdzvlc?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1196,6 +1304,7 @@ const data = [
         "address":"2 Nguyễn Trung Trực, Phường 5, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%ADa+H%C3%A0ng+C%C3%A0+Ph%C3%AA+C%C5%A9\/@10.8127144,106.6874046,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b0e58f5a35:0xae6946564f53eb53!8m2!3d10.8127144!4d106.6874046!16s%2Fg%2F11hz2bxb97?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Câu lạc bộ âm nhạc",
         "category_group":"df_drinks"
     },
     {
@@ -1207,6 +1316,7 @@ const data = [
         "address":"359a Lê Quang Định, Phường 5, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Highlands+Coffee+L%C3%AA+Quang+%C4%90%E1%BB%8Bnh\/@10.8124032,106.6900704,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292f088cdbcf:0x96a384c953d5e5f5!8m2!3d10.8124032!4d106.6900704!16s%2Fg%2F11j4n_nptn?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1218,6 +1328,7 @@ const data = [
         "address":"42\/58 Hoàng Hoa Thám, Phường 7, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C6%AF%C6%A1m+Art+Hub\/@10.8083167,106.6912176,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291f56525e87:0xfc940517e490865!8m2!3d10.8083167!4d106.6912176!16s%2Fg%2F11pd1g6q07?hl=vi&entry=ttu",
+        "categories":"Quán cà phê nghệ thuật",
         "category_group":"df_drinks"
     },
     {
@@ -1229,6 +1340,7 @@ const data = [
         "address":"219 Phú Thuận, Phú Mỹ Hưng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+Ph%C3%AA+Kim+Dung\/@11.1106002,106.4651057,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33b59d87b4e3:0x8976afad5c4551cf!8m2!3d11.1106002!4d106.4651057!16s%2Fg%2F11k2vk0l_f?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1240,6 +1352,7 @@ const data = [
         "address":"210 Trung Lập, Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+S%E1%BB%AFa+MaMa+House\/@11.0575023,106.4458846,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2dbf5fc5841b:0xd8c4bfe24311065b!8m2!3d11.0575023!4d106.4458846!16s%2Fg%2F11hdnj8ygk?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -1251,6 +1364,7 @@ const data = [
         "address":"267 Trung Lập, Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Caf%C3%A9+V%C3%B5ng+Wifi+B%C3%ADch+Tr%C3%A2m\/@11.0584597,106.4444824,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2dfc3893fc1f:0x1635cb94c8619393!8m2!3d11.0584597!4d106.4444824!16s%2Fg%2F11qk1ys32k?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1262,6 +1376,7 @@ const data = [
         "address":"TP.HCM, TL8, Phước Vĩnh An, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Khu+du+l%E1%BB%8Bch+T%C3%A2y+Th%C3%A0nh+(C%C3%B4ng+vi%C3%AAn+n%C6%B0%E1%BB%9Bc+C%E1%BB%A7+Chi)\/@10.9831028,106.5324672,17z\/data=!3m1!4b1!4m9!3m8!1s0x310b2cad74fa3307:0xa30de2312b71cc84!5m2!4m1!1i2!8m2!3d10.9831028!4d106.5324672!16s%2Fg%2F1pv1y5sz_?hl=vi&entry=ttu",
+        "categories":"Công viên nước",
         "category_group":"df_drinks"
     },
     {
@@ -1273,6 +1388,7 @@ const data = [
         "address":"TL8, ấp 4, Củ Chi, Thành phố Hồ Chí Minh 80000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+vi%C3%AAn+n%C6%B0%E1%BB%9Bc+C%E1%BB%A7+Chi+2023\/@10.9799978,106.5312492,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2b4390900fe5:0x4664d43c4bd19db8!8m2!3d10.9799978!4d106.5312492!16s%2Fg%2F11v42g3wvl?hl=vi&entry=ttu",
+        "categories":"Công viên nước",
         "category_group":"df_drinks"
     },
     {
@@ -1284,6 +1400,7 @@ const data = [
         "address":"số 18 Cây Trắc, ấp Phú An, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/c%C3%A0+ph%C3%AA+T%E1%BB%8Bnh\/@11.0294889,106.5628388,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d39e750eb491:0xc6be03241e3af4f7!8m2!3d11.0294889!4d106.5628388!16s%2Fg%2F11hzpckq3g?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1295,6 +1412,7 @@ const data = [
         "address":"Trung An, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Khu+Du+Li%CC%A3ch+Sinh+Tha%CC%81i+V%C6%B0%E1%BB%9Dn+Tr%C3%A1i+C%C3%A2y+Trung+An\/@11.010871,106.5906024,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d3acfe45caf5:0xee0d59262ea7f8a8!8m2!3d11.010871!4d106.5906024!16s%2Fg%2F11c310lw3s?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1306,6 +1424,7 @@ const data = [
         "address":"SPA SOAN LÊ, 10 Đường Nguyễn Thị Nê, Phú Hoà Đông, Củ Chi, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/NHANVIP+COFFEE\/@11.0194533,106.5616871,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d300772b9631:0x35e36b97565edf80!8m2!3d11.0194533!4d106.5616871!16s%2Fg%2F11ld5k0cgs?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1317,6 +1436,7 @@ const data = [
         "address":"147A Suối Lội, Phước Vĩnh An, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cathy's+coffee\/@10.9745614,106.5288022,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d67ca50496d:0x7f9c6699ff79b888!8m2!3d10.9745614!4d106.5288022!16s%2Fg%2F11lgqgbwt4?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1328,6 +1448,7 @@ const data = [
         "address":"10°58'30.6\"N 106°31'33.0\"E, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%E1%BB%99t+Bu%E1%BB%95i+Chi%E1%BB%81u+Chi%C3%AAu\/@10.9750511,106.5258675,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d2604f2dd29:0xb24d8eaf52231941!8m2!3d10.9750511!4d106.5258675!16s%2Fg%2F11kc8gcxvb?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1339,6 +1460,7 @@ const data = [
         "address":"201\/7 Đường H201, Phú Hoà Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+%C3%9At+H%E1%BA%A9n\/@11.0028516,106.5431361,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d3e2cce8b81d:0x35c60043cac51212!8m2!3d11.0028516!4d106.5431361!16s%2Fg%2F11vlj_j8fy?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1350,6 +1472,7 @@ const data = [
         "address":"216C Đường Nguyễn Thị Nê, Phú Hoà Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Coffee+86\/@11.0042938,106.5430952,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d3fc5415d0ff:0x5c9f55993291106a!8m2!3d11.0042938!4d106.5430952!16s%2Fg%2F11vd6p1p6_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1361,6 +1484,7 @@ const data = [
         "address":"XCM5+XPW, Unnamed Road, Thái Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/K%C3%AAnh+%C4%90%C3%B4ng+C%E1%BB%A7+Chi\/@10.9849865,106.4093254,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f950154c8c1:0x47fcb6ef29592e8f!8m2!3d10.9849865!4d106.4093254!16s%2Fg%2F11nshc0134?hl=vi&entry=ttu",
+        "categories":"Công trình cung cấp nước",
         "category_group":"df_drinks"
     },
     {
@@ -1372,6 +1496,7 @@ const data = [
         "address":"62 đường 89, ấp cây da, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+M%C3%A1i+L%C3%A1+Xu%C3%A2n+Di%E1%BB%81n+(*:*)%2F%22%22%7C\/@10.9581627,106.5403878,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d5ee75d6b8fb:0xa2087f2dfebeef35!8m2!3d10.9581627!4d106.5403878!16s%2Fg%2F11ld165q_t?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1383,6 +1508,7 @@ const data = [
         "address":"434 Nguyễn Văn Khạ, Phú Hoà Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+ph%C3%AA+B%E1%BA%BFn+M%C6%B0%C6%A1ng\/@11.0089162,106.5184596,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2cdb7242b495:0x5b0c83c588e8a4cd!8m2!3d11.0089162!4d106.5184596!16s%2Fg%2F11hczz763h?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1394,6 +1520,7 @@ const data = [
         "address":"560 Bùi Thị Điệt, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+ph%C3%AA+Ho%C3%A0\/@11.0197354,106.4954159,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d65a31fb6a5:0xd170fd510509c7cd!8m2!3d11.0197354!4d106.4954159!16s%2Fg%2F11mxv2z3w9?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1405,6 +1532,7 @@ const data = [
         "address":"130 tỉnh lộ 2, ấp xóm đồng, Củ Chi, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kill+Zone+Gaming\/@10.9443282,106.5414859,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d513c1e5709b:0x87e6fd17cc91b757!8m2!3d10.9443282!4d106.5414859!16s%2Fg%2F11f66gd93k?hl=vi&entry=ttu",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -1416,6 +1544,7 @@ const data = [
         "address":"122 Hồ Văn Tắng, Tân Phú Trung, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+124\/@10.9533677,106.5452529,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d50698b8fa57:0x58e140667b10190f!8m2!3d10.9533677!4d106.5452529!16s%2Fg%2F11h84vmtr8?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1427,6 +1556,7 @@ const data = [
         "address":"372c Nguyễn Kim Cương, Tân Thạnh Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/G79+coffee\/@10.9704704,106.575546,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d5da4ff02c4b:0x138acf655efe5279!8m2!3d10.9704704!4d106.575546!16s%2Fg%2F11sw12wflz?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1438,6 +1568,7 @@ const data = [
         "address":"149 145 Đường An Nhơn Tây, An Nhơn Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%A7+m%C3%AC+n%C6%B0%E1%BB%9Bc+c%E1%BB%91t+d%E1%BB%ABa\/@11.0842673,106.4902425,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33b55813d085:0x7fa242550dd5c449!8m2!3d11.0842673!4d106.4902425!16s%2Fg%2F11sh71_7ky?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1449,6 +1580,7 @@ const data = [
         "address":"189 Đường An Nhơn Tây, An Phú, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Qu%C3%A1n+n%C6%B0%E1%BB%9Bc+gi%E1%BA%A3i+kh%C3%A1t+-+Ti%E1%BB%87m+s%E1%BB%ADa+xe+Anh+Hi%E1%BA%BFu\/@11.0854796,106.4834053,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b337dbb6823bb:0xb6d7143632e40d43!8m2!3d11.0854796!4d106.4834053!16s%2Fg%2F11sw7r5_jd?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1460,6 +1592,7 @@ const data = [
         "address":"2CFC+2FH, Phước Thạnh, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+M%C3%ADt+N%C3%A0i\/@11.0226329,106.421227,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2fb194569cb3:0x481ab3bc515a5c51!8m2!3d11.0226329!4d106.421227!16s%2Fg%2F11p0_9372y?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1471,6 +1604,7 @@ const data = [
         "address":"2C8J+H5C, Phước Thạnh, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%E1%BA%A1p+h%C3%B3a+Ng%C3%A2n+%C4%90%E1%BA%A1t\/@11.0164366,106.4303776,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f007ded4719:0x9ea81bed744f6b1a!8m2!3d11.0164366!4d106.4303776!16s%2Fg%2F11vptqm0cz?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1482,6 +1616,7 @@ const data = [
         "address":"2C7R+9QJ, Phước Thạnh, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CH%C3%ACU+cafe\/@11.0134182,106.4427557,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d23ab536a39:0x390539a8140bac52!8m2!3d11.0134182!4d106.4427557!16s%2Fg%2F11kjhhwtxl?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1493,6 +1628,7 @@ const data = [
         "address":"15 Đường số 648, Phước Thạnh, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%E1%BA%A1m+Coffee\/@11.0107486,106.4207554,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f9f821a6e6d:0x2b122a3387dbf83f!8m2!3d11.0107486!4d106.4207554!16s%2Fg%2F11rbz0hqh1?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1504,6 +1640,7 @@ const data = [
         "address":"2C5R+GV9, Phước Thạnh, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+2N\/@11.008451,106.441185,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d1a2bfc9a4b:0xf1ffc4d5c3429bab!8m2!3d11.008451!4d106.441185!16s%2Fg%2F11vds9q454?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1515,6 +1652,7 @@ const data = [
         "address":"3G32+J64, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+T%C3%B9ng+L%C3%A2m\/@11.0540118,106.5005858,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d64d8b594b7:0xdc26b702587fb91f!8m2!3d11.0540118!4d106.5005858!16s%2Fg%2F11c1g5mx9l?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1526,6 +1664,7 @@ const data = [
         "address":"612 Trung Lập, Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SUTA+Bida+-+Coffe\/@11.0893972,106.4390579,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b317e90a2b0df:0x87775679ff6bb7e4!8m2!3d11.0893972!4d106.4390579!16s%2Fg%2F11sjfk4n67?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1537,6 +1676,7 @@ const data = [
         "address":"796 Trung Lập, Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+S%E1%BB%AFa+Lam+Chi\/@11.1031515,106.4393254,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b31d95304abb5:0x191f0eb7731d6907!8m2!3d11.1031515!4d106.4393254!16s%2Fg%2F11syz14r8c?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1548,6 +1688,7 @@ const data = [
         "address":"455 Nguyễn Thị Rành, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+SaKe\/@11.0180209,106.4836556,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2db272cfa0d3:0xd35627d2c104b2fa!8m2!3d11.0180209!4d106.4836556!16s%2Fg%2F11h6ck92w_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1559,6 +1700,7 @@ const data = [
         "address":"129 HL2, Trung Lập Hạ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+ph%C3%AA+558\/@10.9993113,106.4828866,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d0064973413:0xda402fb96972d982!8m2!3d10.9993113!4d106.4828866!16s%2Fg%2F11ld3mlfj9?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1570,6 +1712,7 @@ const data = [
         "address":"Trần Thị Triên, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Lunar+Coffee\/@11.0273014,106.4842662,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d5bebc1bed5:0x475ef7912e99e95c!8m2!3d11.0273014!4d106.4842662!16s%2Fg%2F11pr3ddw4x?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1581,6 +1724,7 @@ const data = [
         "address":"47\/39\/26 Trần Thị Lan, Ấp 2A, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%E1%BB%89a+H%C3%A8+Qu%C3%A1n\/@10.9801647,106.5661921,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d387e582abd9:0x92cb8f1b3e38be15!8m2!3d10.9801647!4d106.5661921!16s%2Fg%2F11rgllbds0?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -1592,6 +1736,7 @@ const data = [
         "address":"XHQF+C97, Đường số 2, Tân Thạnh Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/QU%C3%81N+CAFE+H%C6%AF%C6%A0NG+CAO+NGUY%C3%8AN\/@10.988533,106.573408,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d3006d85970d:0xede44a514d510e1!8m2!3d10.988533!4d106.573408!16s%2Fg%2F11vq061z9z?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1603,6 +1748,7 @@ const data = [
         "address":"40 Đường Lê Vĩnh Huy, TT. Củ Chi, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+C%C3%A0+Ph%C3%AA+Qu%E1%BA%A3+Qu%C3%BDt\/@10.9769927,106.4948327,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d006285f23d:0x8703964cc61dd5ea!8m2!3d10.9769927!4d106.4948327!16s%2Fg%2F11lc_qzp7r?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1614,6 +1760,7 @@ const data = [
         "address":"470 ĐTL2, Ấp 3, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%C3%BAc+coffee%26tea\/@10.9735717,106.5144516,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2b00026cf183:0xb293c7fc5af91917!8m2!3d10.9735717!4d106.5144516!16s%2Fg%2F11vpz_dvf4?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1625,6 +1772,7 @@ const data = [
         "address":"319 Hà Duy Phiên, Bình Mỹ, Củ Chi, Bình Dương, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+c%C3%B4+T%C6%B0\/@10.9578321,106.6431334,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d7004eeddfaf:0x1ee90e762c898628!8m2!3d10.9578321!4d106.6431334!16s%2Fg%2F11vs5jw8ps?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1636,6 +1784,7 @@ const data = [
         "address":"82 Cây Trôm Mỹ Khánh, Phước Hiệp, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/T%C3%80I+coffee\/@10.9879027,106.4453638,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d006981b097:0x92fd301c73a45d03!8m2!3d10.9879027!4d106.4453638!16s%2Fg%2F11vpyzy45k?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1647,6 +1796,7 @@ const data = [
         "address":"123 Đ. Số 5, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/BIG+COFFE\/@10.8466589,106.6759516,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752974a4142ea3:0x9be1203150ff9d42!8m2!3d10.8466589!4d106.6759516!16s%2Fg%2F11vps848lq?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1658,6 +1808,7 @@ const data = [
         "address":"409 Nguyễn Oanh, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+v%C3%B5ng+409,+c%C3%A0+ph%C3%AA+v%C3%B5ng+409\/@10.8471399,106.6751949,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529732ab0dff9:0x7552f787eba94612!8m2!3d10.8471399!4d106.6751949!16s%2Fg%2F11swt8wsxm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1669,6 +1820,7 @@ const data = [
         "address":"69 Đ. Số 5, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VITAMIN+Coffee\/@10.8457874,106.6755586,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529de64794297:0xb1c1bb069b72089c!8m2!3d10.8457874!4d106.6755586!16s%2Fg%2F11r98hjnkd?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1680,6 +1832,7 @@ const data = [
         "address":"24 Hẻm 226 Nguyễn Văn Lượng, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+Ng%C3%B4+%C4%90%E1%BB%93ng\/@10.8398281,106.6735483,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752906c06ff151:0x706c28998a9b1209!8m2!3d10.8398281!4d106.6735483!16s%2Fg%2F11h0tjq5jv?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1691,6 +1844,7 @@ const data = [
         "address":"27 Bùi Quang Là , p.12, Quận Gò Vấp, TP. Hồ Chí Minh, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/coffee+1999\/@10.8358133,106.6378812,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a4c2911f97:0xdea1faa2077caf1f!8m2!3d10.8358133!4d106.6378812!16s%2Fg%2F11vpv3fkxp?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1702,6 +1856,7 @@ const data = [
         "address":"110 Bùi Quang Là, Q. Gò Vấp, Tp. HCM, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Caf%C3%A9+S%C3%A2n+V%C6%B0%E1%BB%9Dn+Th%E1%BA%A3o+Nguy%C3%AAn\/@10.8346746,106.6405695,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529781f541599:0xc7e4cb6d0787d566!8m2!3d10.8346746!4d106.6405695!16s%2Fg%2F11c48fdt77?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1713,6 +1868,7 @@ const data = [
         "address":"112 Bùi Quang Là, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Wain+Garden+Coffee\/@10.834789,106.6402403,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529781874bc03:0xde19bc7e8b9b2ebf!8m2!3d10.834789!4d106.6402403!16s%2Fg%2F11cjtm8216?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1724,6 +1880,7 @@ const data = [
         "address":"776A Phạm Văn Bạch, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M+Coffee\/@10.8378193,106.6452765,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528c5d193e4e9:0xeb9dfcf4a8162ad7!8m2!3d10.8378193!4d106.6452765!16s%2Fg%2F11b_2tb6r9?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1735,6 +1892,7 @@ const data = [
         "address":"463 Đ. Lê Đức Thọ, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/L%C3%A0+Nh%C3%A0+Cafe\/@10.8428281,106.6719037,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752965d4b6c1e1:0x52887b7348f2dadb!8m2!3d10.8428281!4d106.6719037!16s%2Fg%2F11q406tvzc?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1746,6 +1904,7 @@ const data = [
         "address":"403 Đ. Lê Đức Thọ, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Miko+Park+Premium+Kidsplay+Cafe\/@10.8433331,106.6742914,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292ceaaa1c99:0xa19edb2607908b6c!8m2!3d10.8433331!4d106.6742914!16s%2Fg%2F11ty2bv_g1?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Câu lạc bộ trẻ em",
         "category_group":"df_drinks"
     },
     {
@@ -1757,6 +1916,7 @@ const data = [
         "address":"507 Nguyễn Oanh, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Moods+Coffee+%26+Tea+Garden\/@10.8483291,106.6785024,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e485fc9dc5:0x37df77ba4df3a7f4!8m2!3d10.8483291!4d106.6785024!16s%2Fg%2F11l6bk7442?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1768,6 +1928,7 @@ const data = [
         "address":"366 Nguyễn Văn Nghi, Phường 7, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%92NG+TR%C3%80+NG%C3%94+GIA+-+G%C3%92+V%E1%BA%A4P\/@10.8263548,106.6816467,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297c1e2aec2b:0x9c15870a2b8e5894!8m2!3d10.8263548!4d106.6816467!16s%2Fg%2F11qbs8xtfq?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -1779,6 +1940,7 @@ const data = [
         "address":"82 Đ. Số 27, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Saigon+Chic\/@10.8425415,106.6805878,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752852167782b7:0xaf42211555a1d6d1!8m2!3d10.8425415!4d106.6805878!16s%2Fg%2F11bw_4rt0w?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Nhà hàng chuyên phục vụ bữa sáng",
         "category_group":"df_drinks"
     },
     {
@@ -1790,6 +1952,7 @@ const data = [
         "address":"304 Nguyễn Thái Sơn, Phường 4, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Symbol+Coffee+%26+Tea\/@10.8224302,106.6852918,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529801ea0be41:0x4fbffd21d43352bc!8m2!3d10.8224302!4d106.6852918!16s%2Fg%2F11kq4lx8h1?hl=vi&entry=ttu",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -1801,6 +1964,7 @@ const data = [
         "address":"672A25 Đ. Phan Văn Trị, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%C3%BAc+Long+Tea+%26+Coffee+-+Cityland+672A25+Phan+V%C4%83n+Tr%E1%BB%8B\/@10.8335829,106.6705603,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529993a071699:0xbc3134a1e43efd8f!8m2!3d10.8335829!4d106.6705603!16s%2Fg%2F11qw_5jf43?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1812,6 +1976,7 @@ const data = [
         "address":"485 Nguyễn Văn Công, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%E1%BB%99c+Tr%C3%A0+-+Tr%C3%A0+s%E1%BB%AFa+nh%C3%A0+l%C3%A0m\/@10.8174622,106.6760766,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529dfb9039315:0xafaa44edc5b9c28b!8m2!3d10.8174622!4d106.6760766!16s%2Fg%2F11g044wg4k?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -1823,6 +1988,7 @@ const data = [
         "address":"307 Đ. Số 8, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+S%E1%BB%AFa+Vi%E1%BB%87t+Nh%C3%A0+L%C3%A0m+-+Cafe+V%C3%B5ng\/@10.8452087,106.6583067,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529002b125ac9:0x3cab610ae1c8ac75!8m2!3d10.8452087!4d106.6583067!16s%2Fg%2F11ld1cf36b?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1834,6 +2000,7 @@ const data = [
         "address":"18 Đ. Phan Văn Trị, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Country+Houses+Coffee\/@10.8348069,106.6672267,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529076320486d:0x564851fdf652e671!8m2!3d10.8348069!4d106.6672267!16s%2Fg%2F1tf2v8y_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1845,6 +2012,7 @@ const data = [
         "address":"111 Đ. Số 8, Khu dân cư Cityland Park Hills, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sharing+Cafe\/@10.8357232,106.6679757,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d595e1070b:0x5108b7325b2f25cf!8m2!3d10.8357232!4d106.6679757!16s%2Fg%2F11h0cgpmf1?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Tiệm bánh",
         "category_group":"df_drinks"
     },
     {
@@ -1856,6 +2024,7 @@ const data = [
         "address":"258 Nguyễn Văn Lượng, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Coffee+House+-+Nguy%E1%BB%85n+V%C4%83n+L%C6%B0%E1%BB%A3ng\/@10.838822,106.67138,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529abeec24bb3:0x1888cc7cfb6c722e!8m2!3d10.838822!4d106.67138!16s%2Fg%2F11c5_4s27v?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1867,6 +2036,7 @@ const data = [
         "address":"537 18\/11, Nguyễn Oanh, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/ANNA+COFFEE+-+%C4%90i%C3%AA%CC%89m+T%C3%A2m+S%C3%A1ng\/@10.8504038,106.6760441,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b4aa5c4001:0xe84e085a6c13f916!8m2!3d10.8504038!4d106.6760441!16s%2Fg%2F11c54dhqy2?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1878,6 +2048,7 @@ const data = [
         "address":"590\/2 Đ. Phan Văn Trị, Phường 7, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/MILANO+COFFEE+Premium\/@10.8307065,106.6794918,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528fef93e66b7:0x803f236fcb9e9d1b!8m2!3d10.8307065!4d106.6794918!16s%2Fg%2F11cn5n88ly?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Nhà hàng chuyên phục vụ bữa sáng, Quán cà phê espresso, Quán cà phê internet, Phòng trà, Điểm truy cập Wi-fi",
         "category_group":"df_drinks"
     },
     {
@@ -1889,6 +2060,7 @@ const data = [
         "address":"736\/121\/7 Đ. Số 6, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Coffee+Nh%E1%BB%8F+H%C3%A1t+v%E1%BB%9Bi+nhau\/@10.8495839,106.6710371,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ce93297581:0x285c7137796d9a68!8m2!3d10.8495839!4d106.6710371!16s%2Fg%2F11kyl0dkxm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1900,6 +2072,7 @@ const data = [
         "address":"138 Nguyễn Oanh, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kai+Coffee+-+Nguy%E1%BB%85n+Oanh\/@10.8314483,106.6773258,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175293bc69d430d:0x9a594e66677ea602!8m2!3d10.8314483!4d106.6773258!16s%2Fg%2F11sh47nhg5?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1911,6 +2084,7 @@ const data = [
         "address":"688\/57\/50 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/May+Coffee\/@10.8502169,106.6746183,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752905e832a2b5:0x3d1255e2bf4d67a1!8m2!3d10.8502169!4d106.6746183!16s%2Fg%2F11g_t6j4k0?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1922,6 +2096,7 @@ const data = [
         "address":"7 Đ. Phan Văn Trị, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Du+Mi%C3%AAn+Garden+Cafe\/@10.8317552,106.674078,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290059e6b929:0x81a062389a2dcac2!8m2!3d10.8317552!4d106.674078!16s%2Fg%2F1ptvydvpc?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1933,6 +2108,7 @@ const data = [
         "address":"23\/13 An Nhơn, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ameras+Coffee\/@10.8366731,106.6787867,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752944cabe17df:0x579c4f9468aa0ec8!8m2!3d10.8366731!4d106.6787867!16s%2Fg%2F11ld3z7hwj?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1944,6 +2120,7 @@ const data = [
         "address":"52B đường 14, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vitamin+coffee\/@10.8322651,106.6906614,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528f9d56ef5c3:0xd7728d7adb1778e8!8m2!3d10.8322651!4d106.6906614!16s%2Fg%2F11d_0w7qg2?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1955,6 +2132,7 @@ const data = [
         "address":"Hẻm 17 Nguyễn Văn Lượng, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+C%C3%A0+Ph%C3%AA+1986\/@10.8381869,106.6797234,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb0576e343f:0xa8bd3bfea5a799a8!8m2!3d10.8381869!4d106.6797234!16s%2Fg%2F11g8f_7z9s?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1966,6 +2144,7 @@ const data = [
         "address":"Vườn Lài, Khu Phố 2, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A2u+l%E1%BA%A1c+b%E1%BB%99+chim+c%E1%BA%A3nh+36\/@10.8342445,106.6923211,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299caad4c551:0x259859ace9a06027!8m2!3d10.8342445!4d106.6923211!16s%2Fg%2F11kp_8sgh8?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Sân chơi",
         "category_group":"df_drinks"
     },
     {
@@ -1977,6 +2156,7 @@ const data = [
         "address":"493 Vườn Lài, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+v%C3%B5ng+V%C6%B0%E1%BB%9Dn+Tre\/@10.8342995,106.6942354,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752917e1f33157:0xfd54c6c1ca9f236b!8m2!3d10.8342995!4d106.6942354!16s%2Fg%2F11fq9f5kb1?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1988,6 +2168,7 @@ const data = [
         "address":"11 Tô Ngọc Vân, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Coffee+B%E1%BB%91+Gi%C3%A0\/@10.8558995,106.6691722,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529fa17f0db53:0x30d4ddd0a13d1156!8m2!3d10.8558995!4d106.6691722!16s%2Fg%2F11tjx4y06b?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -1999,6 +2180,7 @@ const data = [
         "address":"945\/4 Đ. Lê Đức Thọ, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%E1%BB%99c+Tr%C3%A0+S%E1%BB%AFa\/@10.850786,106.6631732,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529006c6bb7a5:0x56187eab8a888a83!8m2!3d10.850786!4d106.6631732!16s%2Fg%2F11ld445ncc?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2010,6 +2192,7 @@ const data = [
         "address":"26\/14 Phạm Văn Đồng, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Oasis+Cafe\/@10.8141574,106.6803299,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175276bfd176767:0x92f562aab83b3773!8m2!3d10.8141574!4d106.6803299!16s%2Fg%2F11j97p79qs?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2021,6 +2204,7 @@ const data = [
         "address":"109 Lê Lợi, Phường 4, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/COFFEE+24%2F24\/@10.8191014,106.6856182,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175298df2bce7d7:0xda9a7e7e5fda593b!8m2!3d10.8191014!4d106.6856182!16s%2Fg%2F11fhv84q5n?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2032,6 +2216,7 @@ const data = [
         "address":"168 Nguyễn Thái Sơn, Phường 4, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Lonely+Bean+-+C%C3%A0+ph%C3%AA+th%E1%BB%A7+c%C3%B4ng\/@10.8193628,106.6828826,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a557b41db7:0xb9c06e0a0e64345c!8m2!3d10.8193628!4d106.6828826!16s%2Fg%2F11qprf5ljb?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2043,6 +2228,7 @@ const data = [
         "address":"68 đường Lê Lợi, Phường 4, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/OT+Coffee\/@10.8202999,106.6864603,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b2c1dc52cf:0x5b451734bd7af26e!8m2!3d10.8202999!4d106.6864603!16s%2Fg%2F11s1y0jphj?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2054,6 +2240,7 @@ const data = [
         "address":"71\/38 Đ. Số 6, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sala+Coffee\/@10.8510396,106.6696491,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752945011ae1ef:0xed7eb27854dc6063!8m2!3d10.8510396!4d106.6696491!16s%2Fg%2F11j8w86s86?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2065,6 +2252,7 @@ const data = [
         "address":"496\/38 Dương Quảng Hàm, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Bamos+Coffee+-+D%C6%B0%C6%A1ng+Qu%E1%BA%A3ng+H%C3%A0m,+G%C3%B2+V%E1%BA%A5p+(Open+24%2F7)\/@10.8369712,106.6856934,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f96d059283f:0xd38b0f9f28748d3f!8m2!3d10.8369712!4d106.6856934!16s%2Fg%2F11td99lxsz?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2076,6 +2264,7 @@ const data = [
         "address":"134 Đ. Lê Đức Thọ, P.6, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/DOPE+Coffee\/@10.834967,106.681629,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752911341df767:0xb3ad08a246edae13!8m2!3d10.834967!4d106.681629!16s%2Fg%2F11rf7b_wy0?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2087,6 +2276,7 @@ const data = [
         "address":"73 Đ. Lê Đức Thọ, Phường 7, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/School+tea\/@10.8324566,106.6824932,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529006277df55:0x668bd60081bea547!8m2!3d10.8324566!4d106.6824932!16s%2Fg%2F11vk6ktqcj?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -2098,6 +2288,7 @@ const data = [
         "address":"804 Quang Trung, Phường 8, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hot+%26+Cold+-+Tr%C3%A0+s%E1%BB%AFa+%26+Xi%C3%AAn+Que+QT\/@10.8375502,106.6548976,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299f5d15df7d:0xe287db127ef784cb!8m2!3d10.8375502!4d106.6548976!16s%2Fg%2F11nnrxg455?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2109,6 +2300,7 @@ const data = [
         "address":"182 Đường Số 17, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/N%E1%BA%AENG+BAN+MAI\/@10.8335648,106.6601827,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529006cc808b3:0xdafbd38b485d7b08!8m2!3d10.8335648!4d106.6601827!16s%2Fg%2F11vpwcl6xw?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2120,6 +2312,7 @@ const data = [
         "address":"24 Lê Văn Thọ, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Blue+Lagoon\/@10.8374146,106.6581378,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752924263ed1fd:0x25322497918b6f88!8m2!3d10.8374146!4d106.6581378!16s%2Fg%2F11h5rvl0sm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2131,6 +2324,7 @@ const data = [
         "address":"29\/25 Đ. Lê Đức Thọ, Phường 7, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/HyHy+Milk+Tea+-+Cafe+M%C3%A8o\/@10.8310121,106.6807902,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175296071ba1757:0xddf82e87aa8448e2!8m2!3d10.8310121!4d106.6807902!16s%2Fg%2F11t6mpqvf6?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2142,6 +2336,7 @@ const data = [
         "address":"57 Đ. Lê Đức Thọ, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Highlands+Coffee\/@10.8316408,106.6823153,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752911d8135a1d:0x777ea68f4879fe97!8m2!3d10.8316408!4d106.6823153!16s%2Fg%2F11h5_t8tqn?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2153,6 +2348,7 @@ const data = [
         "address":"205 Phạm Huy Thông, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C3%A0+c%C3%A0+ph%C3%AA\/@10.8350784,106.6846786,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529dd2a4fda99:0x700acfb1df822779!8m2!3d10.8350784!4d106.6846786!16s%2Fg%2F11tmt_33m1?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2164,6 +2360,7 @@ const data = [
         "address":"102\/7 Lê Văn Thọ, Phường 9, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/269+Coffee+24h\/@10.8401708,106.6576642,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d00a9c3ce3:0x7b4207858c96fa22!8m2!3d10.8401708!4d106.6576642!16s%2Fg%2F11h5mf95bc?hl=vi&entry=ttu",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -2175,6 +2372,7 @@ const data = [
         "address":"81\/30 Đ. số 59, Phường 14, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/GOCSI+cafe\/@10.8545332,106.6500484,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299500a882bf:0x4fd2a4a02e642dd1!8m2!3d10.8545332!4d106.6500484!16s%2Fg%2F11csrx8htz?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2186,6 +2384,7 @@ const data = [
         "address":"Số 24, hẻm, 120\/61 Đ. số 59, Phường 14, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Le+Jardin+Cafe\/@10.8543384,106.653538,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529de4504637d:0x562577f28bb1c9ac!8m2!3d10.8543384!4d106.653538!16s%2Fg%2F11nms0p7k9?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2197,6 +2396,7 @@ const data = [
         "address":"1320 Đ. Lê Đức Thọ, Phường 13, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+H%C3%A0ng+%26+C%C3%A0+Ph%C3%AA+%C4%90%E1%BB%93ng+Xanh\/@10.8540151,106.6577619,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b93a0395ad:0xfbaf152798ccb7fc!8m2!3d10.8540151!4d106.6577619!16s%2Fg%2F11j2drpxd9?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2208,6 +2408,7 @@ const data = [
         "address":"116 Hẻm, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kh%C3%B4i+Cafe\/@10.8487,106.675125,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175293c217ca375:0xf04537d10d770934!8m2!3d10.8487!4d106.675125!16s%2Fg%2F11t52b9gt5?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2219,6 +2420,7 @@ const data = [
         "address":"1184 Đ. Lê Đức Thọ, Phường 13, Gò Vấp, Thành phố Hồ Chí Minh 71415, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Khu+vui+ch%C6%A1i+Happy+Kids+Cafe\/@10.8523004,106.6617026,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b65ed18d77:0xbb93e90606ab7ced!8m2!3d10.8523004!4d106.6617026!16s%2Fg%2F11vhcypq71?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Trung tâm vui chơi dành cho trẻ em, Trung tâm vui chơi giải trí",
         "category_group":"df_drinks"
     },
     {
@@ -2230,6 +2432,7 @@ const data = [
         "address":"432 Lê Văn Thọ, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Highlands+Coffee+L%C3%AA+V%C4%83n+Th%E1%BB%8D+-+G%C3%B2+V%E1%BA%A5p\/@10.848971,106.6568435,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529477856e10b:0xa850d7f50b624ca1!8m2!3d10.848971!4d106.6568435!16s%2Fg%2F11ksrhp_tv?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2241,6 +2444,7 @@ const data = [
         "address":"160 Lê Văn Thọ, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sapa+Coffee+24H\/@10.8415777,106.6573814,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752994cd18b6d1:0x2c4de3053f2a45ab!8m2!3d10.8415777!4d106.6573814!16s%2Fg%2F11gksqhck2?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2252,6 +2456,7 @@ const data = [
         "address":"8 Hẻm 148 Đường số 59, P.14, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/ALFA+Coffee+%26+Bistro\/@10.8553856,106.6531366,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529fd21561abf:0x26f3f221c0e46f5c!8m2!3d10.8553856!4d106.6531366!16s%2Fg%2F11gnpzgc3b?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Quán ăn dành cho trẻ em, Cơ sở rang cà phê, Nhà hàng",
         "category_group":"df_drinks"
     },
     {
@@ -2263,6 +2468,7 @@ const data = [
         "address":"198 Đ. số 3, Phường 9, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%93ng+Tr%C3%A0+Ng%C3%B4+Gia+%C4%90%C6%B0%E1%BB%9Dng+s%E1%BB%91+3\/@10.8494011,106.6521457,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290fc7368813:0xf4538e76bdaec6ae!8m2!3d10.8494011!4d106.6521457!16s%2Fg%2F11jbfyws07?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -2274,6 +2480,7 @@ const data = [
         "address":"326 Đ. Thống Nhất, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%C6%B0%C6%A1ng+Cao+Nguy%C3%AAn+Coffee\/@10.8418229,106.6648997,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529005a55f0c1:0xfef9b60e29c56087!8m2!3d10.8418229!4d106.6648997!16s%2Fg%2F11lczyy9lm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2285,6 +2492,7 @@ const data = [
         "address":"568 Nguyễn Thái Sơn, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Comie+Coffee+24H\/@10.8283984,106.6922048,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292996e022df:0xc4a2838b5d81811!8m2!3d10.8283984!4d106.6922048!16s%2Fg%2F11jyw5y961?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2296,6 +2504,7 @@ const data = [
         "address":"288 Đ. Thống Nhất, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Highlands+Coffee\/@10.8406899,106.6650403,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175298908cd3b37:0x92c6c23dde30bac2!8m2!3d10.8406899!4d106.6650403!16s%2Fg%2F11py9qqmwz?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2307,6 +2516,7 @@ const data = [
         "address":"42 Hẻm 317 Thống Nhất, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/katasumi+caf%C3%A9+%26+g%E1%BB%91m\/@10.840075,106.663013,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529276c62b211:0x82e24632291224a9!8m2!3d10.840075!4d106.663013!16s%2Fg%2F11sspt9gnv?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2318,6 +2528,7 @@ const data = [
         "address":"RMX5+GRV, Hẻm 109 Đ. Số 2, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/1983+coffee+%26+milktea\/@10.8488797,106.6595511,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299608e1bad7:0xb6e00773c45b3a82!8m2!3d10.8488797!4d106.6595511!16s%2Fg%2F11kpz66lmn?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2329,6 +2540,7 @@ const data = [
         "address":"196 Lê Văn Thọ, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Katinat+Saigon+Kafe\/@10.8424656,106.6572719,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752917fc0b2659:0x8f7e53d8d849d7b6!8m2!3d10.8424656!4d106.6572719!16s%2Fg%2F11t59wdp8h?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2340,6 +2552,7 @@ const data = [
         "address":"549\/30 Lê Văn Thọ, Phường 14, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Icarepet+Coffee+%26+Tea\/@10.8529516,106.6550725,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e389a4ba43:0x3c3251064f498280!8m2!3d10.8529516!4d106.6550725!16s%2Fg%2F11fphtc547?hl=vi&entry=ttu",
+        "categories":"Quán cà phê chó, Dịch vụ chăm sóc thú nuôi",
         "category_group":"df_drinks"
     },
     {
@@ -2351,6 +2564,7 @@ const data = [
         "address":"616\/61\/100, Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+Hoa+N%E1%BA%AFng\/@10.8483463,106.674213,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b304d5c341:0xa425859c45b25b7f!8m2!3d10.8483463!4d106.674213!16s%2Fg%2F11bxc5d1tn?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2362,6 +2576,7 @@ const data = [
         "address":"258r Đ. Dương Quảng Hàm, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SAURUS+Coffee+%26+Gallery\/@10.8293669,106.6890653,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752992b5888c3b:0x14984cf009d07473!8m2!3d10.8293669!4d106.6890653!16s%2Fg%2F11k42q_3pn?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2373,6 +2588,7 @@ const data = [
         "address":"566\/105\/82 Nguyễn Thái Sơn, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Qu%C3%A1n+Cafe+T%C3%AD+Ch%C6%A1i\/@10.8292148,106.694925,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528f42524b9a1:0x476638147cb5ad0c!8m2!3d10.8292148!4d106.694925!16s%2Fg%2F11hblgdwzc?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2384,6 +2600,7 @@ const data = [
         "address":"113\/81 Đ. Dương Quảng Hàm, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+V%C4%83n+Lang\/@10.8269297,106.6973835,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f03683ce3d:0x7aabaa3d25a6e28d!8m2!3d10.8269297!4d106.6973835!16s%2Fg%2F11g232wp3r?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2395,6 +2612,7 @@ const data = [
         "address":"19 Đ. Dương Quảng Hàm, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%93ng+Tr%C3%A0+Ng%C3%B4+Gia+D%C6%B0%C6%A1ng+Qu%E1%BA%A3ng+H%C3%A0m\/@10.8263825,106.6922079,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291678e83655:0xb12c6a243ad80d63!8m2!3d10.8263825!4d106.6922079!16s%2Fg%2F11rgqm3q5w?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -2406,6 +2624,7 @@ const data = [
         "address":"595 Đ. Phan Văn Trị, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gong+Cha+Phan+V%C4%83n+Tr%E1%BB%8B\/@10.8259621,106.689331,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528f093af4657:0x8730cfce3447f85d!8m2!3d10.8259621!4d106.689331!16s%2Fg%2F11c52np24k?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -2417,6 +2636,7 @@ const data = [
         "address":"473 Đ. Phan Văn Trị, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%99ng+C%C3%A0+Ph%C3%AA\/@10.8230253,106.6925414,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529734dd0d4ab:0x8c172534c5bf6c6f!8m2!3d10.8230253!4d106.6925414!16s%2Fg%2F11fn43s914?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2428,6 +2648,7 @@ const data = [
         "address":"50, 15\/1 Đ. Dương Quảng Hàm, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CH%E1%BA%A4T+47+COFFEE+%26+TEA\/@10.8245206,106.6959395,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752935b8bdd073:0x5dfecd4bc783e51e!8m2!3d10.8245206!4d106.6959395!16s%2Fg%2F11qb5nhfhc?hl=vi&entry=ttu",
+        "categories":"Quán cà phê nghệ thuật",
         "category_group":"df_drinks"
     },
     {
@@ -2439,6 +2660,7 @@ const data = [
         "address":"527 Đ. Phan Văn Trị, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ticos+Coffee+Phan+V%C4%83n+Tr%E1%BB%8B\/@10.8246382,106.6908795,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752911a13c3c87:0xe4168d717fe1c1d5!8m2!3d10.8246382!4d106.6908795!16s%2Fg%2F11hqx3xz0t?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2450,6 +2672,7 @@ const data = [
         "address":"14 ấp 4, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJc-JSqgsxdTERyfer-2Ltoko",
+        "categories":"Nhà bán buôn cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2461,6 +2684,7 @@ const data = [
         "address":"40 Đ. Trung Mỹ - Tân Xuân, Trung Mỹ Tây, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJjdlVCbQrdTERm_17Mfoos3k",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2472,6 +2696,7 @@ const data = [
         "address":"18\/4 Trung Mỹ, Trung Chánh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ5zlb3E8rdTERFWBiONrxKt4",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2483,6 +2708,7 @@ const data = [
         "address":"31B Nguyễn Văn Bứa, ấp 5, Hóc Môn, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJi-bYv7sqdTERY7Rb7F-BkSU",
+        "categories":"Công ty cấp thoát nước",
         "category_group":"df_drinks"
     },
     {
@@ -2494,6 +2720,7 @@ const data = [
         "address":"Số 02 đường tân hiệp 21, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJqyqQRY3VdDER-5hIfZsddbI",
+        "categories":"Công ty cấp thoát nước, Nhà sản xuất",
         "category_group":"df_drinks"
     },
     {
@@ -2505,6 +2732,7 @@ const data = [
         "address":"65 ĐH65B, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ56vB5qPVdDERv62-gB1NQoU",
+        "categories":"Nhà máy xử lý nước",
         "category_group":"df_drinks"
     },
     {
@@ -2516,6 +2744,7 @@ const data = [
         "address":"WH5P+58C, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfe9YFovVdDERG25_9PWOtYo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2527,6 +2756,7 @@ const data = [
         "address":"Tân Thới Nhì, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3cVFdRfVdDER84tSUGFemZo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2538,6 +2768,7 @@ const data = [
         "address":"WH65+QGV, Tân Thới Nhì, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJyXweZJUudTERUos8sgiVkTI",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2549,6 +2780,7 @@ const data = [
         "address":"167 8e, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe-VWRpjVdDERF6Rf7KcQOZw",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -2560,6 +2792,7 @@ const data = [
         "address":"WH3W+F28, Thị Trấn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJq5TtwV3VdDEROiJpvjMXir0",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2571,6 +2804,7 @@ const data = [
         "address":"4\/186A Đặng Công Bỉnh, Tân Thới Nhì, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJn-5OGXvVdDERnwwBalaV3DU",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2582,6 +2816,7 @@ const data = [
         "address":"166\/3D ấp Tân Thới 2, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJIT7cvezVdDERkZzCGUfn6BY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2593,6 +2828,7 @@ const data = [
         "address":"Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfc5ksbfVdDERAAs4xprBfm4",
+        "categories":"Quán cà phê, Nhà hàng",
         "category_group":"df_drinks"
     },
     {
@@ -2604,6 +2840,7 @@ const data = [
         "address":"32B Đông Thạnh 2-3, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ01yJax_VdDERuH5qMKz80QU",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2615,6 +2852,7 @@ const data = [
         "address":"178 Đường Số 4-MH4, Ấp 3, Hóc Môn, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ598lkGcqdTER5GWDHD2rQ00",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2626,6 +2864,7 @@ const data = [
         "address":"VGJR+WH6, Đặng Công Bỉnh, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ72MJJQIrdTERoHHtPyN0VzY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2637,6 +2876,7 @@ const data = [
         "address":"15\/5Y Đ. Nguyễn Ảnh Thủ, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJG7peqz8qdTERPP0ZXCvre6g",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2648,6 +2888,7 @@ const data = [
         "address":"241 Đường Nguyễn Thị Điệp, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrQ44MXbVdDERNBxAz8MDFII",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2659,6 +2900,7 @@ const data = [
         "address":"34\/5C Đ. Nguyễn Thị Huê, ấp Đông Lân, Hóc Môn, Thành phố Hồ Chí Minh 00000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZ2iUvmordTERj3iWJzNTrFA",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2670,6 +2912,7 @@ const data = [
         "address":"103, 8\/5C Ấp Tây Lân, X, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJY697LgArdTER-5iVOCFKrfg",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2681,6 +2924,7 @@ const data = [
         "address":"108 Trần Văn Mười, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ45rykVsqdTERcK6IU88N3Ew",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2692,6 +2936,7 @@ const data = [
         "address":"47\/7 Phan Văn Hớn, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ40Kc0bQrdTERSi07EpsW8PE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2703,6 +2948,7 @@ const data = [
         "address":"131 Ấp 7, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQZO9ACordTERbZkYUsOMBlI",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2714,6 +2960,7 @@ const data = [
         "address":"68 Đ. Nguyễn Thị Sáu, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ461MoqYrdTERN2XWik6aVho",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2725,6 +2972,7 @@ const data = [
         "address":"17\/10 tổ 3 Ấp 7, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVyXomLwrdTERSVL6Bt-qCX0",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2736,6 +2984,7 @@ const data = [
         "address":"106\/2F Tân Hiệp 18, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJFWztO0bVdDERkNfOoO6v0hM",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2747,6 +2996,7 @@ const data = [
         "address":"111\/6B Tân Hiệp 18, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJG_5MzEYrdTERVAQLKHVXjwo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2758,6 +3008,7 @@ const data = [
         "address":"VHJ9+RXM, Tuyến 1.2003 Xuân Thới Thượng, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ46NJLs4rdTERGO7xcr_oBpY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2769,6 +3020,7 @@ const data = [
         "address":"Unnamed Road, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJScCn9N4rdTER_NCd7sm0Z_k",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2780,6 +3032,7 @@ const data = [
         "address":"106\/1N XTS34 Ấp 6, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiadfB58rdTERRcn5VjltvZ0",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2791,6 +3044,7 @@ const data = [
         "address":"Thới Tam Thôn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJq6qqqu7VdDERbOJQRcbUOFw",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2802,6 +3056,7 @@ const data = [
         "address":"VJRC+HMF, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJd1C4NfvVdDER_CehwRbgIRY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2813,6 +3068,7 @@ const data = [
         "address":"109\/5t, Đường Nguyễn Thị Thảnh\/Hẻm 109 Tổ 126, Ấp Tam Đông 2, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLfGMBwDVdDERlcHN-iLTGTs",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2824,6 +3080,7 @@ const data = [
         "address":"Đường Đ. Trịnh Thị Dối, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCx6jjBLWdDERLHpxsVb2gvc",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2835,6 +3092,7 @@ const data = [
         "address":"WH69+H6P, QL22, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJvztCjxHVdDERcN00IORQGQM",
+        "categories":"Công ty cấp thoát nước",
         "category_group":"df_drinks"
     },
     {
@@ -2846,6 +3104,7 @@ const data = [
         "address":"VJXR+263, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJC1OAjA3WdDEREa2qsB-P5ow",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2857,6 +3116,7 @@ const data = [
         "address":"WH59+HWV, QL22, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-0IAcRLVdDERZleq5vXUR0I",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2868,6 +3128,7 @@ const data = [
         "address":"Kênh 2, Tân Thới Nhì, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJIR8I_H3VdDERmPNbMpIgEos",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2879,6 +3140,7 @@ const data = [
         "address":"6 Đ. Nguyễn Ảnh Thủ, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJvZlm8ZwrdTERaoDYyA6N7Iw",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2890,6 +3152,7 @@ const data = [
         "address":"VJVP+7MG, HL80B, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe_YkOQ_WdDERR-Dp6HfA4RA",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2901,6 +3164,7 @@ const data = [
         "address":"67\/11 Tổ 6, Ấp 4, Xuân Thới Thượng, Huyện Hóc Môn, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJNUawHfIqdTERbTmMIHv6Q2I",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2912,6 +3176,7 @@ const data = [
         "address":"VH47+8F8, Đường XTT 2, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJNVO_WwArdTERKcdCZ8_5SQo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2923,6 +3188,7 @@ const data = [
         "address":"13b Bùi Công Trừng, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJBx0x5a_XdDER0hE67puk8TE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2934,6 +3200,7 @@ const data = [
         "address":"Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJjfw7YvfXdDERhbYbk3yuRco",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2945,6 +3212,7 @@ const data = [
         "address":"58 Bùi Công Trừng, Nhị Bình, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJcz8480PWdDERo8BMAYNMX6A",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2956,6 +3224,7 @@ const data = [
         "address":"41\/1A, D. Công Khi, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh 731701, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3RlLzcYrdTER4V-ejYrQp2g",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -2967,6 +3236,7 @@ const data = [
         "address":"10\/2B Ấp 4, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN9GaP67XdDERC0So0rhTbSw",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2978,6 +3248,7 @@ const data = [
         "address":"56\/1 Nguyễn Hữu Cầu, Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJR6j3RzArdTERMel2XtyceSI",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -2989,6 +3260,7 @@ const data = [
         "address":"191 Bùi Công Trừng, Nhị Bình, Hóc Môn, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJyzkPE2UvdTERFL3RxD23Cn8",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3000,6 +3272,7 @@ const data = [
         "address":"MPWM+F79, 1806, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0QCEuK06dTERmlKs8Sc__o4",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3011,6 +3284,7 @@ const data = [
         "address":"96\/1D Đ. Đào Tông Nguyên, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ372f8Ng7dTERSWowKJNoaCo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3022,6 +3296,7 @@ const data = [
         "address":"34 khu phố 5 Huỳnh Tấn Phát, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh 72000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJm20YR3oxdTERkIRxxgLGVws",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3033,6 +3308,7 @@ const data = [
         "address":"22 48 KP4, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtTiVD547dTERzvspApPsxIs",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3044,6 +3320,7 @@ const data = [
         "address":"124 Phạm Hữu Lầu, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJV4rUtuE7dTER6G-pOMPPf10",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3055,6 +3332,7 @@ const data = [
         "address":"330\/2 Phan Đình Phùng, Phường 1, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+Ph%C3%AA+V%E1%BB%A3t+Phan+%C4%90%C3%ACnh+Ph%C3%B9ng\/@10.7984782,106.6808814,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d72024c905:0x17fb6bfbd112227a!8m2!3d10.7984782!4d106.6808814!16s%2Fg%2F11bwhb3hd5?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3066,6 +3344,7 @@ const data = [
         "address":"3 Hoàng Minh Giám, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+V%C6%B0%C6%A1%CC%80n+Nha%CC%80+Ai\/@10.8108003,106.6759532,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529200b182361:0xf4b1e17d316afa3e!8m2!3d10.8108003!4d106.6759532!16s%2Fg%2F11d_8zqbzq?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3077,6 +3356,7 @@ const data = [
         "address":"Việt Nam, Thành phố Hồ Chí Minh, Đ. Phổ Quang, VN, P9 Đường D khu nội bộ",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Little+Du+Mien+Cafe,+Qu%E1%BA%ADn+Ph%C3%BA+Nhu%E1%BA%ADn\/@10.8089533,106.6721404,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175295bab3ffab3:0x67b2ed6e726c957c!8m2!3d10.8089533!4d106.6721404!16s%2Fg%2F11m_zg57d0?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3088,6 +3368,7 @@ const data = [
         "address":"Phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+Gia+Dinh\/@10.8124701,106.6749417,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528df90be04b1:0x14de1c456b5750ce!8m2!3d10.8124701!4d106.6749417!16s%2Fg%2F11f54zj3v2?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3099,6 +3380,7 @@ const data = [
         "address":"176\/1b Đ. Lê Văn Sỹ, Phường 10, Phú Nhuận, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Oasis+Cafe\/@10.7928678,106.6709141,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292b648da76d:0xdb17465b6e45a711!8m2!3d10.7928678!4d106.6709141!16s%2Fg%2F11c1cy8cnl?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Tiệm cà phê phục vụ các món trái cây, Nhà hàng",
         "category_group":"df_drinks"
     },
     {
@@ -3110,6 +3392,7 @@ const data = [
         "address":"66 Đ. Nguyễn Văn Trỗi, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Starbucks+-+Nguy%E1%BB%85n+V%C4%83n+Tr%E1%BB%97i\/@10.794915,106.677062,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d5ee197131:0x1ffb3dea3491e41a!8m2!3d10.794915!4d106.677062!16s%2Fg%2F11c5rqf5dl?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3121,6 +3404,7 @@ const data = [
         "address":"221A Nguyễn Trọng Tuyển, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+Ph%C3%AA+Mi%E1%BB%81n+%C4%90%E1%BB%93ng+Th%E1%BA%A3o\/@10.7975395,106.6751783,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752929c159137f:0x94d4ba137a0e737c!8m2!3d10.7975395!4d106.6751783!16s%2Fg%2F1tj5585b?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3132,6 +3416,7 @@ const data = [
         "address":"279 Phan Xích Long, Phường 2, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90en+%C4%90%C3%A1+Coffee\/@10.800006,106.6847055,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528ceff2bee99:0x15162499c8d71a0c!8m2!3d10.800006!4d106.6847055!16s%2Fg%2F11fy2psnpw?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3143,6 +3428,7 @@ const data = [
         "address":"385\/2A Phan Xích Long, Phường 3, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kho+Nh%C3%A0+M%C3%ACnh+Cafeteria+%26+Vintage+Clothing\/@10.8021246,106.6823343,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529c24e8a4cb3:0xabd9e748be7926a6!8m2!3d10.8021246!4d106.6823343!16s%2Fg%2F11rhs2xlhv?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3154,6 +3440,7 @@ const data = [
         "address":"454 Đ. Nguyễn Kiệm, Phường 3, Phú Nhuận, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C6%B0+H%C6%B0%C6%A1ng+Coffee\/@10.8022909,106.6792515,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752961b2d52aef:0x80d2708d3dd9f8e7!8m2!3d10.8022909!4d106.6792515!16s%2Fg%2F11lc_1py9g?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3165,6 +3452,7 @@ const data = [
         "address":"30A Thích Quảng Đức, Phường 5, Phú Nhuận, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+S%E1%BB%AFa+Sunday+Basic+-+Th%C3%ADch+Qu%E1%BA%A3ng+%C4%90%E1%BB%A9c\/@10.8044509,106.6836298,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529fb089b798b:0x215e29dce3aebb45!8m2!3d10.8044509!4d106.6836298!16s%2Fg%2F11fjyvz2v5?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -3176,6 +3464,7 @@ const data = [
         "address":"43D\/22-24 Hồ Văn Huê, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+ph%C3%AA+The+Brothers+Coffee\/@10.8032413,106.6757163,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175298df8e22271:0x3ebbcd0945147ff!8m2!3d10.8032413!4d106.6757163!16s%2Fg%2F11vby2g1f5?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3187,6 +3476,7 @@ const data = [
         "address":"42 Hoa Phượng, Phường 2, Phú Nhuận, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BB%A9c+Coffee\/@10.7964081,106.6877716,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e5d42178d9:0x6cd39b8b1e6321f6!8m2!3d10.7964081!4d106.6877716!16s%2Fg%2F11h_14z8_s?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3198,6 +3488,7 @@ const data = [
         "address":"277-279 Đ. Hoàng Sa, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh 71008, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/1+Dessert+%26+Cafe\/@10.79644,106.6857013,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752956b93c933d:0xd53296b573bcf82e!8m2!3d10.79644!4d106.6857013!16s%2Fg%2F11vpsf77rc?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3209,6 +3500,7 @@ const data = [
         "address":"500 Đ. Trường Sa, Phường 2, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Zaingon+tea\/@10.7958087,106.6844245,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529000078f0e9:0x759a68e0ae0430bc!8m2!3d10.7958087!4d106.6844245!16s%2Fg%2F11vr_qmk_j?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -3220,6 +3512,7 @@ const data = [
         "address":"349 Đ. Hoàng Sa, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/ARA+ARA\/@10.794309,106.6857762,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a038ff70ed:0x4ef746b7b26785f9!8m2!3d10.794309!4d106.6857762!16s%2Fg%2F11sjhg26fz?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3231,6 +3524,7 @@ const data = [
         "address":"355 Đ. Hoàng Sa, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/3T+C%C3%A0+Ph%C3%AA+Tr%E1%BB%A9ng+S%C3%A0i+G%C3%B2n\/@10.7940152,106.6860921,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d247821c31:0x2c429ee6c75db98f!8m2!3d10.7940152!4d106.6860921!16s%2Fg%2F11cndc1847?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3242,6 +3536,7 @@ const data = [
         "address":"11 Phan Đình Phùng, Phường 17, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Qu%C3%A1n+X%C3%B4+B%E1%BB%93\/@10.792665,106.685714,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299e55420c97:0xf0f7d16c749b7d7!8m2!3d10.792665!4d106.685714!16s%2Fg%2F11g0jb86jt?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Trà trân châu, Quán cà phê internet, Giao đồ ăn, Trang trại cây",
         "category_group":"df_drinks"
     },
     {
@@ -3253,6 +3548,7 @@ const data = [
         "address":"68 Huỳnh Văn Bánh, Phường 15, Phú Nhuận, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Coffee+House+-+Hu%E1%BB%B3nh+V%C4%83n+B%C3%A1nh\/@10.794433,106.680928,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d414fba0e3:0x6cd36ad75577944b!8m2!3d10.794433!4d106.680928!16s%2Fg%2F11c1xh5318?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3264,6 +3560,7 @@ const data = [
         "address":"Hẻm 335 Đ. Hoàng Sa, Phường 2, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%C6%B0%E1%BB%9Dng+Nh%E1%BA%ADt\/@10.7948212,106.6857635,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529003d125859:0xe39a972fc3889f19!8m2!3d10.7948212!4d106.6857635!16s%2Fg%2F11ld1dmjy4?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3275,6 +3572,7 @@ const data = [
         "address":"299B Đ. Hoàng Sa, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/L%C3%A3o+H%E1%BA%A1c+Qu%C3%A1n\/@10.7958586,106.6852972,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d1806b9a21:0x3e3ebb16abd589f5!8m2!3d10.7958586!4d106.6852972!16s%2Fg%2F11cmf4mwh0?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3286,6 +3584,7 @@ const data = [
         "address":"28 Hoa Mai, Phường 2, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+Gh%E1%BA%BF+%C4%90%E1%BA%A9u\/@10.7973442,106.6871314,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d1cefcfcc3:0x26cc419df9815a7c!8m2!3d10.7973442!4d106.6871314!16s%2Fg%2F11b6hsdp5v?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3297,6 +3596,7 @@ const data = [
         "address":"142 Đ. Cách Mạng Tháng 8, Phường 13, Quận 10, Thành phố Hồ Chí Minh 75000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/thabet\/@10.7796399,106.6742012,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f26df4952bb:0xd400741163510f81!8m2!3d10.7796399!4d106.6742012!16s%2Fg%2F11y2nqlb_2?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3308,6 +3608,7 @@ const data = [
         "address":"251 Đ. Tô Hiến Thành, Phường 13, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C3%B2m+Coffee\/@10.7788059,106.6669734,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f141324a02b:0x355492fcf2d48ad8!8m2!3d10.7788059!4d106.6669734!16s%2Fg%2F11lkx1jy83?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3319,6 +3620,7 @@ const data = [
         "address":"816 Đ. Sư Vạn Hạnh, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Trend'ora+Coffee\/@10.7745061,106.6683645,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752edc7803c14b:0x14127b6cd12e64e7!8m2!3d10.7745061!4d106.6683645!16s%2Fg%2F11hcd_87pn?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3330,6 +3632,7 @@ const data = [
         "address":"175B Đ. Cao Thắng, Phường 12, Quận 10, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Coffee+House+-+Cao+Th%E1%BA%AFng+n%E1%BB%91i+d%C3%A0i\/@10.7746472,106.6757529,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f96020b3b29:0x5732819f3d40a81f!8m2!3d10.7746472!4d106.6757529!16s%2Fg%2F11h3gkmyg_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3341,6 +3644,7 @@ const data = [
         "address":"Block Iris 1&2, 198A Đ. Cao Thắng, Hà Đô Centrosa Garden, Quận 10, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Bunny+Hado\/@10.7746692,106.6774711,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ffae78cbbcb:0xefc6e594c54fd2c2!8m2!3d10.7746692!4d106.6774711!16s%2Fg%2F11kmnlnkw8?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3352,6 +3656,7 @@ const data = [
         "address":"Hẻm 7A\/19 Đường Thành Thái, Phường 14, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CashFlow+Boardgame+Cafe\/@10.7706706,106.6623519,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ec2924ca979:0xe4287fa3d04104b9!8m2!3d10.7706706!4d106.6623519!16s%2Fg%2F11r8pvrt1?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Câu lạc bộ trò chơi cờ bàn",
         "category_group":"df_drinks"
     },
     {
@@ -3363,6 +3668,7 @@ const data = [
         "address":"7B Thành Thái, Phường 14, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%BENN+NET+Th%C3%A0nh+Th%C3%A1i\/@10.7685951,106.6620643,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f7907918c1b:0xa4330d24837cf484!8m2!3d10.7685951!4d106.6620643!16s%2Fg%2F11nrwgnl0z?hl=vi&entry=ttu",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -3374,6 +3680,7 @@ const data = [
         "address":"334\/7 Lý Thường Kiệt, Phường 14, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%A5t+Nung+C%C3%A0+Ph%C3%AA\/@10.7699018,106.6592431,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fe7e1214f0f:0xb5ae198bd73a4b42!8m2!3d10.7699018!4d106.6592431!16s%2Fg%2F11vf3lqm22?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3385,6 +3692,7 @@ const data = [
         "address":"11 Hẻm 449 Sư Vạn Hạnh, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/A+Priori+Coffee+House\/@10.7726947,106.6684877,17z\/data=!3m1!4b1!4m6!3m5!1s0x31a0e53d48ef0e49:0x442b302ca2c81ff1!8m2!3d10.7726947!4d106.6684877!16s%2Fg%2F11qf_r35d_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3396,6 +3704,7 @@ const data = [
         "address":"796 Đ. Sư Vạn Hạnh, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Black+Kingdom+-+K%E1%BB%B3+Ho%C3%A0\/@10.7745333,106.6697753,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fceeb79f0e1:0xdde47ae7f769b7da!8m2!3d10.7745333!4d106.6697753!16s%2Fg%2F11s4g4svcf?hl=vi&entry=ttu",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -3407,6 +3716,7 @@ const data = [
         "address":"442 Đ. Cao Thắng, Phường 12, Quận 10, Thành phố Hồ Chí Minh 72500, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Katinat+Cao+Th%E1%BA%AFng\/@10.775188,106.6720775,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0fd45204e3:0xb9bb1fe46692de6c!8m2!3d10.775188!4d106.6720775!16s%2Fg%2F11ssv0j0p0?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3418,6 +3728,7 @@ const data = [
         "address":"573\/10 Đ. Sư Vạn Hạnh, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/ITune+Coffee\/@10.7761744,106.666262,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752edb11f2d11b:0x489923925c148603!8m2!3d10.7761744!4d106.666262!16s%2Fg%2F11ckf9zp5v?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3429,6 +3740,7 @@ const data = [
         "address":"343\/5 Đ. Tô Hiến Thành, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ho%E1%BA%A1+S%C4%A9+C%C3%A0+Ph%C3%AA\/@10.7760479,106.6650283,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fd0dcb99e03:0x2f4a5c4523187f58!8m2!3d10.7760479!4d106.6650283!16s%2Fg%2F11kr7dgp3q?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3440,6 +3752,7 @@ const data = [
         "address":"125\/2 Hoà Hưng, Phường 12, Quận 10, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/GameHome+H%C3%B2a+H%C6%B0ng\/@10.7782284,106.672492,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8663dc4a19:0xa53f92e041dc33a!8m2!3d10.7782284!4d106.672492!16s%2Fg%2F11js_fkv6w?hl=vi&entry=ttu",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -3451,6 +3764,7 @@ const data = [
         "address":"177 Đ. Tô Hiến Thành, Phường 13, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/MayCha+Chill\/@10.7801432,106.668623,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6927d07c4b:0x3f74dd3c50970220!8m2!3d10.7801432!4d106.668623!16s%2Fg%2F11rqh94mq3?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3462,6 +3776,7 @@ const data = [
         "address":"606 Đ. 3 Tháng 2\/117 Ba Tháng Hai, Phường 14, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Funky+Koffee\/@10.7677597,106.6616739,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fdb80bb7da1:0xd1126e8ee9449393!8m2!3d10.7677597!4d106.6616739!16s%2Fg%2F11jsx8_l1z?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3473,6 +3788,7 @@ const data = [
         "address":"72 Hẻm 606 Đ. 3 Tháng 2, Phường 7, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Novo+Caf%C3%A9+3+th%C3%A1ng+2\/@10.7669527,106.6621287,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f294807313d:0x3f6472a1cb91f74b!8m2!3d10.7669527!4d106.6621287!16s%2Fg%2F11rzws9mvf?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3484,6 +3800,7 @@ const data = [
         "address":"252\/2 Lý Thường Kiệt, Phường 14, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Viva+Star+L%C3%BD+Th%C6%B0%E1%BB%9Dng+Ki%E1%BB%87t\/@10.7667464,106.6594191,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ee9779b5e13:0xbe8f7934fc88cf1a!8m2!3d10.7667464!4d106.6594191!16s%2Fg%2F11g6vk1szm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3495,6 +3812,7 @@ const data = [
         "address":"572 Đ. 3 Tháng 2, Phường 14, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Coffee+House\/@10.7661542,106.6640107,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ee8c3248de5:0x2118ad5a5ecca222!8m2!3d10.7661542!4d106.6640107!16s%2Fg%2F11c4bgwcxn?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3506,6 +3824,7 @@ const data = [
         "address":"238 Vườn Lài, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CHOM%E2%80%99S+Cafe+%26+Bistro\/@10.8410283,106.6946999,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175296fc24d1dc1:0xd2e26d8f3ea1ce13!8m2!3d10.8410283!4d106.6946999!16s%2Fg%2F11v3m89ljl?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3517,6 +3836,7 @@ const data = [
         "address":"354\/68 Vườn Lài, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+%C4%90i%E1%BB%83m+H%E1%BA%B9n\/@10.8353856,106.6955257,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294a8e98fc45:0xa636fb25516153ab!8m2!3d10.8353856!4d106.6955257!16s%2Fg%2F11tt8j794t?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3528,6 +3848,7 @@ const data = [
         "address":"56 Trung Mỹ Tây 13A, Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+Tr%C3%A0+S%E1%BB%AFa+Chaanom\/@10.8472192,106.6142149,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b000d2f02d5:0x113c75bf82106607!8m2!3d10.8472192!4d106.6142149!16s%2Fg%2F11lc_12972?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3539,6 +3860,7 @@ const data = [
         "address":"201 Đ.Trung Mỹ Tây 2A, Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/X%C6%B0%E1%BB%9Fng+Coffee\/@10.8527964,106.6172326,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bd280e6bd57:0xce2a7750286c5f46!8m2!3d10.8527964!4d106.6172326!16s%2Fg%2F11fljkd0jg?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3550,6 +3872,7 @@ const data = [
         "address":"65 Đ. Hiệp Thành 13, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+H%E1%BA%A3i+T%C6%B0%E1%BB%A3ng+Long\/@10.8877558,106.636127,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d7a7c3a5ba1d:0x15c59b588db015c6!8m2!3d10.8877558!4d106.636127!16s%2Fg%2F11j0tkf63c?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3561,6 +3884,7 @@ const data = [
         "address":"145 Trần Thị Cờ, Thới An, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Immortal+Gaming\/@10.8779641,106.6508922,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297a6ef09f73:0x15b12fb8ceef5a94!8m2!3d10.8779641!4d106.6508922!16s%2Fg%2F11gtgf2lgd?hl=vi&entry=ttu",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -3572,6 +3896,7 @@ const data = [
         "address":"219a Tô Ngọc Vân, KP5, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%E1%BB%8B+COFFEE+%26+TEA\/@10.8645699,106.6740062,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b5873b6d09:0x346b7071143ac168!8m2!3d10.8645699!4d106.6740062!16s%2Fg%2F11l5wgm6vx?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3583,6 +3908,7 @@ const data = [
         "address":"485 Hà Huy Giáp, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Coffee+-+H%E1%BB%93+b%C6%A1i+V%C6%B0%E1%BB%9Dn+An+Nhi%C3%AAn\/@10.8728249,106.6765964,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529e942f88e4d:0xe9304cdc69401ed5!8m2!3d10.8728249!4d106.6765964!16s%2Fg%2F11llbh71mw?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3594,6 +3920,7 @@ const data = [
         "address":"132 Trần Thị Cờ, Thới An, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+chill+T%26T\/@10.8882422,106.6497112,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d70070fb26e5:0xbf2337f04e0a4cb5!8m2!3d10.8882422!4d106.6497112!16s%2Fg%2F11vpxwtwb7?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3605,6 +3932,7 @@ const data = [
         "address":"A1 khu 82 Tô Ký, Q12, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shi+Coffee+24h\/@10.860742,106.617633,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b979b95778d:0x6365fc1d87b055ee!8m2!3d10.860742!4d106.617633!16s%2Fg%2F11h12scbfn?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3616,6 +3944,7 @@ const data = [
         "address":"34F6 DN6, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%88N+COFFEE\/@10.8454505,106.623962,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b6c45518149:0x61ad68f436189212!8m2!3d10.8454505!4d106.623962!16s%2Fg%2F11q4hxsp_c?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3627,6 +3956,7 @@ const data = [
         "address":"18 DN7, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ng%E1%BB%8D+Coffee\/@10.8446304,106.6247747,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bbecfec02ed:0x4c886c00ea1d724!8m2!3d10.8446304!4d106.6247747!16s%2Fg%2F11tj2w558l?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3638,6 +3968,7 @@ const data = [
         "address":"VP93+5FF, Đ. Vĩnh Phú 17, Vĩnh Phú, Thuận An, Bình Dương, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/117+CAU+CA+GIAI+TRI\/@10.867946,106.7036634,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294dfb2075a3:0xab11c9eea4fea00!8m2!3d10.867946!4d106.7036634!16s%2Fg%2F11pghpr_tk?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3649,6 +3980,7 @@ const data = [
         "address":"53 Đường Thạnh Lộc 31, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+ph%C3%AA+mu%E1%BB%91i\/@10.8740213,106.6900698,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290023d516bf:0x3bea070d0d837c8f!8m2!3d10.8740213!4d106.6900698!16s%2Fg%2F11vq06n1qf?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3660,6 +3992,7 @@ const data = [
         "address":"213 Tô Ký, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%C3%A0nh+H%C6%B0ng+Halo+Rau+M%C3%A1\/@10.8574997,106.6197008,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b000e3f3da7:0x64d262bf936f2e2b!8m2!3d10.8574997!4d106.6197008!16s%2Fg%2F11lc_65qzf?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán nước quả ép",
         "category_group":"df_drinks"
     },
     {
@@ -3671,6 +4004,7 @@ const data = [
         "address":"14\/6 Tổ 14 Kp2, Tân Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Dori+Dori\/@10.8576818,106.6287839,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b000eb79dc3:0xabbf26cceef108af!8m2!3d10.8576818!4d106.6287839!16s%2Fg%2F11vs4xlmtz?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán nước quả ép",
         "category_group":"df_drinks"
     },
     {
@@ -3682,6 +4016,7 @@ const data = [
         "address":"149B Lâm Thị Hố, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+Tr%C3%A0+LaLaBi+-+Tr%C3%A0+S%E1%BB%AFa+%26+%C4%82n+V%E1%BA%B7t+Qu%E1%BA%ADn+12\/@10.8737431,106.6287271,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b005701890d:0xd72da5d5cea45492!8m2!3d10.8737431!4d106.6287271!16s%2Fg%2F11vpzcq246?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3693,6 +4028,7 @@ const data = [
         "address":"Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+C%C3%A1+Koi\/@10.8637174,106.6309032,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291ff03192d5:0xa881c8ef2198c20a!8m2!3d10.8637174!4d106.6309032!16s%2Fg%2F11r9d4m5gy?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3704,6 +4040,7 @@ const data = [
         "address":"404 Đ.Trương Thị Hoa, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+s%E1%BB%AFa+Lion\/@10.8688415,106.6390731,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290044749b45:0x87a1d2e20e1645fe!8m2!3d10.8688415!4d106.6390731!16s%2Fg%2F11vr_6l5q3?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -3715,6 +4052,7 @@ const data = [
         "address":"197 Đ. Đinh Tiên Hoàng, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJi-LfC8sodTERPQBZmVRDjvo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3726,6 +4064,7 @@ const data = [
         "address":"95 Đ. Nguyễn Văn Thủ, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJt6bNo8oodTERh7ax4U6O7cQ",
+        "categories":"Quán cà phê, Nhà hàng chuyên phục vụ bữa sáng",
         "category_group":"df_drinks"
     },
     {
@@ -3737,6 +4076,7 @@ const data = [
         "address":"191 Đ. Đinh Tiên Hoàng, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbZMxlf4pdTERtN1oUUH5i5c",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3748,6 +4088,7 @@ const data = [
         "address":"2D Nguyễn Thành Ý, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJuyX83YMpdTERZmhYSqB8Jjo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3759,6 +4100,7 @@ const data = [
         "address":"11 bis 05, Nguyễn Bỉnh Khiêm, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJBYpoTY0vdTER91gWYG5BXdE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3770,6 +4112,7 @@ const data = [
         "address":"18 Bis\/16 Đ. Nguyễn Thị Minh Khai, Đa Kao, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJjauGHZEvdTERe_2AKCiaaYg",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3781,6 +4124,7 @@ const data = [
         "address":"Somerset Chancellor Court Ho Chi Minh City, L1-01 Somerset Chancellor Court, 21-23 Đ. Nguyễn Thị Minh Khai, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQ0Zy9zUvdTERaUE5IiFhr-k",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3792,6 +4136,7 @@ const data = [
         "address":"2B Đ. Lê Duẩn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJswxIsBkvdTERPf6xH3qH0Do",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3803,6 +4148,7 @@ const data = [
         "address":"4 Đ. Lê Duẩn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJEbZf-0kvdTERLrTfXHoxSs8",
+        "categories":"Tòa lãnh sự nước ngoài",
         "category_group":"df_drinks"
     },
     {
@@ -3814,6 +4160,7 @@ const data = [
         "address":"25 Trần Cao Vân, Đa Kao, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJw8OREgAvdTER3lOiMlpjrrg",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3825,6 +4172,7 @@ const data = [
         "address":"11 Hàm Nghi, Phường Nguyễn Thái Bình, Quận 1, TP, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0eEuJP0vdTERKGKuAHuq5Hc",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3836,6 +4184,7 @@ const data = [
         "address":"15 Pasteur, Phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJT6IsZl4vdTERbVryalMW3VY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3847,6 +4196,7 @@ const data = [
         "address":"Upstairs, 220 Đ. Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPan4tK8vdTER1C8IggjmDGI",
+        "categories":"Quán cà phê, Cơ sở rang cà phê, Cửa hàng cà phê, Nhà bán buôn cà phê, Đại lý du lịch, Nhà điều hành du lịch, Điểm thu hút khách du lịch",
         "category_group":"df_drinks"
     },
     {
@@ -3858,6 +4208,7 @@ const data = [
         "address":"33B Đ. Bến Vân Đồn, Phường 12, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJDe4t3EEvdTER5IxRvYK2KO8",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3869,6 +4220,7 @@ const data = [
         "address":"4B\/2, Ngô Văn Năm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJvch2TfIvdTERhSYIMYjCN0g",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3880,6 +4232,7 @@ const data = [
         "address":"130 Đ. Trần Hưng Đạo, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOcN1YBYvdTERxs17dCCBl0U",
+        "categories":"Quán cà phê, Văn phòng công ty",
         "category_group":"df_drinks"
     },
     {
@@ -3891,6 +4244,7 @@ const data = [
         "address":"42 Hồ Hảo Hớn, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW8bVvUwvdTERMK3h6j6UBuk",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3902,6 +4256,7 @@ const data = [
         "address":"37 Đ. Số 41, Phường 6, Quận 4, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Coffee+House+-+%C4%90%C6%B0%E1%BB%9Dng+41\/@10.7587567,106.7004894,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6d2442289f:0xf5d511fdd60d771!8m2!3d10.7587567!4d106.7004894!16s%2Fg%2F11hbv1sc77?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3913,6 +4268,7 @@ const data = [
         "address":"122\/13\/2 Tôn Đản, Phường 10, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gammi+-+Tr%C3%A0+S%E1%BB%AFa,+Cafe,+Panna+Cotta,+Sinh+T%E1%BB%91,+N%C6%B0%E1%BB%9Bc+%C3%89p+v%C3%A0+%C4%82n+V%E1%BA%B7t\/@10.759949,106.7061559,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f002fee3671:0x1a531201da8f2e85!8m2!3d10.759949!4d106.7061559!16s%2Fg%2F11lc_z8zb3?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3924,6 +4280,7 @@ const data = [
         "address":"772 Đoàn Văn Bơ, Phường 18, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+Tr%C3%A0+MEI\/@10.7570766,106.7139608,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fc01a0de04b:0xf72f1eb4e063e9b1!8m2!3d10.7570766!4d106.7139608!16s%2Fg%2F11rz3pdvzg?hl=vi&entry=ttu",
+        "categories":"Trà trân châu, Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3935,6 +4292,7 @@ const data = [
         "address":"59 Đ. Hoàng Diệu, Phường 12, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M+Coffee\/@10.7643553,106.7058824,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6b82f98747:0xf628936baaef48a1!8m2!3d10.7643553!4d106.7058824!16s%2Fg%2F11bv3tzqvn?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3946,6 +4304,7 @@ const data = [
         "address":"496 Đ. An Dương Vương, Phường 4, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gong+Cha+An+D%C6%B0%C6%A1ng+V%C6%B0%C6%A1ng\/@10.7583884,106.6759787,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f72f3b67bdf:0x3c0379f8c3b73667!8m2!3d10.7583884!4d106.6759787!16s%2Fg%2F11c485thn1?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -3957,6 +4316,7 @@ const data = [
         "address":"Hẻm 120 Trần Bình Trọng, Phường 2, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/L%E1%BA%A1c+concept\/@10.7577441,106.6817208,17z\/data=!3m1!4b1!4m6!3m5!1s0xaa8ac43a76806aab:0xc7c37e5de90c509d!8m2!3d10.7577441!4d106.6817208!16s%2Fg%2F11rk4djy85?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Quán cà phê nghệ thuật, Dịch vụ nhiếp ảnh",
         "category_group":"df_drinks"
     },
     {
@@ -3968,6 +4328,7 @@ const data = [
         "address":"154 Đ. Nguyễn Trãi, Phường 3, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/N%C6%B0%E1%BB%9Bc+m%C3%A1t+H%E1%BB%93ng+Phong\/@10.7574722,106.6783165,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9d172f16e1:0xf678bdc1f2720905!8m2!3d10.7574722!4d106.6783165!16s%2Fg%2F11gjvwtfl4?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán nước quả ép",
         "category_group":"df_drinks"
     },
     {
@@ -3979,6 +4340,7 @@ const data = [
         "address":"01 Đ. An Dương Vương, Phường 8, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KATINAT+AN+D%C6%AF%C6%A0NG+V%C6%AF%C6%A0NG\/@10.7572823,106.6736585,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8a82c046ef:0x51bc8f6f3f58ef04!8m2!3d10.7572823!4d106.6736585!16s%2Fg%2F11qykj20c_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -3990,6 +4352,7 @@ const data = [
         "address":"153 Huỳnh Mẫn Đạt, Phường 8, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%C3%A0+L%E1%BA%A1t+Ph%E1%BB%91+Coffee\/@10.7567789,106.6759108,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752efd5ed44485:0xa4c33b3b7d9cb987!8m2!3d10.7567789!4d106.6759108!16s%2Fg%2F11bxkz3qhs?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4001,6 +4364,7 @@ const data = [
         "address":"682 Đ. Trần Hưng Đạo, Phường 2, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Coffee+House+Tr%E1%BA%A7n+H%C6%B0ng+%C4%90%E1%BA%A1o\/@10.7547799,106.6784329,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fc72355bd4b:0x6d391451fca2c562!8m2!3d10.7547799!4d106.6784329!16s%2Fg%2F11hf3mjy98?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4012,6 +4376,7 @@ const data = [
         "address":"787 Đ. Trần Hưng Đạo, Phường 1, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KATINAT\/@10.7551936,106.6813879,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fc3a86ff57b:0xc8eb459830e58f47!8m2!3d10.7551936!4d106.6813879!16s%2Fg%2F11pdrssbgh?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4023,6 +4388,7 @@ const data = [
         "address":"14 Đ. Đỗ Văn Sửu, Phường 10, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Shop+n%C6%B0%E1%BB%9Bc+Hoa+Kenni+Ho%C3%A0ng+(+%C3%82n+%C4%90%E1%BA%B9p+Trai+)\/@10.7496313,106.6604507,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f003fe9feab:0x3b1f70aaeab5cee1!8m2!3d10.7496313!4d106.6604507!16s%2Fg%2F11vpwmv8vz?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nước hoa",
         "category_group":"df_drinks"
     },
     {
@@ -4034,6 +4400,7 @@ const data = [
         "address":"337B Đ. Bình Đông, Phường 13, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/ZERUS+caffe\/@10.7481302,106.6601313,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6fa436a165:0x1476ef0632054b57!8m2!3d10.7481302!4d106.6601313!16s%2Fg%2F11mb5pccns?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4045,6 +4412,7 @@ const data = [
         "address":"905 Đ. Trần Hưng Đạo, Phường 1, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+ph%C3%AA+Nh%E1%BA%ADt+Nguy%E1%BB%87t\/@10.754405,106.6792526,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f025a3a44e7:0xcdb1cfb7463f6a1f!8m2!3d10.754405!4d106.6792526!16s%2Fg%2F1thf61j5?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4056,6 +4424,7 @@ const data = [
         "address":"Chung cư Nguyễn Trãi lô A, lô F, 18 Đ. Mạc Thiên Tích, Phường 8, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/018+Cafe\/@10.7551649,106.6676778,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752efbab9db85d:0x506363af0193a74f!8m2!3d10.7551649!4d106.6676778!16s%2Fg%2F11cjk2ptqt?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4067,6 +4436,7 @@ const data = [
         "address":"Chung cư Lakai, 98-126 Đ. Nguyễn Tri Phương, Phường 7, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Starbucks+-+Lakai\/@10.7538465,106.6696617,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752efbf1ed9b53:0x2ea83a0ebb98729!8m2!3d10.7538465!4d106.6696617!16s%2Fg%2F11c46by5lw?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4078,6 +4448,7 @@ const data = [
         "address":"123 Đ. Trần Hưng Đạo, Phường 10, Quận 5, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S'mores+Saigon+-+Ch%E1%BB%A3+L%E1%BB%9Bn\/@10.7523719,106.6666739,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f919f3066d1:0xfe6d4d448903008c!8m2!3d10.7523719!4d106.6666739!16s%2Fg%2F11sbcvpxwy?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4089,6 +4460,7 @@ const data = [
         "address":"208 Đ. Trần Văn Trà, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Starbucks\/@10.7212714,106.7141265,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ff2e452e5c3:0xf415aaf8a5b1d579!8m2!3d10.7212714!4d106.7141265!16s%2Fg%2F11b5yw2_w_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4100,6 +4472,7 @@ const data = [
         "address":"Thửa 526, P. Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Phuc+Long+Kiosk\/@10.7294163,106.7445091,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525fea416a33f:0x32cf0212c67c28c8!8m2!3d10.7294163!4d106.7445091!16s%2Fg%2F11p672t9fy?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4111,6 +4484,7 @@ const data = [
         "address":"28 Đường P, Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C3%82me+Cafe+%26+Brunch\/@10.7217913,106.7145112,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6e56535f4d:0x11f690ae6f54e06b!8m2!3d10.7217913!4d106.7145112!16s%2Fg%2F11tm_xrdt7?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4122,6 +4496,7 @@ const data = [
         "address":"07 Số 35, Kp 6, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+ph%C3%AA+NGUY%E1%BB%84N+TR%E1%BA%A6N\/@10.7447658,106.7164003,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f400fa3ff27:0x7c664bdb61d3355f!8m2!3d10.7447658!4d106.7164003!16s%2Fg%2F11hz8kwyp0?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4133,6 +4508,7 @@ const data = [
         "address":"320\/22\/3A Đ. Nguyễn Văn Linh, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gi%E1%BA%A5y+Coffee+and+Tea\/@10.74088,106.7196199,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f64966ef147:0x5bc03168cc0e1e4e!8m2!3d10.74088!4d106.7196199!16s%2Fg%2F11kqdmtr1p?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4144,6 +4520,7 @@ const data = [
         "address":"313 Nguyễn Thị Thập, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Coffee+House\/@10.7381921,106.7151693,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9953e0aa4b:0x61f034355d42b9d0!8m2!3d10.7381921!4d106.7151693!16s%2Fg%2F11cmd95bl1?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4155,6 +4532,7 @@ const data = [
         "address":"332 Nguyễn Thị Thập, Tân Quy, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Katinat\/@10.7386396,106.7129494,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fa5b57ec88b:0xc6d462978ecaa858!8m2!3d10.7386396!4d106.7129494!16s%2Fg%2F11st8_rcg4?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4166,6 +4544,7 @@ const data = [
         "address":"67 Mai Văn Vĩnh, Tân Quy, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ola+Rooftop+Caf%C3%A9+%26+Cuisine\/@10.7389343,106.7137996,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fcf84c95de1:0xb6039f4890b26436!8m2!3d10.7389343!4d106.7137996!16s%2Fg%2F11tx5__6h0?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Quán bar cocktail",
         "category_group":"df_drinks"
     },
     {
@@ -4177,6 +4556,7 @@ const data = [
         "address":"184 Đ. Lâm Văn Bền, Tân Quy, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Highlands+Coffee+184+L%C3%A2m+V%C4%83n+B%E1%BB%81n\/@10.7414522,106.7157928,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fbee86106ef:0xe9184ac0e261b4b4!8m2!3d10.7414522!4d106.7157928!16s%2Fg%2F11fhnj03ww?hl=vi&entry=ttu",
+        "categories":"Quán cà phê espresso",
         "category_group":"df_drinks"
     },
     {
@@ -4188,6 +4568,7 @@ const data = [
         "address":"21 Số 47, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+R%E1%BB%81+cafe+Q7\/@10.7418628,106.7177067,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fdf5260c505:0x1ed1768fd00504bf!8m2!3d10.7418628!4d106.7177067!16s%2Fg%2F11vdmwpxw8?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4199,6 +4580,7 @@ const data = [
         "address":"27 Đường N - Nam, Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%80+PH%C3%8A+%C3%94NG+B%E1%BA%A6U\/@10.7225393,106.7172326,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f5d49e0afe1:0x6db0f9d6ec686708!8m2!3d10.7225393!4d106.7172326!16s%2Fg%2F11v0l58390?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4210,6 +4592,7 @@ const data = [
         "address":"101 Mỹ Kim 3, Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh 72900, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Soco+Saigon+Coffee\/@10.7242421,106.7157474,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fc5d77544b5:0xe1938947afb19277!8m2!3d10.7242421!4d106.7157474!16s%2Fg%2F11sk9v0qyt?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4221,6 +4604,7 @@ const data = [
         "address":"401A Đ. Đào Trí, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%80+PH%C3%8A+NG%E1%BB%8CC+TRANG+THANH\/@10.7307886,106.7431773,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752553cff188cd:0x41c2dce2a2e51189!8m2!3d10.7307886!4d106.7431773!16s%2Fg%2F11vpfw2cx5?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4232,6 +4616,7 @@ const data = [
         "address":"107 Đ Tôn Dật Tiên, P. Phú Thuận, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gong+Cha+H%E1%BB%93+B%C3%A1n+Nguy%E1%BB%87t\/@10.7257407,106.7203153,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f69c9c2cadd:0x51eea4cf7075f998!8m2!3d10.7257407!4d106.7203153!16s%2Fg%2F11rc03w_v2?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -4243,6 +4628,7 @@ const data = [
         "address":"101 - 107 Khu Phố Mỹ Hào, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ccomaya+Kids+Cafe\/@10.7271435,106.7157225,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fcde5f7fef9:0xea505f28fad29f17!8m2!3d10.7271435!4d106.7157225!16s%2Fg%2F11mtd5nzrn?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4254,6 +4640,7 @@ const data = [
         "address":"102 Đường Số 7, Khu Phố 2, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+tr%C3%A0+AIYU+-+Qu%E1%BA%ADn+7\/@10.7470688,106.7065945,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f004ec65b03:0xc7cce946c604f194!8m2!3d10.7470688!4d106.7065945!16s%2Fg%2F11lc_n2l1z?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4265,6 +4652,7 @@ const data = [
         "address":"Trung tâm Hội chợ và Triển lãm Sài Gòn, Cổng H, Hoàng Văn Thái, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+S-Coffee\/@10.7308631,106.7228688,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f28087bf2b1:0x52c9ae8b368b8b43!8m2!3d10.7308631!4d106.7228688!16s%2Fg%2F11p9wxxw2h?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4276,6 +4664,7 @@ const data = [
         "address":"31 Đ. D4, Khu đô thị Him Lam, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+v%C3%B5ng\/@10.745408,106.6969755,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f14b5e79567:0xd900b85dbac11125!8m2!3d10.745408!4d106.6969755!16s%2Fg%2F11h31w030r?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4287,6 +4676,7 @@ const data = [
         "address":"41\/1 Hẻm 380 Lê Văn Lương, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+Ph%C3%AA+V%C3%B5ng\/@10.7372449,106.7029089,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f1f11da01cf:0x4f66d67d4812d06d!8m2!3d10.7372449!4d106.7029089!16s%2Fg%2F11g0g5qzk3?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4298,6 +4688,7 @@ const data = [
         "address":"474 Lê Văn Lương, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Net+269\/@10.7355473,106.7025882,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f42121b84f7:0xd9aa3cf37d2ab8d6!8m2!3d10.7355473!4d106.7025882!16s%2Fg%2F11jzs1_wtp?hl=vi&entry=ttu",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -4309,6 +4700,7 @@ const data = [
         "address":"592 Lê Văn Lương, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%C3%BAc+Long+Tea+%26+Coffee+-+592+L%C3%AA+V%C4%83n+L%C6%B0%C6%A1ng\/@10.7310597,106.7004988,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ffa8b98b5af:0x3d0eea7f58ce1b29!8m2!3d10.7310597!4d106.7004988!16s%2Fg%2F11hnv5wf1n?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4320,6 +4712,7 @@ const data = [
         "address":"525 Lê Văn Lương, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S2M+Gaming+-+525+L%C3%AA+V%C4%83n+L%C6%B0%C6%A1ng+-+Qu%E1%BA%ADn+7\/@10.7351386,106.7028824,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299a35585b4b:0xc39e89c85652c33!8m2!3d10.7351386!4d106.7028824!16s%2Fg%2F11h_wqwtm4?hl=vi&entry=ttu",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -4331,6 +4724,7 @@ const data = [
         "address":"501 Lê Văn Lương, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/O%E2%80%99renchi+Cafe\/@10.7358029,106.7028999,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f20d05ee9bd:0x92b3ae61b9090beb!8m2!3d10.7358029!4d106.7028999!16s%2Fg%2F11v0b3229l?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4342,6 +4736,7 @@ const data = [
         "address":"04 Đ. Số 2, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Qu%C3%A1n+cafe+ven+s%C3%B4ng\/@10.7371389,106.7008768,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fceaaa83113:0xe7a3b36e45a4da6d!8m2!3d10.7371389!4d106.7008768!16s%2Fg%2F11jbc9qjsm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4353,6 +4748,7 @@ const data = [
         "address":"PMWW+WF9, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+903+Ho%C3%A0ng+Tr%E1%BB%8Dng+M%E1%BA%ADu\/@10.7472915,106.6962297,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ffa07ca5a5f:0x7aff77de393bc728!8m2!3d10.7472915!4d106.6962297!16s%2Fg%2F11s5tpq6nz?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4364,6 +4760,7 @@ const data = [
         "address":"18 Hoàng Trọng Mậu, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh 72912, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CoVy+coffee\/@10.7476998,106.6954244,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f09eef6ccbd:0x562b15125166f36f!8m2!3d10.7476998!4d106.6954244!16s%2Fg%2F11q8r_gpp8?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4375,6 +4772,7 @@ const data = [
         "address":"51 Trần Xuân Soạn, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh 72912, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+Kh%E1%BA%A3i+T%C3%ADn\/@10.7487256,106.6957746,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f5096dc518d:0x688728d61fd7c0f8!8m2!3d10.7487256!4d106.6957746!16s%2Fg%2F11t7slh800?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4386,6 +4784,7 @@ const data = [
         "address":"PPMF+XM3, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%A7+ti%E1%BA%BFu+c%C3%B4+H%C6%B0%C6%A1ng+si%C3%AAu+ngon\/@10.7348895,106.7241844,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752500029fa74d:0xb545f922573197f5!8m2!3d10.7348895!4d106.7241844!16s%2Fg%2F11vl25vp_4?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4397,6 +4796,7 @@ const data = [
         "address":"793a Trần Xuân Soạn, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%C3%B9i+C%C3%A0+Ph%C3%AA\/@10.7517122,106.6986605,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fba21ffd733:0x3060f83dc2679233!8m2!3d10.7517122!4d106.6986605!16s%2Fg%2F11rl9gb5zk?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4408,6 +4808,7 @@ const data = [
         "address":"759 Trần Xuân Soạn, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Coffee+Ship\/@10.7518018,106.7000036,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f7344c4d211:0x6c706e702d1b385c!8m2!3d10.7518018!4d106.7000036!16s%2Fg%2F11hczcb_bf?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4419,6 +4820,7 @@ const data = [
         "address":"Hẻm 11 Số 1, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/LEE+SB+Tea+%26+Coffee\/@10.7409072,106.7253189,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f2e024906d7:0x91ef8bb64e514805!8m2!3d10.7409072!4d106.7253189!16s%2Fg%2F11vb_g_wq7?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4430,6 +4832,7 @@ const data = [
         "address":"7a Nguyễn Bính, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Fig+Cafe\/@10.7269331,106.7105623,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ffa978bfc37:0x4a4932dddc9e900e!8m2!3d10.7269331!4d106.7105623!16s%2Fg%2F11fcmwnb3_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4441,6 +4844,7 @@ const data = [
         "address":"Shop S2-1, Lô R16-2, Khu Hưng Vượng\/3 Đường số 6, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%99ng+C%C3%A0+Ph%C3%AA\/@10.7300279,106.7089052,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fd995488487:0x1fbdc46ad347d5d!8m2!3d10.7300279!4d106.7089052!16s%2Fg%2F11g0w3fgb3?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4452,6 +4856,7 @@ const data = [
         "address":"Sky Garden, Lô R1-72, R4-71 Khu R20, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Coffee+House\/@10.730796,106.7068194,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f436925c57b:0xa88b1f3d609bd0cf!8m2!3d10.730796!4d106.7068194!16s%2Fg%2F11ls56gz4b?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4463,6 +4868,7 @@ const data = [
         "address":"2 Đường số 40, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/N%E1%BA%AFng+SaiGon\/@10.7354171,106.7122195,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fa7d89bf5bb:0x39e9a7932f3e8d0b!8m2!3d10.7354171!4d106.7122195!16s%2Fg%2F11gnpl7hg4?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4474,6 +4880,7 @@ const data = [
         "address":"38 Khu Phố Nam Quang 1, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Erum\/@10.7236233,106.7103137,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fdf54f2f051:0xa2c67a62c38d7ae9!8m2!3d10.7236233!4d106.7103137!16s%2Fg%2F11ng2fbm23?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4485,6 +4892,7 @@ const data = [
         "address":"Lô 206, KCD Hưng Phúc, Nguyễn Lương Bằng, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Starbucks+Happy+Residence\/@10.7175923,106.7283507,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525c6d1e7f597:0x2b14564167952214!8m2!3d10.7175923!4d106.7283507!16s%2Fg%2F11hymkf600?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4496,6 +4904,7 @@ const data = [
         "address":"Riverpark Premier, 31 Đặng Đức Thuật, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Starbucks+Coffee+-+Riverpark+Premier\/@10.725098,106.7081582,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fcbf9eea997:0xfbf18e2120418b20!8m2!3d10.725098!4d106.7081582!16s%2Fg%2F11gy1l7knz?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4507,6 +4916,7 @@ const data = [
         "address":"571 Huỳnh Tấn Phát, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/NEW+KOI+COFFEE\/@10.741635,106.729917,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752507820dd3fb:0x34be89059b839034!8m2!3d10.741635!4d106.729917!16s%2Fg%2F11qpm4mdlm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4518,6 +4928,7 @@ const data = [
         "address":"51 Đường số 31, Khu phố Urban Hill, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Starbucks+Urban+Hill\/@10.7282616,106.7118736,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fd1ee6e70b9:0x8977b13b2f7bca93!8m2!3d10.7282616!4d106.7118736!16s%2Fg%2F11qhr7bh__?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4529,6 +4940,7 @@ const data = [
         "address":"Shop 16 M8 Midtown, Tân Phú, Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KOI+Th%C3%A9\/@10.7265249,106.7287472,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525700ca3d909:0xcecb534735baad29!8m2!3d10.7265249!4d106.7287472!16s%2Fg%2F11ty4s6fpx?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -4540,6 +4952,7 @@ const data = [
         "address":"35 Đường Số 17, Mỹ Thái 2, Quận 7, Thành phố Hồ Chí Minh 72900, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C3%80+La+Main+Caf%C3%A9\/@10.7218016,106.727953,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525f9997ced5f:0x3f9fd0bb0cd5ac15!8m2!3d10.7218016!4d106.727953!16s%2Fg%2F11t_ksd933?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4551,6 +4964,7 @@ const data = [
         "address":"77\/50\/9 Đường Chuyên Dùng Chính, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%C3%A2y+Farm+Qu%E1%BA%ADn+7\/@10.70772,106.7404692,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175252cae709e1b:0x5b031bfbfa687156!8m2!3d10.70772!4d106.7404692!16s%2Fg%2F11sv7bglkb?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4562,6 +4976,7 @@ const data = [
         "address":"Phú Mỹ, Rạch Bàng, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%91ng+Ph%C3%BA+Xu%C3%A2n\/@10.703405,106.7406292,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525150a51c831:0xefd16d80d8e3052d!8m2!3d10.703405!4d106.7406292!16s%2Fg%2F11fwgv4tty?hl=vi&entry=ttu",
+        "categories":"Đập nước",
         "category_group":"df_drinks"
     },
     {
@@ -4573,6 +4988,7 @@ const data = [
         "address":"F1 Đ. 3A, Khu đô thị Him Lam, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Trung+Nguy%C3%AAn+Legend+Caf%C3%A9\/@10.7438654,106.6980479,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f1a45ea9e87:0xe29d84a7ee0f21d0!8m2!3d10.7438654!4d106.6980479!16s%2Fg%2F11kfj5kc2c?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4584,6 +5000,7 @@ const data = [
         "address":"326 Lê Văn Lương, Tân Quy, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/N%E1%BA%AFng+Rooftop+Coffee\/@10.7410994,106.7034696,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ff4b2c2f48f:0x593e571e3ea4ff9a!8m2!3d10.7410994!4d106.7034696!16s%2Fg%2F11gs6n9ymm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4595,6 +5012,7 @@ const data = [
         "address":"378 Hẻm 380 Lê Văn Lương, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Katinat+L%C3%AA+V%C4%83n+L%C6%B0%C6%A1ng\/@10.7399314,106.7030449,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f1dad5dd8a3:0x5dea8c4281f4c294!8m2!3d10.7399314!4d106.7030449!16s%2Fg%2F11sp4vrc4v?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4606,6 +5024,7 @@ const data = [
         "address":"52 Đường số 1, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Aloha+Coffee+-+Qu%E1%BA%ADn+7\/@10.7391805,106.6994805,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fc1d92096d5:0x93d3308252a013a4!8m2!3d10.7391805!4d106.6994805!16s%2Fg%2F11pc1ppt7s?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4617,6 +5036,7 @@ const data = [
         "address":"62 Nguyễn Thị Thập, Khu định cư Tân Quy Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sinh+t%E1%BB%91+%26+N%C6%B0%E1%BB%9Bc+%C3%A9p\/@10.7410375,106.6979843,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f00234b12db:0x49e1aa09a44da4da!8m2!3d10.7410375!4d106.6979843!16s%2Fg%2F11vr_4ykpr?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4628,6 +5048,7 @@ const data = [
         "address":"307c Lê Văn Lương, Tân Quy, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/ODIN+Game+Station\/@10.7423379,106.7044373,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f95e3751b69:0x46b8021db34e7f7!8m2!3d10.7423379!4d106.7044373!16s%2Fg%2F11kjf5x4ty?hl=vi&entry=ttu",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -4639,6 +5060,7 @@ const data = [
         "address":"17 Đường số 16, khu Nam Viên, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Mink+Coffee\/@10.7243409,106.7296356,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fd283fd256f:0xc344f3d9613d1a0f!8m2!3d10.7243409!4d106.7296356!16s%2Fg%2F11klkcpxvg?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4650,6 +5072,7 @@ const data = [
         "address":"Số 27, Lô M7, Đường số 15, Khu A - Đô thị mới Nam thành phố, P. Phú Thuận, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Starbucks+Midtown\/@10.72499,106.7280447,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525cd0783f92f:0x63e30204b372c3f7!8m2!3d10.72499!4d106.7280447!16s%2Fg%2F11tc0zf7j4?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4661,6 +5084,7 @@ const data = [
         "address":"32 M8, Midtown, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/O'Blanc+Study+Cafe\/@10.7250715,106.7297334,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525de7f936a05:0x560c00236c4abd31!8m2!3d10.7250715!4d106.7297334!16s%2Fg%2F11l1dypgz3?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Không gian làm việc chia sẻ",
         "category_group":"df_drinks"
     },
     {
@@ -4672,6 +5096,7 @@ const data = [
         "address":"146 Đường số 1, Khu dân cư Trung Sơn, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/MTP+Coffee+%26+Lounge\/@10.732581,106.6912156,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fbb4219a6c5:0xc0d7253163a273d6!8m2!3d10.732581!4d106.6912156!16s%2Fg%2F11bxfwkx51?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4683,6 +5108,7 @@ const data = [
         "address":"34 khu phố 5 Huỳnh Tấn Phát, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh 72000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/BT+COFFEE+HOUSE+-+MILKTEA+%26+PIZZA\/@10.6998313,106.7369708,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175317a47186d9b:0xb57c602c6718490!8m2!3d10.6998313!4d106.7369708!16s%2Fg%2F11h0m1bb2_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4694,6 +5120,7 @@ const data = [
         "address":"Lô Vb. 18b-20a1, đường 24, Khu công nghiệp trong Khu chế xuất, Tân Thuận, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+ty+CPCN+n%C6%B0%E1%BB%9Bc+u%E1%BB%91ng+tinh+khi%E1%BA%BFt+Vi%E1%BB%87t+Nam+(Samin)\/@10.770683,106.7455488,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175252417b65ec1:0x66cf648c171149fa!8m2!3d10.770683!4d106.7455488!16s%2Fg%2F11h2fm_qml?hl=vi&entry=ttu",
+        "categories":"Công ty nước khoáng",
         "category_group":"df_drinks"
     },
     {
@@ -4705,6 +5132,7 @@ const data = [
         "address":"Khu chế xuất Tân Thuận, Z06, Số 13, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Highlands+Coffee\/@10.7581544,106.746125,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525accad3b0e9:0xc41922191d5d46cf!8m2!3d10.7581544!4d106.746125!16s%2Fg%2F11llp5mmkz?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4716,6 +5144,7 @@ const data = [
         "address":"3\/37, Đường số 25A, Tân Quy, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+cafe+Ven+S%C3%B4ng\/@10.743498,106.7071207,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f602663b39b:0x8f0318c904426fb4!8m2!3d10.743498!4d106.7071207!16s%2Fg%2F11y1xrblmy?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4727,6 +5156,7 @@ const data = [
         "address":"3\/4A, Đường số 25A, Tân Quy, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/ReViet+Juice\/@10.7427629,106.7080519,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f23d5aec5f1:0xd6930821705914a0!8m2!3d10.7427629!4d106.7080519!16s%2Fg%2F11t7199ggy?hl=vi&entry=ttu",
+        "categories":"Cửa hàng bán nước quả ép",
         "category_group":"df_drinks"
     },
     {
@@ -4738,6 +5168,7 @@ const data = [
         "address":"443 Nguyễn Thị Thập, Tân Quy, Quận 7, Thành phố Hồ Chí Minh 100000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%99ng+C%C3%A0+Ph%C3%AA\/@10.7385536,106.7110255,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fa3e7539551:0xd215085aac67c6a2!8m2!3d10.7385536!4d106.7110255!16s%2Fg%2F11jgj1c220?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4749,6 +5180,7 @@ const data = [
         "address":"472 Nguyễn Thị Thập, Tân Quy, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Rafa+Healthy+Cafe\/@10.7395489,106.7064787,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0044cdae99:0x523d1e372642206d!8m2!3d10.7395489!4d106.7064787!16s%2Fg%2F11vrzg9h2f?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4760,6 +5192,7 @@ const data = [
         "address":"492 Nguyễn Thị Thập, Tân Quy, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Coffee+House+-+Nguy%E1%BB%85n+Th%E1%BB%8B+Th%E1%BA%ADp+2\/@10.7397457,106.7053754,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9cb633af2d:0xb1ba1124d85775c3!8m2!3d10.7397457!4d106.7053754!16s%2Fg%2F11f7pv1m3c?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4771,6 +5204,7 @@ const data = [
         "address":"2 Đường Số 17, Khu Nam Viên, Quận 7, Thành phố Hồ Chí Minh 756335, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Maison+De+Artisan\/@10.7236872,106.7304405,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f21b6e0ffe5:0x391cd86a1770e705!8m2!3d10.7236872!4d106.7304405!16s%2Fg%2F11jvdhrmxz?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4782,6 +5216,7 @@ const data = [
         "address":"149 Số 17, Tân Quy, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/L%E1%BB%80U+TEA+%26+COFFEE\/@10.744848,106.7111187,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6f345c4857:0x41b02df88e887a4c!8m2!3d10.744848!4d106.7111187!16s%2Fg%2F11v67j9lyd?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4793,6 +5228,7 @@ const data = [
         "address":"QP2R+G6V, Số 13, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+M%C3%A1y+X%E1%BB%AD+L%C3%BD+N%C6%B0%E1%BB%9Bc+Th%E1%BA%A3i+Khu+Ch%E1%BA%BF+Xu%E1%BA%A5t+T%C3%A2n+Thu%E1%BA%ADn\/@10.7513608,106.7405605,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175259221afa00f:0x77e541f53369b854!8m2!3d10.7513608!4d106.7405605!16s%2Fg%2F1v_skr8x?hl=vi&entry=ttu",
+        "categories":"Nhà máy xử lý nước thải",
         "category_group":"df_drinks"
     },
     {
@@ -4804,6 +5240,7 @@ const data = [
         "address":"16 Đ. số 9, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CABIN+cafe+rang+m%E1%BB%99c\/@10.7359156,106.7204206,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6b3b42776b:0x375ca9d2c7cafd5c!8m2!3d10.7359156!4d106.7204206!16s%2Fg%2F11dzw5w01x?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4815,6 +5252,7 @@ const data = [
         "address":"81 Huỳnh Tấn Phát, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Lacasa+81+Hu%E1%BB%B3nh+T%E1%BA%A5n+Ph%C3%A1t\/@10.7158072,106.7399005,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752543f7d2b5fd:0x3b3d778d859650d5!8m2!3d10.7158072!4d106.7399005!16s%2Fg%2F11ggvw2qgf?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4826,6 +5264,7 @@ const data = [
         "address":"115 Hoàng Quốc Việt, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Omccino+Cafe\/@10.7137191,106.7419047,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525acc08e5d6f:0x34b957db0149a26a!8m2!3d10.7137191!4d106.7419047!16s%2Fg%2F11kpr4qx27?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4837,6 +5276,7 @@ const data = [
         "address":"PMJ5+PPJ, Bình Hưng, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+s%E1%BB%AFa+tr%C3%A0+vi%E1%BB%87t\/@10.7318338,106.6592791,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f4167ccb7b1:0xb1d3813942d751e6!8m2!3d10.7318338!4d106.6592791!16s%2Fg%2F11q8wzzh_4?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4848,6 +5288,7 @@ const data = [
         "address":"160-162 Đ. Phạm Hùng, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Green+Bean+Coffee+and+Tea\/@10.7418736,106.668754,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0067afe431:0x7b0e5f6b0ee5c65d!8m2!3d10.7418736!4d106.668754!16s%2Fg%2F11vs5tzjmt?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4859,6 +5300,7 @@ const data = [
         "address":"286a Đ. Tạ Quang Bửu, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/V%C6%B0%E1%BB%9Dn+Xanh+Coffee\/@10.7398934,106.6755964,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0d54b6ee1b:0x27abf74a7fc6255c!8m2!3d10.7398934!4d106.6755964!16s%2Fg%2F11h0vc1jym?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4870,6 +5312,7 @@ const data = [
         "address":"116 Đ.Hồ Thành Biên, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SALLA+COFFEE\/@10.740805,106.669089,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fb461d4d7b7:0x92dde99c6a2c458f!8m2!3d10.740805!4d106.669089!16s%2Fg%2F11fs03n1mw?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4881,6 +5324,7 @@ const data = [
         "address":"123 Đ. Phạm Hùng, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hot%26Cold+-+Tr%C3%A0+S%E1%BB%AFa+%26+Xi%C3%AAn+Que\/@10.7413552,106.6690685,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5148345b1f:0xfa65d332a0cc5c68!8m2!3d10.7413552!4d106.6690685!16s%2Fg%2F11cjj8311g?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -4892,6 +5336,7 @@ const data = [
         "address":"2 Đường Số 15, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%E1%BB%99c+Coffee\/@10.7417546,106.6712944,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f000578b8b1:0xac184959b9056de1!8m2!3d10.7417546!4d106.6712944!16s%2Fg%2F11vrzj7ly3?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4903,6 +5348,7 @@ const data = [
         "address":"697 Phạm Thế Hiển, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+s%E1%BB%AFa+Toco+Toco+Ph%E1%BA%A1m+Th%E1%BA%BF+Hi%E1%BB%83n\/@10.7449262,106.6758304,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8ea073dbf9:0x361579199548d97b!8m2!3d10.7449262!4d106.6758304!16s%2Fg%2F11h_z9t9_c?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4914,6 +5360,7 @@ const data = [
         "address":"Số 106 Đường số 4, khu Dân Cư, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/An+Khang+Coffee\/@10.6994304,106.6128251,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175320dcae21caf:0x2ea61c23f829742c!8m2!3d10.6994304!4d106.6128251!16s%2Fg%2F11c4wwmq32?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4925,6 +5372,7 @@ const data = [
         "address":"11a Lý Đạo Thành, Phường 16, Quận 8, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Rita+HOuse\/@10.7312444,106.6324658,17z\/data=!3m1!4b1!4m9!3m8!1s0x31752e743801402d:0xf3e01e33a43bd0c9!5m2!4m1!1i2!8m2!3d10.7312444!4d106.6324658!16s%2Fg%2F11gfj6ptdn?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Nhà hàng",
         "category_group":"df_drinks"
     },
     {
@@ -4936,6 +5384,7 @@ const data = [
         "address":"PJJQ+JFR, Đ. Lưu Hữu Phước, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+Mtv+Tho%C3%A1t+N%C6%B0%E1%BB%9Bc+%C4%90%C3%B4+Th%E1%BB%8B+Tp.Hcm+-+Tr%E1%BA%A1m+B%C6%A1m+M%E1%BB%85+C%E1%BB%91c+1\/@10.7316006,106.6386491,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e72374c50b7:0x4171d28bc1b04fc6!8m2!3d10.7316006!4d106.6386491!16s%2Fg%2F12vs9dby_?hl=vi&entry=ttu",
+        "categories":"Dịch vụ xử lý nước thải",
         "category_group":"df_drinks"
     },
     {
@@ -4947,6 +5396,7 @@ const data = [
         "address":"11 Đường 909 Tạ Quang Bửu, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sun+Coffee+%26+Tea\/@10.733727,106.6620537,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f971bd0fb69:0xe037d5cb5ee8f8aa!8m2!3d10.733727!4d106.6620537!16s%2Fg%2F11f62f0m0n?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4958,6 +5408,7 @@ const data = [
         "address":"345 Đ. Tạ Quang Bửu, Phường 5, Quận 8, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/ZERUS+Caffe\/@10.7343873,106.6645584,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8ec26d0353:0x83cb9bad5baa2660!8m2!3d10.7343873!4d106.6645584!16s%2Fg%2F11lkw7x52y?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4969,6 +5420,7 @@ const data = [
         "address":"Bông Sao\/353 f5, q8, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Caffe+v%C3%B5ng+M%C3%A2y\/@10.7344415,106.6651694,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f3323f994ad:0x530c00098424a880!8m2!3d10.7344415!4d106.6651694!16s%2Fg%2F11gv12cc_p?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4980,6 +5432,7 @@ const data = [
         "address":"904 Đ. Tạ Quang Bửu, Phường 5, Quận 8, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VIVA+STAR+COFFEE\/@10.7344868,106.6602432,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e44f6f24877:0x1272af64b329604c!8m2!3d10.7344868!4d106.6602432!16s%2Fg%2F11c2jzw7q9?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -4991,6 +5444,7 @@ const data = [
         "address":"361c Đ. Bình Đông, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Coffee+2000+%7C+Coffee+qu%E1%BA%ADn+8+%7C+Coffe+t%C3%B4+t%C6%B0%E1%BB%A3ng+%7C+Cafe+qu%E1%BA%ADn+8\/@10.7349062,106.6369477,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f005b7ba867:0x69e68f1629d28644!8m2!3d10.7349062!4d106.6369477!16s%2Fg%2F11vkbbb2z8?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5002,6 +5456,7 @@ const data = [
         "address":"Nhà số 2, Đường, 8 Đ. Bùi Minh Trực, III, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A1i+V%C6%B0%E1%BB%9Dn+Toro\/@10.736252,106.659668,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f4958461553:0x19f363146afac63e!8m2!3d10.736252!4d106.659668!16s%2Fg%2F11j8hhjvxj?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5013,6 +5468,7 @@ const data = [
         "address":"108 A Đ. Bùi Minh Trực, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/1986+Tea+%7C+Coffee\/@10.7365389,106.6604168,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fd15dc1c1cb:0xea46031cf6b51803!8m2!3d10.7365389!4d106.6604168!16s%2Fg%2F11f7fgrvv2?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5024,6 +5480,7 @@ const data = [
         "address":"29 Đường số 1 khu Hiệp Ân, Phường 5, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/my+love+studio+coffee\/@10.737504,106.6665704,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f06ccac6b6b:0x44cdb508602b6ed6!8m2!3d10.737504!4d106.6665704!16s%2Fg%2F11vb6d8jlk?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5035,6 +5492,7 @@ const data = [
         "address":"75 Đình An Tài, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ho%C3%A0ng+Bida\/@10.7098672,106.619781,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d8c11cfbfcb:0xa00fffa3fbb35de5!8m2!3d10.7098672!4d106.619781!16s%2Fg%2F11r4w92fxg?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5046,6 +5504,7 @@ const data = [
         "address":"3022g Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+ph%C3%AA+Tr%E1%BB%8Bnh\/@10.7104112,106.6243687,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752df895924201:0x3fc2e6825c548f8d!8m2!3d10.7104112!4d106.6243687!16s%2Fg%2F11k4w5vtvh?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5057,6 +5516,7 @@ const data = [
         "address":"2068 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%93ng+Tr%C3%A0+Ng%C3%B4+Gia+2068+Ph%E1%BA%A1m+Th%E1%BA%BF+Hi%E1%BB%83n+-+H097\/@10.7350186,106.6462043,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fface7b91d9:0x86fcc9cd87c9d81!8m2!3d10.7350186!4d106.6462043!16s%2Fg%2F11tczh9d0q?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -5068,6 +5528,7 @@ const data = [
         "address":"1051 Đ. Tạ Quang Bửu, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+tr%C3%A1i+c%C3%A2y+pypy\/@10.731379,106.6489139,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fb403140b93:0xafbab9e1f53b40f1!8m2!3d10.731379!4d106.6489139!16s%2Fg%2F11l385q2hm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5079,6 +5540,7 @@ const data = [
         "address":"1101 Đ. Tạ Quang Bửu, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/QU%C3%81N+N%C6%AF%E1%BB%9AC+HD\/@10.729835,106.6443568,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f000fa59d85:0xb8963024405fb4e8!8m2!3d10.729835!4d106.6443568!16s%2Fg%2F11vrynh4_y?hl=vi&entry=ttu",
+        "categories":"Cửa hàng cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5090,6 +5552,7 @@ const data = [
         "address":"114 Đ. Võ Liêm Sơn, Phường 4, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Good+Cafe\/@10.736424,106.6757752,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fb7bd1772d3:0x1578ac8131c35dcb!8m2!3d10.736424!4d106.6757752!16s%2Fg%2F11qnkp_pll?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5101,6 +5564,7 @@ const data = [
         "address":"208 Đ. Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Highlands+Coffee+206+Cao+L%E1%BB%97\/@10.7377613,106.6790338,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fe4240c7a15:0xaf7326a4abc3c834!8m2!3d10.7377613!4d106.6790338!16s%2Fg%2F11sr0_nrw8?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5112,6 +5576,7 @@ const data = [
         "address":"1052 Đ. Tạ Quang Bửu, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/vy+thi%C3%AAn+cafe\/@10.731763,106.6487722,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f4643794c8f:0xda316a4b23cf248f!8m2!3d10.731763!4d106.6487722!16s%2Fg%2F11l2d9krt9?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5123,6 +5588,7 @@ const data = [
         "address":"141\/12A Đ. Lưu Hữu Phước, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+V%C3%B5ng\/@10.7351067,106.6427498,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f1ba223c1c9:0x9c3ac8f72ef36795!8m2!3d10.7351067!4d106.6427498!16s%2Fg%2F11n16zb1z8?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5134,6 +5600,7 @@ const data = [
         "address":"Chung cư Green River, 2225 Phạm Thế Hiển, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KAFA+Caf%C3%A9\/@10.732911,106.6432978,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fd4bac1e083:0xf74551b1fce9967e!8m2!3d10.732911!4d106.6432978!16s%2Fg%2F11s2h_frdr?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5145,6 +5612,7 @@ const data = [
         "address":"Đối diện 515, Đ. Bùi Minh Trực, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Emi's+Perfume\/@10.735331,106.6488838,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e68e43d5389:0xc411e7329026eb0c!8m2!3d10.735331!4d106.6488838!16s%2Fg%2F11dxql15dr?hl=vi&entry=ttu",
+        "categories":"Cửa hàng nước hoa",
         "category_group":"df_drinks"
     },
     {
@@ -5156,6 +5624,7 @@ const data = [
         "address":"2827 Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BA%A3o+Nguy%C3%AAn+Garden+Coffee\/@10.7207479,106.634584,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fbcd4afc6dd:0x52bda32fdf7af4a6!8m2!3d10.7207479!4d106.634584!16s%2Fg%2F11rb47s65s?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5167,6 +5636,7 @@ const data = [
         "address":"41 Mai Hắc Đế, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+s%E1%BB%AFa+Miu+Tea\/@10.7188165,106.6291589,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9cb63e385f:0x7d1c68e5482c4caa!8m2!3d10.7188165!4d106.6291589!16s%2Fg%2F11qpdyfx30?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5178,6 +5648,7 @@ const data = [
         "address":"124 Phạm Thế Hiển, Phường 2, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%99i+Qu%C3%A1n+D%E1%BB%8Bch+V%E1%BB%A5+Internet+Cyber+Star+Gaming\/@10.7506928,106.6865297,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f066b1fed4b:0xb90d5845e6022537!8m2!3d10.7506928!4d106.6865297!16s%2Fg%2F11mv0v7j48?hl=vi&entry=ttu",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -5189,6 +5660,7 @@ const data = [
         "address":"Cư Xá Nam Hải\/21b Đ. Tạ Quang Bửu, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SGP+CAFE\/@10.7383874,106.6738762,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f768bf0a963:0x2bc2eb01091dcabd!8m2!3d10.7383874!4d106.6738762!16s%2Fg%2F11j8wl2fl0?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5200,6 +5672,7 @@ const data = [
         "address":"19 Hoài Thanh, Phường 14, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Coffee19\/@10.7398991,106.6514088,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0eae50e86d:0x4bba751edb61834!8m2!3d10.7398991!4d106.6514088!16s%2Fg%2F11s8gwphmn?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5211,6 +5684,7 @@ const data = [
         "address":"108 Đường số 22, Ấp 2, Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/COFFEE+V%C3%95NG+S%C3%82N+V%C6%AF%E1%BB%9CN+NG%E1%BB%8CC+H%C3%80\/@10.7307661,106.6513195,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fcebbf860ed:0x56de461f1f5f6204!8m2!3d10.7307661!4d106.6513195!16s%2Fg%2F11s_xc32zt?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5222,6 +5696,7 @@ const data = [
         "address":"212 Liên Tỉnh 5, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/SAT+Gaming+Li%C3%AAn+T%E1%BB%89nh+5\/@10.736608,106.6561237,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e432f1fe7fd:0xe894a09eb4cce5c5!8m2!3d10.736608!4d106.6561237!16s%2Fg%2F11ddzrdsgn?hl=vi&entry=ttu",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -5233,6 +5708,7 @@ const data = [
         "address":"1795\/50 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+%C4%90i%E1%BB%83m+H%E1%BA%B9n\/@10.7397079,106.6552124,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5d03cf5927:0x2e6a3a14c3f50cfc!8m2!3d10.7397079!4d106.6552124!16s%2Fg%2F11bx0htl5c?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5244,6 +5720,7 @@ const data = [
         "address":"312 - 314 Tùng Thiện Vương, Phường 13, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Highlands+Coffee\/@10.7458189,106.6586069,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5f2d515969:0x9231493dc889dcb2!8m2!3d10.7458189!4d106.6586069!16s%2Fg%2F11c1nhy_sr?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5255,6 +5732,7 @@ const data = [
         "address":"443 Đ. Hưng Phú, Phường 9, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Uno+Cafe\/@10.7471338,106.6738895,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fe539d03ed1:0xd4f990cb4d349e95!8m2!3d10.7471338!4d106.6738895!16s%2Fg%2F11j9cxw4wv?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5266,6 +5744,7 @@ const data = [
         "address":"591 Phạm Thế Hiển, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/VUI+COFFEE+T%C3%AD+C%E1%BA%ADu\/@10.7459356,106.6779401,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752faa97f17557:0x3ace248a0f97980d!8m2!3d10.7459356!4d106.6779401!16s%2Fg%2F11hdbs6zmr?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5277,6 +5756,7 @@ const data = [
         "address":"11 Đ. Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tra%CC%A3m+B%C6%A1m+%C4%90%C3%B4%CC%80ng+Di%C3%AA%CC%80u\/@10.7443849,106.6779223,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fab36949033:0xc69bed85e10fc97b!8m2!3d10.7443849!4d106.6779223!16s%2Fg%2F11b_2mkg7g?hl=vi&entry=ttu",
+        "categories":"Nhà cung cấp máy bơm nước",
         "category_group":"df_drinks"
     },
     {
@@ -5288,6 +5768,7 @@ const data = [
         "address":"3 Nhất Chi Mai, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+Tr%C3%A0+Th%C3%A1ng+T%C6%B0\/@10.8029821,106.6397911,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ffcefdfc37:0x59b8e405e94c4bd9!8m2!3d10.8029821!4d106.6397911!16s%2Fg%2F11fp842n0w?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5299,6 +5780,7 @@ const data = [
         "address":"83\/129 Đ. Năm Châu, Phường 11, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+ph%C3%AA+khuya+Xu%C3%A2n+Mai\/@10.7893625,106.6480908,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6c60b695ef:0xa2757ad683be3184!8m2!3d10.7893625!4d106.6480908!16s%2Fg%2F11ld3_0z32?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5310,6 +5792,7 @@ const data = [
         "address":"33a Bành Văn Trân, Phường 6, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/TRA%CC%80+S%C6%AF%CC%83A+BOBO+2016\/@10.7882463,106.6604771,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ecc5bfed4a3:0xa2842a1483cb3501!8m2!3d10.7882463!4d106.6604771!16s%2Fg%2F11fyz9r1j7?hl=vi&entry=ttu",
+        "categories":"Trà trân châu, Cửa hàng trà truyền thống",
         "category_group":"df_drinks"
     },
     {
@@ -5321,6 +5804,7 @@ const data = [
         "address":"99 Đất Thánh, Phường 6, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Viva+Star+%C4%90%E1%BA%A5t+Th%C3%A1nh\/@10.7835933,106.6579102,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ec928a4d8d1:0x91974458eb812103!8m2!3d10.7835933!4d106.6579102!16s%2Fg%2F11fzfbt9mb?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5332,6 +5816,7 @@ const data = [
         "address":"247 - 249 Lý Thường Kiệt, Phường 6, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%C3%BAc+Long+Tea+%26+Coffee+-+L%C3%BD+Th%C6%B0%E1%BB%9Dng+Ki%E1%BB%87t\/@10.7814412,106.6551922,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f5ed39ba143:0x38b30142a1ed05e7!8m2!3d10.7814412!4d106.6551922!16s%2Fg%2F11j4hndc9d?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5343,6 +5828,7 @@ const data = [
         "address":"125 Bành Văn Trân, Phường 7, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+%C4%90INH\/@10.788247,106.657264,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f654ae45323:0x70848d0b8f7f0a00!8m2!3d10.788247!4d106.657264!16s%2Fg%2F11lc_whjky?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5354,6 +5840,7 @@ const data = [
         "address":"80 Thái Thị Nhạn, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+B%E1%BA%A3o+Ch%C3%A2u\/@10.7851168,106.6456148,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f002895d85d:0x576c4eb1546ceff7!8m2!3d10.7851168!4d106.6456148!16s%2Fg%2F11ld37wwf2?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5365,6 +5852,7 @@ const data = [
         "address":"26 Số 5, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%C3%A1y+pha+c%C3%A0+ph%C3%AA\/@10.7856832,106.6458361,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ffed9003b39:0x9594310272a81892!8m2!3d10.7856832!4d106.6458361!16s%2Fg%2F11lkczzqyn?hl=vi&entry=ttu",
+        "categories":"Nhà cung cấp máy pha cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5376,6 +5864,7 @@ const data = [
         "address":"84\/82 tân sơn nhì, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+t%E1%BA%AFc+84%2F82\/@10.7928758,106.6469418,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bf2b631af5:0x5ab5735ad3272b33!8m2!3d10.7928758!4d106.6469418!16s%2Fg%2F11vs0r00m3?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5387,6 +5876,7 @@ const data = [
         "address":"216\/2\/2 Nguyễn Văn Công, phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Lines+Skys+Rooftop+%26+Lounge+Bar\/@10.8230728,106.6748327,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752995673bcb25:0xe3f437619d01e45a!8m2!3d10.8230728!4d106.6748327!16s%2Fg%2F11svfbg2wv?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5398,6 +5888,7 @@ const data = [
         "address":"142 Nguyễn Văn Công, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Phen%E2%80%99s+Coffee\/@10.8236785,106.6762533,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175298400a727a1:0xc5b1f7fdbeffbe10!8m2!3d10.8236785!4d106.6762533!16s%2Fg%2F11jn3sg0g7?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5409,6 +5900,7 @@ const data = [
         "address":"396 Nguyễn Văn Công, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+s%E1%BB%AFa+Funny\/@10.8200115,106.6744365,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529614f2118b1:0xde728ee55f9632a1!8m2!3d10.8200115!4d106.6744365!16s%2Fg%2F11q34p9lxs?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5420,6 +5912,7 @@ const data = [
         "address":"224 Bàu Cát, Phường 11, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/G%E1%BA%A1ch+cafe+-+B%C3%A0u+C%C3%A1t\/@10.7912681,106.6448545,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f659bc08adb:0xb5f76695698d69b6!8m2!3d10.7912681!4d106.6448545!16s%2Fg%2F11h7s9yypc?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5431,6 +5924,7 @@ const data = [
         "address":"45b Đồng Đen, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Sunday+Basic\/@10.794519,106.6451163,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294c14c2cb6f:0xe0a3670dc7fb7717!8m2!3d10.794519!4d106.6451163!16s%2Fg%2F11rgh78pzb?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5442,6 +5936,7 @@ const data = [
         "address":"56 Đồng Đen, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+S%E1%BB%AFa+Maycha\/@10.7948886,106.6450407,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b5bd38ec8f:0xfc572714dfd3064d!8m2!3d10.7948886!4d106.6450407!16s%2Fg%2F11lh54w801?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -5453,6 +5948,7 @@ const data = [
         "address":"133 Đường A4, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CAO+Coffee+Cafe+S%C3%A2n+V%C6%B0%E1%BB%9Dn+Phong+C%C3%A1ch+X%C6%B0a\/@10.7967275,106.6490344,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175296630c777c3:0x4304c751d537b036!8m2!3d10.7967275!4d106.6490344!16s%2Fg%2F11rv231njm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5464,6 +5960,7 @@ const data = [
         "address":"874 Đ. Trường Chinh, Tây Thạnh, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%A0+Ph%C3%AA+V%C3%B5ng+24%2F24\/@10.8208395,106.6310376,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bd55d4e6465:0xe4a153e238ec79c8!8m2!3d10.8208395!4d106.6310376!16s%2Fg%2F11thl59gt_?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5475,6 +5972,7 @@ const data = [
         "address":"41-43 Nguyễn Phúc Chu, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ti%E1%BB%87m+C%C3%A0+Ph%C3%AA+C%C6%B0+X%C3%A1+T%C3%A2n+B%C3%ACnh\/@10.8225518,106.6318466,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ca2162cf9d:0x1d1415b15ae893ce!8m2!3d10.8225518!4d106.6318466!16s%2Fg%2F11kj8yws45?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5486,6 +5984,7 @@ const data = [
         "address":"104 Đ. Phổ Quang, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Highlands+Coffee+The+Botanica\/@10.808526,106.6704766,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752990885888d5:0xf0d5c4e50931eb4b!8m2!3d10.808526!4d106.6704766!16s%2Fg%2F11gjy994g0?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5497,6 +5996,7 @@ const data = [
         "address":"22 Phan Huy Ích, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+S%C3%A2n+V%C6%B0%E1%BB%9Dn+Aroma\/@10.8247779,106.6305206,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752918ac7db951:0x864f9802b074876e!8m2!3d10.8247779!4d106.6305206!16s%2Fg%2F11fk3chg51?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5508,6 +6008,7 @@ const data = [
         "address":"25a Đ. Lam Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Chidori+Coffee+in+Bed+Lam+Son\/@10.8098773,106.666741,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529418575139b:0x283183c12c6b269b!8m2!3d10.8098773!4d106.666741!16s%2Fg%2F11gyb0m3mp?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Nhà hàng Nhật Bản",
         "category_group":"df_drinks"
     },
     {
@@ -5519,6 +6020,7 @@ const data = [
         "address":"18 Đ. Hồng Hà, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/The+Coffee+House+H%E1%BB%93ng+H%C3%A0\/@10.8131875,106.6670005,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529187b86ecc3:0x50575b27eab9f376!8m2!3d10.8131875!4d106.6670005!16s%2Fg%2F11csbfnnmv?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5530,6 +6032,7 @@ const data = [
         "address":"B118 Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CH%E1%BB%92N+C%C3%A0+Ph%C3%AA+%26+Tr%C3%A0\/@10.8143498,106.6699817,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752918cec43565:0x38266ac8927f741c!8m2!3d10.8143498!4d106.6699817!16s%2Fg%2F11fy4t4mnx?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5541,6 +6044,7 @@ const data = [
         "address":"Đ. C, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Highlands+Coffee\/@10.8137557,106.6629834,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752973a96d5feb:0x39c13baf37101121!8m2!3d10.8137557!4d106.6629834!16s%2Fg%2F11s3zrds_3?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5552,6 +6056,7 @@ const data = [
         "address":"409\/25 Nguyễn Trọng Tuyển, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+de+Septembre\/@10.7981928,106.6619269,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a0e4211dc3:0xab64b38faf03b5d9!8m2!3d10.7981928!4d106.6619269!16s%2Fg%2F11hg5pnrhr?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5563,6 +6068,7 @@ const data = [
         "address":"1B Đ. Cộng Hòa, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Phuc+Long+Coffee+%26+Tea\/@10.8005112,106.6607027,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752930edb5b707:0xa554620f19813c8f!8m2!3d10.8005112!4d106.6607027!16s%2Fg%2F11cn9kz_bs?hl=vi&entry=ttu",
+        "categories":"Quán cà phê, Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -5574,6 +6080,7 @@ const data = [
         "address":"35 Thăng Long, Phường 4, Quận Tân Bình, Tp. Hồ Chí Minh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Highlands+Coffee+35+Th%C4%83ng+Long+%E2%80%93+T%C3%A2n+B%C3%ACnh\/@10.8025121,106.6603784,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752998ee1e94ef:0x32b69b9c1433fea8!8m2!3d10.8025121!4d106.6603784!16s%2Fg%2F11q2y5p7w7?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5585,6 +6092,7 @@ const data = [
         "address":"49 Hậu Giang, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KoTo+Cafe\/@10.8078858,106.6621276,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529001838e367:0xd8e08da22753f2dc!8m2!3d10.8078858!4d106.6621276!16s%2Fg%2F11vpylb3q2?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5596,6 +6104,7 @@ const data = [
         "address":"Cảng hàng không Quốc tế Tân Sơn Nhất (TIA), Khu vực bãi giữ xe máy, Đ. Vào Nhà Ga Nội Địa, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/La+Boh%C3%A8me+cafe\/@10.8079208,106.6591579,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bbe8380a59:0x36b07bfd4a02bf84!8m2!3d10.8079208!4d106.6591579!16s%2Fg%2F11kjpb4dmd?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5607,6 +6116,7 @@ const data = [
         "address":"37 Nguyễn Hiến Lê, Phường 13, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+-+Tr%C3%A0+M%E1%BB%99t+G%C3%B3c+V%C3%B4+%C6%AFu\/@10.8068738,106.6447327,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529cbedd6984d:0xec144b6bd3edc7ff!8m2!3d10.8068738!4d106.6447327!16s%2Fg%2F11jz69w13s?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5618,6 +6128,7 @@ const data = [
         "address":"58E Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Highlands+Coffee\/@10.81464,106.6723545,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291f1a45fdd5:0x6a9d3caa96251f28!8m2!3d10.81464!4d106.6723545!16s%2Fg%2F11g9d_cvlq?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5629,6 +6140,7 @@ const data = [
         "address":"126 Đ. Trần Thị Trọng, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Cafe+V%C3%B5ng+Sa+Ke+126\/@10.8268034,106.6374127,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175297cb0821e0b:0xc8d411d34af133cb!8m2!3d10.8268034!4d106.6374127!16s%2Fg%2F11clzv3075?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5640,6 +6152,7 @@ const data = [
         "address":"139 Đ. Trần Thị Trọng, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/TRUNG+NGUY%C3%8AN+E-COFFEE\/@10.8273047,106.6386217,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752955b8d8ed85:0xf0171c67b9ce3879!8m2!3d10.8273047!4d106.6386217!16s%2Fg%2F11fwwqvpgv?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5651,6 +6164,7 @@ const data = [
         "address":"27 Nguyễn Chánh Sắt, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+S%E1%BB%AFa+Voyage\/@10.8057932,106.6459116,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752900054cd75b:0xdde809f001b377e3!8m2!3d10.8057932!4d106.6459116!16s%2Fg%2F11vs5h748r?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5662,6 +6176,7 @@ const data = [
         "address":"37 Văn Chung, Phường 13, Tân Bình, Thành phố Hồ Chí Minh 900000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Hiday+Coffee\/@10.807594,106.645543,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291b1709cd55:0xe718fc99dffd0e35!8m2!3d10.807594!4d106.645543!16s%2Fg%2F11mqfwhr0d?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5673,6 +6188,7 @@ const data = [
         "address":"QMJ2+6PV, Hẻm 373\/152 Lý Thường Kiệt, Phường 8, Tân Bình, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Tr%C3%A0+s%E1%BB%AFa+Himilktea+-+L%C3%BD+Th%C6%B0%E1%BB%9Dng+Ki%E1%BB%87t\/@10.7806175,106.6517869,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f00421169ad:0xc32bdf675ccedeba!8m2!3d10.7806175!4d106.6517869!16s%2Fg%2F11vrdgw3m2?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -5684,6 +6200,7 @@ const data = [
         "address":"49 Trương Công Định, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Katinat+Saigon+Kafe\/@10.7950311,106.6407814,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529480fba5a6f:0x6a93ae9535a6089!8m2!3d10.7950311!4d106.6407814!16s%2Fg%2F11snpthkmm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5695,6 +6212,7 @@ const data = [
         "address":"Bàu Cát, Phường 14, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Highlands+Coffee+B%C3%A0u+C%C3%A1t\/@10.7934642,106.6403541,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752952a4b8546d:0xdca6a558d4f6cbc6!8m2!3d10.7934642!4d106.6403541!16s%2Fg%2F11gdkndky3?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5706,6 +6224,7 @@ const data = [
         "address":"111 Đường Bàu Cát 1, Phường 14, Tân Bình, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Kimmy+House+Coffee+%26+Tea\/@10.7939534,106.6438662,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f78e561b3b:0x9c1aae49a1dc2a0a!8m2!3d10.7939534!4d106.6438662!16s%2Fg%2F11ld2h83r3?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5717,6 +6236,7 @@ const data = [
         "address":"145 - 147 Bàu Cát, Phường 14, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ticos+Coffee+B%C3%A0u+C%C3%A1t\/@10.792538,106.642955,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292808d0730f:0x70f324cf3425a28!8m2!3d10.792538!4d106.642955!16s%2Fg%2F11fmdz00bf?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5728,6 +6248,7 @@ const data = [
         "address":"4 Departure Loop, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/StarCafe+2A\/@10.816006,106.664761,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752911d2118bc5:0xd364211ce213a23e!8m2!3d10.816006!4d106.664761!16s%2Fg%2F11v5tb8lxm?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5739,6 +6260,7 @@ const data = [
         "address":"172 Bàu Cát, Phường 4, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KOI+Th%C3%A9+B%C3%A0u+C%C3%A1t\/@10.7918058,106.6436391,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f43fc50dbd5:0xa7f43ee2fcf15276!8m2!3d10.7918058!4d106.6436391!16s%2Fg%2F11fqsh2ft1?hl=vi&entry=ttu",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -5750,6 +6272,7 @@ const data = [
         "address":"119 Bàu Cát, Phường 14, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/KAI+Coffee+-+B%C3%A0u+C%C3%A1t\/@10.7925375,106.6425304,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294d35843c83:0xd54e5d21397e4c71!8m2!3d10.7925375!4d106.6425304!16s%2Fg%2F11fxvgk2y0?hl=vi&entry=ttu",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5761,6 +6284,7 @@ const data = [
         "address":"105 Đ. số 12, Tam Binh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJm0HGqxMndTERljhyQfXm6rg",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5772,6 +6296,7 @@ const data = [
         "address":"C25 graden village, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbf7lxCcndTER7fgv1EucWUc",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5783,6 +6308,7 @@ const data = [
         "address":"47 Gò Cát, Phường Phú Hữu, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPVTMUacmdTERzVY0NhuACY4",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5794,6 +6320,7 @@ const data = [
         "address":"98 Gò Cát, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJp02mAq8ldTERdSW8fWLjo7g",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5805,6 +6332,7 @@ const data = [
         "address":"91 Đ. Số 49, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJi_p-NDkrdTERTp9NxBZCgEU",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5816,6 +6344,7 @@ const data = [
         "address":"RPQG+J2C, Đ. B, Thành Phố, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9xRXABMndTER2C-ZtnIgDtY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5827,6 +6356,7 @@ const data = [
         "address":"37D Đ. 816, Phường Phú Hữu, Thành phố Hồ Chí Minh, 00700, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9cce8oAndTERTuiYAiJ4bck",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5838,6 +6368,7 @@ const data = [
         "address":"82\/3 Đ. Số 2, khu phố 6, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJi6RilMUndTERNTdmEKlIKxA",
+        "categories":"Cửa hàng nước hoa",
         "category_group":"df_drinks"
     },
     {
@@ -5849,6 +6380,7 @@ const data = [
         "address":"RR8M+V5J, Nguyễn Xiển, Trường Thạnh, 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJi7EOViQhdTERLbjXcQqSu0o",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5860,6 +6392,7 @@ const data = [
         "address":"A4, KDC Tăng Long Garden, 105 Đường Số 8, Trường Thạnh, Thủ Đức, Thành phố Hồ Chí Minh 715885, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJa4b5CbAndTERorzSuD5vlpM",
+        "categories":"Dịch vụ xử lý nước thải, Nhà máy hóa chất, Nhà cung cấp thiết bị và vật liệu xử lý nước",
         "category_group":"df_drinks"
     },
     {
@@ -5871,6 +6404,7 @@ const data = [
         "address":"RR8H+H93, A1, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJywVGJJAhdTER-oasZs74FkY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5882,6 +6416,7 @@ const data = [
         "address":"301\/18 Vườn Lài, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtw5d-1spdTERT3gIlK2eIvU",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5893,6 +6428,7 @@ const data = [
         "address":"RR8C+7G8, Khu đô thị mới Đông Tăng Long, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJgTvJ-D0hdTERPZuMASblIOE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5904,6 +6440,7 @@ const data = [
         "address":"19 B3, Khu đô thị mới Đông Tăng Long, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJH5oFeEchdTERw8OqoUH54JQ",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5915,6 +6452,7 @@ const data = [
         "address":"730\/62 Lã Xuân Oai, Khu đô thị mới Đông Tăng Long, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-_NhMyQndTERNy1atf0Df_8",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5926,6 +6464,7 @@ const data = [
         "address":"2 đường D19, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJp8IqbOIhdTERWAMPwBqruKw",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5937,6 +6476,7 @@ const data = [
         "address":"Long Bình, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-5RCpEbfdDERMaTAvg1_EzU",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5948,6 +6488,7 @@ const data = [
         "address":"108N2 Mega Village, Đ. Võ Chí Công, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrRLsmSAkdTERJY-rSsOSdzc",
+        "categories":"Quán cà phê, Tư vấn viên máy tính, Đại lý cho thuê bất động sản",
         "category_group":"df_drinks"
     },
     {
@@ -5959,6 +6500,7 @@ const data = [
         "address":"2 Đ. Số 1, Melosa Khang Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ__WMeZgldTERP6GGgIKF8MY",
+        "categories":"Quán cà phê, Nhà thiết kế kiến trúc, Nhà tổ chức sự kiện, Nhà cung cấp thực phẩm, Nhà hàng",
         "category_group":"df_drinks"
     },
     {
@@ -5970,6 +6512,7 @@ const data = [
         "address":"VRJC+F92, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJh5BSVzffdDER98cvjL1QdsQ",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5981,6 +6524,7 @@ const data = [
         "address":"11 Đ. 13, Long Bình, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPTMNjazYdDERm6YOPRsh8n8",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -5992,6 +6536,7 @@ const data = [
         "address":"D35-KĐT Dragon Village, Đường Nguyễn Thị Tư, Phường Phú Hữu, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJAa5rMAcndTERSmNnCJK6ZEk",
+        "categories":"Cửa hàng cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6003,6 +6548,7 @@ const data = [
         "address":"6\/9 Ụ Ghe, Kp2, p Tam Phú, q, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVcxpKegndTERJOWhgARNUjQ",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6014,6 +6560,7 @@ const data = [
         "address":"120H Đ. Linh Đông, P, Thủ Đức, Thành phố Hồ Chí Minh 100000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJsfaLssMndTERc5zfx5b8Yeo",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -6025,6 +6572,7 @@ const data = [
         "address":"24 Số 5, Linh Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJObbgaDEndTERMGAs2bgvQXY",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -6036,6 +6584,7 @@ const data = [
         "address":"5A Đ. Tân Hòa 2, Hiệp Phú, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJS_Pa4o8ndTERdNs7rYQKt78",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6047,6 +6596,7 @@ const data = [
         "address":"1166 Phạm Văn Đồng, Linh Đông, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJD3S6f_4ndTERGXdhBB4AZcM",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6058,6 +6608,7 @@ const data = [
         "address":"13 Khổng Tử, Bình Thọ, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJEVo2xaYndTERZ9UPQ7yfbU0",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6069,6 +6620,7 @@ const data = [
         "address":"66 Đ. Hiệp Bình, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJTY7aYwAndTERoeBTSB4Y2Ik",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -6080,6 +6632,7 @@ const data = [
         "address":"19 Hồng Đức, Bình Thọ, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWaREfAEndTERuFoJSdj94qo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6091,6 +6644,7 @@ const data = [
         "address":"60 Đường 36, Linh Đông, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJE2YWuMkndTERaUEBKGj3D_k",
+        "categories":"Quán cà phê, Quán cà phê nghệ thuật, Quán ăn dành cho trẻ em, Quầy cà phê, Nhà hàng ẩm thực đồng quê, Quán cà phê espresso, Tiệm cà phê phục vụ các món trái cây, Nhà hàng",
         "category_group":"df_drinks"
     },
     {
@@ -6102,6 +6656,7 @@ const data = [
         "address":"74\/5C Đường 36, KP 8, P, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJA9phn8kndTERanBvHgOK0xU",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6113,6 +6668,7 @@ const data = [
         "address":"18 Đường số 12, Tăng Nhơn Phú B, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOd-cEK8ndTERnX396d3-j7Q",
+        "categories":"Trà trân châu, Quán cà phê, Cửa hàng trà",
         "category_group":"df_drinks"
     },
     {
@@ -6124,6 +6680,7 @@ const data = [
         "address":"116 Đ. 51, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJs-QxIbcldTERPl4wfpBA3fY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6135,6 +6692,7 @@ const data = [
         "address":"271 Long Thuận, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxRGan24hdTER6gGOuuOFay8",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6146,6 +6704,7 @@ const data = [
         "address":"203 Long Thuận, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpxPD_X0hdTER5RC8s32vM98",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6157,6 +6716,7 @@ const data = [
         "address":"39 Số 29, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJMfonSQApdTERwNYTxzc9Dus",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6168,6 +6728,7 @@ const data = [
         "address":"102 Cao Đức Lân, Khu đô thị An Phú An Khánh, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4yCUNwwmdTER8t4ojhQavrA",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6179,6 +6740,7 @@ const data = [
         "address":"42 Trần Lựu, Khu đô thị An Phú An Khánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxX96HAAndTER3N2mxiGo2pE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6190,6 +6752,7 @@ const data = [
         "address":"01 Bùi Tá Hán, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ17nT0fYndTERrAZS2OP3viM",
+        "categories":"Quán cà phê, Quán ăn nhỏ",
         "category_group":"df_drinks"
     },
     {
@@ -6201,6 +6764,7 @@ const data = [
         "address":"204 Nguyễn Thị Định, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQ7NGQs0ndTERWaKkfNBglCQ",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6212,6 +6776,7 @@ const data = [
         "address":"30 Đường 20, Khu đô thị Lakeview, Thủ Đức, Thành phố Hồ Chí Minh 71300, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJA95VVscndTERnNY5wYVXIDg",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6223,6 +6788,7 @@ const data = [
         "address":"676 Đ. Nguyễn Duy Trinh, Bình Trưng Đông, Quận 2, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJyanB2YQmdTERrV8GFi2aIio",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6234,6 +6800,7 @@ const data = [
         "address":"123 Đường số 17, Phước Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJyUWocQAndTER6wwG8R3gxAY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6245,6 +6812,7 @@ const data = [
         "address":"275\/30\/1, 275 Phước Thiện, P, Quận 9, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVwAJD8UhdTERiRmlo47n57M",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6256,6 +6824,7 @@ const data = [
         "address":"18a16 Tang Nhon Phu B, Tăng Nhơn Phú B, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrZSyBy0ndTERS2apWRyiCYk",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6267,6 +6836,7 @@ const data = [
         "address":"178 Đường III, khu dân cư Khang Điền, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxQmXsOsndTERNn4G-rzQ-ZA",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6278,6 +6848,7 @@ const data = [
         "address":"G119 Đường D1A, khu Nam Long, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe8AkOAAndTERBCelQ869p3w",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6289,6 +6860,7 @@ const data = [
         "address":"512, Vinhomes Grandpark, Thành phố Hồ Chí Minh, 71216, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJv7Va9cQhdTERZD5X3ko37Ic",
+        "categories":"Công viên nước",
         "category_group":"df_drinks"
     },
     {
@@ -6300,6 +6872,7 @@ const data = [
         "address":"45\/11 Đ. Số 11, Tam Binh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxWlPQAAndTERes5qrKjdRfU",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6311,6 +6884,7 @@ const data = [
         "address":"185\/37 Ng. Chí Quốc, KP2, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJTTg6QwDXdDERmfFI5Rkawbc",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6322,6 +6896,7 @@ const data = [
         "address":"Đ. Số 8 Đại học, Nông lâm, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiVBOyxjZdDERQuidw_Gbubw",
+        "categories":"Quán cà phê nghệ thuật",
         "category_group":"df_drinks"
     },
     {
@@ -6333,6 +6908,7 @@ const data = [
         "address":"220 Đ. Số 8, Linh Xuân, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJqdTb74PYdDERX7b-9FtUFuM",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -6344,6 +6920,7 @@ const data = [
         "address":"RQ3V+CVP, The Minh Son, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJzf8AfAAndTERMrm7MNIbfTQ",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6355,6 +6932,7 @@ const data = [
         "address":"RQPM+M2P, Tăng Nhơn Phú B, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJkyhHWz0ndTERyi381iDa_mE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6366,6 +6944,7 @@ const data = [
         "address":"468 Lê Văn Việt, Phường Tăng Nhơn Phú A, Quận 9, Thủ Đức, Thành phố Hồ Chí Minh 71208, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJSeSvSwkndTERWGp9f2nA3c0",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6377,6 +6956,7 @@ const data = [
         "address":"303D kdc Sông Giồng p, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJG-U0f3YmdTERojm7O8lykVs",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6388,6 +6968,7 @@ const data = [
         "address":"414\/14\/4, Đ. Kha Vạn Cân, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJF0hCCZgndTERcLA8m_7Na98",
+        "categories":"Cửa hàng nước hoa",
         "category_group":"df_drinks"
     },
     {
@@ -6399,6 +6980,7 @@ const data = [
         "address":"196 Nguyễn Văn Tăng, P, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJEWvXcxkhdTERlVcOm_Up6tM",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -6410,6 +6992,7 @@ const data = [
         "address":"192 Đ. Man Thiện, Hiệp Phú, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJB2_hidwndTERAdOQYVInSKo",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -6421,6 +7004,7 @@ const data = [
         "address":"20\/14 Đ. Thạnh Mỹ Lợi, Phường Thạnh Mỹ Lợi, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCaZtKwAldTERvAjFWs09Iqc",
+        "categories":"Nhà cung cấp nước uống đóng chai",
         "category_group":"df_drinks"
     },
     {
@@ -6432,6 +7016,7 @@ const data = [
         "address":"3 Trần Quý Kiên, Phường Thạnh Mỹ Lợi, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJE81-ViAldTERnPTqBlbNFLU",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6443,6 +7028,7 @@ const data = [
         "address":"139 Lã Xuân Oai, Tăng Nhơn Phú A, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJs3xZa2MndTERoQ0d52UI6hE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6454,6 +7040,7 @@ const data = [
         "address":"276 Trương Văn Bang, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpUsgk4oldTERnr8m7JUIvSg",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6465,6 +7052,7 @@ const data = [
         "address":"Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVeWTXzIhdTERujRt1clbCGw",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6476,6 +7064,7 @@ const data = [
         "address":"39722 Đường Lò Lu, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe_nQ56ohdTERsLtqdVihsgs",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6487,6 +7076,7 @@ const data = [
         "address":"RR4V+GQ8, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJr1AvwBUhdTERSTuvGLZVsYw",
+        "categories":"Dịch vụ cho thuê dụng cụ thể thao dưới nước",
         "category_group":"df_drinks"
     },
     {
@@ -6498,6 +7088,7 @@ const data = [
         "address":"Hẻm 44 Tăng Nhơn Phú, Phước Long B, Quận 9, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpQIKpD8vdTERGI50z485XPQ",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6509,6 +7100,7 @@ const data = [
         "address":"50 Đ. Số 2, Phước Long B, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJB2S1adYndTER3PZYCS7m7mY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6520,6 +7112,7 @@ const data = [
         "address":"5\/270 Đỗ Xuân Hợp, Phước Long A, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ42EFR3UndTERTiv2Z0lhC2U",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6531,6 +7124,7 @@ const data = [
         "address":"7 Đ. Trần Não, Bình Khánh, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJF7LDKHQldTERVHcwwQcloQo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6542,6 +7136,7 @@ const data = [
         "address":"RQC9+8XR, Đường số 1, Phước Long A, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPzux3uYndTERUeX5AFS9m3o",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6553,6 +7148,7 @@ const data = [
         "address":"94 Đ. B2, Khu Đô Thị Sala, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJvTrgwyQldTERhNm7TJe8WaM",
+        "categories":"Quán cà phê nghệ thuật, Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6564,6 +7160,7 @@ const data = [
         "address":"125 Nguyễn Cơ Thạch, An Lợi Đông, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJD-M9RZcldTERmyxvKOgM3CQ",
+        "categories":"Quán cà phê, Quán cà phê espresso",
         "category_group":"df_drinks"
     },
     {
@@ -6575,6 +7172,7 @@ const data = [
         "address":"928 Quốc lộ 52, Xa Lộ Hà Nội, P, Quận 9, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJu6Qx968ndTERjVPnHh1mGjg",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6586,6 +7184,7 @@ const data = [
         "address":"19 Đ. Tân Hòa 2, Phường Tân Phú, Thủ Đức, Thành phố Hồ Chí Minh 71200, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRx-tigAndTERUGoaCKb11zA",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6597,6 +7196,7 @@ const data = [
         "address":"QVW5+7HR, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQ89CTHEhdTERorM4R0dnxLM",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6608,6 +7208,7 @@ const data = [
         "address":"12 Đường Số 12, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJkVBHKnghdTERiwDHcEGaJ3g",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6619,6 +7220,7 @@ const data = [
         "address":"116 Đường số 138, Phường Tân Phú, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJd1GdSH8ndTEREvR1SL1HQ6U",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6630,6 +7232,7 @@ const data = [
         "address":"7\/114T Nguyễn Hữu Nam, Phường Tân Phú, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJwU7BaFAndTEROOIHJ18dHic",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6641,6 +7244,7 @@ const data = [
         "address":"45 Đường Số 5 - Cư xá Bình Thới, Phường 8, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJA5WuS5IudTERO_jG48Cegmo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6652,6 +7256,7 @@ const data = [
         "address":"312 Lạc Long Quân, Phường 5, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJV-6Sme0vdTERTNdHwhugd1I",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6663,6 +7268,7 @@ const data = [
         "address":"44 Hòa Bình, Phường 5, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJEzoAfZcudTERTUy4FUmy9OQ",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6674,6 +7280,7 @@ const data = [
         "address":"3 Hòa Bình, Phường 3, Quận 11, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJT4Bbb5cudTERYagePA_P1Y8",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6685,6 +7292,7 @@ const data = [
         "address":"49 Ông Ích Khiêm, Phường 10, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJl3-EYgAvdTERNqsOiSt5z18",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6696,6 +7304,7 @@ const data = [
         "address":"554E Đ. Minh Phụng, Phường 9, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJjZ1IDpEudTERNOJZY2MsE2A",
+        "categories":"Quán cà phê, Nhà hàng",
         "category_group":"df_drinks"
     },
     {
@@ -6707,6 +7316,7 @@ const data = [
         "address":"147EF Đội Cung, Phường 8, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKwXVIWAvdTERSuXLdmGtWLw",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6718,6 +7328,7 @@ const data = [
         "address":"70 Đường Số 5 - Cư xá Bình Thới, Phường 8, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJp69jJR0vdTERDZYqui4lNwE",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -6729,6 +7340,7 @@ const data = [
         "address":"278 Hàn Hải Nguyên, Phường 9, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJjxyQrbEvdTERM0q23ULo4jk",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6740,6 +7352,7 @@ const data = [
         "address":"1213 Đ. 3 Tháng 2, Phường 6, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJE1VCYmIvdTERg0ICu7xWTHY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6751,6 +7364,7 @@ const data = [
         "address":"91 Phó Cơ Điều, Phường 4, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2QOUCZ8vdTERAuE9fcexBBw",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6762,6 +7376,7 @@ const data = [
         "address":"115\/3 Trần Quốc Thảo, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbyQCBGwvdTERHSl5_dPSXcg",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6773,6 +7388,7 @@ const data = [
         "address":"185bis Đ. Võ Thị Sáu, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJL9Q7eVIvdTER5MoH7fCygRg",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6784,6 +7400,7 @@ const data = [
         "address":"70 Bà Huyện Thanh Quan, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJA2Ui9N0udTERLRHZAuT3cBY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6795,6 +7412,7 @@ const data = [
         "address":"204B Lý Chính Thắng, Phường 9, Quận 3, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWyefhWgvdTERTY4t3zqQg8Q",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -6806,6 +7424,7 @@ const data = [
         "address":"115 Trương Định, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4c-vuscvdTER-9t-KUFA7UE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6817,6 +7436,7 @@ const data = [
         "address":"49 Ngô Thời Nhiệm, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJizoBS4ovdTEReKpg9EOx5xE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6828,6 +7448,7 @@ const data = [
         "address":"233\/5B Đ. Võ Thị Sáu, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJa5MnQIovdTERT0Hv3_Htmo4",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6839,6 +7460,7 @@ const data = [
         "address":"384\/7 Đ. Nam Kỳ Khởi Nghĩa, Phường 8, Quận 3, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJY594ElYpdTERqgtdXuEYtaE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6850,6 +7472,7 @@ const data = [
         "address":"34 Lý Chính Thắng, Phường 8, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbS2JRjApdTERXJ5AIrpk7qQ",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6861,6 +7484,7 @@ const data = [
         "address":"45 Lý Chính Thắng, Phường 8, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJw3KcpegpdTERLfj9r788Oao",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6872,6 +7496,7 @@ const data = [
         "address":"209 Đ. Nam Kỳ Khởi Nghĩa, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUfk2rE0vdTERdJd1eb4Vgmw",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6883,6 +7508,7 @@ const data = [
         "address":"230\/8 Pasteur, Phường 8, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdycyRq8vdTER6w7dep-4wXY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6894,6 +7520,7 @@ const data = [
         "address":"200 Pasteur, Phường 6, Quận 3, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9ZtFSkYvdTERQoHrDARlkUc",
+        "categories":"Quán cà phê, Cửa hàng bánh, Nhà hàng điểm tâm, Cửa hàng bánh ngọt",
         "category_group":"df_drinks"
     },
     {
@@ -6905,6 +7532,7 @@ const data = [
         "address":"221\/9 Đ. Lê Văn Sỹ, Phường 13, Quận 3, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ38t5mNcvdTERESZ43KnXaXU",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6916,6 +7544,7 @@ const data = [
         "address":"6D Trần Quang Diệu, Phường 13, Quận 3, Thành phố Hồ Chí Minh 723100, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJd7UJ-Q0vdTERKEt7jpvJyJs",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6927,6 +7556,7 @@ const data = [
         "address":"964 Đ. Trường Sa, Phường 13, Quận 3, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJK6h2u0gvdTERXhgqjV-ITes",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6938,6 +7568,7 @@ const data = [
         "address":"Hẻm 207\/31 Đ. Lê Văn Sỹ, Phường 13, Quận 3, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCcYTzisvdTERRMr6oCloYqE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6949,6 +7580,7 @@ const data = [
         "address":"934 Đ. Trường Sa, Phường 13, Quận 3, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJEVc3iSkvdTER1EV1Ez1vNLc",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6960,6 +7592,7 @@ const data = [
         "address":"152 Đ. Chợ Lớn, Phường 11, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJsZvdODcvdTER0fxkElBPJdo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6971,6 +7604,7 @@ const data = [
         "address":"240 Đ. Nguyễn Văn Luông, Phường 11, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJh2MgFCUvdTERZ4MyZujA_Lo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6982,6 +7616,7 @@ const data = [
         "address":"141 Đ. Chợ Lớn, Phường 11, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJebWAKQgvdTERu4iHJ2C75bE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -6993,6 +7628,7 @@ const data = [
         "address":"4 Đ. Lê Quang Sung, Phường 2, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJV4vH68svdTEROMKUZ0BtCUM",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7004,6 +7640,7 @@ const data = [
         "address":"Tp, 92 Đ. Phạm Đình Hổ, Phường 2, Quận 6, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJq7lpa08vdTERl9w5XzZhdEg",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7015,6 +7652,7 @@ const data = [
         "address":"71 Đ. Hậu Giang, Phường 5, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJzdaz8PsvdTERjnlgYWqvDyE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7026,6 +7664,7 @@ const data = [
         "address":"1583 Đ. 3 Tháng 2, Phường 16, Quận 11, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJDbeVxxMvdTERN7imNpLkoik",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7037,6 +7676,7 @@ const data = [
         "address":"117A Tân Hòa Đông, Phường 14, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJESwuDc0vdTERRByy_vO1OQk",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7048,6 +7688,7 @@ const data = [
         "address":"76 Bà Hom, Phường 13, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJo-JJDpwvdTER1B-zVbk3nbI",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7059,6 +7700,7 @@ const data = [
         "address":"242\/6a Bà Hom, Phường 13, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHxq1mCksdTERQ5Uv67yk14U",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7070,6 +7712,7 @@ const data = [
         "address":"20 Tân Hòa Đông, Phường 14, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJF-0n2GYvdTERslDOOx-e0yY",
+        "categories":"Trà trân châu, Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7081,6 +7724,7 @@ const data = [
         "address":"224 Đ. Phạm Phú Thứ, Phường 4, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHx_-U6MvdTERRpkJ4Jn6B7g",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7092,6 +7736,7 @@ const data = [
         "address":"230 Đ. Phạm Văn Chí, Phường 4, Quận 6, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJcZNDZ5kvdTERhBQprsvQIsc",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7103,6 +7748,7 @@ const data = [
         "address":"335 Đ. Phạm Văn Chí, Phường 3, Quận 6, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJF2CdYzwvdTER2ywtheffohc",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7114,6 +7760,7 @@ const data = [
         "address":"97\/2\/13, Đ. Kinh Dương Vương, Phường 12, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN7PstokvdTERr-ItpgkD60I",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7125,6 +7772,7 @@ const data = [
         "address":"85 Đ. Bình Tiên, Phường 7, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJTdYkOv0vdTERg8FDOFrX_xM",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7136,6 +7784,7 @@ const data = [
         "address":"45 Đường số 59, Phường 10, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJO2Jr-tktdTERLwCknnVF9Gs",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7147,6 +7796,7 @@ const data = [
         "address":"15 Đường số 44, Khu V, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJzRoh_NgtdTERJu1lnyFVdTI",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7158,6 +7808,7 @@ const data = [
         "address":"205 Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKdSNx9ordTERed9ALffJ3YE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7169,6 +7820,7 @@ const data = [
         "address":"200 Nguyễn Hữu Tiến, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJG2myXEUrdTERrlOZB1-2Ass",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7180,6 +7832,7 @@ const data = [
         "address":"71 Đường D9, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1asx9eArdTERRICm4fBCghs",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7191,6 +7844,7 @@ const data = [
         "address":"7 Nguyễn Sơn, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxxGB5VcvdTERvb5eZtyVwtU",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -7202,6 +7856,7 @@ const data = [
         "address":"Hẻm 142 Thoại Ngọc Hầu, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbxFHOqYudTERJOQ_VxGsKnY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7213,6 +7868,7 @@ const data = [
         "address":"204 Đ. Kênh Tân Hóa, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJA87lnRQvdTER8rpoQf527JM",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -7224,6 +7880,7 @@ const data = [
         "address":"384 Đ. Lê Trọng Tấn, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJWfE9m0pdTERbdMEWocHEjU",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7235,6 +7892,7 @@ const data = [
         "address":"318\/1 Trịnh Đình Trọng, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQ2I3VAwvdTEROqhE7EuBvjY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7246,6 +7904,7 @@ const data = [
         "address":"24 Thạch Lam, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJeqZYzwvdTERmJfX7byE3WE",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -7257,6 +7916,7 @@ const data = [
         "address":"304C Trịnh Đình Trọng, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh 100000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJkQu6GyEvdTERu5at5TRA2Vw",
+        "categories":"Quán cà phê espresso, Quán cà phê, Cửa hàng cà phê, Tiệm cà phê phục vụ các món trái cây, Cửa hàng, Tiệm thuốc lá",
         "category_group":"df_drinks"
     },
     {
@@ -7268,6 +7928,7 @@ const data = [
         "address":"295 Trịnh Đình Trọng, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVcieCSkvdTER10MUHCYZzW0",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -7279,6 +7940,7 @@ const data = [
         "address":"Đ. Kênh Tân Hóa, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJswRQ_-kvdTER-DJTozak6PM",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7290,6 +7952,7 @@ const data = [
         "address":"34 Trịnh Đình Thảo, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfQ3A3KMudTEReuot3DM3dAI",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7301,6 +7964,7 @@ const data = [
         "address":"571 Đ. Tân Kỳ Tân Quý, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ76l0SAArdTER6rLekgklapI",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7312,6 +7976,7 @@ const data = [
         "address":"43 Dương Văn Dương, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUW43YosrdTERZAwlpZeRjyo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7323,6 +7988,7 @@ const data = [
         "address":"71 Phạm Văn Xảo, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh 72012, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQ90wSRwsdTERqOEi-MuESLA",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7334,6 +8000,7 @@ const data = [
         "address":"4 Lê Đình Thám, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJlXgXiFordTER5OU744eQkFQ",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7345,6 +8012,7 @@ const data = [
         "address":"41 Khuông Việt, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9YglvWgvdTERCovuIy9P8g4",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7356,6 +8024,7 @@ const data = [
         "address":"139 Gò Dầu, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ92-xMpIrdTERfnpr14TEMIk",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7367,6 +8036,7 @@ const data = [
         "address":"218, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJMx5q5zkrdTERr9PY6OjdEJc",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7378,6 +8048,7 @@ const data = [
         "address":"46 Lê Thiệt, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJSUOQn7ktdTER1xy9YpDV7BY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7389,6 +8060,7 @@ const data = [
         "address":"34 Lê Lư, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJvzKaSwIsdTERt2LnWRIyxmw",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7400,6 +8072,7 @@ const data = [
         "address":"35B Phạm Văn Xảo, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh 00700, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe_dNifstdTERd4b5boUHlz8",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -7411,6 +8084,7 @@ const data = [
         "address":"3 S 4, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJb6IUk2ordTERdE0YnNfEUOU",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7422,6 +8096,7 @@ const data = [
         "address":"RJ6C+GQ8, Đường B3, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJV7xiwOYrdTER-JAf6Q7kfBY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7433,6 +8108,7 @@ const data = [
         "address":"94 Đ. Kênh 19\/5, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJuTRHPbcrdTER97wrpbG8K1g",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7444,6 +8120,7 @@ const data = [
         "address":"227 Đường Lê Niệm, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJy05-WMAtdTER2udOQkrdd44",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7455,6 +8132,7 @@ const data = [
         "address":"248 Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJIdoWoXYrdTERuuTCELlUg-4",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7466,6 +8144,7 @@ const data = [
         "address":"252 Đ. Lê Trọng Tấn, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJm5Xli2ordTERu3JVB1wjIn4",
+        "categories":"Quán cà phê internet",
         "category_group":"df_drinks"
     },
     {
@@ -7477,6 +8156,7 @@ const data = [
         "address":"440-440A Đ. Lê Trọng Tấn, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfdZbWikrdTEROPKmrVxQ3A8",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7488,6 +8168,7 @@ const data = [
         "address":"57 Đ. Tân Thắng, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJafSDu-QrdTERp33sz-AyJTw",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7499,6 +8180,7 @@ const data = [
         "address":"109 Đ. Tân Thắng, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 72000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJO4vQx_YrdTERu4wHvBhfSFY",
+        "categories":"Cửa hàng cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7510,6 +8192,7 @@ const data = [
         "address":"377 Đ. Tân Kỳ Tân Quý, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ74Owu3grdTERlnX2SrzckvQ",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7521,6 +8204,7 @@ const data = [
         "address":"148a Nguyễn Sơn, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJXcHU5UMvdTERyVz1o9xKUME",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7532,6 +8216,7 @@ const data = [
         "address":"61\/2D Nguyễn Sơn, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh 72013, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJhc0npqYvdTERFRu1Ll1gcrU",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7543,6 +8228,7 @@ const data = [
         "address":"141B Lê Lâm, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJa71vmBwsdTERhkPaYXycgEI",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7554,6 +8240,7 @@ const data = [
         "address":"217 Đ. Tân Sơn Nhì, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJyy4nXQopdTERyilZX1F0fS8",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7565,6 +8252,7 @@ const data = [
         "address":"6 Hoa Bằng, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZ9zmEf4rdTERfo96bwPZhGU",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7576,6 +8264,7 @@ const data = [
         "address":"14 Diệp Minh Châu, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJq6xw9XspdTERAkBZu2kwGgs",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7587,6 +8276,7 @@ const data = [
         "address":"150 Tô Hiệu, Hiệp Tân, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-ZFtNc0tdTERPxsAWrFJghE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7598,6 +8288,7 @@ const data = [
         "address":"122D Gò Dầu, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJFQ3yIP8rdTERY5XBwlBlhLo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7609,6 +8300,7 @@ const data = [
         "address":"75 Gò Dầu, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHQvSkaArdTERL96hHo-LxoE",
+        "categories":"Tiệm cà phê phục vụ các món trái cây",
         "category_group":"df_drinks"
     },
     {
@@ -7620,6 +8312,7 @@ const data = [
         "address":"18 Nguyễn Háo Vĩnh, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJlcIXFv8rdTERP1mkGGNTirc",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7631,6 +8324,7 @@ const data = [
         "address":"329 Trương Vĩnh Ký, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJoeVwdEwpdTERkoWJSrtcdnk",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7642,6 +8336,7 @@ const data = [
         "address":"239 Thống Nhất, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJc6pQSQvdTERIfPB_YrkzuQ",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7653,6 +8348,7 @@ const data = [
         "address":"167 Đ. Lê Trọng Tấn, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiYRR-uIrdTERiG_YWnSNWFc",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7664,6 +8360,7 @@ const data = [
         "address":"320a Đ. Độc Lập, P, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJXai67vgrdTER6Y6Zp4Web-0",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7675,6 +8372,7 @@ const data = [
         "address":"26A Đ. Lê Trọng Tấn, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJNRCwN1gpdTERNoX37DjLYdA",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -7686,6 +8384,7 @@ const data = [
         "address":"212 Đ. Độc Lập, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJzYb1QY8vdTERAVT6j8tNUPg",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7697,6 +8396,7 @@ const data = [
         "address":"92-94 Đ. Vườn Lài, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJhzVKEXAvdTERnASlgGkLNIE",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7708,6 +8408,7 @@ const data = [
         "address":"233 Đ. Vườn Lài, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKSv9NAAtdTERw1oNBPQrMPU",
+        "categories":"Trà trân châu",
         "category_group":"df_drinks"
     },
     {
@@ -7719,6 +8420,7 @@ const data = [
         "address":"51 Đ. Lê Trọng Tấn, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJSwVD6dIpdTERPozDAYbVFa0",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7730,6 +8432,7 @@ const data = [
         "address":"149 Đ. Độc Lập, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJnU_0raoudTERJLksIISsI4k",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7741,6 +8444,7 @@ const data = [
         "address":"105 Đ. Độc Lập, P, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJDTm4cigvdTERFSr_nETZE_s",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7752,6 +8456,7 @@ const data = [
         "address":"26 Đường Đô Đốc Long, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJc1YKSagtdTER6AXU1b2PXrw",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7763,6 +8468,7 @@ const data = [
         "address":"15 Cầu Xéo, P. Phú Thuận, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8SgVEPwrdTERtcd3sOPjU8Q",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7774,6 +8480,7 @@ const data = [
         "address":"55 Đ. Vườn Lài, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLbg13gMvdTERSMMgWR3YOrI",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7785,6 +8492,7 @@ const data = [
         "address":"168 Hiền Vương, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW4ZxDSMtdTERrcQ9qUdfFRA",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7796,6 +8504,7 @@ const data = [
         "address":"108 Hiền Vương, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ__y67_wtdTER1IxXz9B8QEY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7807,6 +8516,7 @@ const data = [
         "address":"112 Trần Quang Cơ, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJH5oLdhotdTERkMdHrrNsMJg",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7818,6 +8528,7 @@ const data = [
         "address":"180 Thạch Lam, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiQirkBYtdTERpfPXZObH1pw",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7829,6 +8540,7 @@ const data = [
         "address":"69 Trần Quang Cơ, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2eWDnE0tdTEReV-m6DhryUc",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7840,6 +8552,7 @@ const data = [
         "address":"82-84-86 Thạch Lam, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ_ckwSyQvdTERRC-EYWllZUU",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7851,6 +8564,7 @@ const data = [
         "address":"314 Đ. Kênh Tân Hóa, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfZPJ04EvdTERKaJHrMEfsuo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7862,6 +8576,7 @@ const data = [
         "address":"149 Đ. Lũy Bán Bích, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh 72015, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJnxN102QvdTERgSFOlRU1Puo",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7873,6 +8588,7 @@ const data = [
         "address":"QJ7J+R4R, Hẻm 28 Lương Thế Vinh, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJvxWP650udTERw744bbmSCLA",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7884,6 +8600,7 @@ const data = [
         "address":"212 Tô Hiệu, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKUXobA8pdTERFnu9u3ryXDY",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7895,6 +8612,7 @@ const data = [
         "address":"296 Hòa Bình, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWf8PfIctdTER2bOBT-5w5DM",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7906,6 +8624,7 @@ const data = [
         "address":"148 Đường Miếu Bình Đông, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1TMpPAAtdTERnjei49lWsoA",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7917,6 +8636,7 @@ const data = [
         "address":"521 Hương Lộ 3, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4baC51QrdTERfnSQb5QQ1yk",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7928,6 +8648,7 @@ const data = [
         "address":"12E Street CN1, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 00700, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLRmE_cwrdTER1SAeobwIJDU",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7939,6 +8660,7 @@ const data = [
         "address":"Cafe trung nguyên E-Coffee Emerald, Mini Club House khu Emerald, Celadon City, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLyIKqPIrdTERPXJW073Xchs",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7950,6 +8672,7 @@ const data = [
         "address":"338 Thạch Lam, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJk6xZU0stdTERhxnI-FzuAM0",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7961,6 +8684,7 @@ const data = [
         "address":"91A Bình Long, P. Phú Thuận, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJhYiS1zktdTERhe6CfgMbA0Y",
+        "categories":"Quán cà phê chó",
         "category_group":"df_drinks"
     },
     {
@@ -7972,6 +8696,7 @@ const data = [
         "address":"D0.01-D0.02 Chung cư Topaz A7 Celadon City, 38 Đ. Tân Thắng, Phường, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ05-WC1UrdTER75l68HlYjvw",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7983,6 +8708,7 @@ const data = [
         "address":"34 Đ. Lê Văn Quới, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJMU9vQdwtdTERMqqI_kRqVbQ",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -7994,6 +8720,7 @@ const data = [
         "address":"38 Trịnh Đình Trọng, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ64a9imEvdTERjnyG3JOiCE4",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -8005,6 +8732,7 @@ const data = [
         "address":"55 Dân Tộc, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdayaEAApdTER7ES535O9Fw8",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -8016,6 +8744,7 @@ const data = [
         "address":"Bàu Cát, Phường 14, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJbVS4pFIpdTERxsv21Filptw",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -8027,6 +8756,7 @@ const data = [
         "address":"514 Đ. Lê Trọng Tấn, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGf6JNEsrdTER8B2P7SN65xM",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     },
     {
@@ -8038,6 +8768,7 @@ const data = [
         "address":"9 Đường DC13, P, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9bAJ9AArdTER2eC0aD9Y9J0",
+        "categories":"Quán cà phê",
         "category_group":"df_drinks"
     }
 ]

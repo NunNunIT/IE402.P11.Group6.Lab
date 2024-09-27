@@ -8,6 +8,7 @@ const data = [
         "address":"74 Đường số 50, Tân Tạo, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BB%ADa+C%E1%BB%ADa+Cu%E1%BB%91n+Qu%E1%BA%ADn+B%C3%ACnh+T%C3%A2n\/@10.753134,106.5967735,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d2dc8d66b7f:0x6099590600e935ab!8m2!3d10.753134!4d106.5967735!16s%2Fg%2F11vpv4srsh?hl=vi&entry=ttu",
+        "categories":"Dịch vụ sửa chữa",
         "category_group":"df_garas"
     },
     {
@@ -19,6 +20,7 @@ const data = [
         "address":"10-12-14 Đường số 55, p, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Garage+%C3%94+T%C3%B4+A+Trinh\/@10.7528654,106.5993074,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c4ced2ae0ed:0x64194b6a5c1b93d6!8m2!3d10.7528654!4d106.5993074!16s%2Fg%2F11b67jfz8g?hl=vi&entry=ttu",
+        "categories":"Xưởng sửa chữa ô tô, Cửa hàng kính ô tô, Địa lý bảo hiểm ô tô, Sơn ô tô, Đại lý ô tô, Dịch vụ ô tô riêng, Nhà buôn bán ô tô cũ",
         "category_group":"df_garas"
     },
     {
@@ -30,6 +32,7 @@ const data = [
         "address":"247 Nguyễn Xí, P.13, Bình Thạnh, Thành phố Hồ Chí Minh 00700, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/H%C3%B9ng+Bi%E1%BB%83n+S%E1%BB%91\/@10.8194104,106.7041995,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289247c5de0b:0x28c2f45159f1279d!8m2!3d10.8194104!4d106.7041995!16s%2Fg%2F11cs3vg36c?hl=vi&entry=ttu",
+        "categories":"Xưởng sửa chữa ô tô",
         "category_group":"df_garas"
     },
     {
@@ -41,6 +44,7 @@ const data = [
         "address":"11\/2 Đường 34, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Trung+t%C3%A2m+s%E1%BB%ADa+ch%E1%BB%AFa+h%E1%BB%99p+s%E1%BB%91+t%E1%BB%B1+%C4%91%E1%BB%99ng+xe+oto\/@10.8239293,106.7223927,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529535fb099f1:0x836498f018f3bcd6!8m2!3d10.8239293!4d106.7223927!16s%2Fg%2F11h8brpv96?hl=vi&entry=ttu",
+        "categories":"Xưởng sửa chữa ô tô, Cửa hàng phụ tùng xe ô tô, Xưởng sửa chữa động cơ",
         "category_group":"df_garas"
     },
     {
@@ -52,6 +56,7 @@ const data = [
         "address":"166A Nguyễn Văn Đậu, Phường 7, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ph%C3%A1t+Th%C3%A0nh+Mobile+Nguy%E1%BB%85n+V%C4%83n+%C4%90%E1%BA%ADu\/@10.810108,106.689956,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528c2bfc84833:0xf79b26be2587a3f1!8m2!3d10.810108!4d106.689956!16s%2Fg%2F11bxfytnhm?hl=vi&entry=ttu",
+        "categories":"Dịch vụ sửa chữa điện thoại, Cửa hàng phụ kiện điện thoại di động, Cửa hàng điện thoại di động, Cửa hàng sửa chữa điện thoại di động",
         "category_group":"df_garas"
     },
     {
@@ -63,6 +68,7 @@ const data = [
         "address":"4FMG+GQJ, Đ. Tỉnh Lộ 15, Phú Mỹ Hưng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Garage+%C3%B4+t%C3%B4+H%C3%A0+Duy+Ph%C3%A1t\/@11.1347433,106.47697,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b330017809439:0xd5f302f27043f3ab!8m2!3d11.1347433!4d106.47697!16s%2Fg%2F11ld42ss9t?hl=vi&entry=ttu",
+        "categories":"Xưởng sửa chữa ô tô",
         "category_group":"df_garas"
     },
     {
@@ -74,6 +80,7 @@ const data = [
         "address":"871 Đ. Tỉnh Lộ 15, ấp Bến Mương, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Garage+Th%C6%B0%C6%A1ng+C%E1%BB%A7+Chi\/@11.0763853,106.5177655,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33c53e101e73:0xd226d14d4ff8e0d4!8m2!3d11.0763853!4d106.5177655!16s%2Fg%2F11llp0f0n5?hl=vi&entry=ttu",
+        "categories":"Xưởng sửa chữa ô tô",
         "category_group":"df_garas"
     },
     {
@@ -85,6 +92,7 @@ const data = [
         "address":"4G58+WP4, Cây Gõ, An Phú, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90i%E1%BB%87n+t%E1%BB%AD+-+%C4%91i%E1%BB%87n+gia+d%E1%BB%A5ng+Th%C3%A0nh+%C4%90%C6%B0%E1%BB%A3c\/@11.1097623,106.5168138,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b33884a0636b5:0x970fc3d3d1dd66e6!8m2!3d11.1097623!4d106.5168138!16s%2Fg%2F11vlg96zb1?hl=vi&entry=ttu",
+        "categories":"Cửa hàng sửa chữa đồ điện",
         "category_group":"df_garas"
     },
     {
@@ -96,6 +104,7 @@ const data = [
         "address":"12 Đ. Dương Thị Phua, Trung An, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vndproject+Storace\/@10.9967378,106.5736592,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d3722a23b9cd:0x73cb36d9badd3021!8m2!3d10.9967378!4d106.5736592!16s%2Fg%2F11vdrlxykt?hl=vi&entry=ttu",
+        "categories":"Xưởng sửa chữa ô tô",
         "category_group":"df_garas"
     },
     {
@@ -107,6 +116,7 @@ const data = [
         "address":"207 Đ. Thống Nhất, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Duy+T%C3%A1o+Mobile+c%E1%BB%ADa+h%C3%A0ng+%C4%91i%E1%BB%87n+tho%E1%BA%A1i+di+%C4%91%E1%BB%99ng\/@10.8366073,106.6647518,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d2dd29d39d:0x4cf5a20eaea482aa!8m2!3d10.8366073!4d106.6647518!16s%2Fg%2F11vrxzlgm3?hl=vi&entry=ttu",
+        "categories":"Dịch vụ sửa chữa điện thoại",
         "category_group":"df_garas"
     },
     {
@@ -118,6 +128,7 @@ const data = [
         "address":"113 Đ. Trương Đăng Quế, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh 71400, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/M%E1%BA%A1nh+Th%E1%BB%8Bnh+Trung+T%C3%A2m+S%E1%BB%ADa+ch%E1%BB%AFa+Gaming+Phone\/@10.8141098,106.6822253,17z\/data=!3m1!4b1!4m6!3m5!1s0x660f2fe84de78705:0xf117e5cf46b7b492!8m2!3d10.8141098!4d106.6822253!16s%2Fg%2F11t6y68dwl?hl=vi&entry=ttu",
+        "categories":"Dịch vụ sửa chữa điện thoại",
         "category_group":"df_garas"
     },
     {
@@ -129,6 +140,7 @@ const data = [
         "address":"904 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BB%ADa+Ch%E1%BB%AFa+M%C3%A1y+Tinh-Laptop-Macbook+H%E1%BA%A3i+Anh+Center\/@10.8492042,106.6661267,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752939bae6701b:0xd968db6bd6309b20!8m2!3d10.8492042!4d106.6661267!16s%2Fg%2F11kj51xvyy?hl=vi&entry=ttu",
+        "categories":"Dịch vụ sửa chữa máy tính",
         "category_group":"df_garas"
     },
     {
@@ -140,6 +152,7 @@ const data = [
         "address":"2 QL22, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ_z_UHgArdTER0iciZyz9p7Q",
+        "categories":"Xưởng sửa chữa ô tô",
         "category_group":"df_garas"
     },
     {
@@ -151,6 +164,7 @@ const data = [
         "address":"23 Nguyễn Thị Huỳnh, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+B%E1%BA%A3o+H%C3%A0nh+Dell+Vi%E1%BB%87t+Nam\/@10.7966253,106.6764186,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175291c20d55f7d:0x39f347a04e2c4d8a!8m2!3d10.7966253!4d106.6764186!16s%2Fg%2F11l_gc5rnq?hl=vi&entry=ttu",
+        "categories":"Dịch vụ sửa chữa máy tính",
         "category_group":"df_garas"
     },
     {
@@ -162,6 +176,7 @@ const data = [
         "address":"31 Hoà Hưng, Phường 12, Quận 10, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/S%E1%BB%ADa+ch%E1%BB%AFa+V%C4%A9nh+Th%E1%BB%8Bnh\/@10.7797569,106.6760026,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e79f478e7d3:0xff9914535e4c54eb!8m2!3d10.7797569!4d106.6760026!16s%2Fg%2F11g8nhqcvv?hl=vi&entry=ttu",
+        "categories":"Dịch vụ sửa chữa điện thoại, Dịch vụ sửa chữa đồ gia dụng",
         "category_group":"df_garas"
     },
     {
@@ -173,6 +188,7 @@ const data = [
         "address":"163 Đ. TX 25, Thới An, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/GARAGE+CH%C3%81NH\/@10.8793594,106.6558648,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f64bf1d1fcd:0x81ec981ca514dd0d!8m2!3d10.8793594!4d106.6558648!16s%2Fg%2F11h5ltgc0x?hl=vi&entry=ttu",
+        "categories":"Xưởng sửa chữa ô tô",
         "category_group":"df_garas"
     },
     {
@@ -184,6 +200,7 @@ const data = [
         "address":"26\/2 Đ. Phú Thuận, KDC Tấn Trường, Quận 7, Thành phố Hồ Chí Minh 72900, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Ch%C4%83m+S%C3%B3c+Xe+Auto+Nam+Quang\/@10.7320426,106.7397936,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175256e22adc06f:0x168e18c50a9b1202!8m2!3d10.7320426!4d106.7397936!16s%2Fg%2F11gb404v0p?hl=vi&entry=ttu",
+        "categories":"Xưởng sửa chữa ô tô",
         "category_group":"df_garas"
     },
     {
@@ -195,6 +212,7 @@ const data = [
         "address":"151 Số 51, Tân Quy, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Vi+t%C3%ADnh+qu%E1%BA%ADn+7+-+S%E1%BB%ADa+m%C3%A1y+t%C3%ADnh,+laptop,+c%C3%A0i+windows,+thu+mua+m%C3%A1y+t%C3%ADnh,+laptop+c%C5%A9\/@10.7410179,106.7141452,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f002a3ba339:0x4b06b6eb4b1f4bd4!8m2!3d10.7410179!4d106.7141452!16s%2Fg%2F11lcn4jd1n?hl=vi&entry=ttu",
+        "categories":"Dịch vụ sửa chữa máy tính",
         "category_group":"df_garas"
     },
     {
@@ -206,6 +224,7 @@ const data = [
         "address":"793\/58 Hẻm 793\/58 Trần Xuân Soạn, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Car68+-+Trung+T%C3%A2m+S%E1%BB%ADa+Ch%E1%BB%AFa+Ch%C4%83m+S%C3%B3c+%C3%94+T%C3%B4+To%C3%A0n+Di%E1%BB%87n\/@10.7479558,106.6978656,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f2be6d27629:0x397c65a9ba74fba7!8m2!3d10.7479558!4d106.6978656!16s%2Fg%2F11t7c0xjvj?hl=vi&entry=ttu",
+        "categories":"Xưởng sửa chữa ô tô",
         "category_group":"df_garas"
     },
     {
@@ -217,6 +236,7 @@ const data = [
         "address":"181 Đường Chuyên Dùng Chính, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/Gara+%C3%B4t%C3%B4+Gia+Ph%C3%A1t\/@10.7049158,106.745857,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525bd5f7346e3:0x826cef8d992b3f17!8m2!3d10.7049158!4d106.745857!16s%2Fg%2F11rdhkvz04?hl=vi&entry=ttu",
+        "categories":"Xưởng sửa chữa ô tô",
         "category_group":"df_garas"
     },
     {
@@ -228,6 +248,7 @@ const data = [
         "address":"25\/7 Đường số 25A, Tân Quy, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/CUNG+C%E1%BA%A4P+M%E1%BB%B0C+IN,+N%E1%BA%A0P+M%E1%BB%B0C,+S%E1%BB%AEA+M%C3%81Y+IN+QU%E1%BA%ACN+7\/@10.7433115,106.7074202,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0e999215f1:0x12d6a6f1217629aa!8m2!3d10.7433115!4d106.7074202!16s%2Fg%2F11sjjqn01r?hl=vi&entry=ttu",
+        "categories":"Dịch vụ sửa chữa máy in",
         "category_group":"df_garas"
     },
     {
@@ -239,6 +260,7 @@ const data = [
         "address":"107 Hoàng Quốc Việt, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/TH%E1%BA%BE+GI%E1%BB%9AI+AUTO\/@10.7136211,106.7425187,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f402a755f71:0xba8f71556ae4494a!8m2!3d10.7136211!4d106.7425187!16s%2Fg%2F11gtyl4gsc?hl=vi&entry=ttu",
+        "categories":"Xưởng sửa chữa ô tô",
         "category_group":"df_garas"
     },
     {
@@ -250,6 +272,7 @@ const data = [
         "address":"403\/3\/6 Đường Phú Định, Phường 16, Quận 08, Thành phố Hồ Chí Minh 700000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90i%E1%BB%87n+l%E1%BA%A1nh+Anh+Th%E1%BA%AFng\/@10.711231,106.6196,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d03f1565a8f:0xbe92c0cc315b15de!8m2!3d10.711231!4d106.6196!16s%2Fg%2F11rfbjjvpp?hl=vi&entry=ttu",
+        "categories":"Dịch vụ sửa chữa đồ gia dụng, Thợ điện, Dịch vụ sửa lò vi sóng, Dịch vụ sửa chữa máy lạnh, Cửa hàng máy lạnh, Dịch vụ sửa chữa tivi, Dịch vụ sửa chữa máy giặt và máy sấy",
         "category_group":"df_garas"
     },
     {
@@ -261,6 +284,7 @@ const data = [
         "address":"2941\/32\/22 Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/C%C3%B4ng+Ty+Tnhh+%C4%90i%E1%BB%87n+L%E1%BA%A1nh+%C3%94+T%C3%B4+To%C3%A0n+Ph%C3%BAc\/@10.717158,106.63375,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e08a31f1aab:0x8fa26a3ada5a5aae!8m2!3d10.717158!4d106.63375!16s%2Fg%2F11h6g5d0x8?hl=vi&entry=ttu",
+        "categories":"Xưởng sửa chữa ô tô",
         "category_group":"df_garas"
     },
     {
@@ -272,6 +296,7 @@ const data = [
         "address":"233 Nghĩa Phát, Phường 6, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%C3%B4ng+Nghi+racingshop\/@10.7837939,106.6559681,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ec903c005a3:0x739aecb9b7cc74d6!8m2!3d10.7837939!4d106.6559681!16s%2Fg%2F11c1rftxg2?hl=vi&entry=ttu",
+        "categories":"Xưởng sửa chữa ô tô",
         "category_group":"df_garas"
     },
     {
@@ -283,6 +308,7 @@ const data = [
         "address":"Đ. Võ Chí Công, Bình Trưng Đông, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJsTdwR_IldTERdSJ9WmEJf9g",
+        "categories":"Xưởng sửa chữa ô tô",
         "category_group":"df_garas"
     },
     {
@@ -294,6 +320,7 @@ const data = [
         "address":"Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJM3YgG1LfdDER-I5BigHQ6Kc",
+        "categories":"Trung tâm sửa chữa xe lửa",
         "category_group":"df_garas"
     },
     {
@@ -305,6 +332,7 @@ const data = [
         "address":"665 Đỗ Xuân Hợp, Phước Long B, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJySHR8l8ndTERLWDZLfaGw90",
+        "categories":"Xưởng sửa chữa ô tô",
         "category_group":"df_garas"
     },
     {
@@ -316,6 +344,7 @@ const data = [
         "address":"Lô F1, Đường K1, KCN Cát Lái, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJqSWMWpAldTER8QOz8X2_9zo",
+        "categories":"Xưởng sửa chữa ô tô, Đại lý xe Hyundai",
         "category_group":"df_garas"
     },
     {
@@ -327,6 +356,7 @@ const data = [
         "address":"QQ57+6CG, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQQkyIk4ldTERw87OIltKLSM",
+        "categories":"Xưởng sửa chữa ô tô",
         "category_group":"df_garas"
     },
     {
@@ -338,6 +368,7 @@ const data = [
         "address":"63\/45 Đ. Số 8, Linh Xuân, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4UMtzPjZdDERT4PhMmjpQTA",
+        "categories":"Dịch vụ sửa chữa",
         "category_group":"df_garas"
     },
     {
@@ -349,6 +380,7 @@ const data = [
         "address":"9 Đường số 24, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJlQ0rqMMhdTER1t173XxOLxo",
+        "categories":"Xưởng sửa chữa ô tô, Dịch vụ điều hòa ô tô, Xưởng máy ô tô, Đại lý ô tô, Bãi rửa xe ô tô",
         "category_group":"df_garas"
     },
     {
@@ -360,6 +392,7 @@ const data = [
         "address":"86 trên, 29 Ông Ích Khiêm, Phường 5, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJU9AxgH0udTERVwu3CYrVepE",
+        "categories":"Dịch vụ sửa chữa máy tính, Tư vấn viên máy tính, Dịch vụ bảo mật máy tính, Dịch vụ máy tính, Cửa hàng máy tính, Nhà cung cấp linh kiện điện tử, Cửa hàng bán đồ điện tử, Cửa hàng máy tính cũ",
         "category_group":"df_garas"
     },
     {
@@ -371,6 +404,7 @@ const data = [
         "address":"721 Đ. Trường Chinh, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHWN1h1kpdTERr_QhkEXa6M8",
+        "categories":"Dịch vụ sửa chữa điện thoại, Cửa hàng phụ kiện điện thoại di động, Dịch vụ sửa chữa máy tính, Cửa hàng sửa chữa điện thoại di động",
         "category_group":"df_garas"
     },
     {
@@ -382,6 +416,7 @@ const data = [
         "address":"251 Đ. Vườn Lài, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
         "permanentlyClosed":"False",
         "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJnUERXrEudTERcs5o9nyqhC0",
+        "categories":"Dịch vụ sửa chữa máy tính, Cửa hàng máy tính, Cửa hàng máy tính cũ",
         "category_group":"df_garas"
     }
 ]
