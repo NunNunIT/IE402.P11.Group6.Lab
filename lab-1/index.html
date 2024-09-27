@@ -16,6 +16,7 @@
   </style>
 
   <link rel="stylesheet" href="https://js.arcgis.com/4.15/esri/themes/light/main.css" />
+  <link rel="stylesheet" href="./index.css" />
   <script src="https://js.arcgis.com/4.15/"></script>
 
   <script type="module">
@@ -84,23 +85,35 @@
       map.add(graphicsLayer);
 
       // create points layer
+      // Tạo pointsLayer
       var pointsLayer = new GraphicsLayer();
-      // pointsLayer.visible = false;
-      pointsLayer.visible = false;
+      pointsLayer.visible = false; // Ẩn các điểm ban đầu
 
       places.forEach(function (place) {
         place.forEach(function (data) {
           pointsLayer.add(createGraphic(data));
         });
-      })
+      });
 
       map.add(pointsLayer);
 
+      // Xử lý ẩn/hiển điểm
+      var isPointsVisible = false; // Ban đầu, các điểm bị ẩn
+      var toggleButton = document.getElementById('toggleButton');
+
+      toggleButton.addEventListener('click', function () {
+        isPointsVisible = !isPointsVisible; // Chuyển đổi trạng thái
+        pointsLayer.visible = isPointsVisible; // Cập nhật trạng thái visible của layer
+
+        // Cập nhật nút theo trạng thái
+        toggleButton.textContent = isPointsVisible ? "Ẩn địa điểm" : "Hiển địa điểm";
+      });
+
       // hide pont layer when zoom out
       const MIN_ZOOM_TO_SHOW_POINTS = 11;
-      view.watch("zoom", debounce(function (newValue) {
-        pointsLayer.visible = newValue >= MIN_ZOOM_TO_SHOW_POINTS;
-      }, 500)); // Adjust delay as needed
+      // view.watch("zoom", debounce(function (newValue) {
+      //   pointsLayer.visible = newValue >= MIN_ZOOM_TO_SHOW_POINTS;
+      // }, 500)); // Adjust delay as needed
 
       // get point
       // var map;
@@ -142,6 +155,7 @@
 
 <body>
   <div id="viewDiv"></div>
+  <button id="toggleButton">Ẩn địa điểm</button>
 </body>
 <script></script>
 
