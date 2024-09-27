@@ -4,7 +4,6 @@ import NhaBe from "./NhaBe.js";
 import BinhChanh from "./BinhChanh.js";
 import Quan7 from "./Quan7.js";
 import Quan8 from "./Quan8.js";
-import Quan2 from "./Quan2.js";
 import Quan1 from "./Quan1.js";
 import BinhThanh from "./BinhThanh.js";
 import CuChi from "./CuChi.js";
@@ -20,13 +19,12 @@ import Quan5 from "./Quan5.js";
 import QuanTanBinh from "./QuanTanBinh.js";
 import QuanBinhTan from "./QuanBinhTan.js";
 import Quan10 from "./Quan10.js";
-import Quan9 from "./Quan9.js";
 import TPThuDuc from "./TPThuDuc.js";
 import Quan4 from "./Quan4.js";
 
 import { POINT_TEMPLATE_AREA } from "../utils/constant.js";
 
-const districts = [CanGio, NhaBe, BinhChanh, Quan3, HocMon, Quan11, Quan5, QuanTanBinh, QuanBinhTan, Quan10, Quan9, TPThuDuc, Quan4, Quan7, Quan8, Quan2, Quan1, BinhThanh, CuChi, Quan6, GoVap, PhuNhuan, Quan12, TanPhu].map(data => ({
+const districts = [CanGio, NhaBe, BinhChanh, Quan3, HocMon, Quan11, Quan5, QuanTanBinh, QuanBinhTan, Quan10, TPThuDuc, Quan4, Quan7, Quan8, Quan1, BinhThanh, CuChi, Quan6, GoVap, PhuNhuan, Quan12, TanPhu].map(data => ({
   type: "polygon",
   popupTemplate: POINT_TEMPLATE_AREA,
   ...data,
