@@ -81,6 +81,36 @@ const POINT_TEMPLATE_HOTEL = {
   content: "Khách sạn này ở <b>{Location}</b>.",
 };
 
+const POINT_TEMPLATE_APARTMENT = {
+  title: "{Name}",
+  content: "Tòa nhà này ở <b>{Location}</b>.",
+};
+
+const POINT_TEMPLATE_COMPANY = {
+  title: "{Name}",
+  content: "Công ty này ở <b>{Location}</b>.",
+};
+
+const POINT_TEMPLATE_FACTORY = {
+  title: "{Name}",
+  content: "Nhà máy này ở <b>{Location}</b>.",
+};
+
+const POINT_TEMPLATE_SALON = {
+  title: "{Name}",
+  content: "Tiệm tóc này ở <b>{Location}</b>.",
+};
+
+const POINT_TEMPLATE_GARA = {
+  title: "{Name}",
+  content: "Gara này ở <b>{Location}</b>.",
+};
+
+const POINT_TEMPLATE_MARKET = {
+  title: "{Name}",
+  content: "Chợ/Siêu thị này ở <b>{Location}</b>.",
+};
+
 const POINT_TEMPLATE_AREA = {
   title: "{name}",
   content: "Diện tích: <b>{area} km<sup>2</sup></b>.<br>" +
@@ -118,4 +148,10 @@ export {
   POINT_TEMPLATE_SCHOOL,
   POINT_TEMPLATE_SHOP,
   POINT_TEMPLATE_THEATER,
+  POINT_TEMPLATE_APARTMENT,
+  POINT_TEMPLATE_FACTORY,
+  POINT_TEMPLATE_COMPANY,
+  POINT_TEMPLATE_SALON,
+  POINT_TEMPLATE_MARKET, 
+  POINT_TEMPLATE_GARA
 };

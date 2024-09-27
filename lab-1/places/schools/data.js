@@ -1,6485 +1,5877 @@
 const data = [
   {
-    "title": "136 BU\u0300I v\u0103n BA",
-    "address": "14 B\u00f9i V\u0103n Ba, T\u00e2n Thu\u1eadn \u0110\u00f4ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7496688,
-    "location/lng": 106.7320576
-  },
-  {
-    "title": "2 \u0110\u00f4 Qu\u00e1n",
-    "address": "80 \u0110. S\u1ed1 23, Khu ph\u1ed1 4, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Gian h\u00e0ng rong",
-    "location/lat": 10.8265141,
-    "location/lng": 106.7284122
-  },
-  {
-    "title": "255 FOOD GARDEN",
-    "address": "255A Nguy\u1ec5n V\u0103n L\u01b0\u1ee3ng, Ph\u01b0\u1eddng 10, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 76000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8385524,
-    "location/lng": 106.670288
-  },
-  {
-    "title": "5ku Farm",
-    "address": "1/114 A \u0110\u01b0\u1eddng 103 Th\u1ea1nh M\u1ef9 L\u1ee3i, P, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7585445,
-    "location/lng": 106.7540816
-  },
-  {
-    "title": "602 Qu\u00e1n",
-    "address": "543 \u0110. \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8005688,
-    "location/lng": 106.7166558
-  },
-  {
-    "title": "A Ba",
-    "address": "VRFF+GV5, Long B\u00ecnh, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8737687,
-    "location/lng": 106.8247431
-  },
-  {
-    "title": "A Mao _ M\u00ec B\u00f2 \u0110\u00e0i Loan \u53f0\u7063\u725b\u8089\u9eb5 (Ch\u1ee7 Nh\u1eadt ngh\u1ec9 _ Sunday off)",
-    "address": "80 L\u00ea H\u1ed3ng Phong, Ph\u01b0\u1eddng 2, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa n\u1eeda bu\u1ed5i",
-    "location/lat": 10.7564793,
-    "location/lng": 106.6784725
-  },
-  {
-    "title": "A \u0110\u1eadu Qu\u00e1n - B\u00fan \u0111\u1eadu m\u1eafm t\u00f4m",
-    "address": "462 Nguy\u1ec5n Th\u1ecb \u0110\u1ecbnh, Ph\u01b0\u1eddng Th\u1ea1nh M\u1ef9 L\u1ee3i, Qu\u1eadn 2, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7809356,
-    "location/lng": 106.7618187
-  },
-  {
-    "title": "ALFA Coffee & Bistro",
-    "address": "8 H\u1ebbm 148 \u0110\u01b0\u1eddng s\u1ed1 59, P.14, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n c\u00e0 ph\u00ea, Qu\u00e1n \u0103n d\u00e0nh cho tr\u1ebb em, C\u01a1 s\u1edf rang c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8553856,
-    "location/lng": 106.6531366
-  },
-  {
-    "title": "Alibaba Buffet N\u01b0\u1edbng T\u00e2n Ph\u00fa - 320 T\u00e2n K\u1ef3 T\u00e2n Qu\u00ed",
-    "address": "320 \u0110. T\u00e2n K\u1ef3 T\u00e2n Qu\u00fd, P. Ph\u00fa Thu\u1eadn, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ti\u1ec7c \u0111\u1ee9ng, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8018261,
-    "location/lng": 106.6251654
-  },
-  {
-    "title": "Amor Resort Wedding & Event Garden",
-    "address": "61A Nguy\u1ec5n V\u0103n \u0110\u1eadu, Ph\u01b0\u1eddng 6, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Qu\u00e1n c\u00e0 ph\u00ea",
-    "location/lat": 10.808018,
-    "location/lng": 106.687727
-  },
-  {
-    "title": "An Lam Retreats Saigon River",
-    "address": "21/4 Trung Street Vinh Phu Ward Thuan An City, B\u00ecnh D\u01b0\u01a1ng, Vi\u1ec7t Nam",
-    "categories": "Kh\u00e1ch s\u1ea1n, N\u01a1i t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n, Nh\u00e0 h\u00e0ng cao c\u1ea5p, Kh\u00e1ch s\u1ea1n ngh\u1ec9 d\u01b0\u1ee1ng",
-    "location/lat": 10.8709526,
-    "location/lng": 106.6991153
-  },
-  {
-    "title": "An L\u1ed9c Qu\u00e1n",
-    "address": "21 \u0110\u01b0\u1eddng Nguy\u1ec5n V\u0103n Dung, Ph\u01b0\u1eddng 6, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh, Qu\u00e1n \u0103n nh\u1ecf",
-    "location/lat": 10.8491023,
-    "location/lng": 106.6800741
-  },
-  {
-    "title": "Anh Coffee Roastery",
-    "address": "200 Pasteur, Ph\u01b0\u1eddng 6, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n c\u00e0 ph\u00ea, C\u1eeda h\u00e0ng b\u00e1nh, Nh\u00e0 h\u00e0ng \u0111i\u1ec3m t\u00e2m, C\u1eeda h\u00e0ng b\u00e1nh ng\u1ecdt",
-    "location/lat": 10.7829311,
-    "location/lng": 106.6934913
-  },
-  {
-    "title": "Ao V\u01b0\u1eddn quan R\u1eeda Q9",
-    "address": "24/25 \u0110\u01b0\u1eddng L\u00f2 Lu, Tr\u01b0\u1eddng Th\u1ea1nh, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8234726,
-    "location/lng": 106.8285368
-  },
-  {
-    "title": "Artisan",
-    "address": "11 Nguy\u1ec5n B\u00ednh, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Ti\u1ec7m b\u00e1nh, Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa s\u00e1ng",
-    "location/lat": 10.7260234,
-    "location/lng": 106.7105486
-  },
-  {
-    "title": "Asiana Plaza (T\u00e2n Ph\u00fa)",
-    "address": "286 \u0110. V\u01b0\u1eddn L\u00e0i, Ph\u00fa Th\u1ecd Ho\u00e0, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Trung t\u00e2m h\u00f4\u0323i nghi\u0323, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7882524,
-    "location/lng": 106.6254096
-  },
-  {
-    "title": "BA G\u00c1C Vietnamese Grill & Beer L\u00ca QU\u00dd \u0110\u00d4N",
-    "address": "31 L\u00ea Qu\u00fd \u0110\u00f4n, V\u00f5 Th\u1ecb S\u00e1u, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Qu\u00e1n bia s\u00e2n v\u01b0\u1eddn",
-    "location/lat": 10.7816939,
-    "location/lng": 106.6899251
-  },
-  {
-    "title": "BBQ GARDEN | L\u1ea8U - N\u01af\u1edaNG KH\u00d4NG KH\u00d3I G\u00d2 V\u1ea4P",
-    "address": "108/4 Nguy\u1ec5n V\u0103n Kh\u1ed1i, Ph\u01b0\u1eddng 9, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng",
-    "location/lat": 10.843191,
-    "location/lng": 106.6564299
-  },
-  {
-    "title": "BBQ House - Plan K",
-    "address": "Chung C\u01b0 My\u0303 Phu\u0301c, 66 L\u00fd Long T\u01b0\u1eddng, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng H\u00e0n Qu\u1ed1c",
-    "location/lat": 10.7233748,
-    "location/lng": 106.7098252
-  },
-  {
-    "title": "BBQ \u00d4NG M\u1eacP V\u00d5 V\u0102N KI\u1ec6T - \ub6b1\ubcf4\uc9d1 \ubcf4\ubc18\ub07c\uc5e3",
-    "address": "372 \u0110. V\u00f5 V\u0103n Ki\u1ec7t, Ph\u01b0\u1eddng C\u00f4 Giang, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.7601453,
-    "location/lng": 106.6942334
-  },
-  {
-    "title": "BENARAS Indian Restaurant",
-    "address": "21B \u0110. T\u00f4n \u0110\u1ee9c Th\u1eafng, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u1ea4n \u0110\u1ed9, Nh\u00e0 h\u00e0ng l\u1ee5c \u0111\u1ecba, Nh\u00e0 h\u00e0ng m\u00f3n chay",
-    "location/lat": 10.7823738,
-    "location/lng": 106.7057615
-  },
-  {
-    "title": "BIA TUY\u1ebeT Q9 - \u0110\u1eb7ng V\u0103n Bi",
-    "address": "36 \u0110\u1eb7ng V\u0103n Bi, B\u00ecnh Th\u1ecd, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8407487,
-    "location/lng": 106.7656427
-  },
-  {
-    "title": "BIG PIG | Bar - BBQ - Beer (46 Truong Son, Tan Binh District)",
-    "address": "46 Tr\u01b0\u1eddng S\u01a1n, P.2, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Qu\u00e1n bar, Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u, C\u1eeda h\u00e0ng giao pizza, Bar th\u1ec3 thao, Qu\u00e1n r\u01b0\u1ee3u",
-    "location/lat": 10.8099701,
-    "location/lng": 106.665037
-  },
-  {
-    "title": "BUFFET Ng\u00f3i X\u01b0a",
-    "address": "3 Nguy\u1ec5n V\u0103n On, TT. C\u1ee7 Chi, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.970063,
-    "location/lng": 106.4939456
-  },
-  {
-    "title": "Ba H\u00ed S\u00e0i G\u00f2n",
-    "address": "93 V\u1ea1n Ki\u1ebfp, Ph\u01b0\u1eddng 3, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.799092,
-    "location/lng": 106.6936626
-  },
-  {
-    "title": "Banana Mama Rooftop Bar & Kitchen Saigon",
-    "address": "ABC, 102, \u0110. C\u1ed1ng Qu\u1ef3nh, Ph\u01b0\u1eddng Ph\u1ea1m Ng\u0169 L\u00e3o, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n bar, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7649165,
-    "location/lng": 106.6905357
-  },
-  {
-    "title": "Baoz Dimsum",
-    "address": "82-84-86-88 \u0110. Nguy\u1ec5n Tri Ph\u01b0\u01a1ng, st, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72700, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0111i\u1ec3m t\u00e2m, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7531011,
-    "location/lng": 106.6696548
-  },
-  {
-    "title": "Baoz Dimsum",
-    "address": "297 - 299 \u0110. L\u00ea \u0110\u1ea1i H\u00e0nh, Ph\u01b0\u1eddng 13, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng \u0111i\u1ec3m t\u00e2m",
-    "location/lat": 10.7649121,
-    "location/lng": 106.6549606
-  },
-  {
-    "title": "Baseball Cage - L\u1ed3ng b\u00f3ng ch\u00e0y t\u1ef1 \u0111\u1ed9ng",
-    "address": "479 L\u00ea V\u0103n L\u01b0\u01a1ng, T\u00e2n H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, \u0110i\u1ec3m thu h\u00fat kh\u00e1ch du l\u1ecbch",
-    "location/lat": 10.7363045,
-    "location/lng": 106.7030225
-  },
-  {
-    "title": "BeefSteak 100gram",
-    "address": "221/5 \u0110. L\u00ea \u0110\u1ee9c Th\u1ecd, Ph\u01b0\u1eddng 17, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.8392311,
-    "location/lng": 106.6794355
-  },
-  {
-    "title": "Beefsteak 100g",
-    "address": "110 S\u1ed1 49, T\u00e2n Quy, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7416337,
-    "location/lng": 106.7140031
-  },
-  {
-    "title": "Belgo",
-    "address": "159A \u0110. Nguy\u1ec5n V\u0103n Th\u1ee7, \u0110a Kao, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng qu\u00e1n r\u01b0\u1ee3u d\u00e0nh cho ng\u01b0\u1eddi s\u00e0nh \u0103n, C\u1eeda h\u00e0ng bia",
-    "location/lat": 10.7886841,
-    "location/lng": 106.6980578
-  },
-  {
-    "title": "Bella Italia Pizza and Restaurant",
-    "address": "4 M\u1ef9 Ph\u00fa 2C, Ph\u00fa M\u1ef9, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u00fd, C\u1eeda h\u00e0ng giao pizza, Nh\u00e0 h\u00e0ng pizza, C\u1eeda h\u00e0ng b\u00e1n pizza mang v\u1ec1",
-    "location/lat": 10.7182639,
-    "location/lng": 106.7274742
-  },
-  {
-    "title": "Ben Nay Restaurant",
-    "address": "7 \u0110. T\u1ec9nh L\u1ed9 15, Ph\u00fa Ho\u00e0 \u0110\u00f4ng, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 11.0133843,
-    "location/lng": 106.5646575
-  },
-  {
-    "title": "Bia H\u01a1i H\u00e0 N\u1ed9i",
-    "address": "116A H\u1ed3ng H\u00e0, Ph\u01b0\u1eddng 2, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8098591,
-    "location/lng": 106.6708431
-  },
-  {
-    "title": "Bia T\u01b0\u01a1i 3000",
-    "address": "VM35+C72, \u0110. L\u00ea \u0110\u1ee9c Th\u1ecd, Ph\u01b0\u1eddng 13, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8535203,
-    "location/lng": 106.658142
-  },
-  {
-    "title": "Bia T\u01b0\u01a1i B\u1ebfn H\u1ea3i",
-    "address": "RMFW+6QC, L\u01b0u ng\u1ecdc quy\u1ebfn, Ph\u01b0\u1eddng 5, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8230691,
-    "location/lng": 106.69688
-  },
-  {
-    "title": "BinGo Buffet",
-    "address": "46 \u0110\u01b0\u1eddng s\u1ed1 53, Khu \u0111\u1ecbnh c\u01b0 T\u00e2n Quy \u0110\u00f4ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng",
-    "location/lat": 10.7371919,
-    "location/lng": 106.7080886
-  },
-  {
-    "title": "Bi\u1ec3n Xanh Qu\u1eadn 9 cn1",
-    "address": "106/2 \u0110. 79, Ph\u01b0\u1edbc Long B, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.833251,
-    "location/lng": 106.7694627
-  },
-  {
-    "title": "Bo Song Moi Seafood",
-    "address": "24 Nguy\u1ec5n Xi\u1ec3n, Long B\u00ecnh, Qu\u1eadn 9 Long B\u00ecnh, Qu\u1eadn 9 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.8734266,
-    "location/lng": 106.8415824
-  },
-  {
-    "title": "Bocaxa beefsteak G\u00f2 V\u1ea5p",
-    "address": "220/64 Nguy\u1ec5n Oanh, Ph\u01b0\u1eddng 17, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng M\u1ef9, Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng b\u00edt t\u1ebft",
-    "location/lat": 10.8361837,
-    "location/lng": 106.6777876
-  },
-  {
-    "title": "Boomerang Bistro Saigon",
-    "address": "107 \u0110 T\u00f4n D\u1eadt Ti\u00ean, T\u00e2n Ph\u00fa, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72908, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ch\u00e2u \u00c2u hi\u1ec7n \u0111\u1ea1i, Bar & Grill, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7262831,
-    "location/lng": 106.7204036
-  },
-  {
-    "title": "Buffet 123K N\u01af\u1edaNG NGON - B\u00e0 \u0110i\u1ec3m",
-    "address": "7 Phan V\u0103n H\u1edbn, B\u00e0 \u0110i\u1ec3m, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8412877,
-    "location/lng": 106.5975545
-  },
-  {
-    "title": "Buffet H\u1ea3i S\u1ea3n Ho\u00e0ng Gia 219k H\u1ea3i S\u1ea3n N\u01b0\u1edbng C\u1ef1c Ngon",
-    "address": "135 \u0110. L\u0169y B\u00e1n B\u00edch, T\u00e2n Th\u1edbi Ho\u00e0, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ti\u1ec7c \u0111\u1ee9ng, Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7652212,
-    "location/lng": 106.6320673
-  },
-  {
-    "title": "Buffet Kh\u00f3i",
-    "address": "1068 \u0110. Nguy\u1ec5n V\u0103n Linh, T\u00e2n Thu\u1eadn T\u00e2y, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7292636,
-    "location/lng": 106.7017259
-  },
-  {
-    "title": "Buffet N\u01b0\u1edbng L\u00f2 G\u1ea1ch",
-    "address": "233 Nguy\u1ec5n Th\u00e1i S\u01a1n, Ph\u01b0\u1eddng 7, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8255085,
-    "location/lng": 106.6881739
-  },
-  {
-    "title": "Buffet Th\u00e0nh L\u00f9n",
-    "address": "722a \u0110. \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 22, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng",
-    "location/lat": 10.797057,
-    "location/lng": 106.7219676
-  },
-  {
-    "title": "Buffet Xi\u00ean s\u1ea1ch 69k",
-    "address": "440/2 \u0110. Th\u1ed1ng Nh\u1ea5t, Ph\u01b0\u1eddng 16, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.844991,
-    "location/lng": 106.665205
-  },
-  {
-    "title": "Buffet l\u1ea9u Lok Lok - L\u1ea9u 1 ng\u01b0\u1eddi",
-    "address": "830 \u0110. S\u01b0 V\u1ea1n H\u1ea1nh, Ph\u01b0\u1eddng 13, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 10.7769466,
-    "location/lng": 106.6664808
-  },
-  {
-    "title": "Buffet \u0110\u1ea1i D\u01b0\u01a1ng CN3",
-    "address": "26 T\u00e2y Th\u1ea1nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700901, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8188705,
-    "location/lng": 106.6281
-  },
-  {
-    "title": "Buffet \u1ed0c Anh M\u1eadp 139k",
-    "address": "895a \u0110. T\u1ea1 Quang B\u1eedu, Ph\u01b0\u1eddng 5, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7342371,
-    "location/lng": 106.6627646
-  },
-  {
-    "title": "Burger King",
-    "address": "RM88+G2R, \u0110. B, Ph\u01b0\u1eddng 2, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.8163708,
-    "location/lng": 106.6650108
-  },
-  {
-    "title": "B\u00c1NH CU\u1ed0N T\u00c2Y S\u01a0N",
-    "address": "44 Tr\u01b0\u01a1ng C\u00f4ng \u0110\u1ecbnh, Ph\u01b0\u1eddng 14, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.797446,
-    "location/lng": 106.641229
-  },
-  {
-    "title": "B\u00c1NH \u00c9P HU\u1ebe BOO BOO",
-    "address": "121d \u0110. T\u00e2n Th\u1eafng, S\u01a1n K\u1ef3, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.800038,
-    "location/lng": 106.616798
-  },
-  {
-    "title": "B\u00daN CH\u1ea2 H\u00c0 N\u1ed8I - B\u00daN C\u00c1 R\u00d4 \u0110\u1ed2NG.",
-    "address": "45 \u0110. S\u1ed1 9, Ph\u01b0\u1eddng 16, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8427321,
-    "location/lng": 106.6677314
-  },
-  {
-    "title": "B\u00daN M\u1eaeM 444",
-    "address": "375 L\u00ea Quang \u0110\u1ecbnh, Ph\u01b0\u1eddng 5, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.813153,
-    "location/lng": 106.6896733
-  },
-  {
-    "title": "B\u00daN RI\u00caU C\u00d4 H\u01af\u01a0NG B\u00c9O - QU\u1eacN 7",
-    "address": "76 \u0110\u01b0\u1eddng s\u1ed1 79, T\u00e2n Quy, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.7402884,
-    "location/lng": 106.7096199
-  },
-  {
-    "title": "B\u00e1nh Canh Gia Lai",
-    "address": "QMM5+WG9, \u0110\u1ea1i Ngh\u0129a, Ph\u01b0\u1eddng 6, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa s\u00e1ng",
-    "location/lat": 10.7847889,
-    "location/lng": 106.6588588
-  },
-  {
-    "title": "B\u00e1nh Canh Tr\u1ea3ng B\u00e0ng Ho\u00e0ng Dung 2",
-    "address": "187 QL22, T\u00e2n Hi\u1ec7p, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.9076435,
-    "location/lng": 106.5707068
-  },
-  {
-    "title": "B\u00e1nh C\u0103n 79",
-    "address": "64 \u0110. Ho\u00e0ng Di\u1ec7u, ph\u01b0\u1eddng 6, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1",
-    "location/lat": 10.7630342,
-    "location/lng": 106.7035254
-  },
-  {
-    "title": "B\u00e1nh M\u00ec Ch\u1ea3o C\u00f4 3 H\u1eadu",
-    "address": "36 \u0110\u01b0\u1eddng S\u1ed1 18, Ph\u01b0\u1eddng 8, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8389593,
-    "location/lng": 106.6564821
-  },
-  {
-    "title": "B\u00e1nh Tr\u00e1ng Ch\u1ea5m Ch\u1ecb Hai",
-    "address": "209/94/1 \u0110. T\u00f4n Th\u1ea5t Thuy\u1ebft, Ph\u01b0\u1eddng 3, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng c\u01a1m, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7552739,
-    "location/lng": 106.6982989
-  },
-  {
-    "title": "B\u00e1nh Tr\u00e1ng Ch\u1ecb H\u01b0\u01a1ng",
-    "address": "146/27 \u0110.Nguy\u1ec5n Ch\u1ebf Ngh\u0129a, Ph\u01b0\u1eddng 12, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.741999,
-    "location/lng": 106.6532579
-  },
-  {
-    "title": "B\u00e1nh Tr\u00e1ng N\u01b0\u1edbng Thanh \u0110a",
-    "address": "RP7C+78H, LO S, Thanh \u0110a, Ph\u01b0\u1eddng 27, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.813189,
-    "location/lng": 106.7208505
-  },
-  {
-    "title": "B\u00e1nh Tr\u00e1ng Tr\u1ed9n - Cu\u1ed1n Ngon",
-    "address": "793 Tr\u1ea7n Xu\u00e2n So\u1ea1n, T\u00e2n H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7495557,
-    "location/lng": 106.6995051
-  },
-  {
-    "title": "B\u00e1nh Tr\u00e1ng Tr\u1ed9n C\u00f4 N\u0103m",
-    "address": "45 L\u00ea Th\u1ecb H\u1ed3ng, Ph\u01b0\u1eddng 7, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng b\u00e1n \u0111\u1ed3 \u0103n mang v\u1ec1",
-    "location/lat": 10.83544,
-    "location/lng": 106.6788133
-  },
-  {
-    "title": "B\u00e1nh Tr\u00e1ng Tr\u1ed9n Tr\u1ee9ng G\u00e0 N\u01b0\u1edbng Mr.Pear",
-    "address": "27 72 \u0110. S\u1ed1 9, Ph\u01b0\u1eddng 16, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8422065,
-    "location/lng": 106.6693151
-  },
-  {
-    "title": "B\u00e1nh b\u1ed9t l\u1ecdc Bu\u00f4n M\u00ea",
-    "address": "170 Phan V\u0103n H\u00e2n, Ph\u01b0\u1eddng 17, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7941153,
-    "location/lng": 106.7048281
-  },
-  {
-    "title": "B\u00e1nh canh cua \u00dat L\u1ec7",
-    "address": "204-206-208-210 \u0110. T\u00f4 Hi\u1ebfn Th\u00e0nh, Ph\u01b0\u1eddng 15, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7792651,
-    "location/lng": 106.6670108
-  },
-  {
-    "title": "B\u00e1nh canh c\u00e1 l\u00f3c C\u01b0\u1eddng \u0110\u00f4 La",
-    "address": "42 L\u00ea Th\u1ecb H\u1ed3ng, Ph\u01b0\u1eddng 7, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8342688,
-    "location/lng": 106.6777658
-  },
-  {
-    "title": "B\u00e1nh canh tr\u00ed nh\u1ecb",
-    "address": "187/19 Nguy\u1ec5n Th\u00e1i S\u01a1n, Ph\u01b0\u1eddng 5, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n \u0103n nh\u1ecf, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8294446,
-    "location/lng": 106.6972329
-  },
-  {
-    "title": "B\u00e1nh kh\u1ecdt \u00dat Gi\u00e0u",
-    "address": "25/55 V\u0103n Cao, Ph\u00fa Th\u1ea1nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.783569,
-    "location/lng": 106.6198034
-  },
-  {
-    "title": "B\u00e1nh m\u00ec \u00dat Th\u01b0\u01a1ng - Ut Thuong ' s Vietnamese Bread",
-    "address": "102 \u0110o\u00e0n V\u0103n B\u01a1, Ph\u01b0\u1eddng 9, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam, Ti\u1ec7m b\u00e1nh",
-    "location/lat": 10.7636196,
-    "location/lng": 106.7033417
-  },
-  {
-    "title": "B\u00e1nh tr\u00e1ng tr\u1ed9n m\u1ee1 h\u00e0nh C\u00f4 H\u1ea1nh H\u00f3c m\u00f4n",
-    "address": "\u0110\u01b0\u1eddng 01- Trung Ch\u00e1nh/21/5C \u1ea4p M\u1ef9 H\u00f2a 1, Trung Ch\u00e1nh, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8623521,
-    "location/lng": 106.6082988
-  },
-  {
-    "title": "B\u00e1nh x\u00e8o rau r\u1eebng A \u0110\u1ea1t",
-    "address": "1 Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Ph\u01b0\u1eddng 3, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8146297,
-    "location/lng": 106.6794777
-  },
-  {
-    "title": "B\u00e1nh \u00e9p Hu\u1ebf",
-    "address": "49 \u0110\u01b0\u1eddng Tr\u1ea7n T\u1ea5n, T\u00e2n S\u01a1n Nh\u00ec, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7966034,
-    "location/lng": 106.6345027
-  },
-  {
-    "title": "B\u00e1nh \u01af\u1edbt L\u00f2ng G\u00e0 \u0110\u00e0 L\u1ea1t",
-    "address": "137 \u0110\u01b0\u1eddng s\u1ed1 39, T\u00e2n Quy, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.7438388,
-    "location/lng": 106.71203
-  },
-  {
-    "title": "B\u00e8 Ph\u01b0\u1edbc Thi\u1ec7n",
-    "address": "B\u00e8, Ph\u01b0\u1edbc Thi\u1ec7n, Long B\u00ecnh, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n c\u00e1",
-    "location/lat": 10.8462838,
-    "location/lng": 106.8491489
-  },
-  {
-    "title": "B\u00ea Thui Gi\u00f3 M\u00f9a",
-    "address": "70 \u0110. Ph\u00fa Th\u1ecd H\u00f2a, Ph\u00fa Th\u1ecd Ho\u00e0, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7832416,
-    "location/lng": 106.6344179
-  },
-  {
-    "title": "B\u00ecnh Kh\u00e1nh By Night",
-    "address": "26 \u0110. Mai Ch\u00ed Th\u1ecd, Ph\u01b0\u1eddng B\u00ecnh Kh\u00e1nh, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7808226,
-    "location/lng": 106.7394252
-  },
-  {
-    "title": "B\u00ecnh Qu\u1edbi qu\u00ea t\u00f4i",
-    "address": "480/65/8 B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8193061,
-    "location/lng": 106.7408584
-  },
-  {
-    "title": "B\u00f2 Ch\u1ecb Ba",
-    "address": "425 Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Ph\u01b0\u1eddng 11, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8214467,
-    "location/lng": 106.6963164
-  },
-  {
-    "title": "B\u00f2 L\u00e1 L\u1ed1t -M\u1ee1 Ch\u00e0i",
-    "address": "242 \u0110. S\u1ed1 8, Linh Xu\u00e2n, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8755939,
-    "location/lng": 106.7778939
-  },
-  {
-    "title": "B\u00f2 N\u01b0\u1edbng Ph\u1ed1 - Nguy\u1ec5n Oanh",
-    "address": "164 Nguy\u1ec5n Oanh, Ph\u01b0\u1eddng 17, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8318765,
-    "location/lng": 106.6770692
-  },
-  {
-    "title": "B\u00f2 N\u01b0\u1edbng Ph\u1ed1 - T\u00e2n Ph\u00fa",
-    "address": "88A G\u00f2 D\u1ea7u, T\u00e2n Qu\u00fd, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 760400, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.795977,
-    "location/lng": 106.625951
-  },
-  {
-    "title": "B\u00f2 T\u01a1 - G\u00e0 Ta 69 (ch\u00fa Th\u00e0nh)",
-    "address": "110/39 S\u1ed1 30, Ph\u01b0\u1eddng 6, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8458029,
-    "location/lng": 106.680265
-  },
-  {
-    "title": "B\u00f2 T\u01a1 Ch\u00ednh c\u01b0",
-    "address": "t\u1ed5 1, 2 Ph\u1ea1m V\u0103n Ch\u00e8o, khu pho 7, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.9742564,
-    "location/lng": 106.4946724
-  },
-  {
-    "title": "B\u00f2 T\u01a1 Nh\u00e2n Ph\u00e1t",
-    "address": "160 \u0110. \u0110\u1eb7ng Nguy\u00ean C\u1ea9n, Ph\u01b0\u1eddng 13, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7532236,
-    "location/lng": 106.6316979
-  },
-  {
-    "title": "B\u00f2 T\u01a1 Nh\u00e2n Ph\u00e1t - 257 Tr\u01b0\u01a1ng V\u0129nh K\u00fd, P.T\u00e2n Th\u00e0nh, Q.T\u00e2n Ph\u00fa",
-    "address": "257 Tr\u01b0\u01a1ng V\u0129nh K\u00fd, T\u00e2n S\u01a1n Nh\u00ec, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7940497,
-    "location/lng": 106.6308573
-  },
-  {
-    "title": "B\u00f2 T\u01a1 Qu\u00e1n M\u1ed9c - T\u00e2n Ph\u00fa",
-    "address": "111A G\u00f2 D\u1ea7u, T\u00e2n Qu\u00fd, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.795826,
-    "location/lng": 106.6242438
-  },
-  {
-    "title": "B\u00f2 T\u01a1 Qu\u00e1n M\u1ed9c 43-45 Nguy\u1ec5n Th\u1ecb Th\u1eadp ,P.T\u00e2n H\u01b0ng",
-    "address": "45 Nguy\u1ec5n Th\u1ecb Th\u1eadp, Khu \u0111\u00f4 th\u1ecb Him Lam, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7406331,
-    "location/lng": 106.6986267
-  },
-  {
-    "title": "B\u00f2 T\u01a1 \u00dat Ng\u00e2n",
-    "address": "69 Nguy\u1ec5n Th\u1ecb B\u00fap, T\u00e2n Ch\u00e1nh Hi\u1ec7p, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.871794,
-    "location/lng": 106.6335195
-  },
-  {
-    "title": "B\u00f2 b\u1edd k\u00e8",
-    "address": "VM36+XVW, Ph\u01b0\u1eddng 13, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8549823,
-    "location/lng": 106.6622009
-  },
-  {
-    "title": "B\u00f2 t\u01a1 H\u1ea3o H\u1ea3o",
-    "address": "Nguy\u1ec5n Th\u1ecb R\u00e0nh, Nhu\u1eadn \u0110\u1ee9c, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 11.0410356,
-    "location/lng": 106.4852434
-  },
-  {
-    "title": "B\u00f2 \u00dat Den C\u1ee7 Chi",
-    "address": "X9VJ+JWH, Th\u00e1i M\u1ef9, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.9940685,
-    "location/lng": 106.382361
-  },
-  {
-    "title": "B\u00fan B\u00f2 Ch\u1ea3 Gh\u1eb9 7 Ghi\u1ec1n",
-    "address": "111 L\u00ea V\u0103n Th\u1ecd, Ph\u01b0\u1eddng 8, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1",
-    "location/lat": 10.839459,
-    "location/lng": 106.657339
-  },
-  {
-    "title": "B\u00fan B\u00f2 G\u00e1nh - 110 L\u00fd Ch\u00ednh Th\u1eafng",
-    "address": "110 L\u00fd Ch\u00ednh Th\u1eafng, Ph\u01b0\u1eddng 8, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.7890863,
-    "location/lng": 106.6853027
-  },
-  {
-    "title": "B\u00fan Qu\u1eady KI\u1ebeN - X\u00c2Y Sai Gon",
-    "address": "12 \u0110. Nguy\u1ec5n Th\u1ecb Minh Khai, \u0110a Kao, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7879456,
-    "location/lng": 106.7027084
-  },
-  {
-    "title": "B\u00fan Th\u00e1i H\u1ea3i S\u1ea3n",
-    "address": "937C, Ph\u01b0\u1eddng 5, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7340183,
-    "location/lng": 106.6575556
-  },
-  {
-    "title": "B\u00fan Th\u1ecbt N\u01b0\u1edbng Ch\u1ecb Tuy\u1ec1n",
-    "address": "175c C\u00f4 Giang, Ph\u01b0\u1eddng C\u00f4 Giang, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.761804,
-    "location/lng": 106.693591
-  },
-  {
-    "title": "B\u00fan b\u00f2 C\u00f4 H\u00e0/Co Ha beef noodle soup",
-    "address": "L\u00f4 2, C\u01b0 x\u00e1 Thanh \u0110a, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa n\u1eeda bu\u1ed5i",
-    "location/lat": 10.8184327,
-    "location/lng": 106.7173854
-  },
-  {
-    "title": "B\u00fan b\u00f2 Ng\u1ecdc Dung",
-    "address": "504-506 Ho\u00e0ng H\u1eefu Nam, Long B\u00ecnh, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8740724,
-    "location/lng": 106.8151808
-  },
-  {
-    "title": "B\u00fan ch\u1ea3 H\u00e0 N\u1ed9i - Ph\u00fa M\u1ef9 H\u01b0ng",
-    "address": "34 Cao Tri\u1ec1u Ph\u00e1t, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam, Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng H\u00e0n Qu\u1ed1c",
-    "location/lat": 10.7320579,
-    "location/lng": 106.709078
-  },
-  {
-    "title": "B\u00fan ch\u1ea3 H\u00e0 N\u1ed9i Xu\u00e2n T\u1ee9",
-    "address": "26A2 B\u00f9i Th\u1ecb Xu\u00e2n, Ph\u01b0\u1eddng 2, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n \u0103n nh\u1ecf, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7995669,
-    "location/lng": 106.6620785
-  },
-  {
-    "title": "B\u00fan ch\u1ea3 h\u00e0 n\u1ed9i 222",
-    "address": "02 \u0110. S\u1ed1 17, khu ph\u1ed1 6, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8375127,
-    "location/lng": 106.7249327
-  },
-  {
-    "title": "B\u00fan c\u00e1 R\u00f4 \u0111\u1ed3ng",
-    "address": "Chuy\u1ec3n v\u1ec1 t\u1eeb 205, 172 Nguy\u1ec5n C\u1eedu \u0110\u00e0m, P, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n \u0103n nh\u1ecf, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8004308,
-    "location/lng": 106.6280136
-  },
-  {
-    "title": "B\u00fan m\u1ecdc C\u1ea7u B\u00e0 T\u00e0ng Qu\u1eadn 8",
-    "address": "2429A Ph\u1ea1m Th\u1ebf Hi\u1ec3n, Ph\u01b0\u1eddng 7, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7299812,
-    "location/lng": 106.6393324
-  },
-  {
-    "title": "B\u00fan n\u01b0\u1edbc t\u00f4m b\u00f2 c\u00f4 C\u00f3",
-    "address": "H\u1ebbm 248 Tr\u1ea7n K\u1ebf X\u01b0\u01a1ng, Ph\u01b0\u1eddng 7, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8022248,
-    "location/lng": 106.6915287
-  },
-  {
-    "title": "B\u00fan th\u1ecbt n\u01b0\u1edbng Ki\u1ec1u B\u1ea3o",
-    "address": "12 \u0110. T\u00f4 Hi\u1ebfn Th\u00e0nh, Ph\u01b0\u1eddng 15, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7764502,
-    "location/lng": 106.6654471
-  },
-  {
-    "title": "B\u00fan \u0110\u1eadu C\u1ea7u G\u1ed7",
-    "address": "444 Phan X\u00edch Long, Ph\u01b0\u1eddng 2, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Khu \u0103n u\u1ed1ng",
-    "location/lat": 10.8006446,
-    "location/lng": 106.6844105
-  },
-  {
-    "title": "B\u00fan \u0110\u1eadu M\u1eafm T\u00f4m - L\u00e0ng V\u00f2ng",
-    "address": "260 T\u00e2n H\u01b0\u01a1ng, T\u00e2n Qu\u00fd, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7902583,
-    "location/lng": 106.6208881
-  },
-  {
-    "title": "B\u00fan \u0110\u1eadu X\u01b0a",
-    "address": "111B \u0110\u01b0\u1eddng s\u1ed1 79, T\u00e2n Quy, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam, Qu\u00e1n \u0103n nh\u1ecf",
-    "location/lat": 10.7402312,
-    "location/lng": 106.7084039
-  },
-  {
-    "title": "B\u00fan \u0111\u1eadu Ch\u1ecb \u0110\u1ea1i",
-    "address": "47/8 \u0110. 449, T\u0103ng Nh\u01a1n Ph\u00fa A, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1",
-    "location/lat": 10.8478772,
-    "location/lng": 106.7937646
-  },
-  {
-    "title": "B\u00fan \u0111\u1eadu M\u1eb9t",
-    "address": "554 L\u00ea V\u0103n L\u01b0\u01a1ng, T\u00e2n H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7328129,
-    "location/lng": 106.7013108
-  },
-  {
-    "title": "B\u00fan \u0111\u1eadu m\u1eafm t\u00f4m M\u1ea1c V\u0103n Khoa",
-    "address": "76 QL13, Ph\u01b0\u1eddng 26, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8120851,
-    "location/lng": 106.7126639
-  },
-  {
-    "title": "B\u00fan \u0111\u1eadu ng\u1ef1 thi\u1ec7n",
-    "address": "81 \u0110. V\u00e0nh \u0110ai T\u00e2y, Khu Ph\u1ed1 4, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.792871,
-    "location/lng": 106.735193
-  },
-  {
-    "title": "B\u01a1 B\u00e1n B\u00f2 L\u00fd T\u1ef1 Tr\u1ecdng",
-    "address": "31E L\u00fd T\u1ef1 Tr\u1ecdng, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 790000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng",
-    "location/lat": 10.7798036,
-    "location/lng": 106.7028883
-  },
-  {
-    "title": "B\u01a1 B\u00e1n B\u00f2 Ung V\u0103n Khi\u00eam",
-    "address": "100 Ung V\u0103n Khi\u00eam, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8072058,
-    "location/lng": 106.7175121
-  },
-  {
-    "title": "B\u1eadc Garden",
-    "address": "316 \u0110. \u0110\u1ed9c L\u1eadp, T\u00e2n Qu\u00fd, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.7932804,
-    "location/lng": 106.6269724
-  },
-  {
-    "title": "B\u1ebeP HO\u00c0NG - Ch\u00e1o \u1ebech - Ch\u00e1o G\u00e0 Malaysia",
-    "address": "17 Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u, Ph\u01b0\u1eddng 4, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8035724,
-    "location/lng": 106.6794733
-  },
-  {
-    "title": "B\u1ebf Bistro",
-    "address": "360B \u0110. B\u1ebfn V\u00e2n \u0110\u1ed3n, Ph\u01b0\u1eddng 1, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7551336,
-    "location/lng": 106.6911819
-  },
-  {
-    "title": "B\u1ebfn S\u00f4ng Qu\u00e1n",
-    "address": "702/53/9, \u0110. Th\u1ed1ng Nh\u1ea5t, Ph\u01b0\u1eddng 15, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8554246,
-    "location/lng": 106.6667191
-  },
-  {
-    "title": "B\u1ebfn \u0110\u00f2 C\u00e2y Me",
-    "address": "30A/30 Nguy\u1ec5n Xi\u1ec3n, Long B\u00ecnh, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8746528,
-    "location/lng": 106.8413251
-  },
-  {
-    "title": "B\u1ebfp Nh\u00e0 L\u1ee5c T\u1ec9nh",
-    "address": "37 \u0110. Nam K\u1ef3 Kh\u1edfi Ngh\u0129a, Ph\u01b0\u1eddng Nguy\u1ec5n Th\u00e1i B\u00ecnh, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.769578,
-    "location/lng": 106.7015457
-  },
-  {
-    "title": "B\u1ed9t Chi\u00ean Tr\u1ea7n Ph\u00fa",
-    "address": "11 \u0110. L\u00ea Th\u00fac Ho\u1ea1ch, Ph\u00fa Th\u1ecd Ho\u00e0, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7860979,
-    "location/lng": 106.6268304
-  },
-  {
-    "title": "B\u1edd k\u00e8 qu\u00e1n c\u1ee7a Hoan",
-    "address": "80 \u0110. 27, Hi\u1ec7p B\u00ecnh Ch\u00e1nh, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8312636,
-    "location/lng": 106.7339481
-  },
-  {
-    "title": "B\u1edd s\u00f4ng qu\u00e1n",
-    "address": "VM9X+2MM, T\u1ed5 51 Kp 3, An Ph\u00fa \u0110\u00f4ng, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8675997,
-    "location/lng": 106.6991844
-  },
-  {
-    "title": "CHIANG RAI - Nh\u00e0 H\u00e0ng Th\u00e1i",
-    "address": "710/5 \u0110. L\u0169y B\u00e1n B\u00edch, T\u00e2n Th\u00e0nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.79062,
-    "location/lng": 106.6378431
-  },
-  {
-    "title": "CHIKA - Buffet xi\u00ean s\u1ea1ch 69k",
-    "address": "6 \u0110\u01b0\u1eddng S\u1ed1 7, T\u00e2n Ki\u1ec3ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.7471099,
-    "location/lng": 106.7099412
-  },
-  {
-    "title": "CHU DIMSUM HOUSE",
-    "address": "708 \u0110. \u00c2u C\u01a1, Ph\u01b0\u1eddng 14, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.787635,
-    "location/lng": 106.641058
-  },
-  {
-    "title": "CON G\u00c0 \u0110EN",
-    "address": "\u0110. Song H\u00e0nh, T\u00e2n Xu\u00e2n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8693946,
-    "location/lng": 106.599769
-  },
-  {
-    "title": "Cafe Ng\u1eafm M\u00e1y Bay",
-    "address": "24 H\u1ebbm 389 Quang Trung, Ph\u01b0\u1eddng 10, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8302616,
-    "location/lng": 106.66872
-  },
-  {
-    "title": "Cafe S\u00e2n V\u01b0\u1eddn H\u1ed3 C\u00e1 Ch\u00f2i V\u00f5ng Home Garden C K",
-    "address": "60 \u0110\u01b0\u1eddng 36, Linh \u0110\u00f4ng, Th\u00e0nh Ph\u1ed1 Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n c\u00e0 ph\u00ea, Qu\u00e1n c\u00e0 ph\u00ea ngh\u1ec7 thu\u1eadt, Qu\u00e1n \u0103n d\u00e0nh cho tr\u1ebb em, Qu\u1ea7y c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng \u1ea9m th\u1ef1c \u0111\u1ed3ng qu\u00ea, Qu\u00e1n c\u00e0 ph\u00ea espresso, Ti\u1ec7m c\u00e0 ph\u00ea ph\u1ee5c v\u1ee5 c\u00e1c m\u00f3n tr\u00e1i c\u00e2y, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8378323,
-    "location/lng": 106.7454577
-  },
-  {
-    "title": "Cafe S\u00e2n V\u01b0\u1eddn Mi\u1ec1n Th\u1ea3o M\u1ed9c",
-    "address": "554E \u0110. Minh Ph\u1ee5ng, Ph\u01b0\u1eddng 9, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7630869,
-    "location/lng": 106.6448925
-  },
-  {
-    "title": "Caff\u00e8 Barbaro-ItalianLifestyleTaste",
-    "address": "02 Nguy\u1ec5n An, Ph\u01b0\u1eddng Th\u1ea1nh M\u1ef9 L\u1ee3i, TP Th\u1ee7 \u0111\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 71114, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Trung t\u00e2m vui ch\u01a1i d\u00e0nh cho tr\u1ebb em, Qu\u00e1n c\u00e0 ph\u00ea",
-    "location/lat": 10.7732726,
-    "location/lng": 106.75242
-  },
-  {
-    "title": "Caf\u00e9 Nh\u00e0 \u0110\u1ea5t",
-    "address": "RVF4+J4R, Long Ph\u01b0\u1edbc, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8241195,
-    "location/lng": 106.8552533
-  },
-  {
-    "title": "Callary Wedding & Events - Trung t\u00e2m Ti\u1ec7c c\u01b0\u1edbi v\u00e0 H\u1ed9i ngh\u1ecb Callary",
-    "address": "123 L\u00fd Ch\u00ednh Th\u1eafng, V\u00f5 Th\u1ecb S\u00e1u, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "\u0110\u1ecba \u0111i\u1ec3m t\u1ed5 ch\u1ee9c l\u1ec5 c\u01b0\u1edbi, Trung t\u00e2m h\u00f4\u0323i nghi\u0323, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7868327,
-    "location/lng": 106.6849431
-  },
-  {
-    "title": "Cantin",
-    "address": "RQHV+MJP, T\u0103ng Nh\u01a1n Ph\u00fa B, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cao c\u1ea5p",
-    "location/lat": 10.829213,
-    "location/lng": 106.7940856
-  },
-  {
-    "title": "Chang Kang Kung Phan \u0110\u0103ng L\u01b0u",
-    "address": "128C \u0110. Phan \u0110\u0103ng L\u01b0u, Ph\u01b0\u1eddng 3, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.8023891,
-    "location/lng": 106.6832843
-  },
-  {
-    "title": "Chay Garden Qu\u1eadn 3 - Vegetarian Restaurant & Coffee",
-    "address": "52 V\u00f5 V\u0103n T\u1ea7n, Ph\u01b0\u1eddng 6, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay, Nh\u00e0 h\u00e0ng \u0103n chay, Nh\u00e0 h\u00e0ng m\u00f3n chay",
-    "location/lat": 10.7782375,
-    "location/lng": 106.6906675
-  },
-  {
-    "title": "Cha\u0301o Dinh D\u01b0\u01a1\u0303ng T\u01b0\u01a1\u0300ng Nghi",
-    "address": "40 H\u1ebbm 440 Th\u1ed1ng Nh\u1ea5t, Ph\u01b0\u1eddng 16, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8435393,
-    "location/lng": 106.6674255
-  },
-  {
-    "title": "Cheese Pasta",
-    "address": "36/70 Nguy\u1ec5n Gia Tr\u00ed, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u00fd",
-    "location/lat": 10.803491,
-    "location/lng": 106.7165141
-  },
-  {
-    "title": "Chicken Plus 129 B\u00ecnh Th\u1edbi",
-    "address": "129 B\u00ecnh Th\u1edbi, Ph\u01b0\u1eddng 11, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.766478,
-    "location/lng": 106.6484551
-  },
-  {
-    "title": "Chicken Plus B\u00e0 Hom",
-    "address": "192 B\u00e0 Hom, Ph\u01b0\u1eddng 13, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.755498,
-    "location/lng": 106.627966
-  },
-  {
-    "title": "Chicken Plus D\u01b0\u01a1ng \u0110\u1ee9c Hi\u1ec1n",
-    "address": "24 D. \u0110\u1ee9c Hi\u1ec1n, T\u00e2y Th\u1ea1nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Qu\u00e1n g\u00e0 r\u00e1n mang \u0111i, Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.8075109,
-    "location/lng": 106.6273689
-  },
-  {
-    "title": "Chicken Plus V\u0129nh H\u1ed9i",
-    "address": "7 \u0110. V\u0129nh H\u1ed9i, Ph\u01b0\u1eddng 4, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72813, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng \u0103n nhanh, Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.7561817,
-    "location/lng": 106.7025876
-  },
-  {
-    "title": "Chidori Coffee in Bed Lam Son",
-    "address": "25a \u0110. Lam S\u01a1n, Ph\u01b0\u1eddng 2, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.8098773,
-    "location/lng": 106.666741
-  },
-  {
-    "title": "Chill's Ph\u00fa Nhu\u1eadn",
-    "address": "21T \u0110. Nguy\u1ec5n V\u0103n Tr\u1ed7i, Ph\u01b0\u1eddng 11, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7923526,
-    "location/lng": 106.6799716
-  },
-  {
-    "title": "Chillthai - thaifood",
-    "address": "41 H\u1ed3ng H\u00e0, Ph\u01b0\u1eddng 2, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Th\u00e1i Lan",
-    "location/lat": 10.8137359,
-    "location/lng": 106.6698666
-  },
-  {
-    "title": "Ch\u00e1o C\u00e1 - B\u1ea7u - Rau \u0110\u1eafng C\u1ea9m Linh",
-    "address": "Trung L\u1eadp H\u1ea1, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 11.0037802,
-    "location/lng": 106.4762014
-  },
-  {
-    "title": "Ch\u00e1o T\u1ed5 Y\u1ebfn - Ch\u00e8 Y\u1ebfn Ch\u01b0ng | B\u1ea3o S\u01a1n True Nest",
-    "address": "180 L\u00ea H\u1ed3ng Phong, Ph\u01b0\u1eddng 3, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 008428, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7587722,
-    "location/lng": 106.6778269
-  },
-  {
-    "title": "Ch\u00e1o b\u1ea7u C\u00f4 Ba N\u1eef",
-    "address": "\u0110\u01b0\u1eddng Trung \u0110\u00f4ng 7, Th\u1edbi Tam Th\u00f4n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.9049762,
-    "location/lng": 106.6163891
-  },
-  {
-    "title": "Ch\u00e1o s\u01b0\u1eddn B\u00e9 Hi\u1ec1n",
-    "address": "83 Nguy\u1ec5n X\u00ed, Ph\u01b0\u1eddng 26, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ch\u00e1o, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8141038,
-    "location/lng": 106.7055612
-  },
-  {
-    "title": "Ch\u00e1o v\u1ecbt Th\u1ea3o",
-    "address": "H\u1ebbm 2266 Hu\u1ef3nh T\u1ea5n Ph\u00e1t, Ph\u00fa Xu\u00e2n, Nh\u00e0 B\u00e8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng th\u1ecbt g\u00e0",
-    "location/lat": 10.682339,
-    "location/lng": 106.7467792
-  },
-  {
-    "title": "Ch\u00e1o \u1ebech - Ch\u00e1o Cua Singapore Mr.Nghi\u00eam",
-    "address": "55 \u0110. Nguy\u1ec5n H\u1eefu Th\u1ecd, T\u00e2n H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7473833,
-    "location/lng": 106.7022983
-  },
-  {
-    "title": "Ch\u00e2n g\u00e0 l\u1eafc l\u01b0 Emart",
-    "address": "334 Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Ph\u01b0\u1eddng 1, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8196529,
-    "location/lng": 106.6917651
-  },
-  {
-    "title": "Ch\u00e2n g\u00e0 s\u1ea3 t\u1eafc Vfood",
-    "address": "RPXM+JCV, Hi\u1ec7p B\u00ecnh Ch\u00e1nh, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8491002,
-    "location/lng": 106.7335597
-  },
-  {
-    "title": "Ch\u00fa B\u00e1n \u1ebech - Nh\u1eadu x\u1ecbn gi\u00e1 m\u1ecbn",
-    "address": "S\u1ed1 1 L\u00f4 O, \u0110. H\u01b0ng Ph\u00fa, Ph\u01b0\u1eddng 9, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7457075,
-    "location/lng": 106.6700408
-  },
-  {
-    "title": "Ch\u1ea3 C\u00e1 \u0110\u1ebf V\u01b0\u01a1ng",
-    "address": "16 \u0110. K\u1ef3 \u0110\u1ed3ng, Ph\u01b0\u1eddng 9, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n c\u00e1",
-    "location/lat": 10.7829981,
-    "location/lng": 106.6822179
-  },
-  {
-    "title": "Countryside Garden",
-    "address": "1792/5B \u0110. V\u01b0\u1eddn L\u00e0i, KP2, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8421282,
-    "location/lng": 106.6915069
-  },
-  {
-    "title": "Cow Express",
-    "address": "392 Phan X\u00edch Long, Ph\u01b0\u1eddng 2, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng M\u1ef9",
-    "location/lat": 10.7998341,
-    "location/lng": 106.6852933
-  },
-  {
-    "title": "C\u00e0 Ri G\u00e0 1357 - M\u00c3 TH\u1eaeNG VI\u00caN",
-    "address": "1357 \u0110. 3 Th\u00e1ng 2, Ph\u01b0\u1eddng 16, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng th\u1ecbt g\u00e0, Qu\u00e1n \u0103n nh\u1ecf",
-    "location/lat": 10.7576035,
-    "location/lng": 106.648761
-  },
-  {
-    "title": "C\u00e1 Vi\u00ean Chi\u00ean - Nguy\u1ec5n Xu\u00e2n Kho\u00e1t",
-    "address": "102 Nguy\u1ec5n Xu\u00e2n Kho\u00e1t, T\u00e2n Th\u00e0nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7891023,
-    "location/lng": 106.6333327
-  },
-  {
-    "title": "C\u00e2u c\u00e1 gi\u1ea3i tr\u00ed D\u0169ng - Th\u01b0",
-    "address": "Khu B \u0111\u01b0\u1eddng Nguy\u1ec5n V\u0103n Linh, \u0111\u01b0\u1eddng s\u1ed1 1 Conic Riverside, Nguy\u1ec5n V\u0103n Linh, Ph\u01b0\u1eddng 7, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.7192123,
-    "location/lng": 106.6377246
-  },
-  {
-    "title": "C\u00e2u l\u1ea1c b\u1ed9 Lan Anh",
-    "address": "291 \u0110. C\u00e1ch M\u1ea1ng Th\u00e1ng 8, Ph\u01b0\u1eddng 12, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "C\u00e2u l\u1ea1c b\u1ed9 th\u1ec3 thao, C\u00e2u l\u1ea1c b\u1ed9 th\u1ec3 d\u1ee5c, Khu b\u1ec3 b\u01a1i, Nh\u00e0 h\u00e0ng, B\u1ec3 b\u01a1i",
-    "location/lat": 10.778826,
-    "location/lng": 106.6778972
-  },
-  {
-    "title": "C\u00f4 Ba Qu\u00e1n",
-    "address": "375 V\u0129nh Kh\u00e1nh, Ph\u01b0\u1eddng 8, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u1ea9m th\u1ef1c \u0111\u1ed3ng qu\u00ea",
-    "location/lat": 10.7617534,
-    "location/lng": 106.7022837
-  },
-  {
-    "title": "C\u00f4n S\u01a1n Restaurant & Lounge",
-    "address": "80-84 Tr\u1ea7n Qu\u1ed1c Th\u1ea3o, V\u00f5 Th\u1ecb S\u00e1u, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1, Nh\u00e0 h\u00e0ng Ch\u00e2u \u00c2u, Nh\u00e0 h\u00e0ng cao c\u1ea5p, Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.7843201,
-    "location/lng": 106.6850108
-  },
-  {
-    "title": "C\u0103n tin Ch\u00f9a B\u1eedu Long",
-    "address": "23B Nguy\u1ec5n Xi\u1ec3n, Long B\u00ecnh, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.8793382,
-    "location/lng": 106.8359767
-  },
-  {
-    "title": "C\u01a0M NI\u00caU SIM FOOD - CN G\u00d2 V\u1ea4P",
-    "address": "2 Ph\u1ea1m Huy Th\u00f4ng, Ph\u01b0\u1eddng 7, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8316407,
-    "location/lng": 106.679795
-  },
-  {
-    "title": "C\u01a0M TH\u1ed0 TI\u1ebeN PH\u00c1T",
-    "address": "235 Nguy\u1ec5n V\u0103n L\u01b0\u1ee3ng, Ph\u01b0\u1eddng 10, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72413, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng c\u01a1m",
-    "location/lat": 10.8384745,
-    "location/lng": 106.6727974
-  },
-  {
-    "title": "C\u01a1m Chay Ho\u00e0ng Kim",
-    "address": "348 \u0110. L\u00ea Tr\u1ecdng T\u1ea5n, S\u01a1n K\u1ef3, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.8080262,
-    "location/lng": 106.6200729
-  },
-  {
-    "title": "C\u01a1m Chay T\u1ecbnh \u0110\u1ed9",
-    "address": "140 Vo\u0303 Duy Ninh, Ph\u01b0\u1eddng 22, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay",
-    "location/lat": 10.7907311,
-    "location/lng": 106.7172972
-  },
-  {
-    "title": "C\u01a1m Chay di\u1ec7u thi\u1ec7n",
-    "address": "23, Nguy\u1ec5n X\u00ed, Ph\u01b0\u1eddng 26, Qu\u1eadn B\u00ecnh Th\u1ea1nh, Th\u00e0nh Ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Th\u00e0nh Ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Ph\u01b0\u1eddng 26, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay, Nh\u00e0 h\u00e0ng c\u01a1m",
-    "location/lat": 10.8108613,
-    "location/lng": 106.7115895
-  },
-  {
-    "title": "C\u01a1m G\u00e0 Th\u01b0\u1ee3ng H\u1ea3i",
-    "address": "21 V\u00f5 V\u0103n T\u1ea7n, Ph\u01b0\u1eddng 6, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7779894,
-    "location/lng": 106.6920106
-  },
-  {
-    "title": "C\u01a1m G\u00e0 X\u1ed1i M\u1ee1 Anh Ba - C\u1ed1ng L\u1ee1",
-    "address": "129A \u0110. Tr\u1ea7n Th\u1ecb Tr\u1ecdng, Ph\u01b0\u1eddng 15, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8271574,
-    "location/lng": 106.6381681
-  },
-  {
-    "title": "C\u01a1m Ni\u00eau Thi\u00ean L\u00fd - Ho\u00e0ng Hoa Th\u00e1m",
-    "address": "134c Ho\u00e0ng Hoa Th\u00e1m, Ph\u01b0\u1eddng 12, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8009996,
-    "location/lng": 106.6475105
-  },
-  {
-    "title": "C\u01a1m Qu\u00ea M\u01b0\u1eddi Kh\u00f3 2",
-    "address": "8 \u0110. Nguy\u1ec5n V\u0103n Tr\u1ed7i, Ph\u01b0\u1eddng 17, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7923223,
-    "location/lng": 106.6814649
-  },
-  {
-    "title": "C\u01a1m T\u1ea5m B\u1ee5i S\u00e0i G\u00f2n",
-    "address": "100 Th\u1ea1ch Th\u1ecb Thanh, Ph\u01b0\u1eddng T\u00e2n \u0110\u1ecbnh, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng c\u01a1m",
-    "location/lat": 10.7909414,
-    "location/lng": 106.6914856
-  },
-  {
-    "title": "C\u01a1m T\u1ea5m H\u1ed3ng Ph\u00e1t",
-    "address": "570A \u0110. H\u1ed3ng B\u00e0ng, Ph\u01b0\u1eddng 16, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng c\u01a1m",
-    "location/lat": 10.7540835,
-    "location/lng": 106.646125
-  },
-  {
-    "title": "C\u01a1m T\u1ea5m Ph\u00fac L\u1ed9c Th\u1ecd",
-    "address": "152 Hu\u1ef3nh Thi\u1ec7n L\u1ed9c, Ph\u00fa Trung, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1",
-    "location/lat": 10.778988,
-    "location/lng": 106.6400147
-  },
-  {
-    "title": "C\u01a1m T\u1ea5m Ph\u00fac L\u1ed9c Th\u1ecd - L\u00fd Th\u01b0\u1eddng Ki\u1ec7t",
-    "address": "144 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 14, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng c\u01a1m",
-    "location/lat": 10.7641046,
-    "location/lng": 106.6600917
-  },
-  {
-    "title": "C\u01a1m T\u1ea5m Ph\u00fac L\u1ed9c Th\u1ecd - N\u01a1 Trang Long",
-    "address": "478 N\u01a1 Trang Long, Ph\u01b0\u1eddng 13, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72311, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8199742,
-    "location/lng": 106.703917
-  },
-  {
-    "title": "C\u01a1m T\u1ea5m S\u00e0 B\u00ec Ch\u01b0\u1edfng - Tr\u1ea7n B\u00ecnh Tr\u1ecdng",
-    "address": "179 \u0110. Tr\u1ea7n B\u00ecnh Tr\u1ecdng, Ph\u01b0\u1eddng 3, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.758552,
-    "location/lng": 106.6804491
-  },
-  {
-    "title": "C\u01a1m T\u1ea5m Tuy\u1ebft C\u00e2y G\u00f5",
-    "address": "933 \u0110. H\u1ed3ng B\u00e0ng, Ph\u01b0\u1eddng 9, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7544235,
-    "location/lng": 106.6394626
-  },
-  {
-    "title": "C\u01a1m chay Ph\u01b0\u1edbc \u0110\u1ee9c",
-    "address": "19 \u0110\u01b0\u1eddng s\u1ed1 79, T\u00e2n Quy, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7396338,
-    "location/lng": 106.7123023
-  },
-  {
-    "title": "C\u01a1m g\u00e0 Nha Trang",
-    "address": "313 B\u00f9i \u0110\u00ecnh Tu\u00fd, Ph\u01b0\u1eddng 24, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 84800, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8074245,
-    "location/lng": 106.700122
-  },
-  {
-    "title": "C\u01a1m g\u00e0 Tacayo - 223 X\u00f4 Vi\u1ebft Ngh\u1ec7 T\u0129nh",
-    "address": "223 X\u00f4 Vi\u1ebft Ngh\u1ec7 T\u0129nh, Ph\u01b0\u1eddng 17, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng th\u1ecbt g\u00e0",
-    "location/lat": 10.800226,
-    "location/lng": 106.710993
-  },
-  {
-    "title": "C\u01a1m g\u00e0 da gi\u00f2n Anh Th\u01b0 - t\u1eeb n\u0103m 2002",
-    "address": "H\u1ebbm L\u00ea Th\u00fac Ho\u1ea1ch, Ph\u00fa Th\u1ecd Ho\u00e0, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.785878,
-    "location/lng": 106.6302695
-  },
-  {
-    "title": "C\u01a1m g\u00e0 x\u1ed1i m\u1ee1 54",
-    "address": "H\u1ebbm Ch\u00f9a V\u0103n Th\u00e1nh S\u1ed1 107 x\u1eb9t, 52 Ng. T\u1ea5t T\u1ed1, Ph\u01b0\u1eddng 22, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.7929617,
-    "location/lng": 106.7137828
-  },
-  {
-    "title": "C\u01a1m g\u00e0 x\u1ed1i m\u1ee1 Su Su",
-    "address": "117/1D \u0110. C\u1ed1ng Qu\u1ef3nh, Ph\u01b0\u1eddng Nguy\u1ec5n C\u01b0 Trinh, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.7652059,
-    "location/lng": 106.689606
-  },
-  {
-    "title": "C\u01a1m ni\u00eau Thi\u00ean L\u00fd",
-    "address": "74 Nguy\u1ec5n Th\u1ecb Th\u1eadp, Khu \u0111\u00f4 th\u1ecb Him Lam, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.741221,
-    "location/lng": 106.6972631
-  },
-  {
-    "title": "C\u01a1m qu\u00ea M\u01b0\u1eddi Kh\u00f3",
-    "address": "27 Tr\u1ea7n Qu\u1ed1c Th\u1ea3o, Ph\u01b0\u1eddng 6, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7788008,
-    "location/lng": 106.6907882
-  },
-  {
-    "title": "C\u01a1m x\u00e1 x\u00edu V\u0129nh T\u00e2m",
-    "address": "649 Tr\u1ea7n Xu\u00e2n So\u1ea1n, T\u00e2n Ki\u1ec3ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Trung Qu\u1ed1c, Th\u1ee9c \u0103n mang v\u1ec1 Trung Qu\u1ed1c",
-    "location/lat": 10.7516516,
-    "location/lng": 106.7034533
-  },
-  {
-    "title": "C\u1ed5 Th\u1ee5 Qu\u00e1n",
-    "address": "545 Nguy\u1ec5n Xi\u1ec3n, Long Th\u1ea1nh M\u1ef9, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8365211,
-    "location/lng": 106.8299037
-  },
-  {
-    "title": "C\u1ee5c Than Bistro",
-    "address": "306 Nguy\u1ec5n Th\u01b0\u1ee3ng Hi\u1ec1n, Ph\u01b0\u1eddng 5, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8060838,
-    "location/lng": 106.6850866
-  },
-  {
-    "title": "C\u1eeda H\u00e0ng C\u00e0 Ph\u00ea Hoa Nguy\u00ean",
-    "address": "30/1, L\u00ea V\u0103n L\u01b0\u01a1ng, Ph\u01b0\u1eddng T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh Ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Th\u00e0nh Ph\u1ed1 H\u1ed3 Ch\u00ed Minh, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7279775,
-    "location/lng": 106.6993434
-  },
-  {
-    "title": "C\u1eeda H\u00e0ng C\u01a1m T\u1ea5m C\u00e2y Kh\u1ebf",
-    "address": "350 Nguy\u1ec5n Oanh, Ph\u01b0\u1eddng 17, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8407974,
-    "location/lng": 106.6763929
-  },
-  {
-    "title": "C\u1eeda H\u00e0ng M\u1ef3 Cay Larva",
-    "address": "460 \u0110. L\u00ea V\u0103n S\u1ef9, Ph\u01b0\u1eddng 2, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.7997221,
-    "location/lng": 106.6610981
-  },
-  {
-    "title": "C\u1eeda h\u00e0ng KFC Phan V\u0103n H\u1edbn",
-    "address": "53/3, \u0110\u01b0\u1eddng Phan V\u0103n H\u1edbn, \u1ea4p Ti\u1ec1n L\u00e2n, 53 Phan V\u0103n H\u1edbn, B\u00e0 \u0110i\u1ec3m, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng M\u1ef9",
-    "location/lat": 10.8364526,
-    "location/lng": 106.6036605
-  },
-  {
-    "title": "C\u1eedu Long Qu\u00e1n",
-    "address": "76 B\u00f9i H\u1eefu Ngh\u0129a, Ph\u01b0\u1eddng 7, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7539942,
-    "location/lng": 106.6747605
-  },
-  {
-    "title": "C\u1eedu Long Qu\u00e1n Tr\u1ea7n Xu\u00e2n Ho\u00e0",
-    "address": "2-4 Tr\u1ea7n Xu\u00e2n Ho\u00e0, Ph\u01b0\u1eddng 7, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7528885,
-    "location/lng": 106.6673635
-  },
-  {
-    "title": "D7 Chill",
-    "address": "55 \u0110. S\u1ed1 65, Khu \u0111\u1ecbnh c\u01b0 T\u00e2n Quy \u0110\u00f4ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng qu\u00e1n r\u01b0\u1ee3u d\u00e0nh cho ng\u01b0\u1eddi s\u00e0nh \u0103n",
-    "location/lat": 10.7370316,
-    "location/lng": 106.7066119
-  },
-  {
-    "title": "Daiichi Ramen & Curry B\u00ecnh Th\u1ea1nh",
-    "address": "113 Nguy\u1ec5n C\u00f4ng Tr\u1ee9, Ph\u01b0\u1eddng 19, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 71000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00ec Nh\u1eadt B\u1ea3n, Nh\u00e0 h\u00e0ng ca ri Nh\u1eadt B\u1ea3n, M\u00f3n ngon Nh\u1eadt B\u1ea3n, Qu\u00e1n m\u00ec soba",
-    "location/lat": 10.792906,
-    "location/lng": 106.7103379
-  },
-  {
-    "title": "Dim Tu Tac Restaurant",
-    "address": "29B \u0110. Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ph\u01b0\u1eddng 6, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0111i\u1ec3m t\u00e2m",
-    "location/lat": 10.752732,
-    "location/lng": 106.671303
-  },
-  {
-    "title": "Dntn Nh\u00e0 H\u00e0ng Th\u1ea1nh Ph\u00fa",
-    "address": "52 B\u00ecnh Ph\u00fa, Street, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8550356,
-    "location/lng": 106.7408997
-  },
-  {
-    "title": "Dodo Pizza Th\u1ed1ng Nh\u1ea5t",
-    "address": "317 \u0110. Th\u1ed1ng Nh\u1ea5t, Ph\u01b0\u1eddng 16, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 740500, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng pizza",
-    "location/lat": 10.839654,
-    "location/lng": 106.6652719
-  },
-  {
-    "title": "Domino's Pizza",
-    "address": "289 Nguy\u1ec5n S\u01a1n, P, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng pizza",
-    "location/lat": 10.783662,
-    "location/lng": 106.6234379
-  },
-  {
-    "title": "Domino's Pizza Li\u00ean T\u1ec9nh 5",
-    "address": "240 QL50, Ph\u01b0\u1eddng 6, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng pizza",
-    "location/lat": 10.73598,
-    "location/lng": 106.655919
-  },
-  {
-    "title": "Domino's Pizza L\u00ea V\u0103n Kh\u01b0\u01a1ng",
-    "address": "291 L\u00ea V\u0103n Kh\u01b0\u01a1ng, Hi\u1ec7p Th\u00e0nh, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng pizza",
-    "location/lat": 10.8699745,
-    "location/lng": 106.6491301
-  },
-  {
-    "title": "Domino's Pizza Nguy\u1ec5n Ki\u1ec7m",
-    "address": "736A \u0110. Nguy\u1ec5n Ki\u1ec7m, Ph\u01b0\u1eddng 4, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng pizza",
-    "location/lat": 10.8078984,
-    "location/lng": 106.678694
-  },
-  {
-    "title": "Domino's Pizza \u0110\u01b0\u1eddng Phan Huy \u00cdch",
-    "address": "7 Phan Huy \u00cdch, Ph\u01b0\u1eddng 15, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng pizza",
-    "location/lat": 10.8237316,
-    "location/lng": 106.6298119
-  },
-  {
-    "title": "Don Chicken Vinhomes",
-    "address": "Park 2 Sh01, 720A \u0110. \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Vinhomes T\u00e2n C\u1ea3ng, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.7916651,
-    "location/lng": 106.7219796
-  },
-  {
-    "title": "Dookki",
-    "address": "139- 141, Nguy\u1ec5n Gia Tr\u00ed, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.8048629,
-    "location/lng": 106.715701
-  },
-  {
-    "title": "Doya Jjambbong",
-    "address": "545 \u0110. Phan V\u0103n Tr\u1ecb, Ph\u01b0\u1eddng 5, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.82518,
-    "location/lng": 106.6901915
-  },
-  {
-    "title": "D\u00ea H\u01b0\u01a1ng S\u01a1n",
-    "address": "81/1 \u0110. 12, Khu ph\u1ed1 3, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.788982,
-    "location/lng": 106.7312987
-  },
-  {
-    "title": "D\u00ea H\u1ea3i K\u00fd",
-    "address": "H\u1ebbm 276/31 Th\u1ed1ng Nh\u1ea5t, Ph\u01b0\u1eddng 16, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.839999,
-    "location/lng": 106.6669434
-  },
-  {
-    "title": "D\u00ea N\u00fai B\u00ecnh Thu\u1eadn",
-    "address": "55 Nguy\u1ec5n \u0110\u1ee9c Thu\u1eadn, Ph\u01b0\u1eddng 13, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8056815,
-    "location/lng": 106.6411635
-  },
-  {
-    "title": "D\u00ea t\u01b0\u01a1i 368",
-    "address": "377 \u0110. Ph\u1ea1m Th\u1ecb Gi\u00e2y, Th\u1edbi Tam Th\u00f4n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8855214,
-    "location/lng": 106.6078329
-  },
-  {
-    "title": "D\u1ecaCH V\u1ee4 N\u1ea4U \u0102N \u00daT \u0110UA",
-    "address": "0938/3G T\u1ed5 54 KP3, An Ph\u00fa \u0110\u00f4ng, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8675146,
-    "location/lng": 106.697928
-  },
-  {
-    "title": "Eddie's (District 7) - New York Deli & Diner",
-    "address": "408 Ph\u1ea1m Th\u00e1i B\u01b0\u1eddng, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng M\u1ef9",
-    "location/lat": 10.7274799,
-    "location/lng": 106.7079411
-  },
-  {
-    "title": "Food In Box",
-    "address": "H\u1ebbm 285B, Ph\u1ea1m V\u0103n Chi\u00eau, Ph\u01b0\u1eddng 9, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.850348,
-    "location/lng": 106.6509243
-  },
-  {
-    "title": "GoGi House",
-    "address": "129-131 \u0110. Nguy\u1ec5n H\u1ed3ng \u0110\u00e0o, Ph\u01b0\u1eddng 14, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng H\u00e0n Qu\u1ed1c",
-    "location/lat": 10.7943008,
-    "location/lng": 106.6427241
-  },
-  {
-    "title": "GoGi House B\u00e0 Hom",
-    "address": "73B B\u00e0 Hom, Ph\u01b0\u1eddng 13, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng H\u00e0n Qu\u1ed1c",
-    "location/lat": 10.7543178,
-    "location/lng": 106.6326023
-  },
-  {
-    "title": "GoGi House L\u00e3nh Binh Th\u0103ng",
-    "address": "323-325 L\u00e3nh Binh Th\u0103ng, Ph\u01b0\u1eddng 8, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng H\u00e0n Qu\u1ed1c",
-    "location/lat": 10.764555,
-    "location/lng": 106.6475169
-  },
-  {
-    "title": "GoGi House Tr\u01b0\u1eddng S\u01a1n",
-    "address": "14 Tr\u01b0\u1eddng S\u01a1n, Ph\u01b0\u1eddng 2, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng H\u00e0n Qu\u1ed1c",
-    "location/lat": 10.807745,
-    "location/lng": 106.664902
-  },
-  {
-    "title": "GoGi House T\u00e2n S\u01a1n Nh\u00ec",
-    "address": "42-44-46-68, T\u00e2n S\u01a1n Nh\u00ec, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 80000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng H\u00e0n Qu\u1ed1c",
-    "location/lat": 10.802534,
-    "location/lng": 106.6348704
-  },
-  {
-    "title": "Gold palace",
-    "address": "329 N\u01a1 Trang Long, Ph\u01b0\u1eddng 13, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72300, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8191345,
-    "location/lng": 106.7009696
-  },
-  {
-    "title": "G\u00e0 180 \u0110\u1ed8",
-    "address": "RRVQ+FJ7, Nguy\u1ec5n Xi\u1ec3n, Long Th\u1ea1nh M\u1ef9, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng th\u1ecbt g\u00e0",
-    "location/lat": 10.8436725,
-    "location/lng": 106.8390463
-  },
-  {
-    "title": "G\u00e0 C\u01a1 B\u1eafp 1 - Chuy\u00ean c\u00e1c m\u00f3n g\u00e0",
-    "address": "171B Tr\u1ea7n V\u0103n \u0110ang, Ph\u01b0\u1eddng 11, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng th\u1ecbt g\u00e0",
-    "location/lat": 10.7843739,
-    "location/lng": 106.673221
-  },
-  {
-    "title": "G\u00e0 H\u1ea5p H\u00e8m 34",
-    "address": "34 Nguy\u1ec5n Th\u1ecb Th\u1eed, Xu\u00e2n Th\u1edbi S\u01a1n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng th\u1ecbt g\u00e0",
-    "location/lat": 10.8678404,
-    "location/lng": 106.5791549
-  },
-  {
-    "title": "G\u00e0 N\u01b0\u1edbng- C\u01a1m Lam- G\u00e0 \u1ee6 Mu\u1ed1i Hoa Ti\u00eau M\u1ed9c An Nhi\u00ean",
-    "address": "66/2 S\u1ed1 2, Hi\u1ec7p B\u00ecnh Ph\u01b0\u1edbc, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8469381,
-    "location/lng": 106.7232145
-  },
-  {
-    "title": "G\u00e0 R\u00e1n K- JEJU CHICKEN- CN B\u00ccNH TH\u1ea0NH",
-    "address": "222 \u0110\u01b0\u1eddng D5, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72300, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Qu\u00e1n g\u00e0 r\u00e1n mang \u0111i",
-    "location/lat": 10.805475,
-    "location/lng": 106.7169449
-  },
-  {
-    "title": "G\u00e0 Th\u1ee7y",
-    "address": "14/12 \u0110o\u00e0n V\u0103n B\u01a1, Ph\u01b0\u1eddng 16, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7559806,
-    "location/lng": 106.7154663
-  },
-  {
-    "title": "G\u00e0 h\u1ea5p h\u00e8m N\u0103m M\u1eadp",
-    "address": "9/4c \u0110 Ph\u1ea1m Th\u1ecb Hy, B\u00e0 \u0110i\u1ec3m, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8524291,
-    "location/lng": 106.6002525
-  },
-  {
-    "title": "G\u00e0nh H\u00e0o Q.9",
-    "address": "524 L\u00ea V\u0103n Vi\u1ec7t, Long Th\u1ea1nh M\u1ef9, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8490444,
-    "location/lng": 106.8100485
-  },
-  {
-    "title": "HANA YA SHIKI",
-    "address": "47 \u0110\u01b0\u1eddng S\u1ed1 3, KDC Cityland Park Hills, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.835458,
-    "location/lng": 106.6704127
-  },
-  {
-    "title": "HAPPYFOOD M\u1ef3 Cay - Tokbokki & C\u01a1m Tr\u1ed9n",
-    "address": "162/98 Nguy\u1ec5n Duy Cung, Ph\u01b0\u1eddng 12, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.8368097,
-    "location/lng": 106.6420316
-  },
-  {
-    "title": "HOME Saigon - HOME Vietnamese Restaurant",
-    "address": "216/4 \u0110. \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, V\u00f5 Th\u1ecb S\u00e1u, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.7828343,
-    "location/lng": 106.6899003
-  },
-  {
-    "title": "Hai Ch\u00e2u B\u00ecnh M\u1ef9",
-    "address": "8/1 \u0110\u01b0\u1eddng 162 \u1ea4p 5, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.9358536,
-    "location/lng": 106.6437627
-  },
-  {
-    "title": "Haidilao Hot Pot",
-    "address": "101 \u0110 T\u00f4n D\u1eadt Ti\u00ean, T\u00e2n Ph\u00fa, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 10.7294121,
-    "location/lng": 106.7191013
-  },
-  {
-    "title": "Haidilao Hot Pot \u6d77\u5e95\u635e\u706b\u9505 Estella",
-    "address": "TTTM Estella Place, 88 Song H\u00e0nh, An Ph\u00fa, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 10.8018536,
-    "location/lng": 106.7493055
-  },
-  {
-    "title": "Haidilao Vi\u1ec7t Nam",
-    "address": "172A L\u1ea1c Long Qu\u00e2n, Ph\u01b0\u1eddng 8, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7791616,
-    "location/lng": 106.6499385
-  },
-  {
-    "title": "HanKang BBQ - 68 D\u01b0\u01a1ng \u0110\u00ecnh H\u1ed9i",
-    "address": "68 D\u01b0\u01a1ng \u0110\u00ecnh H\u1ed9i, Ph\u01b0\u1edbc Long B, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.8194108,
-    "location/lng": 106.7782309
-  },
-  {
-    "title": "Hana Buffet",
-    "address": "243 \u0110. \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 6, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ti\u1ec7c \u0111\u1ee9ng",
-    "location/lat": 10.7834847,
-    "location/lng": 106.6910313
-  },
-  {
-    "title": "Hana Buffet T\u00e2n Ph\u00fa",
-    "address": "204-206, T\u00e2n S\u01a1n Nh\u00ec, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 760400, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ti\u1ec7c \u0111\u1ee9ng",
-    "location/lat": 10.7988466,
-    "location/lng": 106.6318016
-  },
-  {
-    "title": "Hangu - \u0102n V\u1eb7t H\u00e0n Qu\u1ed1c",
-    "address": "164/17B, B\u00f9i Quang L\u00e0, Ph\u01b0\u1eddng 12, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.8330063,
-    "location/lng": 106.6414249
-  },
-  {
-    "title": "Hanuri Korean fast food - X\u00f4 Vi\u1ebft Ngh\u1ec7 T\u0129nh",
-    "address": "121 X\u00f4 Vi\u1ebft Ngh\u1ec7 T\u0129nh, Ph\u01b0\u1eddng 17, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.7944207,
-    "location/lng": 106.7087411
-  },
-  {
-    "title": "Hanuri Phan V\u0103n Tr\u1ecb",
-    "address": "530-532 \u0110. Phan V\u0103n Tr\u1ecb, Ph\u01b0\u1eddng 7, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.829838,
-    "location/lng": 106.6811835
-  },
-  {
-    "title": "Happy Lamb Hotpot Vietnam",
-    "address": "329 \u0110. Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ph\u01b0\u1eddng C\u00f4 Giang, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7618244,
-    "location/lng": 106.6902509
-  },
-  {
-    "title": "Haru Sushi Ph\u00fa Nhu\u1eadn",
-    "address": "211 - 213 Phan X\u00edch Long, Ph\u01b0\u1eddng 2, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng sushi, Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.79873,
-    "location/lng": 106.6867887
-  },
-  {
-    "title": "Haru Sushi Qu\u1eadn 7",
-    "address": "458 Nguy\u1ec5n Th\u1ecb Th\u1eadp, T\u00e2n Quy, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng sushi",
-    "location/lat": 10.7394396,
-    "location/lng": 106.7072969
-  },
-  {
-    "title": "Here & Now Vegetarian (Open kitchen & chill)",
-    "address": "220/12 Nguy\u1ec5n Tr\u1ecdng Tuy\u1ec3n, Ph\u01b0\u1eddng 8, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n chay",
-    "location/lat": 10.798405,
-    "location/lng": 106.673836
-  },
-  {
-    "title": "Hoa T\u00fac Saigon",
-    "address": "74/7 Hai B\u00e0 Tr\u01b0ng, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.778463,
-    "location/lng": 106.7035736
-  },
-  {
-    "title": "Hoa Vi\u00ean 979",
-    "address": "979 Nguy\u1ec5n Xi\u1ec3n, Long B\u00ecnh, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8572215,
-    "location/lng": 106.8341482
-  },
-  {
-    "title": "Hoa Vi\u00ean Craft Brewery",
-    "address": "H\u1ebbm 18 Bis/30A1, \u0110. Nguy\u1ec5n Th\u1ecb Minh Khai, \u0110a Kao, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n bia, Khu v\u1ef1c ph\u1ee5c v\u1ee5 bia, Nh\u00e0 m\u00e1y bia, Nh\u00e0 h\u00e0ng S\u00e9c, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7858744,
-    "location/lng": 106.6992178
-  },
-  {
-    "title": "Hoa Vi\u00ean C\u00fac Linh",
-    "address": "41 \u0110\u01b0\u1eddng S\u1ed1 16, Long Th\u1ea1nh M\u1ef9, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8397601,
-    "location/lng": 106.8236129
-  },
-  {
-    "title": "Hoa Vi\u00ean Qu\u00e1n 102",
-    "address": "39/79C \u0110. S\u1ed1 102, T\u0103ng Nh\u01a1n Ph\u00fa A, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8373801,
-    "location/lng": 106.78918
-  },
-  {
-    "title": "Hoa Vi\u00ean Ti\u1ec7c C\u01b0\u1edbi Ba D\u1ea9u",
-    "address": "40/12A \u0110. Th\u1ea1nh L\u1ed9c 15, Th\u1ea1nh L\u1ed9c, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8624482,
-    "location/lng": 106.6849068
-  },
-  {
-    "title": "Hoang Yen Vietnamese Cuisine",
-    "address": "H\u1ed3 B\u00e1n Nguy\u1ec7t PMH, 103 \u0110 T\u00f4n D\u1eadt Ti\u00ean, T\u00e2n Ph\u00fa, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.7275389,
-    "location/lng": 106.7196056
-  },
-  {
-    "title": "Hotel Continental Saigon",
-    "address": "134 \u0110. \u0110\u1ed3ng Kh\u1edfi, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Kh\u00e1ch s\u1ea1n, Trung t\u00e2m h\u00f4\u0323i nghi\u0323, Nh\u00e0 h\u00e0ng Ph\u00e1p, Nh\u00e0 t\u1ed5 ch\u1ee9c bu\u1ed5i ti\u1ec7c, Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam, \u0110\u1ecba \u0111i\u1ec3m t\u1ed5 ch\u1ee9c l\u1ec5 c\u01b0\u1edbi",
-    "location/lat": 10.7768963,
-    "location/lng": 106.7026553
-  },
-  {
-    "title": "Ho\u00e0ng Ty Premium Restaurant",
-    "address": "33 \u0110\u01b0\u1eddng s\u1ed1 41, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.737428,
-    "location/lng": 106.71109
-  },
-  {
-    "title": "Huy\u1ec1n v\u1ecbt",
-    "address": "12G B\u1ea1ch \u0110\u1eb1ng, P.2, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8155233,
-    "location/lng": 106.6699547
-  },
-  {
-    "title": "Hu\u1ef3nh Th\u1ea3o Center",
-    "address": "114 L\u00ea Th\u1ecb H\u00e0, T\u00e2n Xu\u00e2n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8769862,
-    "location/lng": 106.5990993
-  },
-  {
-    "title": "H\u00e0ng D\u01b0\u01a1ng Qu\u00e1n",
-    "address": "132 \u0110. S\u1ed1 65, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7356121,
-    "location/lng": 106.7059747
-  },
-  {
-    "title": "H\u00e0ng D\u01b0\u01a1ng Sakura",
-    "address": "16 S\u1ed1 77, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 00000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ed7n h\u1ee3p",
-    "location/lat": 10.7356651,
-    "location/lng": 106.7051916
-  },
-  {
-    "title": "H\u00e0o s\u1eefa Ph\u00e1p",
-    "address": "96 L\u00ea V\u0103n L\u01b0\u01a1ng, T\u00e2n H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.749687,
-    "location/lng": 106.7048329
-  },
-  {
-    "title": "H\u00e0u 5k",
-    "address": "75 Nguy\u1ec5n Qu\u00fd Anh, T\u00e2n S\u01a1n Nh\u00ec, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1ee5c v\u1ee5 s\u00f2",
-    "location/lat": 10.8000471,
-    "location/lng": 106.6274046
-  },
-  {
-    "title": "H\u00e0u Anh \u0110en",
-    "address": "50 Phan Anh, T\u00e2n Th\u1edbi Ho\u00e0, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 73100, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7612028,
-    "location/lng": 106.6243989
-  },
-  {
-    "title": "H\u01b0\u01a1ng Th\u1ea3o Qu\u00e1n",
-    "address": "22/143 Long Thu\u1eadn, Long Ph\u01b0\u1edbc, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8147208,
-    "location/lng": 106.8627515
-  },
-  {
-    "title": "H\u1ea2I S\u1ea2N B\u00cd BO",
-    "address": "160 D\u01b0\u01a1ng B\u1ea1ch Mai, Ph\u01b0\u1eddng 5, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7377886,
-    "location/lng": 106.6654635
-  },
-  {
-    "title": "H\u1ea3i S\u1ea3n Ho\u00e0ng Gia CN Qu\u1eadn 7",
-    "address": "103A Nguy\u1ec5n Th\u1ecb Th\u1eadp, T\u00e2n Ph\u00fa, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72908, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n, Ch\u1ee3 h\u1ea3i s\u1ea3n, Si\u00eau th\u1ecb",
-    "location/lat": 10.737856,
-    "location/lng": 106.7212787
-  },
-  {
-    "title": "H\u1ea3i S\u1ea3n H\u00f2n Th\u01a1m",
-    "address": "6 \u0110. L\u00ea Tr\u1ecdng T\u1ea5n, T\u00e2y Th\u1ea1nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8038832,
-    "location/lng": 106.632755
-  },
-  {
-    "title": "H\u1ea3i S\u1ea3n Li\u00ean Ph\u01b0\u1eddng Q9",
-    "address": "137 \u0110. Li\u00ean Ph\u01b0\u1eddng, P, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8077108,
-    "location/lng": 106.7849633
-  },
-  {
-    "title": "H\u1ea3i S\u1ea3n T\u01b0\u01a1i S\u1ea1ch 247",
-    "address": "166A \u0110\u1ed7 B\u00ed, Ph\u00fa Th\u1ea1nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, C\u1eeda h\u00e0ng th\u1ef1c ph\u1ea9m \u0111\u00f4ng l\u1ea1nh, Ch\u1ee3 h\u1ea3i s\u1ea3n, Nh\u00e0 b\u00e1n bu\u00f4n h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7801536,
-    "location/lng": 106.6226226
-  },
-  {
-    "title": "H\u1ea3i S\u1ea3n Vinsea",
-    "address": "18 \u0110\u01b0\u1eddng C12, \u0110. C\u1ed9ng H\u00f2a, Ph\u01b0\u1eddng 13, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n, Nh\u00e0 b\u00e1n bu\u00f4n h\u1ea3i s\u1ea3n",
-    "location/lat": 10.8067371,
-    "location/lng": 106.6375596
-  },
-  {
-    "title": "H\u1ea3i s\u1ea3n H\u1ea3i Ch\u00e2u Nguy\u1ec5n H\u1eefu C\u1ea3nh",
-    "address": "67 \u0110. Nguy\u1ec5n H\u1eefu C\u1ea3nh, Ph\u01b0\u1eddng 22, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n, Khu \u0103n u\u1ed1ng, Nh\u00e0 h\u00e0ng, Ch\u1ee3 h\u1ea3i s\u1ea3n, Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.7920608,
-    "location/lng": 106.7179183
-  },
-  {
-    "title": "H\u1ea3i s\u1ea3n \u0111\u1ed3ng qu\u00ea Qu\u00e1n Tr\u00f2n Vo",
-    "address": "S\u1ed1 18 \u0111\u01b0\u1eddng 270, KCD, Nam H\u00f2a, Ph\u01b0\u1edbc Long A, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.8218674,
-    "location/lng": 106.7691434
-  },
-  {
-    "title": "H\u1ebbm Kitchen - B\u1ebfp H\u1ebbm - Thai Food",
-    "address": "157.36 Nguy\u1ec5n Gia Tr\u00ed, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Th\u00e1i Lan, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8057781,
-    "location/lng": 106.714568
-  },
-  {
-    "title": "H\u1ec7 th\u1ed1ng C\u01a1m G\u00e0 Th\u1ea1ch Lam - thachlamchicken.com",
-    "address": "217 Th\u1ea1ch Lam, Ph\u00fa Th\u1ea1nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n \u0103n nh\u1ecf, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7786119,
-    "location/lng": 106.6253562
-  },
-  {
-    "title": "H\u1ec7 th\u1ed1ng Nh\u00e0 h\u00e0ng Tr\u1ea1i D\u00ea",
-    "address": "90 \u0110. L\u0169y B\u00e1n B\u00edch, T\u00e2n Th\u1edbi Ho\u00e0, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72015, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.7664477,
-    "location/lng": 106.6320975
-  },
-  {
-    "title": "H\u1ec7 th\u1ed1ng l\u1ea9u d\u00ea n\u1ed3i \u0111\u1ea5t 3",
-    "address": "385 Tr\u1ea7n Xu\u00e2n So\u1ea1n, T\u00e2n Ki\u1ec3ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7516013,
-    "location/lng": 106.710579
-  },
-  {
-    "title": "H\u1ed3 C\u00e2u C\u00e1 Ao Sen",
-    "address": "QQHH+57J, B\u00ecnh Tr\u01b0ng \u0110\u00f4ng, Qu\u1eadn 2, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7779706,
-    "location/lng": 106.7781522
-  },
-  {
-    "title": "H\u1ed3 C\u00e2u C\u00e1 Gi\u1ea3i Tr\u00ed Minh Ph\u00e1t",
-    "address": "173B T\u1ed5 32 kp2, Th\u1ea1nh Xu\u00e2n, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8839034,
-    "location/lng": 106.6606275
-  },
-  {
-    "title": "H\u1ed3 C\u00e2u C\u00e1 Gi\u1ea3i Tr\u00ed \u0110\u00f4ng B\u1eafc",
-    "address": "136/3 \u0110. TX 25, P, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "H\u1ed3 c\u00e2u c\u00e1, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8792505,
-    "location/lng": 106.6580123
-  },
-  {
-    "title": "H\u1ed3 C\u00e2u C\u00e1 Hai Anh Em",
-    "address": "534/1b, B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.828022,
-    "location/lng": 106.7381047
-  },
-  {
-    "title": "H\u1ed3 C\u00e2u C\u00e1 H\u00e0ng Tre Qu\u1eadn 9",
-    "address": "98/2 \u0111\u01b0\u1eddng 2, Ph\u01b0\u1edbc Thi\u1ec7n, Long B\u00ecnh, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.843965,
-    "location/lng": 106.8503198
-  },
-  {
-    "title": "H\u1ed3 c\u00e2u c\u00e1 \u00dat Thu",
-    "address": "\u0110\u00f4ng Th\u1ea1nh, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.9126555,
-    "location/lng": 106.6218928
-  },
-  {
-    "title": "H\u1ed8I NG\u1ed8 QU\u00c1N HUYNH \u0110\u1ec6",
-    "address": "109 \u0110\u01b0\u1eddng H, Ph\u01b0\u1eddng 7, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.6998516,
-    "location/lng": 106.6117408
-  },
-  {
-    "title": "H\u1ed9i Qu\u00e1n G\u00f3c Chia S\u1ebb",
-    "address": "WM28+G7Q, \u1ea4p 4, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.9013373,
-    "location/lng": 106.6657478
-  },
-  {
-    "title": "H\u1ed9i qu\u00e1n 007",
-    "address": "RPCF+3M2, C\u01b0 x\u00e1 Thanh \u0110a, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.8201345,
-    "location/lng": 106.724134
-  },
-  {
-    "title": "H\u1ee7 Ti\u1ebfu M\u1ef1c \u00fat Sang | Qu\u00e1n h\u1ee7 ti\u1ebfu m\u1ef1c qu\u1eadn 12",
-    "address": "29/219 \u0110. Song H\u00e0nh, \u0110\u00f4ng H\u01b0ng Thu\u1eadn, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8285764,
-    "location/lng": 106.6254811
-  },
-  {
-    "title": "H\u1ee7 Ti\u1ebfu Sa T\u1ebf T\u00f4 K\u00fd \u8001\u8607\u6c99\u55f2",
-    "address": "156 \u0110. Gia Ph\u00fa, Ph\u01b0\u1eddng 1, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.746942,
-    "location/lng": 106.6526695
-  },
-  {
-    "title": "H\u1ee7 Ti\u1ebfu \u0110\u00f4ng",
-    "address": "329 Nhu\u1eadn \u0110\u1ee9c, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n \u0103n nh\u1ecf, Nh\u00e0 h\u00e0ng",
-    "location/lat": 11.0187341,
-    "location/lng": 106.4905003
-  },
-  {
-    "title": "H\u1ee7 T\u00edu B\u1ea3y Gi\u00e0",
-    "address": "WH2R+FGJ, \u0110\u01b0\u1eddng L\u00ea Th\u1ecb L\u01a1, T\u00e2n Hi\u1ec7p, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.9012022,
-    "location/lng": 106.5912806
-  },
-  {
-    "title": "H\u1ee7 ti\u1ebfu - B\u00e1nh bao C\u1ea3 C\u1ea7n",
-    "address": "110 \u0110. H\u00f9ng V\u01b0\u01a1ng, Ph\u01b0\u1eddng 9, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n \u0103n nh\u1ecf, Khu \u0103n u\u1ed1ng, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7572165,
-    "location/lng": 106.6684548
-  },
-  {
-    "title": "Ikigai Sushi - 236 nguy\u1ec5n tr\u1ecdng tuy\u1ec3n",
-    "address": "236 Nguy\u1ec5n Tr\u1ecdng Tuy\u1ec3n, Ph\u01b0\u1eddng 8, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng sushi",
-    "location/lat": 10.7979088,
-    "location/lng": 106.673368
-  },
-  {
-    "title": "Ilmirack Ph\u00fa M\u1ef9 H\u01b0ng",
-    "address": "222-224 Khu Ph\u1ed1 M\u1ef9 Ho\u00e0ng, Khu \u0111\u00f4 th\u1ecb Ph\u00fa M\u1ef9 H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7275084,
-    "location/lng": 106.7093066
-  },
-  {
-    "title": "Janchu - Korean Fast Food",
-    "address": "21 DN11, \u0110\u00f4ng H\u01b0ng Thu\u1eadn, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.8419302,
-    "location/lng": 106.6263894
-  },
-  {
-    "title": "Japan Eats",
-    "address": "5/70 Nguy\u1ec5n Trung Ng\u1ea1n, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.7844733,
-    "location/lng": 106.7059655
-  },
-  {
-    "title": "Jimmy\u2019s New York Pizza - D7",
-    "address": "C\u1ea3nh Vi\u00ean 3, 66 \u0110\u01b0\u1eddng C, T\u00e2n Ph\u00fa, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng pizza",
-    "location/lat": 10.7213629,
-    "location/lng": 106.7291676
-  },
-  {
-    "title": "Jinguk Qu\u00e1n \u0103n H\u00e0n qu\u1ed1c",
-    "address": "76 \u0110. Phan Khi\u00eam \u00cdch, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7329991,
-    "location/lng": 106.707234
-  },
-  {
-    "title": "Jollibee Hi\u1ec7p B\u00ecnh",
-    "address": "159 \u0110. Hi\u1ec7p B\u00ecnh, Hi\u1ec7p B\u00ecnh Ch\u00e1nh, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.8449706,
-    "location/lng": 106.7284772
-  },
-  {
-    "title": "Jollibee L\u00ea \u0110\u1ee9c Th\u1ecd",
-    "address": "688 \u0110. L\u00ea \u0110\u1ee9c Th\u1ecd, Ph\u01b0\u1eddng 15, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8463565,
-    "location/lng": 106.6710066
-  },
-  {
-    "title": "Jollibee T\u00e2n H\u01b0\u01a1ng",
-    "address": "131 T\u00e2n H\u01b0\u01a1ng, T\u00e2n Qu\u00fd, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.7895966,
-    "location/lng": 106.6249477
-  },
-  {
-    "title": "Jungle Family & Kids Cafe - Nh\u00e0 h\u00e0ng & Khu vui ch\u01a1i tr\u1ebb em",
-    "address": "Au Co Tower, 659 \u0110. \u00c2u C\u01a1, T\u00e2n Th\u00e0nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ph\u01b0\u01a1ng T\u00e2y, Trung t\u00e2m vui ch\u01a1i d\u00e0nh cho tr\u1ebb em",
-    "location/lat": 10.7870179,
-    "location/lng": 106.6403367
-  },
-  {
-    "title": "K-Pub Nguy\u1ec5n V\u0103n L\u1ea1c",
-    "address": "01 Nguy\u1ec5n V\u0103n L\u1ea1c, Ph\u01b0\u1eddng 21, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7951439,
-    "location/lng": 106.7101351
-  },
-  {
-    "title": "KALINA Wedding & Events",
-    "address": "107 \u0110. T\u00e2n Th\u1eafng, S\u01a1n K\u1ef3, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "\u0110\u1ecba \u0111i\u1ec3m t\u1ed5 ch\u1ee9c l\u1ec5 c\u01b0\u1edbi, Trung t\u00e2m h\u00f4\u0323i nghi\u0323, Nh\u00e0 t\u1ed5 ch\u1ee9c bu\u1ed5i ti\u1ec7c, Nh\u00e0 h\u00e0ng, Nh\u00e0 t\u1ed5 ch\u1ee9c \u0111\u00e1m c\u01b0\u1edbi",
-    "location/lat": 10.8005275,
-    "location/lng": 106.6179883
-  },
-  {
-    "title": "KDL B\u1ebfn X\u01b0a - V\u01b0\u1eddn \u1ea8m Th\u1ef1c Nan",
-    "address": "39a H\u00e0 Huy Gi\u00e1p, Th\u1ea1nh L\u1ed9c, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Qu\u00e1n c\u00e0 ph\u00ea, Trung t\u00e2m h\u00f4\u0323i nghi\u0323, Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam, \u0110\u1ecba \u0111i\u1ec3m t\u1ed5 ch\u1ee9c l\u1ec5 c\u01b0\u1edbi",
-    "location/lat": 10.8524917,
-    "location/lng": 106.6772489
-  },
-  {
-    "title": "KFC Hu\u1ef3nh T\u1ea5n Ph\u00e1t 2",
-    "address": "1899 Hu\u1ef3nh T\u1ea5n Ph\u00e1t, TT. Nh\u00e0 B\u00e8, Nh\u00e0 B\u00e8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.6988955,
-    "location/lng": 106.7388747
-  },
-  {
-    "title": "KFC L\u00fd Th\u01b0\u1eddng Ki\u1ec7t",
-    "address": "446 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 7, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.785852,
-    "location/lng": 106.654075
-  },
-  {
-    "title": "KFC L\u0169y B\u00e1n B\u00edch",
-    "address": "01 \u0110. V\u01b0\u1eddn L\u00e0i, Ph\u00fa Th\u1ecd Ho\u00e0, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.7864143,
-    "location/lng": 106.6364394
-  },
-  {
-    "title": "KFC Th\u00edch Qu\u1ea3ng \u0110\u1ee9c",
-    "address": "87 Th\u00edch Qu\u1ea3ng \u0110\u1ee9c, Ph\u01b0\u1eddng 4, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng th\u1ecbt g\u00e0",
-    "location/lat": 10.8052486,
-    "location/lng": 106.6822575
-  },
-  {
-    "title": "KFC Th\u1ed1ng Nh\u1ea5t",
-    "address": "451 \u0110. Th\u1ed1ng Nh\u1ea5t, P.11, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.8449406,
-    "location/lng": 106.6646893
-  },
-  {
-    "title": "KFC \u00c2u D\u01b0\u01a1ng L\u00e2n",
-    "address": "230 \u0110. \u00c2u D\u01b0\u01a1ng L\u00e2n, Ph\u01b0\u1eddng 3, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.7442735,
-    "location/lng": 106.6838298
-  },
-  {
-    "title": "Karaoke Nnice V\u00f5 Th\u1ecb S\u00e1u",
-    "address": "121 \u0110. V\u00f5 Th\u1ecb S\u00e1u, Ph\u01b0\u1eddng 6, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n bar karaoke, Qu\u00e1n c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7860568,
-    "location/lng": 106.6904135
-  },
-  {
-    "title": "Khu 13 Chill In Hongkong",
-    "address": "80 \u0110\u01b0\u1eddng \u0110\u00f4 \u0110\u1ed1c Long, T\u00e2n Qu\u00fd, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.7919476,
-    "location/lng": 106.626698
-  },
-  {
-    "title": "Khu Ngh\u1ec9 D\u01b0\u1ee1ng Sinh Th\u00e1i H\u01b0\u01a1ng Sen - Ven S\u00f4ng S\u00e0i G\u00f2n (Huong Sen Resort)",
-    "address": "25 \u0111\u01b0\u1eddng 176, B\u00ecnh M\u1ef9, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Kh\u00e1ch s\u1ea1n, Khu tr\u1ebb em, Kh\u00e1ch s\u1ea1n ngh\u1ec9 d\u01b0\u1ee1ng, Nh\u00e0 h\u00e0ng, H\u1ed3 b\u01a1i",
-    "location/lat": 10.9603327,
-    "location/lng": 106.6484405
-  },
-  {
-    "title": "Khu du l\u1ecbch B\u00ecnh Qu\u1edbi 1",
-    "address": "1147 B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "\u0110i\u1ec3m thu h\u00fat kh\u00e1ch du l\u1ecbch, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8302324,
-    "location/lng": 106.7376293
-  },
-  {
-    "title": "Khu du l\u1ecbch T\u00e2n C\u1ea3ng",
-    "address": "A100 Ung V\u0103n Khi\u00eam, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "N\u01a1i t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n, Nh\u00e0 h\u00e0ng ti\u1ec7c \u0111\u1ee9ng, Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam, \u0110\u1ecba \u0111i\u1ec3m t\u1ed5 ch\u1ee9c l\u1ec5 c\u01b0\u1edbi",
-    "location/lat": 10.7999642,
-    "location/lng": 106.7247441
-  },
-  {
-    "title": "Khu \u0103n u\u1ed1ng, c\u00e2u c\u00e1 b\u00e8 Ph\u01b0\u1edbc Thi\u1ec7n",
-    "address": "\u0111\u01b0\u1eddng ph\u01b0\u1edbc thi\u1ec7n, qu\u1eadn 9, th\u00e0nh ph\u1ed1, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n c\u00e1",
-    "location/lat": 10.8457774,
-    "location/lng": 106.850599
-  },
-  {
-    "title": "Khu \u1ea8m Th\u1ef1c B\u1ebfn Ph\u00fa L\u00e2m",
-    "address": "8/11 T\u00e2n H\u00f2a \u0110\u00f4ng, Ph\u01b0\u1eddng 14, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7557074,
-    "location/lng": 106.634055
-  },
-  {
-    "title": "Khu \u1ea9m th\u1ef1c sinh th\u00e1i Sen Nam B\u1ed9",
-    "address": "506 \u0110. V\u00f5 Ch\u00ed C\u00f4ng, P, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8097434,
-    "location/lng": 106.7927183
-  },
-  {
-    "title": "Khui Beer Garden",
-    "address": "3/79g \u0110. Song H\u00e0nh, T\u00e2n Xu\u00e2n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 71000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8785016,
-    "location/lng": 106.5934095
-  },
-  {
-    "title": "Kh\u00e1ch s\u1ea1n Ho\u00e0ng H\u00e0 Hotel - Nh\u00e0 h\u00e0ng Sushi House",
-    "address": "57 Tr\u01b0\u01a1ng Qu\u1ed1c Dung, Ph\u01b0\u1eddng 10, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Kh\u00e1ch s\u1ea1n, Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7965803,
-    "location/lng": 106.672699
-  },
-  {
-    "title": "Kh\u00e1ch s\u1ea1n Silverland Jolie",
-    "address": "4 D, Thi S\u00e1ch, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Kh\u00e1ch s\u1ea1n, Nh\u00e0 h\u00e0ng, Spa",
-    "location/lat": 10.777352,
-    "location/lng": 106.705919
-  },
-  {
-    "title": "Kh\u00e1ch s\u1ea1n T\u00e2n S\u01a1n Nh\u1ea5t S\u00e0i G\u00f2n (5 sao)",
-    "address": "202 \u0110. Ho\u00e0ng V\u0103n Th\u1ee5, Ph\u01b0\u1eddng 9, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Kh\u00e1ch s\u1ea1n, Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1, Nh\u00e0 h\u00e0ng cao c\u1ea5p",
-    "location/lat": 10.8004961,
-    "location/lng": 106.6708908
-  },
-  {
-    "title": "Kh\u00f3i Qu\u00e1n - Qu\u00e1n \u0102n Qu\u1ea3ng Ng\u00e3i",
-    "address": "158 \u0110. L\u00ea Th\u00fac Ho\u1ea1ch, T\u00e2n Qu\u00fd, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7884503,
-    "location/lng": 106.6196683
-  },
-  {
-    "title": "Kichi Kichi B\u00ecnh Ti\u00ean",
-    "address": "298 \u0110. B\u00ecnh Ti\u00ean, Ph\u01b0\u1eddng 04, Qu\u1eadn 06, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 10.7464673,
-    "location/lng": 106.6430077
-  },
-  {
-    "title": "Kichi-Kichi Hu\u1ef3nh T\u1ea5n Ph\u00e1t",
-    "address": "559 Hu\u1ef3nh T\u1ea5n Ph\u00e1t, T\u00e2n Thu\u1eadn \u0110\u00f4ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7428584,
-    "location/lng": 106.7297895
-  },
-  {
-    "title": "Kichi-Kichi T\u00e2n S\u01a1n Nh\u00ec",
-    "address": "150 \u0110. T\u00e2n S\u01a1n Nh\u00ec, T\u00e2n S\u01a1n Nh\u00ec, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8002261,
-    "location/lng": 106.6325446
-  },
-  {
-    "title": "Kim Qu\u00e1n",
-    "address": "21 Green View, Nguy\u1ec5n L\u01b0\u01a1ng B\u1eb1ng (g\u00f3c \u0110\u01b0\u1eddng 16 v\u00e0, Nguy\u1ec5n L\u01b0\u01a1ng B\u1eb1ng, T\u00e2n Ph\u00fa, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7223154,
-    "location/lng": 106.7262635
-  },
-  {
-    "title": "Kimochi Sushi - Nh\u00e0 h\u00e0ng Sushi & Sashimi Nh\u1eadt B\u1ea3n",
-    "address": "167/2/5 Ng\u00f4 T\u1ea5t T\u1ed1, P. 22, Ph\u01b0\u1eddng 22, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Sushi mang \u0111i, Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.791152,
-    "location/lng": 106.7149088
-  },
-  {
-    "title": "KunKin Garden ApartHotel & Spa",
-    "address": "219/8 Ng. T\u1ea5t T\u1ed1, Ph\u01b0\u1eddng 22, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Kh\u00e1ch s\u1ea1n, Qu\u00e1n c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng, C\u0103n h\u1ed9 \u0111\u01b0\u1ee3c ph\u1ee5c v\u1ee5",
-    "location/lat": 10.790679,
-    "location/lng": 106.7157144
-  },
-  {
-    "title": "L'Usine",
-    "address": "19 \u0110. L\u00ea Th\u00e1nh T\u00f4n, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Ph\u00f2ng tr\u01b0ng b\u00e0y ngh\u1ec7 thu\u1eadt, Qu\u00e1n \u0103n nh\u1ecf, Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa n\u1eeda bu\u1ed5i, C\u1eeda h\u00e0ng \u0111\u1ed3 gia d\u1ee5ng, Nh\u00e0 h\u00e0ng ph\u1ee5c v\u1ee5 b\u1eefa tr\u01b0a, C\u1eeda h\u00e0ng qu\u1ea7n \u00e1o nam, C\u1eeda h\u00e0ng l\u01b0u ni\u1ec7m, C\u1eeda h\u00e0ng v\u0103n ph\u00f2ng ph\u1ea9m, C\u1eeda h\u00e0ng qu\u1ea7n \u00e1o n\u1eef",
-    "location/lat": 10.779555,
-    "location/lng": 106.703996
-  },
-  {
-    "title": "LAGarden Restaurant",
-    "address": "Lan Anh Village, B\u00ecnh An, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7854496,
-    "location/lng": 106.7223664
-  },
-  {
-    "title": "La Fiesta Phu My Hung",
-    "address": "Hung, 1-1A H\u00e0 Huy T\u1eadp, Ph\u00fa M\u1ef9, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Tex-Mex",
-    "location/lat": 10.7267278,
-    "location/lng": 106.7137097
-  },
-  {
-    "title": "Le Montage - bistro and bar",
-    "address": "4 \u0110. S\u1ed1 7, khu d\u00e2n c\u01b0 Tr\u1ea7n Th\u00e1i, Nh\u00e0 B\u00e8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Qu\u00e1n \u0103n nh\u1ecf, Qu\u00e1n c\u00e0 ph\u00ea",
-    "location/lat": 10.7237107,
-    "location/lng": 106.7037345
-  },
-  {
-    "title": "Le Palais - Dining and Banquet",
-    "address": "23 \u0110. Tr\u1ea7n B\u1ea1ch \u0110\u1eb1ng, Th\u1ee7 Thi\u00eam, Tp Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7821243,
-    "location/lng": 106.720066
-  },
-  {
-    "title": "Lin food & beer 97/11 Kinh D\u01b0\u01a1ng V\u01b0\u01a1ng",
-    "address": "97/11 \u0110. Kinh D\u01b0\u01a1ng V\u01b0\u01a1ng, Ph\u01b0\u1eddng 12, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7499604,
-    "location/lng": 106.6296254
-  },
-  {
-    "title": "Lotteria B\u00ecnh Ph\u00fa",
-    "address": "211 -213, B\u00ecnh Ph\u00fa, Ph\u01b0\u1eddng 11, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.7456719,
-    "location/lng": 106.6307869
-  },
-  {
-    "title": "Lotteria Coop Tuy L\u00fd V\u01b0\u01a1ng",
-    "address": "001 T\u1ea7ng Tr\u1ec7t, Coopmart, 54 \u0110. Tuy L\u00fd V\u01b0\u01a1ng, Ph\u01b0\u1eddng 13, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7443202,
-    "location/lng": 106.6550285
-  },
-  {
-    "title": "Lotteria Ga S\u00e0i G\u00f2n",
-    "address": "01 \u0110. Nguy\u1ec5n Th\u00f4ng, Ph\u01b0\u1eddng 9, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7824056,
-    "location/lng": 106.6773192
-  },
-  {
-    "title": "Lotteria H\u1eadu Giang",
-    "address": "52 \u0110. H\u1eadu Giang, Ph\u01b0\u1eddng 6, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.749778,
-    "location/lng": 106.6473684
-  },
-  {
-    "title": "Lotteria Nguy\u1ec5n V\u0103n Nghi",
-    "address": "33 Nguy\u1ec5n V\u0103n Nghi, Ph\u01b0\u1eddng 4, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8216438,
-    "location/lng": 106.6884523
-  },
-  {
-    "title": "L\u00e0m T\u00ed - Food & Beer",
-    "address": "504 \u0110. 3 Th\u00e1ng 2, Ph\u01b0\u1eddng 14, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n bia s\u00e2n v\u01b0\u1eddn, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.766956,
-    "location/lng": 106.665317
-  },
-  {
-    "title": "L\u00e0ng \u1ea8m Th\u1ef1c 66 - CN T\u00e2n Ph\u00fa",
-    "address": "237 \u0110. \u0110\u1ed9c L\u1eadp, T\u00e2n Qu\u00fd, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7930616,
-    "location/lng": 106.6272458
-  },
-  {
-    "title": "L\u00e0ng \u1ea8m Th\u1ef1c 66 CN Qu\u1eadn 10",
-    "address": "H\u1ebdm 334/1 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 14, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7698042,
-    "location/lng": 106.6589068
-  },
-  {
-    "title": "L\u00e3ng Qu\u00e1n",
-    "address": "531 V\u0129nh Kh\u00e1nh, Ph\u01b0\u1eddng 10, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7611131,
-    "location/lng": 106.7054162
-  },
-  {
-    "title": "L\u00f2 Heo Quay T\u01b0 Nhanh",
-    "address": "8 QL50, \u1ea4p 1, B\u00ecnh Ch\u00e1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 71813, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7325648,
-    "location/lng": 106.6602953
-  },
-  {
-    "title": "L\u00f2 \u0110\u1ea5t BBQ",
-    "address": "159 Tr\u1ea7n Tu\u1ea5n Kh\u1ea3i, Ph\u01b0\u1eddng 5, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7524357,
-    "location/lng": 106.6737438
-  },
-  {
-    "title": "L\u00f2 \u0110\u1ea5t Bbq",
-    "address": "396 \u0110. Minh Ph\u1ee5ng, Ph\u01b0\u1eddng 9, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng",
-    "location/lat": 10.7600668,
-    "location/lng": 106.6443595
-  },
-  {
-    "title": "L\u00faa Beer Garden",
-    "address": "492 \u0110. V\u00f5 V\u0103n Ki\u1ec7t, C\u1ea7u Kho, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.758439,
-    "location/lng": 106.6913787
-  },
-  {
-    "title": "L\u1ea0C BUFFET L\u1ea8U RAU N\u1ea4M CN TH\u1ee6 \u0110\u1ee8C",
-    "address": "37 \u0110. s\u1ed1 10, Hi\u1ec7p B\u00ecnh Ch\u00e1nh, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8260738,
-    "location/lng": 106.7291887
-  },
-  {
-    "title": "L\u1ea0C BUFFET L\u1ea8U RAU N\u1ea4M CN T\u00c2N PH\u00da",
-    "address": "237/2A H\u00f2a B\u00ecnh, Hi\u1ec7p T\u00e2n, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7717417,
-    "location/lng": 106.6252165
-  },
-  {
-    "title": "L\u1ea1c - Buffet L\u1ea9u Rau N\u1ea5m",
-    "address": "213 \u0110. \u0110\u1eb7ng Thu\u1ef3 Tr\u00e2m, Ph\u01b0\u1eddng 13, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8320102,
-    "location/lng": 106.7012545
-  },
-  {
-    "title": "L\u1ea1t An Vegan",
-    "address": "46 H\u01b0ng Ph\u01b0\u1edbc 4, Khu \u0111\u00f4 th\u1ecb Ph\u00fa M\u1ef9 H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.729711,
-    "location/lng": 106.70701
-  },
-  {
-    "title": "L\u1ea8U B\u00d2 NGH\u0128A PH\u00c1T",
-    "address": "15 L\u1ed9c Vinh, Ph\u01b0\u1eddng 6, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7864192,
-    "location/lng": 106.6588813
-  },
-  {
-    "title": "L\u1ea8U D\u00ca N\u1ed2I \u0110\u1ea4T TWO",
-    "address": "3499 Ph\u1ea1m Th\u1ebf Hi\u1ec3n, Ph\u01b0\u1eddng 7, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.704542,
-    "location/lng": 106.6221703
-  },
-  {
-    "title": "L\u1ea8U G\u00c0 L\u00c1 \u00c9 108",
-    "address": "108 \u0110. Tr\u1ea7n Th\u1ecb Tr\u1ecdng, Ph\u01b0\u1eddng 15, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8265664,
-    "location/lng": 106.6362813
-  },
-  {
-    "title": "L\u1ea9u & N\u01b0\u1edbng Anh Em",
-    "address": "258/9 \u0110. D\u01b0\u01a1ng Qu\u1ea3ng H\u00e0m, Ph\u01b0\u1eddng 5, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8303728,
-    "location/lng": 106.6900555
-  },
-  {
-    "title": "L\u1ea9u 3 Mi\u1ec1n 169k",
-    "address": "417a Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Ph\u01b0\u1eddng 11, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8212928,
-    "location/lng": 106.6957678
-  },
-  {
-    "title": "L\u1ea9u 69k H\u1ed3 Gia",
-    "address": "364 \u0110. D\u01b0\u01a1ng Qu\u1ea3ng H\u00e0m, Ph\u01b0\u1eddng 5, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8318228,
-    "location/lng": 106.6864739
-  },
-  {
-    "title": "L\u1ea9u B\u00f2 Ba \u0110u\u00f4nL",
-    "address": "VHWQ+PJ6, Song h\u00e0nh, \u0110 L\u00ea L\u1ee3i, T\u00e2n Hi\u1ec7p, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.89678,
-    "location/lng": 106.5890203
-  },
-  {
-    "title": "L\u1ea9u B\u00f2 C\u01b0 X\u00e1 - 3A H\u1ed3 Bi\u1ec3u Ch\u00e1nh",
-    "address": "3a H\u1ed3 Bi\u1ec3u Ch\u00e1nh, Ph\u01b0\u1eddng 12, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7938917,
-    "location/lng": 106.6768622
-  },
-  {
-    "title": "L\u1ea9u B\u00f2 N\u0103m Tr\u1ecdng",
-    "address": "C12/9E Mai V\u0103n V\u0129nh, T\u00e2n Quy, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 10.740454,
-    "location/lng": 106.7138155
-  },
-  {
-    "title": "L\u1ea9u B\u00f2 Thi\u00ean T\u00e2n",
-    "address": "21 \u0110. S\u1ed1 25, Kp 5, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n \u0103n nh\u1ecf, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8324621,
-    "location/lng": 106.7280533
-  },
-  {
-    "title": "L\u1ea9u B\u00f2 T\u00e8o g\u1ed1c",
-    "address": "589/115D T\u1ed5 50, Hi\u1ec7p Th\u00e0nh, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.8854511,
-    "location/lng": 106.6425293
-  },
-  {
-    "title": "L\u1ea9u B\u0103ng Chuy\u1ec1n OSAKA.O",
-    "address": "455 \u0110. L\u0169y B\u00e1n B\u00edch, Ho\u00e0 Thanh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u, Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n, Nh\u00e0 h\u00e0ng l\u1ea9u l\u00f2ng ki\u1ec3u Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.775353,
-    "location/lng": 106.632968
-  },
-  {
-    "title": "L\u1ea9u Chay Nh\u00e0 N\u00e1t - Ph\u00fa Nhu\u1eadn",
-    "address": "77B \u0110. Ho\u00e0ng V\u0103n Th\u1ee5, Ph\u01b0\u1eddng 15, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 500000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay",
-    "location/lat": 10.7991191,
-    "location/lng": 106.6779272
-  },
-  {
-    "title": "L\u1ea9u Chay \u0110\u1ed3ng Gi\u00e1 T\u00f4 Hi\u1ebfn Th\u00e0nh Q10",
-    "address": "215 \u0110. T\u00f4 Hi\u1ebfn Th\u00e0nh, Ph\u01b0\u1eddng 13, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72501, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay",
-    "location/lat": 10.779355,
-    "location/lng": 106.6676158
-  },
-  {
-    "title": "L\u1ea9u C\u00e1 C\u00f4 Th\u01b0 - TA88",
-    "address": "Hem 252 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 14, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7668958,
-    "location/lng": 106.6602349
-  },
-  {
-    "title": "L\u1ea9u C\u00e1 K\u00e8o 48",
-    "address": "209/48 \u0110. T\u00f4n Th\u1ea5t Thuy\u1ebft, Ph\u01b0\u1eddng 3, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7547202,
-    "location/lng": 106.6995064
-  },
-  {
-    "title": "L\u1ea9u C\u00e1 K\u00e8o B\u00e0 Huy\u1ec7n",
-    "address": "87 B\u00e0 Huy\u1ec7n Thanh Quan, V\u00f5 Th\u1ecb S\u00e1u, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7780714,
-    "location/lng": 106.6868817
-  },
-  {
-    "title": "L\u1ea9u C\u00e1 Thanh \u0110a",
-    "address": "860/75/1, X\u00f4 Vi\u1ebft Ngh\u1ec7 T\u0129nh, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8123397,
-    "location/lng": 106.7183532
-  },
-  {
-    "title": "L\u1ea9u D\u00ea B\u00ecnh D\u01b0\u01a1ng 1",
-    "address": "L\u00ea V\u0103n Th\u1ecd, 186 \u0110. S\u1ed1 1, Ph\u01b0\u1eddng 11, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8474626,
-    "location/lng": 106.657668
-  },
-  {
-    "title": "L\u1ea9u D\u00ea B\u1ea1n T\u00f4i",
-    "address": "599 \u0110\u01b0\u1eddng \u0110. Nguy\u1ec5n Ki\u1ec7m, Ph\u01b0\u1eddng 9, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8064013,
-    "location/lng": 106.6783779
-  },
-  {
-    "title": "L\u1ea9u D\u00ea Ki\u1ec3m",
-    "address": "XH6Q+9X C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.9608708,
-    "location/lng": 106.590004
-  },
-  {
-    "title": "L\u1ea9u D\u00ea Lu\u1eadn",
-    "address": "419 L\u00ea V\u0103n L\u01b0\u01a1ng, T\u00e2n H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7386862,
-    "location/lng": 106.7034471
-  },
-  {
-    "title": "L\u1ea9u D\u00ea Quang T\u1edbi",
-    "address": "903/39 Tr\u1ea7n Xu\u00e2n So\u1ea1n, T\u00e2n H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1",
-    "location/lat": 10.749256,
-    "location/lng": 106.6957671
-  },
-  {
-    "title": "L\u1ea9u D\u00ea \u0110o\u00e0n R\u00e2u",
-    "address": "330 Nguy\u1ec5n Oanh, Ph\u01b0\u1eddng 17, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng b\u00e1n \u0111\u1ed3 \u0103n mang v\u1ec1",
-    "location/lat": 10.8402086,
-    "location/lng": 106.6761001
-  },
-  {
-    "title": "L\u1ea9u D\u00ea \u0110\u1ee9c Ph\u00e1t",
-    "address": "PJ3C+GHR, Khu d\u00e2n c\u01b0 Ph\u00fa L\u1ee3i, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.703875,
-    "location/lng": 106.6213934
-  },
-  {
-    "title": "L\u1ea9u D\u00ea \u0110\u1ee9c Th\u00e0nh",
-    "address": "471/7 \u0110. TTH21, T\u00e2n Th\u1edbi Hi\u1ec7p, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.860828,
-    "location/lng": 106.632644
-  },
-  {
-    "title": "L\u1ea9u G\u00e0 N\u00f2i T\u01b0 M\u1eadp 81",
-    "address": "447 -449, Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Ph\u01b0\u1eddng 11, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8216432,
-    "location/lng": 106.6969976
-  },
-  {
-    "title": "L\u1ea9u Mini B\u1ebfp Nh\u00e0 Ng\u00f4",
-    "address": "159 \u0110. Tam Ch\u00e2u, Tam Binh, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 10.8691318,
-    "location/lng": 106.7438306
-  },
-  {
-    "title": "L\u1ea9u M\u1eafm Anh Bi",
-    "address": "118 \u0110\u01b0\u1eddng s\u1ed1 435, Ph\u00fa Ho\u00e0 \u0110\u00f4ng, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 11.0217123,
-    "location/lng": 106.5717452
-  },
-  {
-    "title": "L\u1ea9u Th\u00e1i Chua Cay - L\u1ea9u G\u00e0 \u1edat Hi\u1ec3m Hai Ph\u01b0\u1ee3ng ( NAY \u0110\u1ed4I T\u00caN TH\u00c0NH B\u1ea2O NHI )",
-    "address": "47 \u0110. S\u1ed1 2, Linh Xu\u00e2n, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n \u0103n nh\u1ecf, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8738582,
-    "location/lng": 106.7775851
-  },
-  {
-    "title": "L\u1ea9u b\u00f2 Quang Kh\u1ea3i Chi Nh\u00e1nh 2",
-    "address": "338 \u0110. V\u00f5 V\u0103n Ki\u1ec7t, Ph\u01b0\u1eddng C\u00f4 Giang, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.760907,
-    "location/lng": 106.6952512
-  },
-  {
-    "title": "L\u1ea9u b\u00f2 Qu\u00e1n L\u00e1",
-    "address": "VH3W+552, Unnamed Road, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n bia, Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 10.8528897,
-    "location/lng": 106.595403
-  },
-  {
-    "title": "L\u1ea9u chay & coffee Hoa Sen Tr\u1eafng",
-    "address": "66/19 Tr\u1ea7n V\u0103n Quang, Ph\u01b0\u1eddng 10, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 10.781284,
-    "location/lng": 106.64785
-  },
-  {
-    "title": "L\u1ea9u chay Thi\u1ec7n \u00dd 2",
-    "address": "77 \u0110\u1ed7 Xu\u00e2n H\u1ee3p, Ph\u01b0\u1edbc Long B, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.8319477,
-    "location/lng": 106.7676039
-  },
-  {
-    "title": "L\u1ea9u d\u00ea SOS",
-    "address": "S\u1ed1 8 \u0110. S\u1ed1 35, P, Th\u00e0nh ph\u1ed1 Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.7868334,
-    "location/lng": 106.7285256
-  },
-  {
-    "title": "L\u1ea9u d\u00ea Y\u00ean H\u1ed3ng",
-    "address": "5/4A T\u1ed5 58 KP4, T\u00e2n Ch\u00e1nh Hi\u1ec7p, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 10.8664532,
-    "location/lng": 106.6343442
-  },
-  {
-    "title": "L\u1ea9u d\u00ea \u0110\u1ed3ng H\u01b0\u01a1ng",
-    "address": "663 T\u00f4 Ng\u1ecdc V\u00e2n, Tam Binh, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8676909,
-    "location/lng": 106.736833
-  },
-  {
-    "title": "L\u1ea9u d\u00ea \u0110\u1ee9c D\u01b0\u1ee1ng",
-    "address": "B15/1 \u0110. T\u00e2n S\u01a1n, Ph\u01b0\u1eddng 12, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.833713,
-    "location/lng": 106.644406
-  },
-  {
-    "title": "L\u1ea9u g\u00e0 l\u00e1 \u00e9 Con G\u00e0 Tr\u1ed1ng",
-    "address": "18 V\u0129nh Kh\u00e1nh, Ph\u01b0\u1eddng 10, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7608214,
-    "location/lng": 106.7067215
-  },
-  {
-    "title": "L\u1ed9 Thi\u00ean Qu\u00e1n",
-    "address": "73 \u0110. S\u1ed1 37, T\u00e2n Quy, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Qu\u00e1n \u0103n nh\u1ecf",
-    "location/lat": 10.7442291,
-    "location/lng": 106.7137617
-  },
-  {
-    "title": "L\u1ed9 Thi\u00ean Qu\u00e1n",
-    "address": "526 L\u00ea Quang \u0110\u1ecbnh, Ph\u01b0\u1eddng 1, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8160317,
-    "location/lng": 106.6887625
-  },
-  {
-    "title": "L\u1ed9 Thi\u00ean Qu\u00e1n",
-    "address": "872 \u0110. Tr\u01b0\u1eddng Chinh, Ph\u01b0\u1eddng 15, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8204625,
-    "location/lng": 106.6309555
-  },
-  {
-    "title": "L\u1ee5c B\u00e1t Qu\u00e1n - Nh\u00e0 h\u00e0ng Thu\u1ea7n Th\u1ef1c V\u1eadt",
-    "address": "36 \u0110. S\u1ed1 2, An Ph\u00fa, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay, Qu\u00e1n c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng \u0103n chay, Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.785989,
-    "location/lng": 106.7531494
-  },
-  {
-    "title": "L\u1eecA BBQ - L\u1ea9u & N\u01b0\u1edbng",
-    "address": "38 (s\u1ed1 c\u0169), 441 (s\u1ed1 m\u1edbi, Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Ph\u01b0\u1eddng 13, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, M\u00f3n n\u01b0\u1edbng, Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 10.8228632,
-    "location/lng": 106.7015565
-  },
-  {
-    "title": "MEN Qu\u00e1n - Kho\u00e1i M\u1ed3i & M\u00ea Bia",
-    "address": "691 \u0110. Ho\u00e0ng Sa, Ph\u01b0\u1eddng 14, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7867609,
-    "location/lng": 106.6837591
-  },
-  {
-    "title": "METTA Vegetarian PN - Nh\u00e0 h\u00e0ng chay",
-    "address": "100 Tr\u1ea7n Huy Li\u1ec7u, Ph\u01b0\u1eddng 15, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n chay",
-    "location/lat": 10.7961839,
-    "location/lng": 106.677757
-  },
-  {
-    "title": "MILANO COFFEE Premium",
-    "address": "590/2 \u0110. Phan V\u0103n Tr\u1ecb, Ph\u01b0\u1eddng 7, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa s\u00e1ng, Qu\u00e1n c\u00e0 ph\u00ea espresso, Qu\u00e1n c\u00e0 ph\u00ea internet, Ph\u00f2ng tr\u00e0, \u0110i\u1ec3m truy c\u1eadp Wi-fi",
-    "location/lat": 10.8307065,
-    "location/lng": 106.6794918
-  },
-  {
-    "title": "MOO BEEF STEAK 87 CAO TRI\u1ec0U PH\u00c1T",
-    "address": "87 Cao Tri\u1ec1u Ph\u00e1t, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng b\u00edt t\u1ebft, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7318412,
-    "location/lng": 106.7070321
-  },
-  {
-    "title": "MORICO - Modern Japanese Restaurant",
-    "address": "92 \u0110. Nguy\u1ec5n H\u1eefu C\u1ea3nh, Ph\u01b0\u1eddng 22, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n, Qu\u00e1n c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng tr\u00e1ng mi\u1ec7ng, C\u1eeda h\u00e0ng kem, Nh\u00e0 h\u00e0ng sushi",
-    "location/lat": 10.7908858,
-    "location/lng": 106.7187283
-  },
-  {
-    "title": "MR.POKKI",
-    "address": "104 \u0110. S\u1ed1 37, T\u00e2n Quy, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.7444778,
-    "location/lng": 106.7127404
-  },
-  {
-    "title": "Maison De Charme Restaurant & Events",
-    "address": "Tr\u1ea7n Xu\u00e2n So\u1ea1n, T\u00e2n H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "\u0110\u1ecba \u0111i\u1ec3m t\u1ed5 ch\u1ee9c l\u1ec5 c\u01b0\u1edbi, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7468822,
-    "location/lng": 106.7012084
-  },
-  {
-    "title": "Manmaru 1 Japanese Restaurant",
-    "address": "71 M\u1ea1c \u0110\u0129nh Chi Qu\u1eadn 1, Dakao Ward, 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Izakaya",
-    "location/lat": 10.7881159,
-    "location/lng": 106.6956813
-  },
-  {
-    "title": "Manwah - Taiwanese Hotpot An D\u01b0\u01a1ng V\u01b0\u01a1ng",
-    "address": "65 \u0110. An D\u01b0\u01a1ng V\u01b0\u01a1ng, Ph\u01b0\u1eddng 8, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u, Nh\u00e0 h\u00e0ng \u0110\u00e0i Loan",
-    "location/lat": 10.7568929,
-    "location/lng": 106.6716124
-  },
-  {
-    "title": "Manwah - Taiwanese Hotpot Lotte G\u00f2 V\u1ea5p",
-    "address": "242 Nguy\u1ec5n V\u0103n L\u01b0\u1ee3ng, Ph\u01b0\u1eddng 10, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0110\u00e0i Loan, Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 10.8379617,
-    "location/lng": 106.6707641
-  },
-  {
-    "title": "Mars Venus Restaurant - Wine Cellar",
-    "address": "176/9 \u0110. L\u00ea V\u0103n S\u1ef9, Ph\u01b0\u1eddng 10, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ch\u00e2u \u00c2u, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7931152,
-    "location/lng": 106.6715497
-  },
-  {
-    "title": "Matchandeul Korean BBQ",
-    "address": "49 Cao Tri\u1ec1u Ph\u00e1t, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng H\u00e0n Qu\u1ed1c",
-    "location/lat": 10.731812,
-    "location/lng": 106.7083296
-  },
-  {
-    "title": "Mayonaka Restaurant & Sushi Bar",
-    "address": "\u0110. \u0110\u1ec1 Th\u00e1m, Ph\u01b0\u1eddng C\u00f4 Giang, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 860000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.7654978,
-    "location/lng": 106.6946785
-  },
-  {
-    "title": "McDonald\u2019s",
-    "address": "683 \u0110. \u00c2u C\u01a1, T\u00e2n Th\u00e0nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh, Qu\u00e1n c\u00e0 ph\u00ea, C\u1eeda h\u00e0ng kem, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7884856,
-    "location/lng": 106.6405601
-  },
-  {
-    "title": "Metta Vegetarian - Qu\u00e1n chay",
-    "address": "S\u1ed1 6 \u0110. S\u1ed1 19, Khu B, Qu\u1eadn 2, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay",
-    "location/lat": 10.797603,
-    "location/lng": 106.7415085
-  },
-  {
-    "title": "Metta Vegetarian Q3",
-    "address": "25C T\u00fa X\u01b0\u01a1ng, V\u00f5 Th\u1ecb S\u00e1u, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.7820964,
-    "location/lng": 106.688015
-  },
-  {
-    "title": "Mi\u0300 Y\u0301 Double B",
-    "address": "266/70 \u0110. T\u00f4 Hi\u1ebfn Th\u00e0nh, C\u01b0 x\u00e1 B\u1eafc H\u1ea3i, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7795635,
-    "location/lng": 106.6652777
-  },
-  {
-    "title": "Moshi Sushi",
-    "address": "H\u1ebbm 181 \u0110. 3 Th\u00e1ng 2, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.7720778,
-    "location/lng": 106.6751578
-  },
-  {
-    "title": "Mr Mlem C\u01a1 s\u1edf 7 - H\u1ec7 th\u1ed1ng Buffet N\u01b0\u1edbng Ch\u1ea3o 139k",
-    "address": "531 \u0110. \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng",
-    "location/lat": 10.800826,
-    "location/lng": 106.7159529
-  },
-  {
-    "title": "Mr.Saigon - M\u00ec \u00dd, Salad S\u00e0i G\u00f2n - L\u00ea Lai",
-    "address": "75 L\u00ea Lai, Ph\u01b0\u1eddng 3, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ph\u01b0\u01a1ng T\u00e2y",
-    "location/lat": 10.8187205,
-    "location/lng": 106.6825675
-  },
-  {
-    "title": "M\u00ec Cay Sasin T\u00e2n Ph\u00fa",
-    "address": "105 \u0110. T\u00e2n Th\u1eafng, S\u01a1n K\u1ef3, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n m\u00ec, Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.8010141,
-    "location/lng": 106.6185278
-  },
-  {
-    "title": "M\u00ec Cay Seoul",
-    "address": "321 \u0110. L\u00ea Tr\u1ecdng T\u1ea5n, S\u01a1n K\u1ef3, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72010, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.8076022,
-    "location/lng": 106.6205128
-  },
-  {
-    "title": "M\u00ec Cay Seoul",
-    "address": "737 \u0110. L\u0169y B\u00e1n B\u00edch, Ho\u00e0 Thanh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.7832408,
-    "location/lng": 106.636028
-  },
-  {
-    "title": "M\u00ec Cay Seoul G\u00f2 V\u1ea5p - 04 L\u00ea \u0110\u1ee9c Th\u1ecd",
-    "address": "4 \u0110. L\u00ea \u0110\u1ee9c Th\u1ecd, Ph\u01b0\u1eddng 7, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.830742,
-    "location/lng": 106.682075
-  },
-  {
-    "title": "M\u00ec Cay Seoul Ho\u00e0ng Di\u1ec7u Qu\u1eadn 4",
-    "address": "80, Ho\u00e0ng Di\u1ec7u, Ph\u01b0\u1eddng 13, Qu\u1eadn 4, Tp. H\u1ed3 Ch\u00ed Minh, 78 \u0110. Ho\u00e0ng Di\u1ec7u, Ph\u01b0\u1eddng 12, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.764409,
-    "location/lng": 106.704863
-  },
-  {
-    "title": "M\u00ec Cay Seoul Nguy\u1ec5n V\u0103n T\u0103ng",
-    "address": "309 Nguy\u1ec5n V\u0103n T\u0103ng, Long Th\u1ea1nh M\u1ef9, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.8415728,
-    "location/lng": 106.8230691
-  },
-  {
-    "title": "M\u00ec Cay Seoul Qu\u1eadn 8",
-    "address": "90 D\u01b0\u01a1ng Quang \u0110\u00f4ng, Ph\u01b0\u1eddng 5, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.7366559,
-    "location/lng": 106.6672017
-  },
-  {
-    "title": "M\u00ec L\u1ea1nh Yoo Chun",
-    "address": "3 Khu Ph\u1ed1 M\u1ef9 Ho\u00e0ng, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.7282018,
-    "location/lng": 106.7102289
-  },
-  {
-    "title": "M\u00ec Qu\u1ea3ng B\u00e0 Ngo\u1ea1i",
-    "address": "915a Nguy\u1ec5n Xi\u1ec3n, Long Th\u1ea1nh M\u1ef9, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8530975,
-    "location/lng": 106.8334882
-  },
-  {
-    "title": "M\u00ec Qu\u1ea3ng Tr\u00ed H\u1ed9i An",
-    "address": "138 B\u00e0u C\u00e1t 2, Ph\u01b0\u1eddng 12, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7923856,
-    "location/lng": 106.645875
-  },
-  {
-    "title": "M\u00ec V\u1ecbt Ti\u1ec1m Thi\u00eam Huy",
-    "address": "455 \u0110. Nguy\u1ec5n Tr\u00e3i, Ph\u01b0\u1eddng 7, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7550388,
-    "location/lng": 106.6727799
-  },
-  {
-    "title": "M\u00ec cay Nam H\u00e0n - tokbkkki - \u0103n v\u1eb7t qu\u1eadn g\u00f2 v\u1ea5p",
-    "address": "61/59 \u0110. s\u1ed1 59, Ph\u01b0\u1eddng 14, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.8530091,
-    "location/lng": 106.6495483
-  },
-  {
-    "title": "M\u00ec cay Sasin",
-    "address": "233A \u0110. Nguy\u1ec5n V\u0103n Lu\u00f4ng, Ph\u01b0\u1eddng 11, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.745028,
-    "location/lng": 106.634747
-  },
-  {
-    "title": "M\u00ec cay Sasin G\u00f2 V\u1ea5p",
-    "address": "351 \u0110\u01b0\u1eddng L\u00ea V\u0103n Tho, Ph\u01b0\u1eddng 9, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n m\u00ec, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8466482,
-    "location/lng": 106.6568445
-  },
-  {
-    "title": "M\u00ec cay Shin Qu\u1eadn 8",
-    "address": "43 L\u01b0\u01a1ng V\u0103n Can, Ph\u01b0\u1eddng 15, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7346277,
-    "location/lng": 106.6399612
-  },
-  {
-    "title": "M\u00ec tr\u1ed9n Park Kim Thang T\u00e2n Ph\u00fa",
-    "address": "219 L\u00ea Cao L\u00e3ng, Ph\u00fa Th\u1ea1nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7808619,
-    "location/lng": 106.6211445
-  },
-  {
-    "title": "M\u00ec \u00dd - Ph\u1ed1 Spaghetti",
-    "address": "535/8 \u0110. Th\u1ed1ng Nh\u1ea5t, Ph\u01b0\u1eddng 16, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u00fd",
-    "location/lat": 10.847531,
-    "location/lng": 106.6643757
-  },
-  {
-    "title": "M\u00ec \u1ed1c h\u1ebfn M\u00e1 Lan (CN Q.7)",
-    "address": "76 \u0110\u01b0\u1eddng S\u1ed1 7, T\u00e2n Ki\u1ec3ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7470978,
-    "location/lng": 106.707784
-  },
-  {
-    "title": "M\u00f9a V\u00e0ng The Warehouse",
-    "address": "N\u1eb1m trong khu\u00f4n vi\u00ean si\u00eau th\u1ecb Big C, 268 \u0110. T\u00f4 Hi\u1ebfn Th\u00e0nh, Ph\u01b0\u1eddng 15, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7792011,
-    "location/lng": 106.6651091
-  },
-  {
-    "title": "M\u1ef3 cay - G\u00e0 R\u00e1n - Tr\u00e0 S\u1eefa- \u0102n V\u1eb7t 79",
-    "address": "2185 Hu\u1ef3nh T\u1ea5n Ph\u00e1t, TT. Nh\u00e0 B\u00e8, Nh\u00e0 B\u00e8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.6907101,
-    "location/lng": 106.7417974
-  },
-  {
-    "title": "NAI V\u00c0NG NEW",
-    "address": "27 \u0110. Nguy\u1ec5n V\u0103n B\u00e1, Khu Ph\u1ed1 3, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8445131,
-    "location/lng": 106.7701797
-  },
-  {
-    "title": "NG\u00d5 CHAY VEGETARIAN",
-    "address": "220/24 \u0110. Th\u1ed1ng Nh\u1ea5t, Ph\u01b0\u1eddng 10, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8365383,
-    "location/lng": 106.6652107
-  },
-  {
-    "title": "NH B\u00fan Ch\u1ea3 H\u00e0 N\u1ed9i X\u01b0a",
-    "address": "973 \u0110\u01b0\u01a1\u0300ng Ph\u1ea1m V\u0103n B\u1ea1ch, Ph\u01b0\u1eddng 12, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8351924,
-    "location/lng": 106.6442012
-  },
-  {
-    "title": "NH\u00c0 H\u00c0NG BUFFET 123K N\u01af\u1edaNG NGON - CN TH\u1edaI AN (T\u1eea HI\u1ec6P TH\u00c0NH D\u1edcI V\u1ec0)",
-    "address": "96A Nguy\u1ec5n Th\u1ecb Ki\u00eau, Th\u1edbi An, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8755595,
-    "location/lng": 106.6530807
-  },
-  {
-    "title": "NH\u00c0 H\u00c0NG TH\u1ee6Y MINH CH\u00c2U 3",
-    "address": "37 Tr\u1ea7n Qu\u00fd Ki\u00ean, Ph\u01b0\u1eddng Th\u1ea1nh M\u1ef9 L\u1ee3i, Qu\u1eadn 2, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7722978,
-    "location/lng": 106.7525716
-  },
-  {
-    "title": "NH\u00c0 H\u00c0NG \u1ea8m Th\u1ef1c B\u1ebfn X\u01b0a",
-    "address": "6/1G Nguy\u1ec5n Th\u1ecb Th\u1eadp, B\u00ecnh Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh, Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1",
-    "location/lat": 10.7393065,
-    "location/lng": 106.7228071
-  },
-  {
-    "title": "NOIR . Dining in the Dark Saigon",
-    "address": "180D Hai B\u00e0 Tr\u01b0ng, Street, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 710000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng lai \u00c1, Qu\u00e1n c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng Ch\u00e2u \u00c2u, Nh\u00e0 h\u00e0ng h\u1ed7n h\u1ee3p, Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.7866367,
-    "location/lng": 106.6946782
-  },
-  {
-    "title": "Naked Sushi Ph\u00f9ng Kh\u1eafc Khoan",
-    "address": "22 \u0110. Ph\u00f9ng Kh\u1eafc Khoan, P, Q.01, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.785539,
-    "location/lng": 106.6971473
-  },
-  {
-    "title": "Nathalie's Thai Restaurant",
-    "address": "23 B\u00f9i B\u1eb1ng \u0110o\u00e0n, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Th\u00e1i Lan",
-    "location/lat": 10.7293758,
-    "location/lng": 106.7087402
-  },
-  {
-    "title": "Nem Nam Restaurant",
-    "address": "C\u1ea3nh vi\u00ean 1, Ph\u1ed1 Ti\u1ec3u Nam/25 T\u00e2n Ph\u00fa, Ward, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7223235,
-    "location/lng": 106.7297757
-  },
-  {
-    "title": "Nem n\u01b0\u1edbng nia",
-    "address": "50 \u0110. Ho\u00e0ng Di\u1ec7u, Ph\u01b0\u1eddng 12, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7648759,
-    "location/lng": 106.7060125
-  },
-  {
-    "title": "Ng\u00f5 Th\u00e1i",
-    "address": "945/64B \u0110. L\u00ea \u0110\u1ee9c Th\u1ecd, Ph\u01b0\u1eddng 16, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n \u0103n nh\u1ecf, Nh\u00e0 h\u00e0ng Th\u00e1i Lan",
-    "location/lat": 10.848618,
-    "location/lng": 106.6622928
-  },
-  {
-    "title": "Ng\u00f5 Th\u00e1i 2",
-    "address": "48 \u0110. S\u1ed1 1, Ph\u01b0\u1eddng 11, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8453303,
-    "location/lng": 106.6626722
-  },
-  {
-    "title": "Ng\u1ecdc Hoa Tr\u00e9 Tr\u1ed9n",
-    "address": "\u0110\u01b0\u1eddng Xu\u00e2n Th\u1edbi S\u01a1n 19, \u1ea4p 3, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.8703566,
-    "location/lng": 106.5833891
-  },
-  {
-    "title": "Ng\u1ecdc khanh qu\u00e1n",
-    "address": "S\u1ed1 02 \u0110\u01b0\u1eddng 808 \u1ea5p Ph\u00fa Trung, An Ph\u00fa, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 11.1268237,
-    "location/lng": 106.4920387
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng - H\u1ea7m R\u01b0\u1ee3u - Karaoke SOS",
-    "address": "122 \u0110\u01b0\u1eddng S\u1ed1 7, T\u00e2n Ki\u1ec3ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7469308,
-    "location/lng": 106.7059376
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng 39 | Nh\u00e0 H\u00e0ng \u0110\u1eb7c S\u1ea3n Qu\u1eadn 7",
-    "address": "2 \u0110\u01b0\u1eddng s\u1ed1 39, B\u00ecnh Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72914, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7439342,
-    "location/lng": 106.7176332
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng 939 H\u00f2n Ch\u1ed3ng",
-    "address": "927 \u0110. Ho\u00e0ng Sa, Ph\u01b0\u1eddng 11, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7856908,
-    "location/lng": 106.6751492
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng AGA Steak House",
-    "address": "72/24 \u0110. Phan \u0110\u0103ng L\u01b0u, Ph\u01b0\u1eddng 5, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8049908,
-    "location/lng": 106.6865703
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Buffet Chay T\u1ecbnh T\u00e2m Trai",
-    "address": "145/1 \u0110\u1ed7 Xu\u00e2n H\u1ee3p, Ph\u01b0\u1edbc Long B, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.8285791,
-    "location/lng": 106.7694213
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng B\u00e1nh Tr\u00e1ng Tr\u1ea3ng B\u00e0ng Ho\u00e0ng Ty 1",
-    "address": "133/9 B\u00ecnh Qu\u1edbi, C\u01b0 x\u00e1 Thanh \u0110a, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.819554,
-    "location/lng": 106.722649
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng B\u00e1t G\u1ed1m",
-    "address": "\u0110. 18, Ph\u00fa M\u1ef9, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.7218135,
-    "location/lng": 106.7300902
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Ca N\u00f4| Nh\u00e0 H\u00e0ng H\u1ea3i S\u1ea3n Th\u1ee7 \u0110\u1ee9c| \u1ea8m Th\u1ef1c \u0110\u1ed3ng Qu\u00ea Th\u1ee7 \u0110\u1ee9c",
-    "address": "625/18 QL13, Hi\u1ec7p B\u00ecnh Ph\u01b0\u1edbc, Th\u1ee7 \u0110\u1ee9c, B\u00ecnh D\u01b0\u01a1ng, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8553831,
-    "location/lng": 106.7194667
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Chang Kang Kung Aeon Mall T\u00e2n Ph\u00fa",
-    "address": "T\u1ea7ng 3 TTTM Aeon mall, 30 \u0110. T\u00e2n Th\u1eafng, Celadon City, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.8010081,
-    "location/lng": 106.6166855
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Chay M\u1ed8C NHI\u00caN - Tr\u01b0\u1eddng Sa",
-    "address": "810 \u0110. Tr\u01b0\u1eddng Sa, Ph\u01b0\u1eddng 14, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.7881937,
-    "location/lng": 106.6827688
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Chay M\u1ed9c Nhi\u00ean - L\u1ed9c V\u1eebng",
-    "address": "535 QL13, Hi\u1ec7p B\u00ecnh Ph\u01b0\u1edbc, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n chay, Nh\u00e0 h\u00e0ng m\u00f3n chay, Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.8479074,
-    "location/lng": 106.7178267
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Chay N\u1ea5m Thi\u00ean \u0110\u00e0ng",
-    "address": "278 L\u00ea V\u0103n L\u01b0\u01a1ng, T\u00e2n H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay",
-    "location/lat": 10.7427707,
-    "location/lng": 106.703855
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Chay S\u00e2n M\u00e2y",
-    "address": "771 L\u00ea H\u1ed3ng Phong, Ph\u01b0\u1eddng 12, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay, Nh\u00e0 h\u00e0ng \u0103n chay",
-    "location/lat": 10.772202,
-    "location/lng": 106.6721722
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Chay Thi\u1ec1n \u00dd",
-    "address": "36 Tr\u1ea7n Qu\u00fd C\u00e1p, Ph\u01b0\u1eddng 11, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay",
-    "location/lat": 10.8162379,
-    "location/lng": 106.6961922
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Chay \u0110\u00f3a Sen V\u00e0ng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
-    "address": "5 \u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, T\u00e2n Th\u00e0nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay",
-    "location/lat": 10.7950348,
-    "location/lng": 106.637487
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Chef Mamma`s",
-    "address": "25 H\u1eadu Giang, Ph\u01b0\u1eddng 4, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u00fd",
-    "location/lat": 10.8077947,
-    "location/lng": 106.6631739
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng C\u00e1nh \u0110\u1ed3ng Gi\u00f3",
-    "address": "WJ65+5QJ, \u0110\u01b0\u1eddng Trung, \u0110\u00f4ng 8, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.9104546,
-    "location/lng": 106.6094007
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng C\u01a1m Ni\u00eau \u0110\u1ec7 Nh\u1ea5t",
-    "address": "695 \u0110\u1ed7 Xu\u00e2n H\u1ee3p, Ph\u01b0\u1edbc Long B, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 100000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7970794,
-    "location/lng": 106.7805714
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng C\u1ea7u Tr\u1eafng",
-    "address": "287A B\u00ecnh Long, B\u00ecnh H\u01b0ng Ho\u00e0 A, B\u00ecnh T\u00e2n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.788978,
-    "location/lng": 106.6167509
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng D\u00ea T\u01b0\u01a1i V\u0129nh L\u1ed9c 4",
-    "address": "406 L\u00ea Th\u1ecb H\u00e0, T\u00e2n Xu\u00e2n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8817778,
-    "location/lng": 106.599048
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Gia Ph\u00fa Ph\u00fac Ki\u1ebfn \u5609\u5bcc\u798f\u5efa\u83dc\u9928",
-    "address": "513 \u0110. Gia Ph\u00fa, Ph\u01b0\u1eddng 3, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Trung Qu\u1ed1c",
-    "location/lat": 10.7427053,
-    "location/lng": 106.6463833
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Hoa vi\u00ean Tri K\u1ef7",
-    "address": "123 \u0110. H\u1ed3ng H\u00e0, Ph\u01b0\u1eddng 9, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8102932,
-    "location/lng": 106.6723832
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Ho\u00e0ng Gia",
-    "address": "12 H\u1ebbm 324 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 14, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7693058,
-    "location/lng": 106.6593124
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng H\u01b0\u01a1ng B\u1eafc",
-    "address": "6 \u0110\u01b0\u1eddng B - B\u1eafc, Khu \u0111\u00f4 th\u1ecb Ph\u00fa M\u1ef9 H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1",
-    "location/lat": 10.7314419,
-    "location/lng": 106.7244114
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng H\u01b0\u01a1ng Huy\u1ec1n X\u1ea3 Gi\u00f3",
-    "address": "7h \u0110. B\u00f9i Minh Tr\u1ef1c, Ph\u01b0\u1eddng 5, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng lai \u00c1, Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.7369633,
-    "location/lng": 106.6570623
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng H\u1ea3i S\u1ea3n 1A",
-    "address": "1A \u0110. C\u1ea7m B\u00e1 Th\u01b0\u1edbc, Ph\u01b0\u1eddng 7, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n, Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa n\u1eeda bu\u1ed5i",
-    "location/lat": 10.8031273,
-    "location/lng": 106.6866121
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng H\u1ea3i S\u1ea3n Giang Gh\u1eb9",
-    "address": "680 \u0110. Tr\u01b0\u1eddng Chinh, Ph\u01b0\u1eddng 15, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8062351,
-    "location/lng": 106.6352005
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng H\u1ea3i S\u1ea3n R\u1ea1n Bi\u1ec3n 9",
-    "address": "42 Tr\u1ea7n \u0110\u00ecnh Xu, Ph\u01b0\u1eddng C\u00f4 Giang, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7597155,
-    "location/lng": 106.6920659
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng H\u1ea3i S\u1ea3n T\u00fac M\u1ea1ch",
-    "address": "32 - 34 - 36 \u0110. L\u00fd Chi\u00eau Ho\u00e0ng, Ph\u01b0\u1eddng 10, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 746000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1, Nh\u00e0 h\u00e0ng Trung Qu\u1ed1c",
-    "location/lat": 10.73807,
-    "location/lng": 106.6286018
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng H\u1ea3i Th\u00e0nh",
-    "address": "39/30 \u0110. S\u1ed1 102, T\u0103ng Nh\u01a1n Ph\u00fa A, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.8391072,
-    "location/lng": 106.7889011
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng H\u1ea7m R\u01b0\u1ee3u Tr\u1ea7n Long - CN G\u00f2 V\u1ea5p",
-    "address": "545 Nguy\u1ec5n Oanh, Ph\u01b0\u1eddng 17, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8498456,
-    "location/lng": 106.6785584
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Karaoke Thu\u1ef7 Tr\u00fac 1",
-    "address": "81, H\u1ebbm/186 \u0110. V\u01b0\u1eddn L\u00e0i, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7892647,
-    "location/lng": 106.6274021
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Kh\u00f4ng Gian",
-    "address": "\u0110. S\u1ed1 23, Khu Ph\u1ed1 5, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8256806,
-    "location/lng": 106.7295884
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng NS B\u1ebfn Thuy\u1ec1n",
-    "address": "11 \u0110. Nguy\u1ec5n V\u0103n Tr\u1ed7i, Ph\u01b0\u1eddng 14, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7919597,
-    "location/lng": 106.6811462
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Nam \u00c1",
-    "address": "127 \u0110. H\u1ed3ng H\u00e0, Ph\u01b0\u1eddng 9, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8096099,
-    "location/lng": 106.6735276
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng OhVang",
-    "address": "208 B\u00f9i V\u0103n Ba, T\u00e2n Thu\u1eadn \u0110\u00f4ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7487522,
-    "location/lng": 106.7358938
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng R\u1ea1ch D\u1ee9a",
-    "address": "53/4 \u0110\u01b0\u1eddng 181, B\u00ecnh M\u1ef9, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.9698151,
-    "location/lng": 106.6449687
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng S\u00e2n V\u01b0\u1eddn 360",
-    "address": "336/27 Nguy\u1ec5n V\u0103n Lu\u00f4ng, Ph\u01b0\u1eddng 12, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7515259,
-    "location/lng": 106.6368082
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng S\u00e2n V\u01b0\u1eddn T\u01b0 Tr\u00ec - Nh\u00e0 H\u00e0ng Ti\u1ec7c C\u01b0\u1edbi",
-    "address": "499 L\u00ea V\u0103n Th\u1ecd, Ph\u01b0\u1eddng 9, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng ti\u1ec7c \u0111\u1ee9ng, Khu \u0103n u\u1ed1ng, Giao \u0111\u1ed3 \u0103n, Nh\u00e0 t\u1ed5 ch\u1ee9c bu\u1ed5i ti\u1ec7c, C\u00f4ng vi\u00ean xe d\u00e3 ngo\u1ea1i",
-    "location/lat": 10.8503742,
-    "location/lng": 106.6560225
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng S\u00f4ng",
-    "address": "56-58, \u0110\u01b0\u1eddng \u0110. L\u00ea H\u1ed3ng Phong, Ph\u01b0\u1eddng 2, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Qu\u1ea3ng \u0110\u00f4ng",
-    "location/lat": 10.7557019,
-    "location/lng": 106.6786895
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Th\u1ee7y",
-    "address": "261 Ung V\u0103n Khi\u00eam, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng, Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n, Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.8037045,
-    "location/lng": 106.7224311
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Ti\u1ec7c C\u01b0\u1edbi H\u01b0\u01a1ng Ph\u1ed1",
-    "address": "A12 \u0110. Phan V\u0103n Tr\u1ecb, Ph\u01b0\u1eddng 7, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Trung t\u00e2m h\u00f4\u0323i nghi\u0323, Trung t\u00e2m h\u1ed9i th\u1ea3o, N\u01a1i t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n, Nh\u00e0 h\u00e0ng, Nh\u00e0 t\u1ed5 ch\u1ee9c \u0111\u00e1m c\u01b0\u1edbi, D\u1ecbch v\u1ee5 c\u01b0\u1edbi h\u1ecfi, \u0110\u1ecba \u0111i\u1ec3m t\u1ed5 ch\u1ee9c l\u1ec5 c\u01b0\u1edbi",
-    "location/lat": 10.8287013,
-    "location/lng": 106.6833645
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Ti\u1ec7c C\u01b0\u1edbi Melisa",
-    "address": "H\u1ebbm 1020 Tho\u1ea1i Ng\u1ecdc H\u1ea7u, Ho\u00e0 Thanh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7823796,
-    "location/lng": 106.6368605
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Ti\u1ec7c C\u01b0\u1edbi \u00c1 \u0110\u00f4ng",
-    "address": "1120 \u0110. V\u00f5 V\u0103n Ki\u1ec7t, Ph\u01b0\u1eddng 6, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7510962,
-    "location/lng": 106.6673103
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Truy\u1ec1n Thuy\u1ebft Champong Qu\u1eadn 2",
-    "address": "62 Nguy\u1ec5n Ho\u00e0ng, An Ph\u00fa, Qu\u1eadn 2, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7960779,
-    "location/lng": 106.7449256
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng Yu Shang Lou \u5fa1\u5c1a\u6a13\u7cb5\u83dc\u6d77\u9bae\u9152\u5bb6",
-    "address": "975 \u0110. Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ph\u01b0\u1eddng 5, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Trung Qu\u1ed1c, Nh\u00e0 h\u00e0ng Qu\u1ea3ng \u0110\u00f4ng, Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7538856,
-    "location/lng": 106.6765454
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng \u0110\u1ea1i D\u01b0\u01a1ng",
-    "address": "262 \u0110. Minh Ph\u1ee5ng, P.02, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7558213,
-    "location/lng": 106.6435863
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng \u0110\u1ea5t S\u00e9t",
-    "address": "16 L\u00ea H\u1ed3ng Phong, Ph\u01b0\u1eddng 12, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1, Qu\u00e1n \u0103n nh\u1ecf",
-    "location/lat": 10.7747752,
-    "location/lng": 106.6718178
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng \u1ea8m Th\u1ef1c 316",
-    "address": "316 \u0110. T\u00e2n S\u01a1n Nh\u00ec, T\u00e2n S\u01a1n Nh\u00ec, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7968854,
-    "location/lng": 106.6305093
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng \u1ea8m Th\u1ef1c C\u00e1nh \u0110\u1ed3ng Hoang",
-    "address": "32/5 \u0110\u01b0\u1eddng Trung \u0110\u00f4ng 7, \u1ea4p Trung \u0110\u00f4ng, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.9051194,
-    "location/lng": 106.6144825
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng \u1ea8m Th\u1ef1c H\u01b0\u01a1ng Sen",
-    "address": "500 Mu\u1ed3ng T\u00edm , Ph\u01b0\u1eddng C\u00e1t L\u00e1i , Qu\u1eadn 2, Th\u00e0nh Ph\u1ed1, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u1ea9m th\u1ef1c \u0111\u1ed3ng qu\u00ea, Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.7728995,
-    "location/lng": 106.7846438
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng \u1ea8m Th\u1ef1c Qu\u00ea T\u00f4i",
-    "address": "129 \u0110. T\u00e2n S\u01a1n, Ph\u01b0\u1eddng 15, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8204469,
-    "location/lng": 106.6390008
-  },
-  {
-    "title": "Nh\u00e0 H\u00e0ng \u1ea8m Th\u1ef1c V\u01b0\u1eddn Xanh",
-    "address": "53/22A \u0110\u01b0\u1eddng S\u1ed1 4, P, Th\u00e0nh Ph\u1ed1 Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8378717,
-    "location/lng": 106.723248
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Busan Korean Food",
-    "address": "92 Nguy\u1ec5n Gia Tr\u00ed, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.8037605,
-    "location/lng": 106.7159592
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng B\u00ean S\u00f4ng",
-    "address": "88 \u0110. 26, Khu Ph\u1ed1 5, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8296476,
-    "location/lng": 106.7329843
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng B\u00ecnh An",
-    "address": "1163 B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.833024,
-    "location/lng": 106.738805
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Chay B\u1ebfp xanh An Duy\u00ean",
-    "address": "10 \u0110. Nguy\u1ec5n Tri Ph\u01b0\u01a1ng, Ph\u01b0\u1eddng 6, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay, Nh\u00e0 h\u00e0ng ti\u1ec7c \u0111\u1ee9ng, Nh\u00e0 h\u00e0ng \u0103n chay",
-    "location/lat": 10.7513161,
-    "location/lng": 106.669511
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng C\u00e2y Sak\u00ea",
-    "address": "440/6 N\u01a1 Trang Long, Ph\u01b0\u1eddng 13, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72311, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam, Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.8232401,
-    "location/lng": 106.7088142
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng C\u1ea7n Phong 2",
-    "address": "C100 Nguy\u1ec5n V\u0103n Qu\u00e1, \u0110\u00f4ng H\u01b0ng Thu\u1eadn, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8443322,
-    "location/lng": 106.6319342
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng G\u1ea1o N\u1ebfp Q9",
-    "address": "1 \u0110.D6, P, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 714100, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1",
-    "location/lat": 10.8130349,
-    "location/lng": 106.7817657
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Hai L\u00faa",
-    "address": "648 \u0110. Nguy\u1ec5n Tr\u00e3i, Ph\u01b0\u1eddng 11, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7537027,
-    "location/lng": 106.6643941
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Hanuri",
-    "address": "736 \u0110. S\u01b0 V\u1ea1n H\u1ea1nh, Ph\u01b0\u1eddng 12, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c, Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa n\u1eeda bu\u1ed5i, Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.7720566,
-    "location/lng": 106.6696638
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Hoa - Gi\u00f3",
-    "address": "527 Tr\u1ea7n V\u0103n M\u01b0\u1eddi, Xu\u00e2n Th\u1edbi Th\u01b0\u1ee3ng, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8575404,
-    "location/lng": 106.5900849
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Hoa vi\u00ean Ao \u0110\u00f4i",
-    "address": "1/174A \u0110\u00ecnh Phong Ph\u00fa, T\u0103ng Nh\u01a1n Ph\u00fa B, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8340532,
-    "location/lng": 106.7855953
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Hoa vi\u00ean S\u01a1n Thu\u1ef7",
-    "address": "16 \u0110\u01b0\u1eddng S\u1ed1 1, Khu Ph\u1ed1 Gi\u00e3n D\u00e2n, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8679867,
-    "location/lng": 106.8143542
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Ho\u00e0ng T\u00e2m - Phan X\u00edch Long",
-    "address": "352 Phan X\u00edch Long, Ph\u01b0\u1eddng 2, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7993365,
-    "location/lng": 106.6863256
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Ho\u00e0ng T\u00e2m - Ph\u00fa M\u1ef9 H\u01b0ng",
-    "address": "24 Raymondienne, T\u00e2n Ph\u00fa, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7287894,
-    "location/lng": 106.726288
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Hu\u1ebf",
-    "address": "1163 B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8299378,
-    "location/lng": 106.7399004
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng H\u01b0\u01a1ng Sen",
-    "address": "96 Thanh \u0110a, C\u01b0 x\u00e1 Thanh \u0110a, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8191009,
-    "location/lng": 106.7182973
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng H\u1ea3i S\u1ea3n Bi\u1ec3n Nh\u1edb 5 t\u1ea1i Ph\u01b0\u1edbc Ki\u1ec3n",
-    "address": "A12 \u0110\u01b0\u1eddng S\u1ed1 4, Ph\u01b0\u1edbc Ki\u1ec3n, Nh\u00e0 B\u00e8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7239254,
-    "location/lng": 106.7040991
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Luxury Palace",
-    "address": "171 Nguy\u1ec5n Th\u00e1i S\u01a1n, Ph\u01b0\u1eddng 7, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.827434,
-    "location/lng": 106.6896502
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Minh Anh",
-    "address": "709 Nguy\u1ec5n Th\u1ecb \u0110\u1ecbnh, C\u00e1t L\u00e1i, Qu\u1eadn 2, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7738693,
-    "location/lng": 106.7701052
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Nam B\u1ed9",
-    "address": "200 \u0110. Tr\u1ea7n N\u00e3o, P. B\u00ecnh An, Qu\u1eadn 2, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7899848,
-    "location/lng": 106.7299176
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng N\u0103m L\u1eeda 18",
-    "address": "S\u1ed1 2. Kdc, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8654064,
-    "location/lng": 106.7341171
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Phong Cua 1",
-    "address": "1019A B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.8209404,
-    "location/lng": 106.7273249
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng S:1",
-    "address": "679 \u0110\u1ed7 Xu\u00e2n H\u1ee3p, Ph\u01b0\u1edbc Long B, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u1ea9m th\u1ef1c \u0111\u1ed3ng qu\u00ea",
-    "location/lat": 10.7985096,
-    "location/lng": 106.7813101
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Sepia",
-    "address": "1 Kh\u1ed5ng T\u1eed, B\u00ecnh Th\u1ecd, Th\u00e0nh Ph\u1ed1 Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8432965,
-    "location/lng": 106.7694749
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Sesan",
-    "address": "14 Einstein, B\u00ecnh Th\u1ecd, Th\u00e0nh Ph\u1ed1 Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8438291,
-    "location/lng": 106.7668457
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Sugar Town - V\u1ea1n Ph\u00fac",
-    "address": "S\u1ed1 2 \u0110\u01b0\u1eddng s\u1ed1 18, Khu \u0111\u00f4 Th\u1ecb V\u1ea1n Ph\u00fac, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, C\u1eeda h\u00e0ng b\u00e1nh ng\u1ecdt, Qu\u00e1n \u0103n nh\u1eb9",
-    "location/lat": 10.8443831,
-    "location/lng": 106.7051252
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Th\u1ee7y M\u1ed9c",
-    "address": "B309 \u0110\u01b0\u1eddng S\u1ed1 8, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7319843,
-    "location/lng": 106.7029078
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Tr\u0103m N\u0103m",
-    "address": "36 \u0110\u01b0\u1eddng s\u1ed1 6, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng H\u00e0n Qu\u1ed1c",
-    "location/lat": 10.7301953,
-    "location/lng": 106.7082948
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Tu\u1ea5n M\u1eadp",
-    "address": "31 \u0110. V\u01b0\u1eddn L\u00e0i, Ph\u00fa Th\u1ecd Ho\u00e0, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7869375,
-    "location/lng": 106.6350281
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng T\u00e2y \u0110\u00f4 (HCM)",
-    "address": "47a \u0110\u01b0\u1eddng s\u1ed1 6, Ph\u01b0\u1eddng 8, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7617824,
-    "location/lng": 106.6482549
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng Vee Ayy",
-    "address": "345/84 \u0110. Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, C\u1ea7u Kho, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7604423,
-    "location/lng": 106.6896802
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng V\u0103n Hoa",
-    "address": "68-76 \u0110. T\u1ea3n \u0110\u00e0, Ph\u01b0\u1eddng 11, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7526983,
-    "location/lng": 106.6644903
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng V\u01b0\u1eddn Cau",
-    "address": "360 \u0110. Phan V\u0103n Tr\u1ecb, Ph\u01b0\u1eddng 11, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Trung t\u00e2m h\u00f4\u0323i nghi\u0323",
-    "location/lat": 10.8218252,
-    "location/lng": 106.6937803
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng V\u01b0\u1eddn Cau 2",
-    "address": "171 Nguy\u1ec5n Th\u00e1i S\u01a1n, Ph\u01b0\u1eddng 7, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8276007,
-    "location/lng": 106.6900869
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng V\u01b0\u1eddn Qu\u00ea",
-    "address": "668/42, QL1A, Th\u1ea1nh L\u1ed9c, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8630273,
-    "location/lng": 106.6817165
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng V\u01b0\u1eddn Sinh Th\u00e1i Ven S\u00f4ng",
-    "address": "147 C\u00e2y B\u00e0i, Ph\u00fa Ho\u00e0 \u0110\u00f4ng, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.9985215,
-    "location/lng": 106.5298073
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng chay H\u01b0\u01a1ng Sen",
-    "address": "319/22 L\u00ea V\u0103n Th\u1ecd, Ph\u01b0\u1eddng 9, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8458194,
-    "location/lng": 106.6560836
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng chay H\u1ed3 l\u00f4 Gia",
-    "address": "511A \u0110. Ph\u1ea1m V\u0103n Ch\u00ed, Ph\u01b0\u1eddng 7, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.7416502,
-    "location/lng": 106.6413846
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n & l\u1ea9u Yeebo (Qu\u1eadn 7) - Yeebo Seafood and Hotpot Restaurant (District 7)",
-    "address": "109 \u0110 T\u00f4n D\u1eadt Ti\u00ean, T\u00e2n Ph\u00fa, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Trung Qu\u1ed1c",
-    "location/lat": 10.7249454,
-    "location/lng": 106.7198718
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n Hi\u1ebfu H\u00e0u S\u1eefa 2 (C\u00e1 S\u1ea5u Hoa C\u00e0 c\u0169)",
-    "address": "130/2 \u0110. Kha V\u1ea1n C\u00e2n, Hi\u1ec7p B\u00ecnh Ch\u00e1nh, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n, Qu\u00e1n bia s\u00e2n v\u01b0\u1eddn, Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh, Khu \u0103n u\u1ed1ng",
-    "location/lat": 10.8333761,
-    "location/lng": 106.726963
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n H\u01b0\u01a1ng L\u00faa 9",
-    "address": "11- 17, 11 \u0110. S\u1ed1 65, P, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72900, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7387757,
-    "location/lng": 106.7068643
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng n\u01b0\u1edbng \u00d4RIBBQ",
-    "address": "23/40 Nguy\u1ec5n H\u1eefu Ti\u1ebfn, T\u00e2y Th\u1ea1nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.8086174,
-    "location/lng": 106.6237846
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng sinh th\u00e1i L\u00faa",
-    "address": "19A, \u0110\u01b0\u1eddng 182, L\u00e3 Xu\u00e2n Oai, T\u0103ng Nh\u01a1n Ph\u00fa A, Th\u00e0nh ph\u1ed1 Th\u1ee7 \u0110\u1ee9c, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8356019,
-    "location/lng": 106.7921841
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng ti\u1ec7c c\u01b0\u1edbi Aqua Jardin",
-    "address": "307 N\u01a1 Trang Long, Ph\u01b0\u1eddng 13, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "N\u01a1i t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n, Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.8192869,
-    "location/lng": 106.6996639
-  },
-  {
-    "title": "Nh\u00e0 h\u00e0ng ti\u1ec7c c\u01b0\u1edbi Grand Palace",
-    "address": "142/18 \u0110. C\u1ed9ng H\u00f2a, Ph\u01b0\u1eddng 4, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "N\u01a1i t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n, Trung t\u00e2m h\u00f4\u0323i nghi\u0323, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8037608,
-    "location/lng": 106.6559084
-  },
-  {
-    "title": "Nh\u00e2n K\u00fd M\u1ef3 Gia - H\u1ee7 ti\u1ebfu ng\u01b0\u1eddi Hoa",
-    "address": "634 \u0110. H\u01b0ng Ph\u00fa, Ph\u01b0\u1eddng 10, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.746312,
-    "location/lng": 106.668548
-  },
-  {
-    "title": "Nh\u1ea5t Kh\u1eafc Qu\u00e1n",
-    "address": "B402 \u0110o\u00e0n V\u0103n B\u01a1, Ph\u01b0\u1eddng 16, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7565262,
-    "location/lng": 106.7163782
-  },
-  {
-    "title": "N\u0103m S\u00e1nh Quy\u1ebft Th\u1eafng B\u00f2 T\u01a1 T\u00e2y Ninh",
-    "address": "31 C\u1eedu Long, Ph\u01b0\u1eddng 2, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.810475,
-    "location/lng": 106.6670329
-  },
-  {
-    "title": "N\u01af\u1edaC L\u00c8O CHAY",
-    "address": "\u0110. Nguy\u1ec5n H\u1eefu C\u1ea3nh, Ph\u01b0\u1eddng 22, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay, Qu\u00e1n m\u00ec",
-    "location/lat": 10.7941716,
-    "location/lng": 106.7159187
-  },
-  {
-    "title": "O \u01a0i - Ph\u00fa M\u1ef9 H\u01b0ng",
-    "address": "\u0111\u01b0\u1eddng 22 \u0110. N\u1ed9i Khu Nam Th\u00f4ng 2C, P. Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7172053,
-    "location/lng": 106.7299951
-  },
-  {
-    "title": "OK 3 CON D\u00ca",
-    "address": "594 \u0110. 3 Th\u00e1ng 2, Ph\u01b0\u1eddng 14, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7657253,
-    "location/lng": 106.6629313
-  },
-  {
-    "title": "OKKIO Ph\u00fa M\u1ef9 H\u01b0ng - Specialty Coffee & Brunch",
-    "address": "171 Nguy\u1ec5n \u0110\u1ee9c C\u1ea3nh, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Qu\u00e1n c\u00e0 ph\u00ea",
-    "location/lat": 10.7218077,
-    "location/lng": 106.7115729
-  },
-  {
-    "title": "Oasis Cafe",
-    "address": "176/1b \u0110. L\u00ea V\u0103n S\u1ef9, Ph\u01b0\u1eddng 10, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n c\u00e0 ph\u00ea, Ti\u1ec7m c\u00e0 ph\u00ea ph\u1ee5c v\u1ee5 c\u00e1c m\u00f3n tr\u00e1i c\u00e2y, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7928678,
-    "location/lng": 106.6709141
-  },
-  {
-    "title": "Ong N\u00e2u Spaghetti",
-    "address": "511 L\u00ea Quang \u0110\u1ecbnh, Ph\u01b0\u1eddng 1, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8179061,
-    "location/lng": 106.6890907
-  },
-  {
-    "title": "Osaka - C\u01a1m th\u1ed1 Nh\u1eadt B\u1ea3n",
-    "address": "64 \u0110. Nguy\u1ec5n Th\u1eddi Trung, Ph\u01b0\u1eddng 6, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7521767,
-    "location/lng": 106.6698658
-  },
-  {
-    "title": "Oscar Palace",
-    "address": "100 Phan Huy \u00cdch, Ph\u01b0\u1eddng 15, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8292772,
-    "location/lng": 106.6326015
-  },
-  {
-    "title": "Otok\u00e9 Chicken",
-    "address": "547 Hu\u1ef3nh T\u1ea5n Ph\u00e1t, T\u00e2n Thu\u1eadn \u0110\u00f4ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh, Khu \u0103n u\u1ed1ng, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7432603,
-    "location/lng": 106.7297242
-  },
-  {
-    "title": "PH\u1ede TH\u00ccN 13 L\u00d2 \u0110\u00daC - Vinhomes Grand Park",
-    "address": "The Manhattan, BT T12-04, \u0110. Nguy\u1ec5n Xi\u1ec3n, K\u0110T Vinhomes Grand Park, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 71216, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf, Qu\u00e1n c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8378257,
-    "location/lng": 106.8441233
-  },
-  {
-    "title": "PH\u1ede TI\u1ebeN VUA",
-    "address": "136A \u0110. C\u00e1ch M\u1ea1ng Th\u00e1ng 8, Ph\u01b0\u1eddng 10, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf",
-    "location/lat": 10.7788863,
-    "location/lng": 106.6800576
-  },
-  {
-    "title": "Padme Chay",
-    "address": "290/28 \u0110. Nam K\u1ef3 Kh\u1edfi Ngh\u0129a, Ph\u01b0\u1eddng 8, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay",
-    "location/lat": 10.7905947,
-    "location/lng": 106.6845487
-  },
-  {
-    "title": "Panda BBQ",
-    "address": "208 \u0110. Nguy\u1ec5n H\u1eefu Th\u1ecd, T\u00e2n H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng",
-    "location/lat": 10.7443146,
-    "location/lng": 106.7019099
-  },
-  {
-    "title": "Panda BBQ",
-    "address": "101 \u0110. K\u00eanh 19/5, S\u01a1n K\u1ef3, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng",
-    "location/lat": 10.809243,
-    "location/lng": 106.614685
-  },
-  {
-    "title": "Panda BBQ G\u00f2 V\u1ea5p",
-    "address": "151 Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Ph\u01b0\u1eddng 03, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng",
-    "location/lat": 10.8172431,
-    "location/lng": 106.6842346
-  },
-  {
-    "title": "Panda Nguy\u1ec5n Th\u1ecb Th\u1eadp",
-    "address": "88 Nguy\u1ec5n Th\u1ecb Th\u1eadp, B\u00ecnh Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng",
-    "location/lat": 10.7380625,
-    "location/lng": 106.7232431
-  },
-  {
-    "title": "Panda Phan V\u0103n Tr\u1ecb",
-    "address": "364 \u0110. Phan V\u0103n Tr\u1ecb, Ph\u01b0\u1eddng 5, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.825703,
-    "location/lng": 106.6900966
-  },
-  {
-    "title": "Pasteur Street Craft Beer - Ph\u00fa M\u1ef9 H\u01b0ng Taproom & Restaurant",
-    "address": "Crescent Residence 5, Khu \u0111\u00f4 th\u1ecb Ph\u00fa M\u1ef9 H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n bia, Nh\u00e0 h\u00e0ng M\u1ef9, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7248979,
-    "location/lng": 106.7209618
-  },
-  {
-    "title": "Phoenix Restaurant & Cafe",
-    "address": "RM76+GX8, Ph\u01b0\u1eddng 2, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8137965,
-    "location/lng": 106.6624581
-  },
-  {
-    "title": "Phong Cua 2",
-    "address": "1067 B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8238401,
-    "location/lng": 106.7316864
-  },
-  {
-    "title": "Ph\u1ed1 N\u01b0\u1edbng JOKUL",
-    "address": "439 Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Ph\u01b0\u1eddng 13, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8218903,
-    "location/lng": 106.6977316
-  },
-  {
-    "title": "Ph\u1ed1 \u1ea8m Th\u1ef1c Chay",
-    "address": "702 \u0110. H\u1ed3ng B\u00e0ng, Ph\u01b0\u1eddng 1, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.7546392,
-    "location/lng": 106.6409169
-  },
-  {
-    "title": "Ph\u1ed1 \u1ea9m th\u1ef1c",
-    "address": "E27 C\u01b0 X\u00e1 Ph\u00fa L\u00e2m B, Ph\u01b0\u1eddng 13, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.753369,
-    "location/lng": 106.6293395
-  },
-  {
-    "title": "Ph\u1ed5 \u0110\u00ecnh Ho\u00e0ng V\u0103n Th\u00e1i - Uraetei Yakiniku",
-    "address": "73 Ho\u00e0ng V\u0103n Th\u00e1i, T\u00e2n Ph\u00fa, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.7308249,
-    "location/lng": 106.723154
-  },
-  {
-    "title": "Ph\u1ed5 \u0110\u00ecnh Tr\u1ea7n Qu\u1ed1c Th\u1ea3o - Uraetei Yakiniku",
-    "address": "125A Tr\u1ea7n Qu\u1ed1c Th\u1ea3o, V\u00f5 Th\u1ecb S\u00e1u, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n Yakiniku, Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.7839133,
-    "location/lng": 106.6850865
-  },
-  {
-    "title": "Ph\u1edf 24 - Nguy\u1ec5n L\u01b0\u01a1ng B\u1eb1ng",
-    "address": "100 Nguy\u1ec5n L\u01b0\u01a1ng B\u1eb1ng, P. Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf",
-    "location/lat": 10.729953,
-    "location/lng": 106.720638
-  },
-  {
-    "title": "Ph\u1edf B\u00f2 Ph\u00fa Gia",
-    "address": "146e L\u00fd Ch\u00ednh Th\u1eafng, Ph\u01b0\u1eddng 14, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7864359,
-    "location/lng": 106.6845303
-  },
-  {
-    "title": "Ph\u1edf Duy Ph\u01b0\u01a1ng Nam - B\u00fan B\u00f2 & B\u00f2 Kho",
-    "address": "96/88 \u0110. \u0110\u1eb7ng Thu\u1ef3 Tr\u00e2m, Ph\u01b0\u1eddng 13, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf",
-    "location/lat": 10.830627,
-    "location/lng": 106.703781
-  },
-  {
-    "title": "Ph\u1edf D\u1eadu",
-    "address": "288 M1, \u0110. Nam K\u1ef3 Kh\u1edfi Ngh\u0129a, Ward 8, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7898196,
-    "location/lng": 106.6850666
-  },
-  {
-    "title": "Ph\u1edf Gia H\u00e2n",
-    "address": "387 Chu V\u0103n An, Ph\u01b0\u1eddng 12, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf",
-    "location/lat": 10.8114721,
-    "location/lng": 106.697296
-  },
-  {
-    "title": "Ph\u1edf Hoa Trang",
-    "address": "86 B\u00f9i C\u00f4ng Tr\u1eebng, \u0110\u00f4ng Th\u1ea1nh, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf",
-    "location/lat": 10.9083828,
-    "location/lng": 106.6510341
-  },
-  {
-    "title": "Ph\u1edf H\u00f9ng Ng\u00e2n 1",
-    "address": "669 \u0110. T\u00e2n S\u01a1n, Ph\u01b0\u1eddng 15, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf, Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa s\u00e1ng",
-    "location/lat": 10.8348235,
-    "location/lng": 106.6451385
-  },
-  {
-    "title": "Ph\u1edf Ki\u1ec1u Oanh",
-    "address": "3 \u0110\u01b0\u1eddng \u0110\u00ecnh, T\u00e0i An, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7099383,
-    "location/lng": 106.6225288
-  },
-  {
-    "title": "Ph\u1edf L\u1ea9u \u0110u\u00f4i B\u00f2 - Bao Ngon B\u00ecnh Th\u1ea1nh",
-    "address": "196a Nguy\u1ec5n V\u0103n \u0110\u1eadu, ph\u01b0\u1eddng 5, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.810812,
-    "location/lng": 106.690507
-  },
-  {
-    "title": "Ph\u1edf L\u1ec7",
-    "address": "415 \u0110. Nguy\u1ec5n Tr\u00e3i, Ph\u01b0\u1eddng 7, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7552959,
-    "location/lng": 106.6735196
-  },
-  {
-    "title": "Ph\u1edf Mi\u1ebfn g\u00e0 K\u1ef3 \u0110\u1ed3ng",
-    "address": "14/5Bis \u0110. K\u1ef3 \u0110\u1ed3ng, Ph\u01b0\u1eddng 9, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf",
-    "location/lat": 10.7839022,
-    "location/lng": 106.6819786
-  },
-  {
-    "title": "Ph\u1edf N\u00e0ng Ti\u00ean",
-    "address": "145 Ung V\u0103n Khi\u00eam, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf",
-    "location/lat": 10.8066547,
-    "location/lng": 106.7197844
-  },
-  {
-    "title": "Ph\u1edf Ph\u00fa V\u01b0\u01a1ng",
-    "address": "120 \u0110. Nguy\u1ec5n Th\u00e1i B\u00ecnh, Ph\u01b0\u1eddng Nguy\u1ec5n Th\u00e1i B\u00ecnh, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf, Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa s\u00e1ng",
-    "location/lat": 10.7683896,
-    "location/lng": 106.6985673
-  },
-  {
-    "title": "Ph\u1edf QUANG",
-    "address": "376e \u0110. B\u00ecnh \u0110\u00f4ng, Ph\u01b0\u1eddng 15, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1",
-    "location/lat": 10.7326721,
-    "location/lng": 106.6346521
-  },
-  {
-    "title": "Ph\u1edf SOL - C\u1ea3nh Vi\u00ean Q7 (Ph\u1edf & C\u00e1c M\u00f3n Ngon T\u1eeb Ph\u1edf)",
-    "address": "1 Ph\u1ed1 Ti\u1ec3u Nam, T\u00e2n Ph\u00fa, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf",
-    "location/lat": 10.7226771,
-    "location/lng": 106.7294352
-  },
-  {
-    "title": "Ph\u1edf Th\u00ecn 13 L\u00f2 \u0110\u00fac (H\u00e0 N\u1ed9i Ch\u00ednh G\u1ed1c)",
-    "address": "H0.01 Happy Valley Chung C\u01b0, Khu \u0111\u00f4 th\u1ecb Ph\u00fa M\u1ef9 H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf",
-    "location/lat": 10.7301016,
-    "location/lng": 106.713896
-  },
-  {
-    "title": "Ph\u1edf Th\u1ea3o Nguy\u00ean",
-    "address": "5 \u0110. 32, Linh \u0110\u00f4ng, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa s\u00e1ng",
-    "location/lat": 10.8419556,
-    "location/lng": 106.7416288
-  },
-  {
-    "title": "Ph\u1edf Ti Ti",
-    "address": "429 Ph\u1ea1m Th\u1ebf Hi\u1ec3n, Ph\u01b0\u1eddng 3, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.747568,
-    "location/lng": 106.680775
-  },
-  {
-    "title": "Ph\u1edf Trang",
-    "address": "391 Nguy\u1ec5n Oanh, Ph\u01b0\u1eddng 6, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf",
-    "location/lat": 10.8450656,
-    "location/lng": 106.677536
-  },
-  {
-    "title": "Ph\u1edf Vi\u1ec7t Nam | Ph\u1edf Ngon S\u00e0i G\u00f2n",
-    "address": "66 Tr\u1ea7n Qu\u1ed1c To\u1ea3n, Ph\u01b0\u1eddng 8, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf",
-    "location/lat": 10.7881865,
-    "location/lng": 106.6885695
-  },
-  {
-    "title": "Ph\u1edf Xu\u00e2n Mai",
-    "address": "63 Nguy\u1ec5n Th\u1ecb Nh\u1ecf, Ph\u01b0\u1eddng 2, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf",
-    "location/lat": 10.7526644,
-    "location/lng": 106.6504633
-  },
-  {
-    "title": "Ph\u1edf c\u00e2y xo\u00e0i",
-    "address": "47/3 D. C\u00f4ng Khi, Xu\u00e2n Th\u1edbi Th\u01b0\u1ee3ng, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8507896,
-    "location/lng": 106.564253
-  },
-  {
-    "title": "Ph\u1edf \u0110\u1ec7 Nh\u1ea5t",
-    "address": "QL22, TT. H\u00f3c M\u00f4n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf",
-    "location/lat": 10.8815727,
-    "location/lng": 106.5889991
-  },
-  {
-    "title": "Ph\u1edf \u0110\u1ecbnh 3",
-    "address": "3-1B Ph\u1ea1m Th\u00e1i B\u01b0\u1eddng, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf, Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa s\u00e1ng",
-    "location/lat": 10.7273351,
-    "location/lng": 106.7124088
-  },
-  {
-    "title": "Pig Bear\u2019s Kitchen",
-    "address": "118/1 Hu\u1ef3nh Kh\u01b0\u01a1ng An, Ph\u01b0\u1eddng 5, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng, Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8242395,
-    "location/lng": 106.6885292
-  },
-  {
-    "title": "Pizza 4P's Hai B\u00e0 Tr\u01b0ng",
-    "address": "151b Hai B\u00e0 Tr\u01b0ng, Ph\u01b0\u1eddng 6, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng pizza, Nh\u00e0 s\u1ea3n xu\u1ea5t ph\u00f4 mai, Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh, Nh\u00e0 h\u00e0ng h\u1ed7n h\u1ee3p, Nh\u00e0 h\u00e0ng \u00fd, Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n, Nh\u00e0 h\u00e0ng m\u00f3n t\u00e2y ki\u1ec3u Nh\u1eadt, Nh\u00e0 h\u00e0ng th\u1ef1c ph\u1ea9m h\u1eefu c\u01a1, C\u1eeda h\u00e0ng giao pizza, C\u1eeda h\u00e0ng b\u00e1n pizza mang v\u1ec1",
-    "location/lat": 10.7830429,
-    "location/lng": 106.6969727
-  },
-  {
-    "title": "Pizza 4P\u2019s L\u00ea Th\u00e1nh T\u00f4n",
-    "address": "8/15, \u0110. L\u00ea Th\u00e1nh T\u00f4n, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng pizza, Nh\u00e0 s\u1ea3n xu\u1ea5t ph\u00f4 mai, Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh, Nh\u00e0 h\u00e0ng h\u1ed7n h\u1ee3p, Nh\u00e0 h\u00e0ng \u00fd, Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n, Nh\u00e0 h\u00e0ng m\u00f3n t\u00e2y ki\u1ec3u Nh\u1eadt, Nh\u00e0 h\u00e0ng th\u1ef1c ph\u1ea9m h\u1eefu c\u01a1, C\u1eeda h\u00e0ng giao pizza, C\u1eeda h\u00e0ng b\u00e1n pizza mang v\u1ec1",
-    "location/lat": 10.7818738,
-    "location/lng": 106.7051397
-  },
-  {
-    "title": "Pizza Hut L\u00ea Th\u1ecb H\u00e0",
-    "address": "14/1 L\u00ea Th\u1ecb H\u00e0, Khu ph\u1ed1 8, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng pizza",
-    "location/lat": 10.8854442,
-    "location/lng": 106.5983216
-  },
-  {
-    "title": "Popeyes",
-    "address": "121 \u0110. L\u00ea \u0110\u1ee9c Th\u1ecd, Ph\u01b0\u1eddng 7, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.8344643,
-    "location/lng": 106.6815186
-  },
-  {
-    "title": "Popeyes An D\u01b0\u01a1ng V\u01b0\u01a1ng",
-    "address": "326 \u0110. An D\u01b0\u01a1ng V\u01b0\u01a1ng, Ph\u01b0\u1eddng 4, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7598924,
-    "location/lng": 106.6794806
-  },
-  {
-    "title": "Popeyes L\u0169y B\u00e1n B\u00edch",
-    "address": "661 \u0110. L\u0169y B\u00e1n B\u00edch, Ho\u00e0 Thanh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng th\u1ecbt g\u00e0, Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.7806205,
-    "location/lng": 106.6357104
-  },
-  {
-    "title": "Popeyes Nguy\u1ec5n X\u00ed",
-    "address": "171 Nguy\u1ec5n X\u00ed, Ph\u01b0\u1eddng 26, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.8144222,
-    "location/lng": 106.708284
-  },
-  {
-    "title": "Popeyes Qu\u1ed1c L\u1ed9 50 (Li\u00ean T\u1ec9nh 5)",
-    "address": "411 Li\u00ean T\u1ec9nh 5, Ph\u01b0\u1eddng 5, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.7327793,
-    "location/lng": 106.6562945
-  },
-  {
-    "title": "Popeyes Th\u1ed1ng Nh\u1ea5t",
-    "address": "405 \u0110. Th\u1ed1ng Nh\u1ea5t, Ph\u01b0\u1eddng 16, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.8435012,
-    "location/lng": 106.6645818
-  },
-  {
-    "title": "Popeyes \u0110\u1ed3ng \u0110en",
-    "address": "75 \u0110\u1ed3ng \u0110en, Ph\u01b0\u1eddng 12, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7934215,
-    "location/lng": 106.6447999
-  },
-  {
-    "title": "Propaganda",
-    "address": "21 H\u00e0n Thuy\u00ean, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam, Qu\u00e1n c\u00e0 ph\u00ea, \u0110i\u1ec3m m\u1ed1c l\u1ecbch s\u1eed, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7787806,
-    "location/lng": 106.6981583
-  },
-  {
-    "title": "QU\u00c1N 2 CON D\u00ca",
-    "address": "1611 Phan V\u0103n H\u1edbn, \u1ea4p 1, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.866633,
-    "location/lng": 106.5612772
-  },
-  {
-    "title": "QU\u00c1N BI\u1ec0N L\u00c1",
-    "address": "558 25B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8300774,
-    "location/lng": 106.7477088
-  },
-  {
-    "title": "QU\u00c1N CHAY T\u00d9Y T\u00c2M",
-    "address": "49 Tr\u1ecbnh \u0110\u00ecnh Tr\u1ecdng, PH\u01af\u1edcNG 05, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7743687,
-    "location/lng": 106.6438654
-  },
-  {
-    "title": "QU\u00c1N D\u00ca ANH EM",
-    "address": "197 \u0110\u01b0\u1eddng TL 19, Th\u1ea1nh L\u1ed9c, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8730803,
-    "location/lng": 106.6886726
-  },
-  {
-    "title": "QU\u00c1N VEN S\u00d4NG",
-    "address": "RPRQ+79F, Th\u00e0nh Ph\u1ed1, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8406773,
-    "location/lng": 106.738437
-  },
-  {
-    "title": "QU\u00c1N \u0102N GIA \u0110\u00ccNH- G\u00c0 N\u1ea4U CUA \u0110\u1ed2NG",
-    "address": "Xu\u00e2n Th\u1edbi S\u01a1n 20, Xu\u00e2n Th\u1edbi S\u01a1n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8713559,
-    "location/lng": 106.5823093
-  },
-  {
-    "title": "QU\u00c1N \u0102N H\u00d9NG K\u00dd | QU\u00c1N \u0102N NGON B\u00ccNH T\u00c2N",
-    "address": "312 TL10, An L\u1ea1c, B\u00ecnh T\u00e2n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n \u0103n nh\u1ecf, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7561028,
-    "location/lng": 106.6243169
-  },
-  {
-    "title": "Quan 80-1 L\u1ea9u g\u00e0 n\u00f2i .80 to hieu",
-    "address": "80 T\u00f4 Hi\u1ec7u, T\u00e2n Th\u1edbi Ho\u00e0, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7650341,
-    "location/lng": 106.6272299
-  },
-  {
-    "title": "Quan Nhau Tr\u00ed Em",
-    "address": "VQFC+CQ7, Linh Xu\u00e2n, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8735321,
-    "location/lng": 106.771911
-  },
-  {
-    "title": "Quan c\u01a1m",
-    "address": "WG98+FXP, \u0110\u01b0\u1eddng Tam T\u00e2n, T\u00e2n Th\u00f4ng H\u1ed9i, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.9187072,
-    "location/lng": 106.5174445
-  },
-  {
-    "title": "Quan oc ty",
-    "address": "15/60 22-Q, vo duy ninh-P, B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh B\u00ecnh Th\u1ea1nh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7928459,
-    "location/lng": 106.7147188
-  },
-  {
-    "title": "Qua\u0301n B\u01a1\u0300 K\u00eanh - U\u0301t Lan",
-    "address": "2F22+PQF, Ph\u01b0\u1edbc Hi\u1ec7p, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 11.0018142,
-    "location/lng": 106.4519162
-  },
-  {
-    "title": "Qua\u0301n Ga\u0300 N\u01b0\u01a1\u0301ng Tu\u0301 Lam",
-    "address": "136D \u0110. Mai Ch\u00ed Th\u1ecd, An Ph\u00fa, Qu\u1eadn 2, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng th\u1ecbt g\u00e0, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7998198,
-    "location/lng": 106.7574374
-  },
-  {
-    "title": "Qua\u0301n V\u01b0\u01a1\u0300n Mai",
-    "address": "\u0110\u01b0\u1eddng S\u1ed1 40, B\u00ecnh Tr\u01b0ng \u0110\u00f4ng, Qu\u1eadn 2, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7801482,
-    "location/lng": 106.7754693
-  },
-  {
-    "title": "Qua\u0301n tho\u0309 Ma\u0323nh Qu\u00fd",
-    "address": "191 Ho\u00e0ng Hoa Th\u00e1m, Ph\u01b0\u1eddng 13, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n bia, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8066835,
-    "location/lng": 106.6478434
-  },
-  {
-    "title": "Qua\u0301n \u00d4\u0301c M\u0103\u0301m S\u01b0\u0303a",
-    "address": "282/6 B\u00f9i H\u1eefu Ngh\u0129a, Ph\u01b0\u1eddng 2, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8004591,
-    "location/lng": 106.7006078
-  },
-  {
-    "title": "Qua\u0301n \u0102n B\u01a1\u0300 S\u00f4ng M\u00e1 Muol",
-    "address": "XJ5X+FV2, B\u00ecnh M\u1ef9, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.958646,
-    "location/lng": 106.6496314
-  },
-  {
-    "title": "Qu\u00e1n 006",
-    "address": "RP7C+2JR, Thanh \u0110a, C\u01b0 x\u00e1 Thanh \u0110a, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8126074,
-    "location/lng": 106.7215186
-  },
-  {
-    "title": "Qu\u00e1n 7 Minh",
-    "address": "579 V\u01b0\u1eddn L\u00e0i, An Ph\u00fa \u0110\u00f4ng, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.831463,
-    "location/lng": 106.692431
-  },
-  {
-    "title": "Qu\u00e1n 79 B\u00ecnh Th\u1ea1nh",
-    "address": "33 X\u00f4 Vi\u1ebft Ngh\u1ec7 T\u0129nh, Ph\u01b0\u1eddng 26, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.8153579,
-    "location/lng": 106.7159148
-  },
-  {
-    "title": "Qu\u00e1n A C\u01b0\u1eddng",
-    "address": "169 T\u0103ng Nh\u01a1n Ph\u00fa, T\u0103ng Nh\u01a1n Ph\u00fa B, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8319535,
-    "location/lng": 106.7764959
-  },
-  {
-    "title": "Qu\u00e1n Ba T\u1ed9",
-    "address": "480/31/2/1 B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8255923,
-    "location/lng": 106.742401
-  },
-  {
-    "title": "Qu\u00e1n Ba Voi",
-    "address": "32/5 B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8160636,
-    "location/lng": 106.7488504
-  },
-  {
-    "title": "Qu\u00e1n BaBa S\u00e1u Nguy\u00ean",
-    "address": "H\u1ebbm 352 B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.821696,
-    "location/lng": 106.7322886
-  },
-  {
-    "title": "Qu\u00e1n Bia Tuy\u1ebft B\u1edd S\u00f4ng 160",
-    "address": "291 \u0110. 160, Tha\u0300nh ph\u00f4\u0301, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 71207, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8348842,
-    "location/lng": 106.7894584
-  },
-  {
-    "title": "Qu\u00e1n B\u00e1nh X\u00e8o C\u00f4 Nguy\u1ec7t",
-    "address": "774 Quang Trung, Ph\u01b0\u1eddng 8, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.8371279,
-    "location/lng": 106.6562627
-  },
-  {
-    "title": "Qu\u00e1n B\u00e1nh x\u00e8o C\u1ea7u V\u00e1n",
-    "address": "211 \u0110. L\u0169y B\u00e1n B\u00edch, T\u00e2n Th\u1edbi Ho\u00e0, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7695561,
-    "location/lng": 106.6315956
-  },
-  {
-    "title": "Qu\u00e1n B\u00f2 T\u01a1 Ng\u1ecdc Th\u1ea3o",
-    "address": "2F6G+V5R, Trung L\u1eadp H\u1ea1, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 11.0122447,
-    "location/lng": 106.4754032
-  },
-  {
-    "title": "Qu\u00e1n B\u00f2 T\u01a1 Xu\u00e2n \u0110\u00e0o",
-    "address": "Hi\u1ec7p Th\u00e0nh, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 560000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8677009,
-    "location/lng": 106.6412033
-  },
-  {
-    "title": "Qu\u00e1n B\u00fan B\u00f2 Hu\u1ebf O L\u00ea",
-    "address": "642 \u0110. Phan V\u0103n Tr\u1ecb, Ph\u01b0\u1eddng 10, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.832621,
-    "location/lng": 106.6729527
-  },
-  {
-    "title": "Qu\u00e1n B\u1ebfn \u0110\u00f2 - T\u00f4m S\u00f4ng \u0110\u1ed3ng Nai",
-    "address": "VR7V+W6X, Nguy\u1ec5n Xi\u1ec3n, Long B\u00ecnh, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8648567,
-    "location/lng": 106.8431176
-  },
-  {
-    "title": "Qu\u00e1n B\u1edd S\u00f4ng",
-    "address": "6 khu d\u00e2n c\u01b0 Nam R\u1ea1ch Chi\u1ebfc, khu ph\u1ed1 3, Qu\u1eadn 2, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7916223,
-    "location/lng": 106.7691091
-  },
-  {
-    "title": "Qu\u00e1n B\u1edd S\u00f4ng M\u1edbi",
-    "address": "101 Nguy\u1ec5n Xi\u1ec3n, Long B\u00ecnh, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8732734,
-    "location/lng": 106.8406551
-  },
-  {
-    "title": "Qu\u00e1n B\u1edd S\u00f4ng Thanh Th\u1ea3o",
-    "address": "206/124, Hu\u1ef3nh T\u1ea5n Ph\u00e1t, Huy\u1ec7n Nh\u00e0 B\u00e8, Ph\u00fa Xu\u00e2n, Nh\u00e0 B\u00e8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.6968102,
-    "location/lng": 106.7360123
-  },
-  {
-    "title": "Qu\u00e1n B\u1ee5i Original",
-    "address": "19 Ng\u00f4 V\u0103n N\u0103m, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam, M\u00f3n n\u01b0\u1edbng, Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa s\u00e1ng, Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa n\u1eeda bu\u1ed5i, B\u1eefa t\u1ed1i, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7813148,
-    "location/lng": 106.7058729
-  },
-  {
-    "title": "Qu\u00e1n Chay B\u1eedu Ni\u1ec7m CN2 - Qu\u1eadn 8",
-    "address": "174 Nguy\u1ec5n Th\u1ecb M\u01b0\u1eddi, 204 \u0110. Cao L\u1ed7, c\u0169, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay",
-    "location/lat": 10.7362677,
-    "location/lng": 106.6753678
-  },
-  {
-    "title": "Qu\u00e1n Chay Ch\u01a1n L\u1ea1c",
-    "address": "154 QL13, Ph\u01b0\u1eddng 26, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay",
-    "location/lat": 10.8140016,
-    "location/lng": 106.7129254
-  },
-  {
-    "title": "Qu\u00e1n Chay Ph\u00e1p Uy\u1ec3n",
-    "address": "17/4 Nguy\u1ec5n Huy T\u01b0\u1edfng, Ph\u01b0\u1eddng 6, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.8047839,
-    "location/lng": 106.6892956
-  },
-  {
-    "title": "Qu\u00e1n Chay Quan \u00c2m",
-    "address": "8 6, 137/7 \u0110. B\u00ecnh Ti\u00ean, Ph\u01b0\u1eddng 8, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.7430375,
-    "location/lng": 106.6426761
-  },
-  {
-    "title": "Qu\u00e1n Chay Th\u1ea3o",
-    "address": "30/11 Nguy\u1ec5n \u0110\u00ecnh Chi, Ph\u01b0\u1eddng 9, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay",
-    "location/lat": 10.7509197,
-    "location/lng": 106.6414296
-  },
-  {
-    "title": "Qu\u00e1n Chay T\u00e2m H\u1eadu CN3",
-    "address": "A45B \u0110\u01b0\u1eddng S\u1ed1 14, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay",
-    "location/lat": 10.7309467,
-    "location/lng": 106.7037235
-  },
-  {
-    "title": "Qu\u00e1n Ch\u00e1o G\u1ecfi V\u1ecbt Ch\u1ee3 \u0110\u00f4ng Ba",
-    "address": "59 B\u00ecnh H\u00f2a 1, Binh Ho\u00e0, Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8821577,
-    "location/lng": 106.7153556
-  },
-  {
-    "title": "Qu\u00e1n Ch\u1ecb D\u1eadu Ven S\u00f4ng",
-    "address": "16 QL13, Hi\u1ec7p B\u00ecnh Ph\u01b0\u1edbc, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8530747,
-    "location/lng": 106.7179312
-  },
-  {
-    "title": "Qu\u00e1n Cua Ngon - H\u01b0\u01a1ng V\u1ecb \u0110\u1ea5t M\u0169i",
-    "address": "250 Nguy\u1ec5n Th\u00e1i B\u00ecnh, Ph\u01b0\u1eddng 12, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72510, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7959329,
-    "location/lng": 106.6510007
-  },
-  {
-    "title": "Qu\u00e1n C\u00e1 Ng\u1eeb \u0110\u1ea1i D\u01b0\u01a1ng",
-    "address": "9/8 \u0110\u1eb7ng Th\u00fac V\u1ecbnh T\u1ed5 59 - \u00c2p Trung \u0110\u00f4ng, Th\u1edbi Tam Th\u00f4n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8930791,
-    "location/lng": 106.6181288
-  },
-  {
-    "title": "Qu\u00e1n C\u00e2y D\u1eeba",
-    "address": "VPJG+R2P, \u0110. Nh\u00e1nh Ph\u1ee5 Ba B\u00f2, B\u00ecnh Chi\u1ec3u, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8820897,
-    "location/lng": 106.7250865
-  },
-  {
-    "title": "Qu\u00e1n C\u00e2y D\u1eeba",
-    "address": "1054 \u0110. V\u00f5 V\u0103n Ki\u1ec7t, Ph\u01b0\u1eddng 6, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7507327,
-    "location/lng": 106.6704534
-  },
-  {
-    "title": "Qu\u00e1n C\u00e2y G\u00f2n",
-    "address": "315 \u0110. K\u00eanh T\u00e2n H\u00f3a, Ph\u00fa Trung, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7773452,
-    "location/lng": 106.6389178
-  },
-  {
-    "title": "Qu\u00e1n C\u00e2y Me B\u1ebfn \u0110\u00f2",
-    "address": "M\u1ea1c Hi\u1ec3n T\u00edch, C\u1ea7u S\u00f4ng Nh\u1ea1n, TP.Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8658084,
-    "location/lng": 106.8433191
-  },
-  {
-    "title": "Qu\u00e1n C\u01a1m B\u00e0 B\u1ea3y",
-    "address": "Trung L\u1eadp Th\u01b0\u1ee3ng, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 11.0443403,
-    "location/lng": 106.4381783
-  },
-  {
-    "title": "Qu\u00e1n C\u01a1m T\u1ea5m B\u00e0 T\u00e1m Ti\u1ec1n",
-    "address": "88 Nguy\u1ec5n Th\u01b0\u1ee3ng Hi\u1ec1n, Ph\u01b0\u1eddng 5, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng c\u01a1m",
-    "location/lat": 10.8142149,
-    "location/lng": 106.6854223
-  },
-  {
-    "title": "Qu\u00e1n C\u01a1m tr\u1ed9n 2 C\u00f4",
-    "address": "H\u1ebbm 294, 63 X\u00f4 Vi\u1ebft Ngh\u1ec7 T\u0129nh, Ph\u01b0\u1eddng 21, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng c\u01a1m, Qu\u00e1n \u0103n nh\u1ecf",
-    "location/lat": 10.8000476,
-    "location/lng": 106.712771
-  },
-  {
-    "title": "Qu\u00e1n C\u1eadu \u00dat",
-    "address": "82/2/22, \u0110. \u0110inh B\u1ed9 L\u0129nh, Ph\u01b0\u1eddng 26, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.8077702,
-    "location/lng": 106.7103043
-  },
-  {
-    "title": "Qu\u00e1n C\u1ee7 Ri\u1ec1ng - Th\u1ecbt Ch\u00f3 Thui R\u01a1m",
-    "address": "43, \u0110\u01b0\u1eddng S\u1ed1 19, Ph\u01b0\u1eddng B\u00ecnh Tr\u1ecb \u0110\u00f4ng B, Qu\u1eadn B\u00ecnh T\u00e2n, T\u00e2n Qu\u00fd, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7926397,
-    "location/lng": 106.6230929
-  },
-  {
-    "title": "Qu\u00e1n D\u00ea N\u00fai Ninh B\u00ecnh Chu\u1ea9n",
-    "address": "335 \u0110. T\u00e2n K\u1ef3 T\u00e2n Qu\u00fd, T\u00e2n Qu\u00fd, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 00828, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8012219,
-    "location/lng": 106.6242782
-  },
-  {
-    "title": "Qu\u00e1n D\u00ea N\u00fai \u0110\u00f4i",
-    "address": "116 D\u01b0\u01a1ng \u0110\u00ecnh H\u1ed9i, Ph\u01b0\u1edbc Long B, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8217787,
-    "location/lng": 106.7798769
-  },
-  {
-    "title": "Qu\u00e1n D\u00ec Ba Gia Lai",
-    "address": "219B N\u01a1 Trang Long, Ph\u01b0\u1eddng 11, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8161006,
-    "location/lng": 106.6977401
-  },
-  {
-    "title": "Qu\u00e1n Gi\u00f3 (t\u00f4m s\u00f4ng)",
-    "address": "Saigon River, 1/109A Th\u00edch M\u1eadt Th\u1ec3, Ph\u01b0\u1eddng Th\u1ea1nh M\u1ef9 L\u1ee3i, Qu\u1eadn 2, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7566386,
-    "location/lng": 106.7519758
-  },
-  {
-    "title": "Qu\u00e1n H\u1ea3i S\u1ea3n C\u00f4 Ch\u1ee7 Nh\u1ecf",
-    "address": "6/7B \u0110. T\u00e2n Xu\u00e2n 2, T\u00e2n Xu\u00e2n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8785129,
-    "location/lng": 106.6062095
-  },
-  {
-    "title": "Qu\u00e1n H\u1ea3i V\u1ecbt 6",
-    "address": "16 D\u01b0\u01a1ng Th\u1ecb Giang, T\u00e2n Th\u1edbi Nh\u1ea5t, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1",
-    "location/lat": 10.8269733,
-    "location/lng": 106.6206204
-  },
-  {
-    "title": "Qu\u00e1n Kh\u00e1nh H\u00e0o",
-    "address": "273/34/5, Nguy\u1ec5n V\u0103n \u0110\u1eadu, Ph\u01b0\u1eddng 11, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8162985,
-    "location/lng": 106.6925961
-  },
-  {
-    "title": "Qu\u00e1n Li\u00ean",
-    "address": "34 4, Khu Ph\u1ed1 8-14, TT. H\u00f3c M\u00f4n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8885576,
-    "location/lng": 106.5904776
-  },
-  {
-    "title": "Qu\u00e1n L\u00e0ng Tre",
-    "address": "120 \u0110. T\u00e2n S\u01a1n Nh\u00ec, T\u00e2n S\u01a1n Nh\u00ec, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8011908,
-    "location/lng": 106.6328802
-  },
-  {
-    "title": "Qu\u00e1n L\u00e1 434",
-    "address": "434 \u0110. T\u00e2n K\u1ef3 T\u00e2n Qu\u00fd, T\u00e2n Qu\u00fd, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.7986009,
-    "location/lng": 106.6171285
-  },
-  {
-    "title": "Qu\u00e1n L\u1ea9u B\u00f2 S\u00e1u Ri | Nh\u01b0\u1ee3ng quy\u1ec1n th\u01b0\u01a1ng hi\u1ec7u S\u00e1u Ri",
-    "address": "61 B\u00f9i \u0110i\u1ec1n, Ph\u01b0\u1eddng 4, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 10.74234,
-    "location/lng": 106.6727499
-  },
-  {
-    "title": "Qu\u00e1n L\u1ea9u C\u00e1 \u0110u\u1ed1i G\u00f2 V\u1ea5p Kh\u1ea3i R\u00e2u",
-    "address": "40 \u0110. Nguy\u1ec5n V\u0103n Kh\u1ed1i, Ph\u01b0\u1eddng 11, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8421041,
-    "location/lng": 106.6601916
-  },
-  {
-    "title": "Qu\u00e1n L\u1ea9u D\u00ea 87",
-    "address": "87 \u0110. Ph\u1ea1m H\u00f9ng, Ph\u01b0\u1eddng 9, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 10.7460915,
-    "location/lng": 106.6690996
-  },
-  {
-    "title": "Qu\u00e1n L\u1ea9u D\u00ea Anh Ba",
-    "address": "524 \u0110. L\u00ea Tr\u1ecdng T\u1ea5n, T\u00e2y Th\u1ea1nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8109186,
-    "location/lng": 106.6119951
-  },
-  {
-    "title": "Qu\u00e1n L\u1ea9u D\u00ea T\u00e0i K\u00fd 2",
-    "address": "21 G\u00f2 \u00d4 M\u00f4i, Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7302264,
-    "location/lng": 106.7378603
-  },
-  {
-    "title": "Qu\u00e1n L\u1ea9u M\u1eafm 140",
-    "address": "140/13 Tr\u1ea7n Huy Li\u1ec7u, Ph\u01b0\u1eddng 15, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.797967,
-    "location/lng": 106.678123
-  },
-  {
-    "title": "Qu\u00e1n L\u1ea9u d\u00ea C\u00e2y D\u1eeba",
-    "address": "149 \u0110. B\u00ecnh \u0110\u00f4ng, Ph\u01b0\u1eddng 11, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7495383,
-    "location/lng": 106.6650509
-  },
-  {
-    "title": "Qu\u00e1n L\u1ea9u \u00dat S\u01a1n",
-    "address": "245A Chu V\u0103n An, Ph\u01b0\u1eddng 12, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8107815,
-    "location/lng": 106.7021101
-  },
-  {
-    "title": "Qu\u00e1n L\u1eafc Kiu",
-    "address": "646H \u0110. Nguy\u1ec5n Tr\u00e3i, Ph\u01b0\u1eddng 11, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7538898,
-    "location/lng": 106.6651754
-  },
-  {
-    "title": "Qu\u00e1n NEM vu\u00f4ng cua bi\u1ec3n",
-    "address": "15E \u0110. Nguy\u1ec5n Th\u1ecb Minh Khai, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.7857535,
-    "location/lng": 106.7009648
-  },
-  {
-    "title": "Qu\u00e1n Nem N\u01b0\u1edbng \u0110\u00e0 L\u1ea1t B\u00ecnh Th\u1ea1nh",
-    "address": "56 Tr\u1ea7n B\u00ecnh Tr\u1ecdng, Ph\u01b0\u1eddng 5, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.8136709,
-    "location/lng": 106.6879519
-  },
-  {
-    "title": "Qu\u00e1n Ng\u1ecdc",
-    "address": "30E H\u1ed3 H\u1ea3o H\u1edbn, Ph\u01b0\u1eddng C\u00f4 Giang, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf",
-    "location/lat": 10.7608781,
-    "location/lng": 106.6931794
-  },
-  {
-    "title": "Qu\u00e1n Nh\u00e0 L\u00e1",
-    "address": "480/61 B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8200839,
-    "location/lng": 106.7402198
-  },
-  {
-    "title": "Qu\u00e1n Nh\u1eadu 126",
-    "address": "126 Ph\u1ea1m Th\u1ebf Hi\u1ec3n, Ph\u01b0\u1eddng 2, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7498965,
-    "location/lng": 106.6845652
-  },
-  {
-    "title": "Qu\u00e1n Nh\u1edb Tuy\u1ebft",
-    "address": "70 \u0110. V\u00f5 V\u0103n Ki\u1ec7t, Ph\u01b0\u1eddng Nguy\u1ec5n Th\u00e1i B\u00ecnh, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7665644,
-    "location/lng": 106.7009536
-  },
-  {
-    "title": "Qu\u00e1n N\u00f4ng Tr\u1ea1i D\u00ea - View S\u00f4ng",
-    "address": "319/30 B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng b\u00e1n \u0111\u1ed3 \u0103n mang v\u1ec1",
-    "location/lat": 10.8263564,
-    "location/lng": 106.7335643
-  },
-  {
-    "title": "Qu\u00e1n N\u0103m Ngh\u00eau",
-    "address": "217 Nguy\u1ec5n Gia Tr\u00ed, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8089083,
-    "location/lng": 106.7169458
-  },
-  {
-    "title": "Qu\u00e1n N\u01b0\u1edbng Bia Lu",
-    "address": "20 \u0110. Tr\u1ea7n Qu\u1ed1c Ho\u00e0n, Ph\u01b0\u1eddng 4, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8016513,
-    "location/lng": 106.6623638
-  },
-  {
-    "title": "Qu\u00e1n Ph\u1edf 3000",
-    "address": "3000 Ph\u1ea1m Th\u1ebf Hi\u1ec3n, Ph\u01b0\u1eddng 7, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7113514,
-    "location/lng": 106.6262357
-  },
-  {
-    "title": "Qu\u00e1n Ph\u1edf C\u00f4ng",
-    "address": "17 Nguy\u1ec5n V\u0103n Kh\u1ed1i, Ph\u01b0\u1eddng 11, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72300, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf, Qu\u00e1n \u0103n nh\u1ecf",
-    "location/lat": 10.8415872,
-    "location/lng": 106.6614298
-  },
-  {
-    "title": "Qu\u00e1n Ph\u1edf Xu\u00e2n",
-    "address": "1 L\u00ea Lai, Ph\u01b0\u1eddng 12, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf",
-    "location/lat": 10.7961853,
-    "location/lng": 106.646672
-  },
-  {
-    "title": "Qu\u00e1n Ph\u1edf Y\u00ean",
-    "address": "327 L\u00ea V\u0103n L\u01b0\u01a1ng, T\u00e2n Quy, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ph\u1edf, Qu\u00e1n m\u00ec",
-    "location/lat": 10.7419327,
-    "location/lng": 106.7040551
-  },
-  {
-    "title": "Qu\u00e1n R\u00f9a Cu \u1ea8n",
-    "address": "VR7R+325, Unnamed Road, Long B\u00ecnh, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8626288,
-    "location/lng": 106.8400964
-  },
-  {
-    "title": "Qu\u00e1n S\u00f4ng Tr\u0103ng",
-    "address": "233A B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8216627,
-    "location/lng": 106.7290266
-  },
-  {
-    "title": "Qu\u00e1n Thu Nga 1",
-    "address": "12 B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8295139,
-    "location/lng": 106.7445071
-  },
-  {
-    "title": "Qu\u00e1n T\u00e0i V\u01b0\u1ee3ng 2",
-    "address": "35 Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Ph\u01b0\u1eddng 3, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8150514,
-    "location/lng": 106.6803726
-  },
-  {
-    "title": "Qu\u00e1n X\u1ee9 N\u1eabu 2",
-    "address": "41 Tr\u1ea7n V\u0103n Quang, Ph\u01b0\u1eddng 10, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7795549,
-    "location/lng": 106.6484094
-  },
-  {
-    "title": "Qu\u00e1n b\u00f2 t\u01a1 Kim Dung",
-    "address": "So 638 Nguy\u1ec5n Th\u1ecb R\u00e0nh, \u1ea4p Ng\u00e3 T\u01b0, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 11.0380783,
-    "location/lng": 106.4858856
-  },
-  {
-    "title": "Qu\u00e1n chay Ki\u1ec1u \u0110\u00e0m",
-    "address": "793/55/16, Tr\u1ea7n Xu\u00e2n So\u1ea1n, T\u00e2n H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay",
-    "location/lat": 10.7473653,
-    "location/lng": 106.7008505
-  },
-  {
-    "title": "Qu\u00e1n chay S\u1ed1 12",
-    "address": "12 \u0110. B\u00ecnh Ti\u00ean, Ph\u01b0\u1eddng 3, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.7405144,
-    "location/lng": 106.6437584
-  },
-  {
-    "title": "Qu\u00e1n ch\u00e8 Thanh T\u00e2m",
-    "address": "100 B\u00f9i H\u1eefu Ngh\u0129a, Ph\u01b0\u1eddng 7, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Trung Qu\u1ed1c",
-    "location/lat": 10.754527,
-    "location/lng": 106.6746672
-  },
-  {
-    "title": "Qu\u00e1n ch\u00fa Cu\u1ed9i",
-    "address": "553b \u0110. Nguy\u1ec5n V\u0103n Lu\u00f4ng, Ph\u01b0\u1eddng 12, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng",
-    "location/lat": 10.7535407,
-    "location/lng": 106.6346342
-  },
-  {
-    "title": "Qu\u00e1n d\u00ea n\u00fai V\u0129nh L\u1ed9c",
-    "address": "206 B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 27, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.818866,
-    "location/lng": 106.7260325
-  },
-  {
-    "title": "Qu\u00e1n g\u00e0 n\u01b0\u1edbng B\u1ea3y \u0110\u1ef1c",
-    "address": "RPGQ+CF4, B\u00ecnh Qu\u1edbi, L\u00e0ng Du L\u1ecbch B\u00ecnh Qu\u1edbi, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8260103,
-    "location/lng": 106.7387141
-  },
-  {
-    "title": "Qu\u00e1n h\u01b0\u01a1ng bi\u1ec3n",
-    "address": "VMH5+VR3, \u0110. TX 25, Th\u1ea1nh Xu\u00e2n, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8796362,
-    "location/lng": 106.6595482
-  },
-  {
-    "title": "Qu\u00e1n l\u1ea9u T\u00e1m \u0110\u1eb1ng",
-    "address": "267 Tr\u1ecbnh Quang Ngh\u1ecb, Ph\u01b0\u1eddng 7, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 10.7073004,
-    "location/lng": 106.6194521
-  },
-  {
-    "title": "Qu\u00e1n l\u1ea9u d\u00ea Lam S\u01a1n",
-    "address": "29 H\u1ed3ng H\u00e0, Ph\u01b0\u1eddng 2, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n \u0103n nh\u1ecf, Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8131976,
-    "location/lng": 106.6699446
-  },
-  {
-    "title": "Qu\u00e1n v\u1ecb ng\u1ecdt",
-    "address": "2/108B \u1ea4p \u0110\u00ecnh, T\u00e2n Xu\u00e2n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.873684,
-    "location/lng": 106.597075
-  },
-  {
-    "title": "Qu\u00e1n \u00d4ng Ti\u00ean - Chi Nh\u00e1nh 1",
-    "address": "225 Ph\u1ea1m Th\u1ebf Hi\u1ec3n, Ph\u01b0\u1eddng 3, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Qu\u00e1n bia",
-    "location/lat": 10.7492778,
-    "location/lng": 106.6838971
-  },
-  {
-    "title": "Qu\u00e1n \u00dat 12",
-    "address": "558/62 B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8197301,
-    "location/lng": 106.7486899
-  },
-  {
-    "title": "Qu\u00e1n \u00dat B\u00ecnh",
-    "address": "11/2 \u0111\u01b0\u1eddng 614 x\u00e3, Ph\u01b0\u1edbc Hi\u1ec7p, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1",
-    "location/lat": 10.9810635,
-    "location/lng": 106.4586675
-  },
-  {
-    "title": "Qu\u00e1n \u0102n 6 X\u1ecb",
-    "address": "31/1D, 31/1D G\u00f2 \u00d4 M\u00f4i, Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.729631,
-    "location/lng": 106.7387689
-  },
-  {
-    "title": "Qu\u00e1n \u0102n B\u00e9 Chim",
-    "address": "XH75+H3W, T\u00e2n Ph\u00fa Trung, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.9639867,
-    "location/lng": 106.557693
-  },
-  {
-    "title": "Qu\u00e1n \u0102n C\u00e2y D\u1eeba",
-    "address": "VR9R+WWM, Long B\u00ecnh, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8698458,
-    "location/lng": 106.8422924
-  },
-  {
-    "title": "Qu\u00e1n \u0102n C\u00e2y Xo\u00e0i",
-    "address": "25 H\u1ebbm 496 D\u01b0\u01a1ng Qu\u1ea3ng H\u00e0m, Ph\u01b0\u1eddng 6, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 71412, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.8372403,
-    "location/lng": 106.6845201
-  },
-  {
-    "title": "Qu\u00e1n \u0102n C\u01b0\u1eddng K\u00fd M\u00ec Gia. S\u1ee7i c\u1ea3o 157",
-    "address": "157 \u0110. H\u00e0 T\u00f4n Quy\u1ec1n, Ph\u01b0\u1eddng 4, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00ec Trung Qu\u1ed1c, Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa s\u00e1ng",
-    "location/lat": 10.7573319,
-    "location/lng": 106.6526803
-  },
-  {
-    "title": "Qu\u00e1n \u0102n Gia \u0110\u00ecnh",
-    "address": "168, \u0110\u01b0\u1eddng s\u1ed1 1, B\u00ecnh H\u01b0ng, B\u00ecnh Ch\u00e1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7330659,
-    "location/lng": 106.6920318
-  },
-  {
-    "title": "Qu\u00e1n \u0102n Gia \u0110\u00ecnh Thanh \u0110i\u1ec1n",
-    "address": "41 \u0110. \u0110\u1ed7 \u0110\u0103ng Tuy\u1ec3n, Nhu\u1eadn \u0110\u1ee9c, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 11.0529397,
-    "location/lng": 106.4805279
-  },
-  {
-    "title": "Qu\u00e1n \u0102n Gia \u0110\u00ecnh Th\u00fay Ki\u1ec1u - Qu\u00e1n Nh\u1eadu B\u00ecnh D\u00e2n",
-    "address": "83 \u0110. s\u1ed1 10, Hi\u1ec7p B\u00ecnh Ch\u00e1nh, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8282407,
-    "location/lng": 106.7316124
-  },
-  {
-    "title": "Qu\u00e1n \u0102n Gia \u0110\u00ecnh119",
-    "address": "119 R\u1ea1ch C\u00f9ng, Ph\u01b0\u1eddng 7, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7057814,
-    "location/lng": 106.6188728
-  },
-  {
-    "title": "Qu\u00e1n \u0102n Ho\u00e0ng Oai",
-    "address": "16884 H\u1ebbm 168 L\u00ea Th\u1ecb B\u1ea1ch C\u00e1t, Ph\u01b0\u1eddng 11, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7665614,
-    "location/lng": 106.650731
-  },
-  {
-    "title": "Qu\u00e1n \u0102n Hu\u1ebf O Nh\u1edb",
-    "address": "160 \u0110\u01b0\u1eddng A4, Ph\u01b0\u1eddng 12, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7970922,
-    "location/lng": 106.64905
-  },
-  {
-    "title": "Qu\u00e1n \u0102n N\u00fai Ng\u1ef1",
-    "address": "25 \u0110\u01b0\u1eddng s\u1ed1 20, Ph\u01b0\u1eddng 5, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8376353,
-    "location/lng": 106.6889934
-  },
-  {
-    "title": "Qu\u00e1n \u0102n Qu\u00e1n G\u1ea5m",
-    "address": "7 An H\u1ea1, Ph\u1ea1m V\u0103n Hai, B\u00ecnh Ch\u00e1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8667631,
-    "location/lng": 106.5332547
-  },
-  {
-    "title": "Qu\u00e1n \u0102n Tr\u1ecdng Ngh\u0129a",
-    "address": "7 An H\u1ea1, Ph\u1ea1m V\u0103n Hai, B\u00ecnh Ch\u00e1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8709731,
-    "location/lng": 106.5342193
-  },
-  {
-    "title": "Qu\u00e1n \u0102n V\u1ecdng C\u00e1c",
-    "address": "VHMH+M2J, Nguy\u1ec5n Th\u1ecb \u0110\u00e0nh, T\u00e2n Th\u1edbi Nh\u00ec, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8842043,
-    "location/lng": 106.5775274
-  },
-  {
-    "title": "Qu\u00e1n \u0102n \u0110\u0103ng Khoa",
-    "address": "77 \u0110. S\u1ed1 8, T\u00e2n Quy, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7424129,
-    "location/lng": 106.7086828
-  },
-  {
-    "title": "Qu\u00e1n \u0103n C\u00e1nh \u0111\u1ed3ng Sen",
-    "address": "10/6 T\u00e2n Hi\u1ec7p 39, T\u00e2n Hi\u1ec7p, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.914797,
-    "location/lng": 106.595024
-  },
-  {
-    "title": "Qu\u00e1n \u0103n C\u00f9 Lao Xanh",
-    "address": "558/10 B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8301282,
-    "location/lng": 106.7429357
-  },
-  {
-    "title": "Qu\u00e1n \u0103n D\u00ea \u0110\u1ed3ng Qu\u00ea",
-    "address": "B12 \u0110. D1, Ph\u01b0\u1edbc Ki\u1ec3n, Nh\u00e0 B\u00e8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng ch\u00e2u \u00c1",
-    "location/lat": 10.7219601,
-    "location/lng": 106.7064221
-  },
-  {
-    "title": "Qu\u00e1n \u0103n D\u01af\u01a0NG TH\u00c0NH \u694a \u57ce \u71c9 \u54c1",
-    "address": "68 Phan X\u00edch Long, Ph\u01b0\u1eddng 16, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Qu\u00e1n s\u00fap",
-    "location/lat": 10.755859,
-    "location/lng": 106.646621
-  },
-  {
-    "title": "Qu\u00e1n \u0103n Gia \u0110\u00ecnh T\u00e2m (Heart Kitchen)",
-    "address": "5C V\u01b0\u1eddn L\u00e0i, An Ph\u00fa \u0110\u00f4ng, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8309373,
-    "location/lng": 106.6930679
-  },
-  {
-    "title": "Qu\u00e1n \u0103n Hai Chi\u1ebfn",
-    "address": "418 B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.823698,
-    "location/lng": 106.7352828
-  },
-  {
-    "title": "Qu\u00e1n \u0103n Ho\u00e0ng B\u1ea3y",
-    "address": "2H3P+CF7, Trung An, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 11.0035472,
-    "location/lng": 106.5861762
-  },
-  {
-    "title": "Qu\u00e1n \u0103n L\u00e0ng Tre",
-    "address": "RV26+V62, \u0110\u01b0\u1eddng s\u1ed1 9, Long Ph\u01b0\u1edbc, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.802132,
-    "location/lng": 106.8605304
-  },
-  {
-    "title": "Qu\u00e1n \u0103n N\u0103m D\u1ea7n",
-    "address": "3GM9+FF5, An Nh\u01a1n T\u00e2y, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 11.0836295,
-    "location/lng": 106.5187449
-  },
-  {
-    "title": "Qu\u00e1n \u0103n N\u0103m L\u1ee3i",
-    "address": "1 \u0110\u01b0\u1eddng S\u1ed1 3 Khu D\u00e2n C\u01b0 T\u00e2n Tr\u01b0\u1eddng, Ph\u00fa Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7335115,
-    "location/lng": 106.7393638
-  },
-  {
-    "title": "Qu\u00e1n \u0103n V\u0103n Hoa (Ba c\u00e2y d\u1eeba)",
-    "address": "8 Ho\u00e0i Thanh, Ph\u01b0\u1eddng 14, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.740169,
-    "location/lng": 106.6519884
-  },
-  {
-    "title": "Qu\u00e1n \u0103n gia \u0111\u00ecnh N\u00f4ng d\u00e2n h\u1ed9i qu\u00e1n",
-    "address": "26 \u0110\u01b0\u1eddng S\u1ed1 6, Long B\u00ecnh, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8583776,
-    "location/lng": 106.8384742
-  },
-  {
-    "title": "Qu\u00e1n \u0103n gia \u0111\u00ecnh R\u1ea5t Hu\u1ebf",
-    "address": "28/2D Thanh \u0110a, Ph\u01b0\u1eddng 27, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.817892,
-    "location/lng": 106.7197658
-  },
-  {
-    "title": "Qu\u00e1n \u0103n gia \u0111\u00ecnh, ch\u00f2i l\u00e1 Hai L\u00faa",
-    "address": "C\u1ea1nh b\u00ean, \u0110\u01b0\u1eddng D1, khu du l\u1ecbch, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8186415,
-    "location/lng": 106.8647577
-  },
-  {
-    "title": "Qu\u00e1n \u0103n s\u00e2n v\u01b0\u1eddn V\u01b0\u1eddn xo\u00e0i",
-    "address": "453 Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Ph\u01b0\u1eddng 13, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Qu\u00e1n \u0103n nh\u1ecf",
-    "location/lat": 10.8225807,
-    "location/lng": 106.7004694
-  },
-  {
-    "title": "Qu\u00e1n \u0103n s\u00e2n v\u01b0\u1eddn \u0110\u1ed3ng B\u00e0 Canh",
-    "address": "66 2B, Xu\u00e2n Th\u1edbi S\u01a1n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8830408,
-    "location/lng": 106.5740894
-  },
-  {
-    "title": "Qu\u00e1n \u0110\u1ed3ng Qu\u00ea",
-    "address": "H\u1ebbm 335, Ph\u01b0\u1edbc Thi\u1ec7n, Long B\u00ecnh, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8448197,
-    "location/lng": 106.8498569
-  },
-  {
-    "title": "Qu\u00e1n \u0110\u1ed3ng Xanh",
-    "address": "480/60a, B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8201745,
-    "location/lng": 106.7398009
-  },
-  {
-    "title": "Qu\u00e1n \u1ed0c Ch\u00edch",
-    "address": "81/5 \u0110\u01b0\u1eddng s\u1ed1 57, Ph\u01b0\u1eddng 14, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8544253,
-    "location/lng": 106.65094
-  },
-  {
-    "title": "Qu\u00e1n \u1ed0c C\u00f4 S\u00e1u",
-    "address": "D\u01b0\u01a1ng B\u1ea1ch Mai, Ph\u01b0\u1eddng 5, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7370519,
-    "location/lng": 106.6657181
-  },
-  {
-    "title": "Qu\u00e1n \u1ed0c C\u00f4 Th\u00fay",
-    "address": "Tam Ph\u00fa, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8574281,
-    "location/lng": 106.7376674
-  },
-  {
-    "title": "Qu\u00e1n \u1ed0c Hi\u1ec1n",
-    "address": "55/24/12 Th\u00e0nh M\u1ef9, Ph\u01b0\u1eddng 8, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7816103,
-    "location/lng": 106.6528115
-  },
-  {
-    "title": "Qu\u00e1n \u1ed0c L\u00e1",
-    "address": "13 Tr\u1ea7n Qu\u00fd Ki\u00ean, Ph\u01b0\u1eddng Th\u1ea1nh M\u1ef9 L\u1ee3i, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7743634,
-    "location/lng": 106.7507369
-  },
-  {
-    "title": "Qu\u00e1n \u1ed0c L\u1ea9u C\u00e2y B\u00e0ng",
-    "address": "157, D\u01b0\u01a1ng Qu\u1ea3ng H\u00e0m, Ph\u01b0\u1eddng 7, Ph\u01b0\u1eddng 5, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8341913,
-    "location/lng": 106.6843345
-  },
-  {
-    "title": "Qu\u00e1n \u1ed0c Mai",
-    "address": "117B D\u01b0\u01a1ng \u0110\u00ecnh H\u1ed9i, Ph\u01b0\u1edbc Long B, Th\u00e0nh Ph\u1ed1 Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8208039,
-    "location/lng": 106.7787912
-  },
-  {
-    "title": "Qu\u00e1n \u1ed0c Nam Vi\u1ec7t | Qu\u00e1n nh\u1eadu ngon G\u00f2 V\u1ea5p",
-    "address": "A1 \u0110. s\u1ed1 2, Ph\u01b0\u1eddng 5, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.833285,
-    "location/lng": 106.684684
-  },
-  {
-    "title": "Qu\u00e1n \u1ed0c Qu\u1ef3nh 106A Ph\u00f9ng V\u0103n Cung, F7, Q.Ph\u00fa Nhu\u1eadn",
-    "address": "106 \u0110. Ph\u00f9ng V\u0103n Cung, Ph\u01b0\u1eddng 7, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n \u0103n nh\u1eb9, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8027784,
-    "location/lng": 106.6847571
-  },
-  {
-    "title": "Qu\u00e1n \u1ed0c Th\u1ea3o",
-    "address": "68/1 B\u00f4ng Sao, Ph\u01b0\u1eddng 5, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7346375,
-    "location/lng": 106.6637843
-  },
-  {
-    "title": "Qu\u00e1n \u1ed0c V\u0169",
-    "address": "37 V\u0129nh Kh\u00e1nh, Ph\u01b0\u1eddng 8, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7614025,
-    "location/lng": 106.7027047
-  },
-  {
-    "title": "Qu\u00e1n \u1ed0c Xu\u00e2n H\u00f3n",
-    "address": "43 L\u00ea Th\u1ecb B\u1ea1ch C\u00e1t, Ph\u01b0\u1eddng 13, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7636446,
-    "location/lng": 106.6527255
-  },
-  {
-    "title": "Qu\u00e1n \u1ee4t \u1ee4t V\u00f5 V\u0103n Ki\u1ec7t",
-    "address": "168 \u0110. V\u00f5 V\u0103n Ki\u1ec7t, Ph\u01b0\u1eddng C\u1ea7u \u00d4ng L\u00e3nh, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng M\u1ef9, Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng",
-    "location/lat": 10.7646348,
-    "location/lng": 106.6984256
-  },
-  {
-    "title": "RAKUEN BBQ",
-    "address": "84 B\u00e0u C\u00e1t, Ph\u01b0\u1eddng 14, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72112, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7924135,
-    "location/lng": 106.6421256
-  },
-  {
-    "title": "Raum Brunch Cafe",
-    "address": "27 \u0110\u01b0\u1eddng s\u1ed1 16, T\u00e2n Ph\u00fa, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa n\u1eeda bu\u1ed5i",
-    "location/lat": 10.723896,
-    "location/lng": 106.7290105
-  },
-  {
-    "title": "Rolling Rices",
-    "address": "111 Ho\u00e0ng Hoa Th\u00e1m, Ph\u01b0\u1eddng 6, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.8076318,
-    "location/lng": 106.6889401
-  },
-  {
-    "title": "Rose Garden Wedding & Event",
-    "address": "568 \u0110. L\u0169y B\u00e1n B\u00edch, Ho\u00e0 Thanh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "N\u01a1i t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n, Trung t\u00e2m h\u00f4\u0323i nghi\u0323, Nh\u00e0 h\u00e0ng, \u0110\u1ecba \u0111i\u1ec3m t\u1ed5 ch\u1ee9c l\u1ec5 c\u01b0\u1edbi",
-    "location/lat": 10.7857798,
-    "location/lng": 106.6369132
-  },
-  {
-    "title": "SI\u00caU TH\u1eca \u0102N V\u1eb6T TI\u1ec2U MU\u1ed8I - TI\u1ec2U MU\u1ed8I FOOD & DRINK",
-    "address": "66 Nguy\u1ec5n Ph\u00fac Chu, Ph\u01b0\u1eddng 15, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8222056,
-    "location/lng": 106.6326418
-  },
-  {
-    "title": "SPICY BOX D2 B\u00ccNH TH\u1ea0NH",
-    "address": "36/3B, Nguy\u1ec5n Gia Tr\u00ed, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 71107, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng ti\u1ec7c \u0111\u1ee9ng",
-    "location/lat": 10.8023519,
-    "location/lng": 106.7160984
-  },
-  {
-    "title": "SUKIYA K\u00eanh T\u00e2n Ho\u00e1",
-    "address": "237/36 Tr\u1ecbnh \u0110\u00ecnh Tr\u1ecdng, Ph\u00fa Trung, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Gyudon",
-    "location/lat": 10.7751258,
-    "location/lng": 106.6380525
-  },
-  {
-    "title": "Saigon Chic",
-    "address": "82 \u0110. S\u1ed1 27, Ph\u01b0\u1eddng 6, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa s\u00e1ng",
-    "location/lat": 10.8425415,
-    "location/lng": 106.6805878
-  },
-  {
-    "title": "Saigon Grill rooftop Restaurant",
-    "address": "Pasteur/91 Ward, St, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam",
-    "location/lat": 10.7769024,
-    "location/lng": 106.6992778
-  },
-  {
-    "title": "Saigon Prince Hotel (Formerly Duxton Hotel Saigon)",
-    "address": "63 \u0110. Nguy\u00ea\u0303n Hu\u00ea\u0323, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Kh\u00e1ch s\u1ea1n, S\u00e2n g\u00f4n, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7728099,
-    "location/lng": 106.7040688
-  },
-  {
-    "title": "Sasin - M\u00ec 7 c\u1ea5p \u0111\u1ed9",
-    "address": "36 Phan Huy \u00cdch, Ph\u01b0\u1eddng 15, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72100, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8256405,
-    "location/lng": 106.6309016
-  },
-  {
-    "title": "Sasin - M\u00ec cay H\u00e0n Qu\u1ed1c",
-    "address": "69 \u0110\u01b0\u1eddng s\u1ed1 1, T\u00e2n H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7348902,
-    "location/lng": 106.7004258
-  },
-  {
-    "title": "Sasin 334 T\u1ec9nh L\u1ed9 10, B\u00ecnh T\u00e2n",
-    "address": "334 TL10, Khu ph\u1ed1 14, B\u00ecnh T\u00e2n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 71900, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7564584,
-    "location/lng": 106.6235289
-  },
-  {
-    "title": "Sindbad Kebab",
-    "address": "Grandview A, My Tu/3 Nguy\u1ec5n \u0110\u1ee9c C\u1ea3nh, Phu My Hung, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.7228753,
-    "location/lng": 106.7104065
-  },
-  {
-    "title": "Somtamlam K66 Ho\u00e0ng Di\u1ec7u",
-    "address": "K66 \u0110. B\u1ebfn V\u00e2n \u0110\u1ed3n, Ph\u01b0\u1eddng 6, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Th\u00e1i Lan",
-    "location/lat": 10.7610247,
-    "location/lng": 106.7001393
-  },
-  {
-    "title": "StarCafe gate 16",
-    "address": "RM87+Q7, Ph\u01b0\u1eddng 2, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.8168427,
-    "location/lng": 106.6627707
-  },
-  {
-    "title": "Steak Bin & Pizza",
-    "address": "352K \u0110. Phan V\u0103n Tr\u1ecb, Ph\u01b0\u1eddng 11, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng b\u00edt t\u1ebft, Nh\u00e0 h\u00e0ng pizza",
-    "location/lat": 10.8209687,
-    "location/lng": 106.6941346
-  },
-  {
-    "title": "Steak M\u1ef9 Chip B\u00e9o",
-    "address": "76/30/9, Nguy\u00ean H\u1ed3ng, Ph\u01b0\u1eddng 1, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng b\u00edt t\u1ebft, Nh\u00e0 h\u00e0ng M\u1ef9",
-    "location/lat": 10.8162125,
-    "location/lng": 106.6936902
-  },
-  {
-    "title": "Sunny farm Coffee and BBQ",
-    "address": "173/1a B\u00ecnh L\u1ee3i, Ph\u01b0\u1eddng 13, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng",
-    "location/lat": 10.8321008,
-    "location/lng": 106.7047284
-  },
-  {
-    "title": "Sushi Hokkaido Sachi",
-    "address": "172H 172Q, Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u, Ph\u01b0\u1eddng 6, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng sushi",
-    "location/lat": 10.7805648,
-    "location/lng": 106.6918326
-  },
-  {
-    "title": "Sushi Hokkaido Sachi - Crescent Mall",
-    "address": "101 \u0110 T\u00f4n D\u1eadt Ti\u00ean, Khu \u0111\u00f4 th\u1ecb Ph\u00fa M\u1ef9 H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.7282008,
-    "location/lng": 106.718055
-  },
-  {
-    "title": "Sushi Hokkaido Sachi Pasteur",
-    "address": "180 Pasteur, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.7784151,
-    "location/lng": 106.6983601
-  },
-  {
-    "title": "Sushi Masa Th\u1ea1ch Th\u1ecb Thanh",
-    "address": "52 Th\u1ea1ch Th\u1ecb Thanh, Ph\u01b0\u1eddng T\u00e2n \u0110\u1ecbnh, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng sushi, Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.7905328,
-    "location/lng": 106.6924793
-  },
-  {
-    "title": "Sushi T\u00ed",
-    "address": "41 Hu\u1ef3nh T\u1ecbnh C\u1ee7a, Ph\u01b0\u1eddng 19, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7915914,
-    "location/lng": 106.7104322
-  },
-  {
-    "title": "Su\u1ed1i Bia",
-    "address": "S\u1ed1 1 \u0110\u01b0\u1eddng D4A, khu d\u00e2n c\u01b0 ki\u1ebfn \u00c1, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 008428, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8061263,
-    "location/lng": 106.7810913
-  },
-  {
-    "title": "S\u00e1u Hu\u1ebf",
-    "address": "3/30A1 T\u1ed5 23, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.83616,
-    "location/lng": 106.624914
-  },
-  {
-    "title": "S\u01a0N D\u00ca QU\u00c1N 2",
-    "address": "339 B\u00f9i V\u0103n Ng\u1eef, Hi\u1ec7p Th\u00e0nh, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8900062,
-    "location/lng": 106.6343397
-  },
-  {
-    "title": "S\u1ee7i C\u1ea3o Gia \u00dd",
-    "address": "548/29 \u0110. \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 21, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00ec Trung Qu\u1ed1c, Qu\u00e1n m\u00ec",
-    "location/lat": 10.799888,
-    "location/lng": 106.7155489
-  },
-  {
-    "title": "TDG Center - Trung T\u00e2m H\u1ed9i Ngh\u1ecb & Nh\u00e0 H\u00e0ng Ti\u1ec7c C\u01b0\u1edbi Sang Tr\u1ecdng TPHCM",
-    "address": "02 \u0110\u01b0\u1eddng D2, S\u01a1n K\u1ef3, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "\u0110\u1ecba \u0111i\u1ec3m t\u1ed5 ch\u1ee9c l\u1ec5 c\u01b0\u1edbi, Nh\u00e0 h\u00e0ng Braxin, Trung t\u00e2m h\u00f4\u0323i nghi\u0323, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8050765,
-    "location/lng": 106.6191892
-  },
-  {
-    "title": "TEXAS CHICKEN NGUY\u1ec4N S\u01a0N",
-    "address": "71 Nguy\u1ec5n S\u01a1n, Ph\u00fa Th\u1ea1nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng th\u1ecbt g\u00e0",
-    "location/lat": 10.7815968,
-    "location/lng": 106.6303419
-  },
-  {
-    "title": "TI\u1ec6M N\u01af\u1edaNG N\u00c0NG PH\u01af\u01a0NG | QU\u00c1N N\u01af\u1edaNG NGON H\u00d3C M\u00d4N | L\u1ea8U S\u1eeeA H\u00d3C M\u00d4N",
-    "address": "41/2 \u0110. Tr\u1ecbnh Th\u1ecb D\u1ed1i, \u1ea4p 6, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8958294,
-    "location/lng": 106.6386806
-  },
-  {
-    "title": "TI\u1ec6M \u0102N S\u0102N M\u00c2Y",
-    "address": "583 L\u00ea V\u0103n L\u01b0\u01a1ng, T\u00e2n H\u01b0ng, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.7330431,
-    "location/lng": 106.7015895
-  },
-  {
-    "title": "TRUNG T\u00c2M H\u1ed8I NGH\u1eca - TI\u1ec6C C\u01af\u1edaI CELINA GARDEN",
-    "address": "47 B\u00ecnh Ph\u00fa, Tam Ph\u00fa, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 t\u1ed5 ch\u1ee9c bu\u1ed5i ti\u1ec7c, D\u1ecbch v\u1ee5 c\u01b0\u1edbi h\u1ecfi, \u0110\u1ecba \u0111i\u1ec3m t\u1ed5 ch\u1ee9c l\u1ec5 c\u01b0\u1edbi",
-    "location/lat": 10.8559444,
-    "location/lng": 106.7416944
-  },
-  {
-    "title": "Taipu Udon",
-    "address": "373/6 \u0110. Nguy\u1ec5n Ki\u1ec7m, Ph\u01b0\u1eddng 9, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00ec Udon",
-    "location/lat": 10.7997883,
-    "location/lng": 106.6797138
-  },
-  {
-    "title": "Tam \u0110a Qu\u00e1n",
-    "address": "1655 \u0110. Nguy\u1ec5n Duy Trinh, Tr\u01b0\u1eddng Th\u1ea1nh, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.8090362,
-    "location/lng": 106.8286015
-  },
-  {
-    "title": "Tami Coffee & Chay (Vegetarian Restaurant)",
-    "address": "33 Ho\u00e0ng Di\u1ec7u, Ph\u01b0\u1eddng 10, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay, C\u01a1 s\u1edf rang c\u00e0 ph\u00ea, Qu\u00e1n c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng \u0103n chay, Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.7957227,
-    "location/lng": 106.6708338
-  },
-  {
-    "title": "Tandoor Indian Restaurant",
-    "address": "39 Ng\u00f4 \u0110\u1ee9c K\u1ebf, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u1ea4n \u0110\u1ed9",
-    "location/lat": 10.773186,
-    "location/lng": 106.705366
-  },
-  {
-    "title": "Tartine Saigon PMH M\u1ef9 Khang",
-    "address": "2 Nam Th\u00f4ng II C, P. T\u00e2n Ph\u00fa, Qu\u1eadn 7, M\u1ef9 Khang, S19-2, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 756335, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, M\u00f3n n\u01b0\u1edbng, Ti\u1ec7m b\u00e1nh, Qu\u00e1n \u0103n nh\u1ecf, Qu\u00e1n c\u00e0 ph\u00ea",
-    "location/lat": 10.7161406,
-    "location/lng": 106.7300691
-  },
-  {
-    "title": "Texas Chicken H\u1eadu Giang",
-    "address": "176D \u0110. H\u1eadu Giang, Ph\u01b0\u1eddng 5, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.7498932,
-    "location/lng": 106.6436792
-  },
-  {
-    "title": "Texas Chicken Nguy\u1ec5n Gia Tr\u00ed",
-    "address": "203 Nguy\u1ec5n Gia Tr\u00ed, Ph\u01b0\u1eddng 25, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng th\u1ecbt g\u00e0",
-    "location/lat": 10.8064874,
-    "location/lng": 106.7158515
-  },
-  {
-    "title": "Texas Chicken Ph\u00fa M\u1ef9 H\u01b0ng",
-    "address": "228 Ph\u1ea1m Th\u00e1i B\u01b0\u1eddng, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7275142,
-    "location/lng": 106.7089615
-  },
-  {
-    "title": "Texas Chicken Quang Trung",
-    "address": "578 Quang Trung, Ph\u01b0\u1eddng 11, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8355342,
-    "location/lng": 106.6624204
-  },
-  {
-    "title": "The 67 Pub & Restaraunt",
-    "address": "Star Hill Street, The 67, 10 \u0110\u01b0\u1eddng s\u1ed1 10, T\u00e2n Ph\u00fa, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Ti\u1ec7m b\u00e1nh, Qu\u00e1n c\u00e0 ph\u00ea, Qu\u00e1n r\u01b0\u1ee3u",
-    "location/lat": 10.7291414,
-    "location/lng": 106.7253403
-  },
-  {
-    "title": "The Adora Luxury",
-    "address": "198 \u0110. Ho\u00e0ng V\u0103n Th\u1ee5, Ph\u01b0\u1eddng 9, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Trung t\u00e2m h\u00f4\u0323i nghi\u0323, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7999756,
-    "location/lng": 106.673267
-  },
-  {
-    "title": "The Gangs Central",
-    "address": "87 \u0110. Nguy\u00ea\u0303n Hu\u00ea\u0323, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7733574,
-    "location/lng": 106.7040212
-  },
-  {
-    "title": "The Gangs Ho\u1ea3 Xa",
-    "address": "179 \u0110. Cao Th\u1eafng, Ph\u01b0\u1eddng 12, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n bia s\u00e2n v\u01b0\u1eddn, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7743592,
-    "location/lng": 106.6762941
-  },
-  {
-    "title": "The Gangs \u0110a Kao",
-    "address": "32 \u0110. M\u1ea1c \u0110\u0129nh Chi, \u0110a Kao, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7867756,
-    "location/lng": 106.6976154
-  },
-  {
-    "title": "The Noon",
-    "address": "277B \u0110. C\u00e1ch M\u1ea1ng Th\u00e1ng 8, Ph\u01b0\u1eddng 12, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7778209,
-    "location/lng": 106.6807236
-  },
-  {
-    "title": "The Pizza Company",
-    "address": "10D Ho\u00e0ng Hoa Th\u00e1m, Ph\u01b0\u1eddng 7, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng pizza",
-    "location/lat": 10.8049126,
-    "location/lng": 106.6917001
-  },
-  {
-    "title": "The Pizza Company (CN Quang Trung).",
-    "address": "638 Quang Trung, Ph\u01b0\u1eddng 11, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng pizza",
-    "location/lat": 10.8360998,
-    "location/lng": 106.6604283
-  },
-  {
-    "title": "The Pizza Company Phan X\u00edch Long",
-    "address": "355 Phan X\u00edch Long, Ph\u01b0\u1eddng 1, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng pizza",
-    "location/lat": 10.8013515,
-    "location/lng": 106.6831668
-  },
-  {
-    "title": "The River Oriental",
-    "address": "23 \u0110. Tr\u1ea7n B\u1ea1ch \u0110\u1eb1ng, Th\u1ee7 Thi\u00eam, Qu\u1eadn 2, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7834204,
-    "location/lng": 106.7193045
-  },
-  {
-    "title": "The Sushi House",
-    "address": "12/7 Nguy\u1ec5n Kho\u00e1i, Ph\u01b0\u1eddng 2, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng sushi",
-    "location/lat": 10.7535453,
-    "location/lng": 106.695575
-  },
-  {
-    "title": "The Vibes",
-    "address": "51bis An Ph\u00fa, Qu\u1eadn 2, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ed7n h\u1ee3p, Trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i, Qu\u00e1n c\u00e0 ph\u00ea",
-    "location/lat": 10.8085856,
-    "location/lng": 106.7506565
-  },
-  {
-    "title": "The Vintage Emporium \u0110a kao",
-    "address": "95 \u0110. Nguy\u1ec5n V\u0103n Th\u1ee7, \u0110a Kao, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n c\u00e0 ph\u00ea, Nh\u00e0 h\u00e0ng chuy\u00ean ph\u1ee5c v\u1ee5 b\u1eefa s\u00e1ng",
-    "location/lat": 10.790093,
-    "location/lng": 106.6992612
-  },
-  {
-    "title": "Th\u1ecbt C\u1ea7y T\u01b0 Th\u00e2n 1",
-    "address": "53 \u0110. T\u00e2n Th\u1edbi Nh\u00ec 8, T\u00e2n Th\u1edbi Nh\u00ec, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8946303,
-    "location/lng": 106.5781552
-  },
-  {
-    "title": "Tipu House Coffee",
-    "address": "2 \u0110. S\u1ed1 1, Melosa Khang \u0110i\u1ec1n, Th\u00e0nh ph\u1ed1 Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n c\u00e0 ph\u00ea, Nh\u00e0 thi\u1ebft k\u1ebf ki\u1ebfn tr\u00fac, Nh\u00e0 t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n, Nh\u00e0 cung c\u1ea5p th\u1ef1c ph\u1ea9m, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.781819,
-    "location/lng": 106.7920618
-  },
-  {
-    "title": "Ti\u1ec7m C\u01a1m Chay PH\u1eacT H\u1eeeU DUY\u00caN - \u4f5b\u53cb\u7de3\u7d20\u98df\u9928",
-    "address": "28 V\u0103n Th\u00e2n, Ph\u01b0\u1eddng 8, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.743334,
-    "location/lng": 106.642187
-  },
-  {
-    "title": "Ti\u1ec7m C\u01a1m Linh Giang",
-    "address": "145/2 D\u01b0\u01a1ng T\u1eed Giang, Ph\u01b0\u1eddng 15, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Trung Qu\u1ed1c",
-    "location/lat": 10.7565793,
-    "location/lng": 106.654342
-  },
-  {
-    "title": "Ti\u1ec7m L\u1ea9u B\u00f2 nh\u00e0 g\u1ed7 S\u00e0i G\u00f2n",
-    "address": "479A \u0110. L\u00ea Tr\u1ecdng T\u1ea5n, S\u01a1n K\u1ef3, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n l\u1ea9u",
-    "location/lat": 10.8107545,
-    "location/lng": 106.6112403
-  },
-  {
-    "title": "Ti\u1ec7m c\u01a1m T\u00e2n Nh\u00e3",
-    "address": "100 Tr\u1ea7n Tu\u1ea5n Kh\u1ea3i, Ph\u01b0\u1eddng 5, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7517478,
-    "location/lng": 106.6743019
-  },
-  {
-    "title": "Ti\u1ec7m \u0103n G\u1eb7m",
-    "address": "8 Nguy\u1ec5n Thi\u1ec7n Thu\u1eadt, Ph\u01b0\u1eddng 24, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72307, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8054507,
-    "location/lng": 106.7002568
-  },
-  {
-    "title": "Ti\u1ec7m \u1ed1c Xo\u0103n T\u00edt",
-    "address": "272 G\u00f2 D\u1ea7u, T\u00e2n Qu\u00fd, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7959909,
-    "location/lng": 106.617898
-  },
-  {
-    "title": "Tokbokki T\u00e2m L\u00f9n",
-    "address": "Phan Chu Trinh/T\u00e2n Ti\u1ebfn 2/93/2B \u1ea4p T\u00e2n Ti\u1ebfn, Xu\u00e2n Th\u1edbi \u0110\u00f4ng, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, C\u1eeda h\u00e0ng b\u00e1n th\u1ef1c ph\u1ea9m s\u1ea1ch",
-    "location/lat": 10.8655066,
-    "location/lng": 106.5951276
-  },
-  {
-    "title": "Topping Beef \u0110\u1ed9c L\u1eadp",
-    "address": "106 \u0110. Nguy\u1ec5n Th\u1ecb Minh Khai, Ph\u01b0\u1eddng 6, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ph\u01b0\u01a1ng T\u00e2y",
-    "location/lat": 10.7798309,
-    "location/lng": 106.6949897
-  },
-  {
-    "title": "Trung T\u00e2m H\u1ed9i Ngh\u1ecb Ti\u1ec7c C\u01b0\u1edbi D\u00ecn K\u00fd Center",
-    "address": "142/18 \u0110. C\u1ed9ng H\u00f2a, Ph\u01b0\u1eddng 4, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 760000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.803206,
-    "location/lng": 106.6564751
-  },
-  {
-    "title": "Trung T\u00e2m Ti\u1ec7c C\u01b0\u1edbi H\u1ed9i Ngh\u1ecb Happy Gold",
-    "address": "650 \u0110. L\u0169y B\u00e1n B\u00edch, T\u00e2n Th\u00e0nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.788858,
-    "location/lng": 106.6375023
-  },
-  {
-    "title": "Trung T\u00e2m Ti\u1ec7c C\u01b0\u1edbi H\u1ed9i Ngh\u1ecb Melisa Center",
-    "address": "QJJQ+CFX, H\u1ebbm 83 Tho\u1ea1i Ng\u1ecdc H\u1ea7u, Ho\u00e0 Thanh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Trung t\u00e2m h\u00f4\u0323i nghi\u0323, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7811046,
-    "location/lng": 106.6387234
-  },
-  {
-    "title": "Trung t\u00e2m H\u1ed9i ngh\u1ecb & Ti\u1ec7c c\u01b0\u1edbi Metropole",
-    "address": "216 L\u00fd Ch\u00ednh Th\u1eafng, Ph\u01b0\u1eddng 9, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "\u0110\u1ecba \u0111i\u1ec3m t\u1ed5 ch\u1ee9c l\u1ec5 c\u01b0\u1edbi, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7799574,
-    "location/lng": 106.682232
-  },
-  {
-    "title": "Trung t\u00e2m H\u1ed9i ngh\u1ecb - Ti\u1ec7c c\u01b0\u1edbi Diamond Place",
-    "address": "15A H\u1ed3 V\u0103n Hu\u00ea, Ph\u01b0\u1eddng 9, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Trung t\u00e2m h\u00f4\u0323i nghi\u0323, Nh\u00e0 t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n, Nh\u00e0 h\u00e0ng, \u0110\u1ecba \u0111i\u1ec3m t\u1ed5 ch\u1ee9c l\u1ec5 c\u01b0\u1edbi",
-    "location/lat": 10.8008352,
-    "location/lng": 106.6752473
-  },
-  {
-    "title": "Tr\u00e0ng An Qu\u00e1n - \u1ea8m Th\u1ef1c \u0110\u1ed3ng Qu\u00ea",
-    "address": "TP, 131 S\u1ed1 47, T\u00e2n Quy, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.741822,
-    "location/lng": 106.7123838
-  },
-  {
-    "title": "Tr\u00e2u N\u00fai G\u00e0 \u0110\u1ed3i",
-    "address": "S\u1ed1 7 \u0110. s\u1ed1 10, Hi\u1ec7p B\u00ecnh Ch\u00e1nh, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8243774,
-    "location/lng": 106.7266406
-  },
-  {
-    "title": "Tr\u00e9 tr\u1ed9n Giang Ho\u00e0ng",
-    "address": "121 Tr\u1ecbnh \u0110\u00ecnh Tr\u1ecdng, Ph\u00fa Trung, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7757414,
-    "location/lng": 106.6420401
-  },
-  {
-    "title": "Tr\u1ea7n Quang K\u00fd V\u1ecbt Quay Ti\u00eau Macao - CN L\u0169y B\u00e1n B\u00edch",
-    "address": "466A \u0110. L\u0169y B\u00e1n B\u00edch, Ho\u00e0 Thanh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7797916,
-    "location/lng": 106.6357568
-  },
-  {
-    "title": "TukTuk Thai Bistro",
-    "address": "38 L\u00fd T\u1ef1 Tr\u1ecdng, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Th\u00e1i Lan",
-    "location/lat": 10.7773874,
-    "location/lng": 106.7002539
-  },
-  {
-    "title": "TukTuk Thai Bistro",
-    "address": "29 Ng\u00f4 Th\u1eddi Nhi\u1ec7m, Ph\u01b0\u1eddng 6, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.780616,
-    "location/lng": 106.69018
-  },
-  {
-    "title": "Tuy\u1ebft Qu\u00e1n (Food & Beer)",
-    "address": "722 \u0110. \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Vinhomes T\u00e2n C\u1ea3ng, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.7974528,
-    "location/lng": 106.7238782
-  },
-  {
-    "title": "Tu\u1ea5n D\u00ea",
-    "address": "115 \u0110\u00f4ng H\u01b0ng Thu\u1eadn 2, \u0110\u00f4ng H\u01b0ng Thu\u1eadn, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8351224,
-    "location/lng": 106.6270385
-  },
-  {
-    "title": "Two Guys Bistro / Bar",
-    "address": "5 L\u00ea H\u1eefu Ki\u1ec1u Ph\u01b0\u1eddng B\u00ecnh Tr\u01b0ng T\u00e2y, Qu\u1eadn 2, Th\u00e0nh ph\u1ed1, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7835368,
-    "location/lng": 106.7522701
-  },
-  {
-    "title": "T\u00e1 L\u1ea3 Qu\u00e1n - Qu\u00e1n \u0102n Ngon Ph\u1ea1m V\u0103n \u0110\u00f4ng",
-    "address": "339 Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Ph\u01b0\u1eddng 1, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8207058,
-    "location/lng": 106.6932988
-  },
-  {
-    "title": "T\u00e2n S\u01a1n",
-    "address": "425 Quang Trung, Ph\u01b0\u1eddng 14, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.837564,
-    "location/lng": 106.642097
-  },
-  {
-    "title": "T\u00e8obokki Hu\u1ef3nh Thi\u1ec7n L\u1ed9c",
-    "address": "14A Hu\u1ef3nh Thi\u1ec7n L\u1ed9c, Ho\u00e0 Thanh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "C\u1eeda h\u00e0ng t\u1ea1p ph\u1ea9m Tri\u1ec1u Ti\u00ean, Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.7803653,
-    "location/lng": 106.6362532
-  },
-  {
-    "title": "T\u1edaI B\u1ebeN FOOD & BEER",
-    "address": "173 \u0110. B\u1ebfn V\u00e2n \u0110\u1ed3n, Ph\u01b0\u1eddng 6, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 008428, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.761827,
-    "location/lng": 106.697943
-  },
-  {
-    "title": "Uchi Sushi",
-    "address": "14 S\u1ed1 45, Ph\u01b0\u1eddng 6, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng sushi, Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.7577088,
-    "location/lng": 106.7006533
-  },
-  {
-    "title": "Unatoto Nguy\u1ec5n Th\u1ecb Th\u1eadp - C\u01a1m l\u01b0\u01a1n n\u01b0\u1edbng s\u1ed1 1 Nh\u1eadt B\u1ea3n",
-    "address": "70 Nguy\u1ec5n Th\u1ecb Th\u1eadp, B\u00ecnh Thu\u1eadn, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72914, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7379031,
-    "location/lng": 106.7253835
-  },
-  {
-    "title": "Va Th\u00e0nh \u74e6\u57ce Casual Taiwanese",
-    "address": "40 Hu\u1ef3nh M\u1eabn \u0110\u1ea1t, P.2, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0110\u00e0i Loan",
-    "location/lat": 10.7546505,
-    "location/lng": 106.6769748
-  },
-  {
-    "title": "Vegan Garden",
-    "address": "Shop 3SB1-9 S\u1ed1 2 M\u1ef9 Vi\u00ean Chung C\u01b0 M\u1ef9 Vi\u00ean P, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay, Nh\u00e0 h\u00e0ng \u0103n nhanh, Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay",
-    "location/lat": 10.7180448,
-    "location/lng": 106.7297147
-  },
-  {
-    "title": "Veganizta",
-    "address": "Crescent Residence 1, 103 T\u00f4n D\u1eadt Ti\u00ean, T\u00e2n Ph\u00fa, CR1-05, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n chay, Nh\u00e0 h\u00e0ng \u0110\u00f4ng Nam \u00c1",
-    "location/lat": 10.727837,
-    "location/lng": 106.7191793
-  },
-  {
-    "title": "V\u01b0\u1eddn C\u00f2 B\u00ean S\u00f4ng",
-    "address": "Long Th\u1ea1nh M\u1ef9, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8286654,
-    "location/lng": 106.8342321
-  },
-  {
-    "title": "V\u01b0\u1eddn N\u01b0\u1edbng H\u00e0n Qu\u1ed1c Buffet",
-    "address": "1212 \u0110. L\u00ea \u0110\u1ee9c Th\u1ecd, Ph\u01b0\u1eddng 13, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8526642,
-    "location/lng": 106.6603828
-  },
-  {
-    "title": "V\u01b0\u1eddn c\u00f2 H\u1ed3ng K\u00fd",
-    "address": "35 \u0110\u01b0\u1eddng 23, Long Th\u1ea1nh M\u1ef9, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.827905,
-    "location/lng": 106.8349986
-  },
-  {
-    "title": "V\u01b0\u1eddn \u1ed0c Wongnai",
-    "address": "268 \u0110. T\u00f4 Hi\u1ebfn Th\u00e0nh, Ph\u01b0\u1eddng 15, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7796597,
-    "location/lng": 106.6648913
-  },
-  {
-    "title": "V\u1ecbt C\u1ecf V\u00e2n \u0110\u00ecnh Qu\u1eadn 9",
-    "address": "128 \u0110. Man Thi\u1ec7n, Ph\u01b0\u1eddng T\u00e2n Ph\u00fa, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8531865,
-    "location/lng": 106.788986
-  },
-  {
-    "title": "V\u1ecbt quay V\u0129nh Phong",
-    "address": "527 Phan V\u0103n Tr\u1ecb, Ph\u01b0\u1eddng 7, Qu\u1eadn 5, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "M\u00f3n n\u01b0\u1edbng, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7544894,
-    "location/lng": 106.6742585
-  },
-  {
-    "title": "Warning Zone 223",
-    "address": "223 \u0110. Nam K\u1ef3 Kh\u1edfi Ngh\u0129a, Ph\u01b0\u1eddng 14, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7884409,
-    "location/lng": 106.685031
-  },
-  {
-    "title": "Warning Zone 33",
-    "address": "33 Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u, \u0110a Kao, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7858114,
-    "location/lng": 106.6975936
-  },
-  {
-    "title": "Wong Wong Dimsum",
-    "address": "102 V\u0103n Th\u00e2n, Ph\u01b0\u1eddng 8, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Trung Qu\u1ed1c",
-    "location/lat": 10.742014,
-    "location/lng": 106.6397099
-  },
-  {
-    "title": "XP Garden",
-    "address": "476 \u0110. D\u01b0\u01a1ng Qu\u1ea3ng H\u00e0m, Ph\u01b0\u1eddng 6, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Qu\u00e1n c\u00e0 ph\u00ea, H\u00e3ng phim, S\u00e2n kh\u1ea5u",
-    "location/lat": 10.8360298,
-    "location/lng": 106.6837651
-  },
-  {
-    "title": "Xi\u00ean Kh\u00e8 Koozi",
-    "address": "782 \u0110. Tr\u01b0\u1eddng Sa, Ph\u01b0\u1eddng 14, Qu\u1eadn 3, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7882771,
-    "location/lng": 106.681721
-  },
-  {
-    "title": "Xu\u00e2n Lam Qu\u00e1n",
-    "address": "267 \u0110\u01b0\u1eddng Tr\u1ecbnh Quang Ngh\u1ecb, Ph\u01b0\u1eddng 7, Qu\u1eadn 8, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7073823,
-    "location/lng": 106.620111
-  },
-  {
-    "title": "X\u00f4i B\u00ecnh Ti\u00ean - Minh Ph\u1ee5ng",
-    "address": "88 \u0110. Minh Ph\u1ee5ng, Ph\u01b0\u1eddng 5, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng c\u01a1m, Nh\u00e0 h\u00e0ng b\u00e1n \u0111\u1ed3 \u0103n mang v\u1ec1",
-    "location/lat": 10.7494238,
-    "location/lng": 106.6425052
-  },
-  {
-    "title": "X\u1ebbng - M\u1ed3i & Bia",
-    "address": "22 Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u, \u0110a Kao, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7904926,
-    "location/lng": 106.7012738
-  },
-  {
-    "title": "Yolo Bbq",
-    "address": "49-51 Phan Huy \u00cdch, Ph\u01b0\u1eddng 15, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng",
-    "location/lat": 10.8268583,
-    "location/lng": 106.6312731
-  },
-  {
-    "title": "Zion Sky Lounge and Dining",
-    "address": "87A H\u00e0m Nghi, Ph\u01b0\u1eddng Nguy\u1ec5n Th\u00e1i B\u00ecnh, Qu\u1eadn 1, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7705736,
-    "location/lng": 106.7021213
-  },
-  {
-    "title": "ZumWhere Ph\u00fa Nhu\u1eadn",
-    "address": "117B Nguy\u1ec5n \u0110\u00ecnh Ch\u00ednh, Ph\u01b0\u1eddng 15, Ph\u00fa Nhu\u1eadn, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Izakaya, Nh\u00e0 m\u00e1y bia",
-    "location/lat": 10.7951316,
-    "location/lng": 106.6784585
-  },
-  {
-    "title": "iSushi Tr\u01b0\u1eddng S\u01a1n T\u00e2n B\u00ecnh",
-    "address": "18 Tr\u01b0\u1eddng S\u01a1n, Ph\u01b0\u1eddng 2, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Nh\u1eadt B\u1ea3n",
-    "location/lat": 10.8081917,
-    "location/lng": 106.6648058
-  },
-  {
-    "title": "l\u1ea9u b\u00f2 \u0111\u1ed3ng",
-    "address": "111/5A T\u1ed5 103, \u00c2p Tam \u0110\u00f4ng, Th\u1edbi Tam Th\u00f4n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.885006,
-    "location/lng": 106.6236829
-  },
-  {
-    "title": "qu\u00e1n 3 ch\u1ecb em",
-    "address": "3C9H+QJ6, Unnamed Road, Trung L\u1eadp Th\u01b0\u1ee3ng, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 11.0694166,
-    "location/lng": 106.4290285
-  },
-  {
-    "title": "\u00d4RIBBQ",
-    "address": "l\u00f4 20-21-22, 2A \u0110. Song H\u00e0nh, Trung M\u1ef9 T\u00e2y, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8505905,
-    "location/lng": 106.6143319
-  },
-  {
-    "title": "\u00dat Th\u01a1m M\u00e1 Heo Qu\u00e1n",
-    "address": "VHCF+3J7, \u0110\u01b0\u1eddng Tr\u01b0\u01a1ng Th\u1ecb Nh\u01b0, Xu\u00e2n Th\u1edbi S\u01a1n, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8701712,
-    "location/lng": 106.5740333
-  },
-  {
-    "title": "\u0102n v\u1eb7t Nh\u1edb",
-    "address": "Th\u00e1i M\u1ef9, C\u1ee7 Chi, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.9946322,
-    "location/lng": 106.4031217
-  },
-  {
-    "title": "\u0110\u00e1 L\u1eeda CN5",
-    "address": "242 Nguy\u1ec5n Oanh, Ph\u01b0\u1eddng 17, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.8371694,
-    "location/lng": 106.6756176
-  },
-  {
-    "title": "\u0110\u00f4 B\u1ea5t T\u1eed - 110D T\u00f4 Hi\u1ec7u",
-    "address": "110D T\u00f4 Hi\u1ec7u, Hi\u1ec7p T\u00e2n, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7678464,
-    "location/lng": 106.6270862
-  },
-  {
-    "title": "\u0110\u00f4ng Giang Qu\u00e1n",
-    "address": "642 \u0110. H\u1ed3ng B\u00e0ng, Ph\u01b0\u1eddng 16, Qu\u1eadn 11, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng, Ph\u00f2ng ti\u1ec7c, Nh\u00e0 t\u1ed5 ch\u1ee9c bu\u1ed5i ti\u1ec7c",
-    "location/lat": 10.7543943,
-    "location/lng": 106.6439492
-  },
-  {
-    "title": "\u0110\u1ea9u Camping Hawaii",
-    "address": "1017 B\u00ecnh Qu\u1edbi, C\u01b0 x\u00e1 Thanh \u0110a, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8207268,
-    "location/lng": 106.7255678
-  },
-  {
-    "title": "\u0110\u1ec9nh Phong Qu\u00e1n",
-    "address": "495 Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Ph\u01b0\u1eddng 13, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Qu\u00e1n bia, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8230441,
-    "location/lng": 106.7022118
-  },
-  {
-    "title": "\u1ea8M TH\u1ef0C H\u01af\u1edaNG D\u01af\u01a0NG",
-    "address": "7 \u0110. Mai Ch\u00ed Th\u1ecd, Ph\u01b0\u1eddng B\u00ecnh Kh\u00e1nh, Qu\u1eadn 2, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 713702, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7842836,
-    "location/lng": 106.7431861
-  },
-  {
-    "title": "\u1ea8M TH\u1ef0C S\u00c1U CUA 2",
-    "address": "96/5 Nguy\u1ec5n \u1ea2nh Th\u1ee7, \u0110. T\u00e2y L\u00e2n 7, B\u00e0 \u0110i\u1ec3m, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8428694,
-    "location/lng": 106.5997758
-  },
-  {
-    "title": "\u1ea8m Th\u1ef1c 72-Nguy\u1ec5n S\u1ef9 S\u00e1ch",
-    "address": "72 Nguy\u1ec5n S\u1ef9 S\u00e1ch, Ph\u01b0\u1eddng 15, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8201366,
-    "location/lng": 106.6362992
-  },
-  {
-    "title": "\u1ea8m Th\u1ef1c Ba Mi\u1ec1n",
-    "address": "162 Nguy\u1ec5n Th\u1ecb \u0110\u1ecbnh, Ph\u01b0\u1eddng B\u00ecnh Tr\u01b0ng T\u00e2y, Th\u00e0nh ph\u1ed1 Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7877051,
-    "location/lng": 106.7553812
-  },
-  {
-    "title": "\u1ea8m Th\u1ef1c Chay Di\u1ec7u Thi\u1ec7n",
-    "address": "16/1H,Nguy\u1ec5n \u1ea2nh Th\u1ee7, \u1ea4p H\u01b0ng L\u00e2n, B\u00e0 \u0110i\u1ec3m, H\u00f3c M\u00f4n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8521995,
-    "location/lng": 106.6043077
-  },
-  {
-    "title": "\u1ea8m Th\u1ef1c L\u00e0ng Tre",
-    "address": "26/1 Nguy\u1ec5n Th\u1ecb B\u00fap, T\u00e2n Ch\u00e1nh Hi\u1ec7p, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8756949,
-    "location/lng": 106.626209
-  },
-  {
-    "title": "\u1ea8m Th\u1ef1c Qu\u00ea Nh\u00e0 Qu\u1eadn T\u00e2n B\u00ecnh",
-    "address": "52A Nguy\u1ec5n Th\u00e1i B\u00ecnh, Ph\u01b0\u1eddng 4, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Vi\u1ec7t Nam, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7989019,
-    "location/lng": 106.6554157
-  },
-  {
-    "title": "\u1ea8m Th\u1ef1c Sinh Th\u00e1i S\u00f4ng Qu\u00ea 5",
-    "address": "187 \u0110. \u0110\u00e0o Tr\u00ed, Ph\u00fa M\u1ef9, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 72906, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7126959,
-    "location/lng": 106.744819
-  },
-  {
-    "title": "\u1ea8m th\u1ef1c Chay - V\u01b0\u1eddn Chay",
-    "address": "428 L\u00ea Quang \u0110\u1ecbnh, Ph\u01b0\u1eddng 11, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng cho ng\u01b0\u1eddi \u0103n chay, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8118414,
-    "location/lng": 106.6908568
-  },
-  {
-    "title": "\u1ea8m th\u1ef1c OLA",
-    "address": "1534 \u0110. V\u00f5 V\u0103n Ki\u1ec7t, Ph\u01b0\u1eddng 7, Qu\u1eadn 6, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7401164,
-    "location/lng": 106.6432296
-  },
-  {
-    "title": "\u1ea8m th\u1ef1c Ph\u01b0\u01a1ng Nam Qu\u1eadn 2",
-    "address": "S\u1ed1 01 \u0110\u01b0\u1eddng s\u1ed1 1, P. An Ph\u00fa, Th\u00e0nh ph\u1ed1, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.788598,
-    "location/lng": 106.7449989
-  },
-  {
-    "title": "\u1ea8m th\u1ef1c Ph\u01b0\u1edbc Qu\u1eafn",
-    "address": "L\u01b0\u01a1ng Ng\u1ecdc Quy\u1ebfn, Ph\u01b0\u1eddng 5, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.8229697,
-    "location/lng": 106.6962316
-  },
-  {
-    "title": "\u1ea8m th\u1ef1c Th\u1ed1",
-    "address": "133 \u0110\u01b0\u1eddng 18, Hi\u1ec7p B\u00ecnh Ch\u00e1nh, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8218142,
-    "location/lng": 106.7196682
-  },
-  {
-    "title": "\u1ea8m th\u1ef1c s\u00e2n v\u01b0\u1eddn M\u00e1i L\u00e1 Qu\u1eadn 7",
-    "address": "1D \u0110\u01b0\u1eddng S\u1ed1 36, T\u00e2n Quy, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7413095,
-    "location/lng": 106.7089206
-  },
-  {
-    "title": "\u1ea8m th\u1ef1c s\u00e2n v\u01b0\u1eddn PON",
-    "address": "508 \u0110. L\u00ea Tr\u1ecdng T\u1ea5n, T\u00e2y Th\u1ea1nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8097255,
-    "location/lng": 106.6144057
-  },
-  {
-    "title": "\u1ea8m th\u1ef1c s\u00e2n v\u01b0\u1eddn l\u1ea9u b\u00f2 Tuy\u1ec1n k\u00fd",
-    "address": "277 L\u00e3 Xu\u00e2n Oai, T\u0103ng Nh\u01a1n Ph\u00fa A, Qu\u1eadn 9, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng gia \u0111\u00ecnh",
-    "location/lat": 10.836903,
-    "location/lng": 106.7993104
-  },
-  {
-    "title": "\u1ea8m th\u1ef1c tre v\u00e0ng",
-    "address": "538 L\u00ea V\u0103n Th\u1ecd, Ph\u01b0\u1eddng 13, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 700000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8529215,
-    "location/lng": 106.6561763
-  },
-  {
-    "title": "\u1ed0C An Vy",
-    "address": "79 \u0110. S\u1ed1 23, Hi\u1ec7p B\u00ecnh Ch\u00e1nh, Th\u1ee7 \u0110\u1ee9c, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng m\u00f3n n\u01b0\u1edbng",
-    "location/lat": 10.826903,
-    "location/lng": 106.728374
-  },
-  {
-    "title": "\u1ed0C TR\u1ee8NG MU\u1ed0I 3",
-    "address": "107 \u0110. S\u1ed1 7, Cityland Center Hills, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8293932,
-    "location/lng": 106.6797516
-  },
-  {
-    "title": "\u1ed0c Bom",
-    "address": "223 Nguy\u1ec5n V\u0103n C\u00f4ng, Ph\u01b0\u1eddng 3, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.8224002,
-    "location/lng": 106.6742282
-  },
-  {
-    "title": "\u1ed0c Ch\u00e1nh",
-    "address": "55/5 Nguy\u1ec5n V\u0103n C\u00f4ng, Ph\u01b0\u1eddng 3, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8238868,
-    "location/lng": 106.6774516
-  },
-  {
-    "title": "\u1ed0c Ch\u1ea3o 535",
-    "address": "535 Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Ph\u01b0\u1eddng 13, B\u00ecnh Th\u1ea1nh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8235646,
-    "location/lng": 106.7042277
-  },
-  {
-    "title": "\u1ed0c C\u00f4 Giang",
-    "address": "59 \u0110. Nguy\u1ec5n H\u1eefu D\u1eadt, T\u00e2y Th\u1ea1nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8074464,
-    "location/lng": 106.6309887
-  },
-  {
-    "title": "\u1ed0c C\u00f4 Giang",
-    "address": "304 \u0110. TX25, Th\u1ea1nh Xu\u00e2n, Qu\u1eadn 12, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8801161,
-    "location/lng": 106.6647379
-  },
-  {
-    "title": "\u1ed0c C\u0169",
-    "address": "261 \u0110. S\u1ed1 8, Ph\u01b0\u1eddng 11, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.844964,
-    "location/lng": 106.6593584
-  },
-  {
-    "title": "\u1ed0c Ho\u00e0ng Sa",
-    "address": "79/3 \u0110. T\u00f4n Th\u1ea5t Thuy\u1ebft, Ph\u01b0\u1eddng 1, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7544825,
-    "location/lng": 106.6915379
-  },
-  {
-    "title": "\u1ed0c H\u00fat",
-    "address": "81 K\u00eanh N\u01b0\u1edbc \u0110en, B\u00ecnh H\u01b0ng Ho\u00e0 A, B\u00ecnh T\u00e2n, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.787518,
-    "location/lng": 106.615082
-  },
-  {
-    "title": "\u1ed0c Ngon Thi\u1ec7n \u00dd",
-    "address": "200 Nguy\u1ec5n V\u0103n Kh\u1ed1i, Ph\u01b0\u1eddng 9, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8429159,
-    "location/lng": 106.6534892
-  },
-  {
-    "title": "\u1ed0c Nho 88",
-    "address": "190 L\u00ea Qu\u1ed1c H\u01b0ng, Ph\u01b0\u1eddng 12, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7631239,
-    "location/lng": 106.7059438
-  },
-  {
-    "title": "\u1ed0c Nh\u1edb S\u00e0i G\u00f2n",
-    "address": "136 Tr\u1ecbnh \u0110\u00ecnh Tr\u1ecdng, Ph\u00fa Trung, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.77495,
-    "location/lng": 106.6438903
-  },
-  {
-    "title": "\u1ed0c Oanh",
-    "address": "534 V\u0129nh Kh\u00e1nh, Ph\u01b0\u1eddng 8, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n, Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7607037,
-    "location/lng": 106.7032931
-  },
-  {
-    "title": "\u1ed0c Quang Anh",
-    "address": "189 \u0110. T\u00f4 Hi\u1ebfn Th\u00e0nh, Ph\u01b0\u1eddng 13, Qu\u1eadn 10, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7798791,
-    "location/lng": 106.6682696
-  },
-  {
-    "title": "\u1ed0c Sen",
-    "address": "18A X\u00f3m Chi\u1ebfu, Ph\u01b0\u1eddng 16, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.7570694,
-    "location/lng": 106.7107798
-  },
-  {
-    "title": "\u1ed0c Xanh Thu B\u1eb9",
-    "address": "98 Tr\u1ea7n Quang C\u01a1, Ph\u00fa Th\u1ea1nh, T\u00e2n Ph\u00fa, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh 70000, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n, Qu\u00e1n \u0103n nh\u1ecf",
-    "location/lat": 10.7782786,
-    "location/lng": 106.6235934
-  },
-  {
-    "title": "\u1ed0c c\u00e2y me c\u0169",
-    "address": "119 \u0110. S\u1ed1 1, Ph\u01b0\u1eddng 11, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8460927,
-    "location/lng": 106.6605212
-  },
-  {
-    "title": "\u1ed0c \u0110\u00e0o 2",
-    "address": "123 V\u0129nh Kh\u00e1nh, Ph\u01b0\u1eddng 10, Qu\u1eadn 4, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng h\u1ea3i s\u1ea3n",
-    "location/lat": 10.7611372,
-    "location/lng": 106.7049786
-  },
-  {
-    "title": "\u1ed0c \u0110\u00eam- Th\u1ebf gi\u1edbi \u1ed1c 30k",
-    "address": "247 Ph\u1ea1m V\u0103n B\u1ea1ch, Ph\u01b0\u1eddng 15, T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng",
-    "location/lat": 10.8189004,
-    "location/lng": 106.6376496
-  },
-  {
-    "title": "\u1ed0c \u0111\u00eam Ch\u00fa Ki\u1ec7t",
-    "address": "137 \u0110. S\u1ed1 27, Ph\u01b0\u1eddng 6, G\u00f2 V\u1ea5p, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng \u0103n nhanh",
-    "location/lat": 10.843444,
-    "location/lng": 106.6809328
-  },
-  {
-    "title": "\u65fa\u548c\u725b\u6f6e\u6c55\u725b\u8089\u706b\u9505(7\u90e1) L\u1ea9u b\u00f2 tri\u1ec1u ch\u00e2u WangHeNiu(Q7)",
-    "address": "\u0110. P/4-1B Khu ph\u1ed1 M\u1ef9 C\u1ea3nh, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Trung Qu\u1ed1c",
-    "location/lat": 10.7271964,
-    "location/lng": 106.7140236
-  },
-  {
-    "title": "\ub4e4\uae68\uc2dc\ub798\uae30 Perilla Korean restaurant",
-    "address": "161 \u0110 T\u00f4n D\u1eadt Ti\u00ean, T\u00e2n Phong, Qu\u1eadn 7, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
-    "categories": "Nh\u00e0 h\u00e0ng Ha\u0300n Qu\u1ed1c",
-    "location/lat": 10.7224348,
-    "location/lng": 106.7140959
+      "placeId":"ChIJD_s-VDssdTEReBNVQs0H_vo",
+      "title":"Trung Tâm Anh Ngữ Đông Đô",
+      "categoryName":"Trường học",
+      "location\/lat":10.7671928,
+      "location\/lng":106.6158233,
+      "address":"B A,, 477 Tân Hòa Đông, Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+Anh+Ng%E1%BB%AF+%C4%90%C3%B4ng+%C4%90%C3%B4\/@10.7671928,106.6158233,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c3b543efb0f:0xfafe07cd42551378!8m2!3d10.7671928!4d106.6158233!16s%2Fg%2F11c5rww14c?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ0ZcTJC8pdTERAgHNp4oabVI",
+      "title":"Trường Cao đẳng Y Dược Pasteur Sài Gòn",
+      "categoryName":"Trường y",
+      "location\/lat":10.7217734,
+      "location\/lng":106.602011,
+      "address":"913\/3 QL1A, An Lạc, Bình Tân, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%91%E1%BA%B3ng+Y+D%C6%B0%E1%BB%A3c+Pasteur+S%C3%A0i+G%C3%B2n\/@10.7217734,106.602011,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292f241397d1:0x526d1a8aa7cd0102!8m2!3d10.7217734!4d106.602011!16s%2Fg%2F11j8c4g6zg?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJF-MyK5gtdTERJE5gT9H2FCs",
+      "title":"Trường Cao đẳng Nông nghiệp Nam Bộ Phân hiệu Thành phố Hồ Chí Minh",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7480811,
+      "location\/lng":106.6238239,
+      "address":"511 Đ. An Dương Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%91%E1%BA%B3ng+N%C3%B4ng+nghi%E1%BB%87p+Nam+B%E1%BB%99+Ph%C3%A2n+hi%E1%BB%87u+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh\/@10.7480811,106.6238239,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d982b32e317:0x2b14f6d14f604e24!8m2!3d10.7480811!4d106.6238239!16s%2Fg%2F11fstzc8h_?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ04yIv88tdTERPvqFfHM-R1c",
+      "title":"Trường Cao đẳng Quốc Tế TP.HCM",
+      "categoryName":"Trường học",
+      "location\/lat":10.7405193,
+      "location\/lng":106.616249,
+      "address":"460D Đ. Kinh Dương Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%91%E1%BA%B3ng+Qu%E1%BB%91c+T%E1%BA%BF+TP.HCM\/@10.7405193,106.616249,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dcfbf888cd3:0x57473e737c85fa3e!8m2!3d10.7405193!4d106.616249!16s%2Fg%2F11c5zc9vnp?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJQVWRtEwsdTERpuw7VKGDP_I",
+      "title":"Trường Tiểu học Bình Tân",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.751798,
+      "location\/lng":106.5980421,
+      "address":"1 Đường số 48, Tân Tạo, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+B%C3%ACnh+T%C3%A2n\/@10.751798,106.5980421,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c4cb4915541:0xf23f83a1543beca6!8m2!3d10.751798!4d106.5980421!16s%2Fg%2F1tt0nmht?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJvQu3GNAtdTERdZVaAAbejz0",
+      "title":"Trường Tiểu học An Lạc 3",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7389957,
+      "location\/lng":106.6131263,
+      "address":"504 \/ 58C Đ. Kinh Dương Vương, P. Phú Thuận, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+An+L%E1%BA%A1c+3\/@10.7389957,106.6131263,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dd018b70bbd:0x3d8fde06005a9575!8m2!3d10.7389957!4d106.6131263!16s%2Fg%2F1thl2xw7?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJZ1ZmWdItdTERn4-xElVvrgM",
+      "title":"Trường THPT Phú Lâm",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.7278327,
+      "location\/lng":106.6081858,
+      "address":"721 Đ. Kinh Dương Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Ph%C3%BA+L%C3%A2m\/@10.7278327,106.6081858,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dd259665667:0x3ae6f5512b18f9f!8m2!3d10.7278327!4d106.6081858!16s%2Fg%2F11r8jctfv4?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJo039hoQudTER5cwIyaqMsts",
+      "title":"Trường THPT Trần Nhân Tông",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.7605915,
+      "location\/lng":106.6239664,
+      "address":"200 Tân Hòa Đông, Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Tr%E1%BA%A7n+Nh%C3%A2n+T%C3%B4ng\/@10.7605915,106.6239664,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e8486fd4da3:0xdbb28caac908cce5!8m2!3d10.7605915!4d106.6239664!16s%2Fg%2F1tm66fj6?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJYZSdxMEtdTERm8tvlZ1yD0Q",
+      "title":"Trường Tiểu học An Lạc 1",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7290655,
+      "location\/lng":106.6101218,
+      "address":"687\/6 Đ. Kinh Dương Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+An+L%E1%BA%A1c+1\/@10.7290655,106.6101218,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dc1c49d9461:0x440f729d956fcb9b!8m2!3d10.7290655!4d106.6101218!16s%2Fg%2F11b7q8c63r?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJOY_uOyQsdTERLjTQuChcq34",
+      "title":"Trường Tiểu học Bình Trị Đông",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.764438,
+      "location\/lng":106.6221759,
+      "address":"276\/68 Tân Hòa Đông, Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+B%C3%ACnh+Tr%E1%BB%8B+%C4%90%C3%B4ng\/@10.764438,106.6221759,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c243bee8f39:0x7eab5c28b8d0342e!8m2!3d10.764438!4d106.6221759!16s%2Fg%2F1tgpkj8t?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJD8B-MccrdTER5maRKnRMjFE",
+      "title":"Trường THCS Nguyễn Trãi",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8215272,
+      "location\/lng":106.6074142,
+      "address":"Đường M1, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Nguy%E1%BB%85n+Tr%C3%A3i\/@10.8215272,106.6074142,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bc7317ec00f:0x518c4c742a9166e6!8m2!3d10.8215272!4d106.6074142!16s%2Fg%2F11btrrzjm6?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJbZgzGpordTER7yQIVDmaUME",
+      "title":"Trường THCS Huỳnh Văn Nghệ",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8109143,
+      "location\/lng":106.5926413,
+      "address":"89 Đường số 3, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh 71914, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Hu%E1%BB%B3nh+V%C4%83n+Ngh%E1%BB%87\/@10.8109143,106.5926413,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b9a1a33986d:0xc1509a39540824ef!8m2!3d10.8109143!4d106.5926413!16s%2Fg%2F11b7vqwwjr?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJr2zwA4UrdTER96urITCSlr4",
+      "title":"Trường mầm nòn - tiểu học - THCS - THPT Trí Tuệ Việt",
+      "categoryName":"Trường học",
+      "location\/lat":10.8039658,
+      "location\/lng":106.591161,
+      "address":"79 Đường số 3, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh 71914, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+m%E1%BA%A7m+n%C3%B2n+-+ti%E1%BB%83u+h%E1%BB%8Dc+-+THCS+-+THPT+Tr%C3%AD+Tu%E1%BB%87+Vi%E1%BB%87t\/@10.8039658,106.591161,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b8503f06caf:0xbe96923021ababf7!8m2!3d10.8039658!4d106.591161!16s%2Fg%2F1hc2c3fpf?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJy2hDlFAsdTERDu3TeXIZ8b8",
+      "title":"Trường Mầm Non Sen Hồng",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.761884,
+      "location\/lng":106.5887922,
+      "address":"QH6Q+QG3, Hồ Văn Long, Tân Tạo, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+Sen+H%E1%BB%93ng\/@10.761884,106.5887922,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c50944368cb:0xbff1197279d3ed0e!8m2!3d10.761884!4d106.5887922!16s%2Fg%2F1tlc5kqv?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJKwlt4lAsdTERlDhTRQhF0Kw",
+      "title":"Ho Van Long Secondary School",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7599741,
+      "location\/lng":106.589538,
+      "address":"52-54 Hồ Văn Long, Tân Tạo, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Ho+Van+Long+Secondary+School\/@10.7599741,106.589538,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c50e26d092b:0xacd0450845533894!8m2!3d10.7599741!4d106.589538!16s%2Fg%2F1pzqn96xx?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJZWz8j3EsdTERhwSLhtQvLDU",
+      "title":"Trường Tiểu học Phù Đổng",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7856264,
+      "location\/lng":106.5989235,
+      "address":"73 Đ. Lô Tư, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Ph%C3%B9+%C4%90%E1%BB%95ng\/@10.7856264,106.5989235,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c718ffc6c65:0x352c2fd4868b0487!8m2!3d10.7856264!4d106.5989235!16s%2Fg%2F11h11_128?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJIQhik6otdTERgfMTN1iu0OE",
+      "title":"Trường Tiểu học Lê Quý Đôn",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7504025,
+      "location\/lng":106.583507,
+      "address":"Đ. Số 2, KDC Hai Thành, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+L%C3%AA+Qu%C3%BD+%C4%90%C3%B4n\/@10.7504025,106.583507,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752daa93620821:0xe1d0ae583713f381!8m2!3d10.7504025!4d106.583507!16s%2Fg%2F11flt8y1w4?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJNSu2514tdTERBLbUyrfAZC8",
+      "title":"Trường THCS Lạc Long Quân",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7918422,
+      "location\/lng":106.5994511,
+      "address":"QHRX+PQP, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh 71913, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+L%E1%BA%A1c+Long+Qu%C3%A2n\/@10.7918422,106.5994511,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d5ee7b62b35:0x2f64c0b7cad4b604!8m2!3d10.7918422!4d106.5994511!16s%2Fg%2F11hjbcfnjk?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJmVVn03UsdTER5SbBcoeFblk",
+      "title":"Trường tiểu học Lạc Hồng",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7920583,
+      "location\/lng":106.6000663,
+      "address":"11 Đ. Tân Kỳ Tân Quý, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh 71913, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+ti%E1%BB%83u+h%E1%BB%8Dc+L%E1%BA%A1c+H%E1%BB%93ng\/@10.7920583,106.6000663,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c75d3675599:0x596e858772c126e5!8m2!3d10.7920583!4d106.6000663!16s%2Fg%2F11gdzgqxn8?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJlxN1awAtdTERBiCn7zpZaVU",
+      "title":"ADA - Alice Dance Academy",
+      "categoryName":"Trường dạy Ba lê",
+      "location\/lat":10.7538311,
+      "location\/lng":106.5851057,
+      "address":"4449 Nguyễn Cửu Phú, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/ADA+-+Alice+Dance+Academy\/@10.7538311,106.5851057,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752d006b751397:0x5569593aefa72006!8m2!3d10.7538311!4d106.5851057!16s%2Fg%2F11vs3blm2v?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ2RiSWVEsdTERMOM8E7PHssQ",
+      "title":"Trường THCS Tân Tạo",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7613092,
+      "location\/lng":106.5899457,
+      "address":"68 Hồ Văn Long, Tân Tạo, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+T%C3%A2n+T%E1%BA%A1o\/@10.7613092,106.5899457,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c51599218d9:0xc4b2c7b3133ce330!8m2!3d10.7613092!4d106.5899457!16s%2Fg%2F1tcxrq_g?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJrUXM25IrdTERfs5oL0d3eqw",
+      "title":"Trường THPT Bình Hưng Hòa",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.8073632,
+      "location\/lng":106.6047088,
+      "address":"79\/19 Đường số 4, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh 71913, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+B%C3%ACnh+H%C6%B0ng+H%C3%B2a\/@10.8073632,106.6047088,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b92dbcc45ad:0xac7a77472f68ce7e!8m2!3d10.8073632!4d106.6047088!16s%2Fg%2F12hq1bg35?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJjZQtWlEsdTEREpIrzdcLAeU",
+      "title":"Trường THPT Bình Tân",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.7627504,
+      "location\/lng":106.5812346,
+      "address":"117\/4H Hồ Văn Long, Tân Tạo, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+B%C3%ACnh+T%C3%A2n\/@10.7627504,106.5812346,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c515a2d948d:0xe5010bd7cd2b9212!8m2!3d10.7627504!4d106.5812346!16s%2Fg%2F11b5pjq6xn?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJBX9kVRAsdTERXJBS-uS8uXA",
+      "title":"Trung Tâm Dạy Nghề Lái Xe Hiệp Phát",
+      "categoryName":"Trường đào tạo lái xe",
+      "location\/lat":10.8138915,
+      "location\/lng":106.5953913,
+      "address":"271 Đường Số 1, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+D%E1%BA%A1y+Ngh%E1%BB%81+L%C3%A1i+Xe+Hi%E1%BB%87p+Ph%C3%A1t\/@10.8138915,106.5953913,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c1055647f05:0x70b9bce4fa52905c!8m2!3d10.8138915!4d106.5953913!16s%2Fg%2F11c74djsvh?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJWxsUBoUrdTERnmwVRBBOtL0",
+      "title":"Trường Tiểu học Ngô Quyền",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8037053,
+      "location\/lng":106.5918146,
+      "address":"118 Đường số 3, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Ng%C3%B4+Quy%E1%BB%81n\/@10.8037053,106.5918146,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b8506141b5b:0xbdb44e1044156c9e!8m2!3d10.8037053!4d106.5918146!16s%2Fg%2F11bccm3wmx?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJcaBLcZUrdTERH6SOCpV0D6I",
+      "title":"Trường Tiểu học Bình Hưng Hòa 1",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8173057,
+      "location\/lng":106.6002404,
+      "address":"15 Hồ Văn Long, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh 71914, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+B%C3%ACnh+H%C6%B0ng+H%C3%B2a+1\/@10.8173057,106.6002404,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b95714ba071:0xa20f74950a8ea41f!8m2!3d10.8173057!4d106.6002404!16s%2Fg%2F11btrqsndl?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJFZncqb8rdTERi5dG9HJdVNs",
+      "title":"Trường Tiểu học - THCS - THPT Chu Văn An",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.819046,
+      "location\/lng":106.603329,
+      "address":"7 Đ. số 1, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+-+THCS+-+THPT+Chu+V%C4%83n+An\/@10.819046,106.603329,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bbfa9dc9915:0xdb545d72f446978b!8m2!3d10.819046!4d106.603329!16s%2Fg%2F12345xyfg?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ0w6ePpordTERnxlN1zAxSmo",
+      "title":"THPT VĨNH LỘC",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8098469,
+      "location\/lng":106.5921294,
+      "address":"87 Đường số 3, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh 71914, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/THPT+V%C4%A8NH+L%E1%BB%98C\/@10.8098469,106.5921294,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b9a3e9e0ed3:0x6a4a3130d74d199f!8m2!3d10.8098469!4d106.5921294!16s%2Fg%2F1hcbkkkzz?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJmYSUCpordTERT-63pZvecug",
+      "title":"Kdc Vĩnh Lộc",
+      "categoryName":"Trường học",
+      "location\/lat":10.8100949,
+      "location\/lng":106.5936828,
+      "address":"RH6V+2FM, Đường 14, Bình Hưng Hoà B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Kdc+V%C4%A9nh+L%E1%BB%99c\/@10.8100949,106.5936828,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b9a0a948499:0xe872de9ba5b7ee4f!8m2!3d10.8100949!4d106.5936828!16s%2Fg%2F11f34_k_l8?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ56D5lj4sdTERFKfBTaZq-YA",
+      "title":"Trường Tiểu học Bình Trị 1",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7692027,
+      "location\/lng":106.6106408,
+      "address":"620 HL2, Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+B%C3%ACnh+Tr%E1%BB%8B+1\/@10.7692027,106.6106408,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c3e96f9a0e7:0x80f96aa64dc1a714!8m2!3d10.7692027!4d106.6106408!16s%2Fg%2F1tjs2f7b?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ1-i70sMtdTER3C8YApR6xxM",
+      "title":"Trường THPT An Lạc",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.7313858,
+      "location\/lng":106.6121674,
+      "address":"595 Đ. Kinh Dương Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh 71906, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+An+L%E1%BA%A1c\/@10.7313858,106.6121674,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dc3d2bbe8d7:0x13c77a9402182fdc!8m2!3d10.7313858!4d106.6121674!16s%2Fg%2F1tm0qnn0?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ28rgyuktdTERc7r7yzDN7Tg",
+      "title":"Trường THCS Lê Tấn Bê",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7274795,
+      "location\/lng":106.6144243,
+      "address":"PJG7+XQV, Đường số 2D, An Lạc, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+L%C3%AA+T%E1%BA%A5n+B%C3%AA\/@10.7274795,106.6144243,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752de9cae0cadb:0x38edcd30cbfbba73!8m2!3d10.7274795!4d106.6144243!16s%2Fg%2F1tc_64xg?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJjR_9svktdTERTfUdfWSMpX8",
+      "title":"Trường Song ngữ Quốc tế Hoàng Gia - ROYAL SCHOOL",
+      "categoryName":"Trường học",
+      "location\/lat":10.7266949,
+      "location\/lng":106.6155942,
+      "address":"2 Đường số 2D, An Lạc, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Song+ng%E1%BB%AF+Qu%E1%BB%91c+t%E1%BA%BF+Ho%C3%A0ng+Gia+-+ROYAL+SCHOOL\/@10.7266949,106.6155942,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752df9b2fd1f8d:0x7fa58c647d1df54d!8m2!3d10.7266949!4d106.6155942!16s%2Fg%2F11r9g4017z?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJRyi-GdUtdTERYUe8ufiGlQw",
+      "title":"THCS Bình Tân",
+      "categoryName":"Trường học",
+      "location\/lat":10.7221517,
+      "location\/lng":106.6159421,
+      "address":"173\/171 173, An Lạc, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/THCS+B%C3%ACnh+T%C3%A2n\/@10.7221517,106.6159421,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752dd519be2847:0xc9586f8b9bc4761!8m2!3d10.7221517!4d106.6159421!16s%2Fg%2F11c5bq6my5?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJp_VZ5BIsdTERxyhLw4kscj0",
+      "title":"Trường Tình Thương Tân Sơn Nhì",
+      "categoryName":"Trường học",
+      "location\/lat":10.7811258,
+      "location\/lng":106.6077115,
+      "address":"Đ. 16, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+T%C3%ACnh+Th%C6%B0%C6%A1ng+T%C3%A2n+S%C6%A1n+Nh%C3%AC\/@10.7811258,106.6077115,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c12e459f5a7:0x3d722c89c34b28c7!8m2!3d10.7811258!4d106.6077115!16s%2Fg%2F11h132dc9?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJPVhLtlwsdTERS4YZtfteW08",
+      "title":"bình tân",
+      "categoryName":"Trường học",
+      "location\/lat":10.7689661,
+      "location\/lng":106.5938584,
+      "address":"QH9V+HGQ, HL2, Bình Trị Đông A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/b%C3%ACnh+t%C3%A2n\/@10.7689661,106.5938584,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c5cb64b583d:0x4f5b5efbb519864b!8m2!3d10.7689661!4d106.5938584!16s%2Fg%2F11hbk92qt6?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ-dpFFjcpdTERGZl2AuAVsyU",
+      "title":"Trường Đại học Ngoại Thương CS2",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8069015,
+      "location\/lng":106.7132876,
+      "address":"15 Đường D5, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+Ngo%E1%BA%A1i+Th%C6%B0%C6%A1ng+CS2\/@10.8069015,106.7132876,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529371645daf9:0x25b315e002769919!8m2!3d10.8069015!4d106.7132876!16s%2Fg%2F11stnsrdns?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJH31Yv0UpdTERJMIgLtokjWg",
+      "title":"Trường PTLC Vinschool Central Park",
+      "categoryName":"Trường học",
+      "location\/lat":10.7923566,
+      "location\/lng":106.7205622,
+      "address":"Đ. Nguyễn Hữu Cảnh, Vinhomes Tân Cảng, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+PTLC+Vinschool+Central+Park\/@10.7923566,106.7205622,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752945bf587d1f:0x688d24da2e20c224!8m2!3d10.7923566!4d106.7205622!16s%2Fg%2F11dfmmx3n1?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJiVxiXTEvdTERpOWfitBNCHM",
+      "title":"Trường Đại học Kinh tế Tài chính TP.HCM (UEF) - Cơ sở 141",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7974046,
+      "location\/lng":106.7035663,
+      "address":"141-145, Đ. Điện Biên Phủ, Phường 15, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+Kinh+t%E1%BA%BF+T%C3%A0i+ch%C3%ADnh+TP.HCM+(UEF)+-+C%C6%A1+s%E1%BB%9F+141\/@10.7974046,106.7035663,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f315d625c89:0x73084dd08a9fe5a4!8m2!3d10.7974046!4d106.7035663!16s%2Fg%2F121cxqrw?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJK7w9E5wodTERaXVr87jDVmU",
+      "title":"Trường THCS Cù Chính Lan",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8158591,
+      "location\/lng":106.7173921,
+      "address":"49 Thanh Đa, Phường 27, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+C%C3%B9+Ch%C3%ADnh+Lan\/@10.8158591,106.7173921,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289c133dbc2b:0x6556c3b8f36b7569!8m2!3d10.8158591!4d106.7173921!16s%2Fg%2F1tftnl60?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJvam-JggpdTER7rKsr3LNG6A",
+      "title":"Trung Tâm Tin Học Sao Việt Bình Thạnh",
+      "categoryName":"Trường đào tạo máy tính",
+      "location\/lat":10.809516,
+      "location\/lng":106.6915269,
+      "address":"21\/12 Lê Trực, Phường 7, Bình Thạnh, Thành phố Hồ Chí Minh 72317, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+Tin+H%E1%BB%8Dc+Sao+Vi%E1%BB%87t+B%C3%ACnh+Th%E1%BA%A1nh\/@10.809516,106.6915269,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175290826bea9bd:0xa01bcd72afacb2ee!8m2!3d10.809516!4d106.6915269!16s%2Fg%2F11r8gx3wxl?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJq0PLWaQodTERfiq1cNMpPWw",
+      "title":"HUTECH - Đại học Công nghệ TP.HCM (Sai Gon Campus)",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8016175,
+      "location\/lng":106.7144559,
+      "address":"475A Đ. Điện Biên Phủ, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/HUTECH+-+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+C%C3%B4ng+ngh%E1%BB%87+TP.HCM+(Sai+Gon+Campus)\/@10.8016175,106.7144559,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528a459cb43ab:0x6c3d29d370b52a7e!8m2!3d10.8016175!4d106.7144559!16s%2Fg%2F124xvbfmg?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJF9bVHuoodTERTwyPbfKEWeA",
+      "title":"Trường Đại học Văn Lang - Cơ sở 2",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8128303,
+      "location\/lng":106.6943623,
+      "address":"233A Đ. Phan Văn Trị, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+V%C4%83n+Lang+-+C%C6%A1+s%E1%BB%9F+2\/@10.8128303,106.6943623,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528ea1ed5d617:0xe05984f26d8f0c4f!8m2!3d10.8128303!4d106.6943623!16s%2Fg%2F1tglwgd8?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJE_WibukodTERlLjxQ-XeI30",
+      "title":"Trường Mầm Non 11B",
+      "categoryName":"Trường học",
+      "location\/lat":10.8149127,
+      "location\/lng":106.6927436,
+      "address":"237\/11\/64, Nguyễn Văn Đậu, Phường 11, Quận Bình Thạnh, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+11B\/@10.8149127,106.6927436,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528e96ea2f513:0x7d23dee543f1b894!8m2!3d10.8149127!4d106.6927436!16s%2Fg%2F1pzyvp1y1?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJlyGyzj0pdTERptRImvOwW3U",
+      "title":"Trường Đại Học Giao Thông Vận Tải Thành Phố Hồ Chí Minh - Cơ sở 1",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8045172,
+      "location\/lng":106.7168007,
+      "address":"02 Võ Oanh, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+H%E1%BB%8Dc+Giao+Th%C3%B4ng+V%E1%BA%ADn+T%E1%BA%A3i+Th%C3%A0nh+Ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh+-+C%C6%A1+s%E1%BB%9F+1\/@10.8045172,106.7168007,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175293dceb22197:0x755bb0f39a48d4a6!8m2!3d10.8045172!4d106.7168007!16s%2Fm%2F02q2__2?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJA0Lg6copdTERPCJgsGjMnLg",
+      "title":"Trường Cao đẳng Dược Sài Gòn",
+      "categoryName":"Trường học",
+      "location\/lat":10.815075,
+      "location\/lng":106.697753,
+      "address":"215E Nơ Trang Long, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh 72312, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%91%E1%BA%B3ng+D%C6%B0%E1%BB%A3c+S%C3%A0i+G%C3%B2n\/@10.815075,106.697753,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529cae9e04203:0xb89ccc68b060223c!8m2!3d10.815075!4d106.697753!16s%2Fg%2F11qh41ygc8?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJSxbNOVIpdTERapAH3qngi4A",
+      "title":"Trung tâm bóng đá Nam Việt",
+      "categoryName":"Trường học tư nhân",
+      "location\/lat":10.8150919,
+      "location\/lng":106.7010702,
+      "address":"2a Phan Chu Trinh, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+t%C3%A2m+b%C3%B3ng+%C4%91%C3%A1+Nam+Vi%E1%BB%87t\/@10.8150919,106.7010702,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175295239cd164b:0x808be0a9de07906a!8m2!3d10.8150919!4d106.7010702!16s%2Fg%2F11h0mjjy6y?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJgVcmRNsodTERyjfSCn5Ysp8",
+      "title":"Trường THPT Phan Đăng Lưu",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8057033,
+      "location\/lng":106.6868215,
+      "address":"27 Nguyễn Văn Đậu, Phường 5, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Phan+%C4%90%C4%83ng+L%C6%B0u\/@10.8057033,106.6868215,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528db44265781:0x9fb2587e0ad237ca!8m2!3d10.8057033!4d106.6868215!16s%2Fg%2F11b6s2sgjp?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ7zuTP8sndTERJ378v36s-dE",
+      "title":"Trường Mầm Non Tư Thục Mai Thôn",
+      "categoryName":"Trường học",
+      "location\/lat":10.8211596,
+      "location\/lng":106.7330456,
+      "address":"970 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+T%C6%B0+Th%E1%BB%A5c+Mai+Th%C3%B4n\/@10.8211596,106.7330456,17z\/data=!3m1!4b1!4m6!3m5!1s0x317527cb3f933bef:0xd1f9ac7ebffc7e27!8m2!3d10.8211596!4d106.7330456!16s%2Fg%2F1tfzjv1b?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJZXsgyC8mdTERuS2URLCrOgQ",
+      "title":"Trường THCS Bình Quới Tây",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8218408,
+      "location\/lng":106.7336584,
+      "address":"376A Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+B%C3%ACnh+Qu%E1%BB%9Bi+T%C3%A2y\/@10.8218408,106.7336584,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175262fc8207b65:0x43aabb044942db9!8m2!3d10.8218408!4d106.7336584!16s%2Fg%2F1tglkd6f?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJacCXTS4mdTERzhVliFiKpJI",
+      "title":"Trường tiểu học Bình Quới Tây",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8229419,
+      "location\/lng":106.7331595,
+      "address":"376 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+ti%E1%BB%83u+h%E1%BB%8Dc+B%C3%ACnh+Qu%E1%BB%9Bi+T%C3%A2y\/@10.8229419,106.7331595,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175262e4d97c069:0x92a48a58886515ce!8m2!3d10.8229419!4d106.7331595!16s%2Fg%2F11c52427vx?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJgeVH3J0odTERIBo-WyrPxOU",
+      "title":"Trường THPT Thanh Đa",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8160146,
+      "location\/lng":106.7076909,
+      "address":"186 Nguyễn Xí, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Thanh+%C4%90a\/@10.8160146,106.7076909,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289ddc47e581:0xe5c4cf2a5b3e1a20!8m2!3d10.8160146!4d106.7076909!16s%2Fg%2F1tpppgb0?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ0SrLT70odTERPJvL6Xi-j9U",
+      "title":"Trường Tiểu học Bình Hòa",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8169284,
+      "location\/lng":106.701912,
+      "address":"Hẻm 4 Phan Chu Trinh, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+B%C3%ACnh+H%C3%B2a\/@10.8169284,106.701912,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528bd4fcb2ad1:0xd58fbe78e9cb9b3c!8m2!3d10.8169284!4d106.701912!16s%2Fg%2F1trvhxxh?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJPQyheLAodTEREdkAMrA9aXI",
+      "title":"Trường THPT Gia Định",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8048952,
+      "location\/lng":106.7185804,
+      "address":"44 Võ Oanh, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Gia+%C4%90%E1%BB%8Bnh\/@10.8048952,106.7185804,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528b078a10c3d:0x72693db03200d911!8m2!3d10.8048952!4d106.7185804!16s%2Fg%2F121pqfv0?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJGzPWIJYodTERCHSQ5gZVnN0",
+      "title":"Trường THCS Lê Văn Tám",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8100009,
+      "location\/lng":106.7080028,
+      "address":"107F Chu Văn An, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+L%C3%AA+V%C4%83n+T%C3%A1m\/@10.8100009,106.7080028,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289620d6331b:0xdd9c5506e6907408!8m2!3d10.8100009!4d106.7080028!16s%2Fg%2F11xfpwt8d?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJCRUj9a0odTERVAiL9lUt0eE",
+      "title":"Trường THCS Cửu Long",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7914782,
+      "location\/lng":106.7144678,
+      "address":"02 Đường Võ Duy Ninh, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+C%E1%BB%ADu+Long\/@10.7914782,106.7144678,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528adf5231509:0xe1d12d55f68b0854!8m2!3d10.7914782!4d106.7144678!16s%2Fg%2F1tc_1l5v?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJJZhnMpYodTERCC2hAJGJV4U",
+      "title":"Hướng Nghiệp Á Âu",
+      "categoryName":"Trường dạy nghề",
+      "location\/lat":10.81123,
+      "location\/lng":106.708517,
+      "address":"2 Đường số 1, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/H%C6%B0%E1%BB%9Bng+Nghi%E1%BB%87p+%C3%81+%C3%82u\/@10.81123,106.708517,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289632679825:0x8557899100a12d08!8m2!3d10.81123!4d106.708517!16s%2Fg%2F11ymjsx03?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJqepy9pQodTERR0PeBJGK8kE",
+      "title":"Học viện Cán bộ Thành phố Hồ Chí Minh",
+      "categoryName":"Trường học",
+      "location\/lat":10.8124129,
+      "location\/lng":106.7018494,
+      "address":"324 Chu Văn An, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%8Dc+vi%E1%BB%87n+C%C3%A1n+b%E1%BB%99+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh\/@10.8124129,106.7018494,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752894f672eaa9:0x41f28a9104de4347!8m2!3d10.8124129!4d106.7018494!16s%2Fg%2F1tgnz924?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ4-JMJbIodTERY57xJzf-TTE",
+      "title":"Trường Cao đẳng Y Dược Pasteur TPHCM",
+      "categoryName":"Trường y",
+      "location\/lat":10.7936477,
+      "location\/lng":106.7104721,
+      "address":"37 Ng. Tất Tố, Phường 21, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%91%E1%BA%B3ng+Y+D%C6%B0%E1%BB%A3c+Pasteur+TPHCM\/@10.7936477,106.7104721,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528b2254ce2e3:0x314dfe3727f19e63!8m2!3d10.7936477!4d106.7104721!16s%2Fg%2F11fd6dfb28?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJhVEDdJYodTER_tsB74YhHHc",
+      "title":"Trường Tiểu học Chu Văn An",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8126342,
+      "location\/lng":106.7061854,
+      "address":"2 Đ. Số 3, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Chu+V%C4%83n+An\/@10.8126342,106.7061854,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289674035185:0x771c2186ef01dbfe!8m2!3d10.8126342!4d106.7061854!16s%2Fg%2F1vhq160w?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJL383f6YudTER1am5qW-wSiI",
+      "title":"Trường Cao đẳng Đại Việt Sài Gòn",
+      "categoryName":"Trường cao đẳng cộng đồng",
+      "location\/lat":10.8147881,
+      "location\/lng":106.7078233,
+      "address":"193 Nguyễn Xí, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh 726082, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%91%E1%BA%B3ng+%C4%90%E1%BA%A1i+Vi%E1%BB%87t+S%C3%A0i+G%C3%B2n\/@10.8147881,106.7078233,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ea67f377f2f:0x224ab06fa9b9a9d5!8m2!3d10.8147881!4d106.7078233!16s%2Fg%2F12vskpjpl?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJrR4WFLAodTERKotJwKqwInQ",
+      "title":"Trường Tiểu học Hồng Hà",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7984964,
+      "location\/lng":106.7104566,
+      "address":"155A Xô Viết Nghệ Tĩnh, Phường 17, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+H%E1%BB%93ng+H%C3%A0\/@10.7984964,106.7104566,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528b014161ead:0x7422b0aac0498b2a!8m2!3d10.7984964!4d106.7104566!16s%2Fg%2F1tgc707d?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ7x3dYokodTERjofVHXDiOuQ",
+      "title":"Trường Mẫu Giáo Thiên Thần",
+      "categoryName":"Trường mẫu giáo",
+      "location\/lat":10.828925,
+      "location\/lng":106.7061632,
+      "address":"78 Bình Lợi, Phường 13, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%ABu+Gi%C3%A1o+Thi%C3%AAn+Th%E1%BA%A7n\/@10.828925,106.7061632,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175288962dd1def:0xe43ae2701dd5878e!8m2!3d10.828925!4d106.7061632!16s%2Fg%2F11b7sxr6yc?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJNY_7SMQodTER-6ILx7TUIVc",
+      "title":"Trường THPT Hoàng Hoa Thám",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8041811,
+      "location\/lng":106.6928016,
+      "address":"6 Hoàng Hoa Thám, Phường 7, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Ho%C3%A0ng+Hoa+Th%C3%A1m\/@10.8041811,106.6928016,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528c448fb8f35:0x5721d4b4c70ba2fb!8m2!3d10.8041811!4d106.6928016!16s%2Fg%2F1vxdvsq2?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJnePYz7ModTEReyydzGbwmu0",
+      "title":"Trường Tiểu học Tầm Vu",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8145553,
+      "location\/lng":106.7164325,
+      "address":"3 Xô Viết Nghệ Tĩnh, Phường 26, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+T%E1%BA%A7m+Vu\/@10.8145553,106.7164325,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528b3cfd8e39d:0xed9af066cc9d2c7b!8m2!3d10.8145553!4d106.7164325!16s%2Fg%2F1td7wkr0?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJYaZOBqUodTERjuwg4aPeMDg",
+      "title":"HUTECH - Đại học Công nghệ TP.HCM (Ung Van Khiem Campus)",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8095728,
+      "location\/lng":106.7149885,
+      "address":"31\/36 Ung Văn Khiêm, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/HUTECH+-+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+C%C3%B4ng+ngh%E1%BB%87+TP.HCM+(Ung+Van+Khiem+Campus)\/@10.8095728,106.7149885,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528a5064ea661:0x3830dea3e120ec8e!8m2!3d10.8095728!4d106.7149885!16s%2Fm%2F0vb3q_7?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJjXkhf8YodTER72xriq5LG4A",
+      "title":"Trường THCS Hà Huy Tập (Quận Bình Thạnh)",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8024383,
+      "location\/lng":106.6940434,
+      "address":"7 Đ. Phan Đăng Lưu, Phường 3, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+H%C3%A0+Huy+T%E1%BA%ADp+(Qu%E1%BA%ADn+B%C3%ACnh+Th%E1%BA%A1nh)\/@10.8024383,106.6940434,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528c67f21798d:0x801b4bae8a6b6cef!8m2!3d10.8024383!4d106.6940434!16s%2Fg%2F1tfbvys5?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJCciAY8YodTERPqVTMd_pZLM",
+      "title":"Trường Đại học Mỹ thuật TP.HCM",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8024495,
+      "location\/lng":106.6954192,
+      "address":"5 Đ. Phan Đăng Lưu, Phường 3, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+M%E1%BB%B9+thu%E1%BA%ADt+TP.HCM\/@10.8024495,106.6954192,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528c66380c809:0xb364e9df3153a53e!8m2!3d10.8024495!4d106.6954192!16s%2Fg%2F11bc5m7mgm?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJewgNscUodTERy4QDejKaZ7U",
+      "title":"Trung Tâm Tiếng Trung Hoa Văn Thương Mại Thành Phố 6 (SHZ Phan Đăng Lưu)",
+      "categoryName":"Trường dạy tiếng Trung Quốc",
+      "location\/lat":10.802933,
+      "location\/lng":106.692165,
+      "address":"27 Đ. Phan Đăng Lưu, Phường 3, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+Ti%E1%BA%BFng+Trung+Hoa+V%C4%83n+Th%C6%B0%C6%A1ng+M%E1%BA%A1i+Th%C3%A0nh+Ph%E1%BB%91+6+(SHZ+Phan+%C4%90%C4%83ng+L%C6%B0u)\/@10.802933,106.692165,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528c5b10d087b:0xb5679a327a0384cb!8m2!3d10.802933!4d106.692165!16s%2Fg%2F11c1qjtvlj?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ5_Q8RMEodTERHc0wb7lvyV4",
+      "title":"Trường Mầm non 7A",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.8068534,
+      "location\/lng":106.6928743,
+      "address":"23\/124 Nơ Trang Long, Phường 7, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+non+7A\/@10.8068534,106.6928743,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528c1443cf4e7:0x5ec96fb96f30cd1d!8m2!3d10.8068534!4d106.6928743!16s%2Fg%2F1tk1wjxy?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ237BXpwodTERk-stv3yeBK0",
+      "title":"Trường Công Đoàn TP. HCM",
+      "categoryName":"Trường học",
+      "location\/lat":10.8178276,
+      "location\/lng":106.7191864,
+      "address":"Lô 7, Cư xá Thanh Đa, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+C%C3%B4ng+%C4%90o%C3%A0n+TP.+HCM\/@10.8178276,106.7191864,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289c5ec17edb:0xad049e7cbf2deb93!8m2!3d10.8178276!4d106.7191864!16s%2Fg%2F11btrs9xjz?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJmRqlRpwodTERtBcV2Ihdj8Q",
+      "title":"Trường tiểu học Thanh Đa",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8169103,
+      "location\/lng":106.7195703,
+      "address":"Khu 2 Cư xá Thanh Đa, Thanh Đa, Phường 27, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+ti%E1%BB%83u+h%E1%BB%8Dc+Thanh+%C4%90a\/@10.8169103,106.7195703,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175289c46a51a99:0xc48f5d88d81517b4!8m2!3d10.8169103!4d106.7195703!16s%2Fg%2F1tp05lhk?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ3yloGHAzCzERs-HhlggoxyU",
+      "title":"Trường Mầm non Hoàng Minh Đạo",
+      "categoryName":"Trường học",
+      "location\/lat":11.1306764,
+      "location\/lng":106.4775285,
+      "address":"4FJH+72C, Ấp Phú Lợi, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+non+Ho%C3%A0ng+Minh+%C4%90%E1%BA%A1o\/@11.1306764,106.4775285,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b3370186829df:0x25c7280896e1e1b3!8m2!3d11.1306764!4d106.4775285!16s%2Fg%2F11gn25h61y?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJHTxPdZgzCzERdU-hkZEYaV4",
+      "title":"Trường THCS Phú Mỹ Hưng",
+      "categoryName":"Trường THCS",
+      "location\/lat":11.1287912,
+      "location\/lng":106.477677,
+      "address":"16 Phú Thuận, Ấp Phú Lợi, Củ Chi, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Ph%C3%BA+M%E1%BB%B9+H%C6%B0ng\/@11.1287912,106.477677,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b3398754f3c1d:0x5e69189191a14f75!8m2!3d11.1287912!4d106.477677!16s%2Fg%2F1thv_m58?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJpchYsuUtCzEREmbtI0_0IuE",
+      "title":"Trường THPT Trung Lập",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":11.0501937,
+      "location\/lng":106.4526244,
+      "address":"3F23+32H, Trung Lập, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Trung+L%E1%BA%ADp\/@11.0501937,106.4526244,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2de5b258c8a5:0xe122f44f23ed6612!8m2!3d11.0501937!4d106.4526244!16s%2Fg%2F11by_yxyf2?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJXT8XttwtCzERUdrm11nY0-8",
+      "title":"Trường mầm non Tường Vi",
+      "categoryName":"Trường học tư nhân",
+      "location\/lat":11.0388494,
+      "location\/lng":106.4519072,
+      "address":"283, 283 Tỉnh lộ 7, Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+m%E1%BA%A7m+non+T%C6%B0%E1%BB%9Dng+Vi\/@11.0388494,106.4519072,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2ddcb6173f5d:0xefd3d859d7e6da51!8m2!3d11.0388494!4d106.4519072!16s%2Fg%2F11btrr9nt_?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJXcY4lxrTdDERporeJmuf_1s",
+      "title":"Đường dành cho xe gắn máy",
+      "categoryName":"Trường đào tạo lái xe",
+      "location\/lat":10.9999752,
+      "location\/lng":106.5587307,
+      "address":"XHX5+XFX, Tân Thạnh Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%C6%B0%E1%BB%9Dng+d%C3%A0nh+cho+xe+g%E1%BA%AFn+m%C3%A1y\/@10.9999752,106.5587307,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d31a9738c65d:0x5bff9f6b26de8aa6!8m2!3d10.9999752!4d106.5587307!16s%2Fg%2F11t_kzgj3x?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJVVVVVXEtCzER5qsewYH7fi8",
+      "title":"Trường Trung Học Cơ Sở Nhuận Đức",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":11.0384592,
+      "location\/lng":106.4886766,
+      "address":"2FQQ+9FM, Ấp Ngã Tư, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Trung+H%E1%BB%8Dc+C%C6%A1+S%E1%BB%9F+Nhu%E1%BA%ADn+%C4%90%E1%BB%A9c\/@11.0384592,106.4886766,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d7155555555:0x2f7efb81c11eabe6!8m2!3d11.0384592!4d106.4886766!16s%2Fg%2F1pzvv9p3x?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJky_jEKXTdDERSmFEOIr1aJ8",
+      "title":"Trường THCS Trung An",
+      "categoryName":"Trường THCS",
+      "location\/lat":11.0007708,
+      "location\/lng":106.591874,
+      "address":"2H2R+8P5, ấp An Bình, xã Trung An, huyện Củ Chi, Trung An, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Trung+An\/@11.0007708,106.591874,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d3a510e32f93:0x9f68f58a3844614a!8m2!3d11.0007708!4d106.591874!16s%2Fg%2F11c54nvw0j?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJZZ8imODSdDERrMqrWd-FPzU",
+      "title":"Trường Trung Học Cơ Sở Phú Hòa Đông",
+      "categoryName":"Trường học",
+      "location\/lat":11.0191343,
+      "location\/lng":106.5591087,
+      "address":"2H95+MJ5, Phú Hoà Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Trung+H%E1%BB%8Dc+C%C6%A1+S%E1%BB%9F+Ph%C3%BA+H%C3%B2a+%C4%90%C3%B4ng\/@11.0191343,106.5591087,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d2e098229f65:0x353f85df59abcaac!8m2!3d11.0191343!4d106.5591087!16s%2Fg%2F11c1s077hx?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJL1SYe_nSdDERoHh5DMlz81A",
+      "title":"Trường THPT Phú Hòa",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":11.0228435,
+      "location\/lng":106.5669673,
+      "address":"Huỳnh Thị Bẳng, Phú Hoà Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Ph%C3%BA+H%C3%B2a\/@11.0228435,106.5669673,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d2f97b98542f:0x50f373c90c7978a0!8m2!3d11.0228435!4d106.5669673!16s%2Fg%2F1tc_64st?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJY40heUPTdDERB9UjwZzfEYg",
+      "title":"Trường Tiểu Học Tân Thạnh Tây",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.9852567,
+      "location\/lng":106.5529686,
+      "address":"2 Trần Thị Khoe, Tân Thạnh Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+H%E1%BB%8Dc+T%C3%A2n+Th%E1%BA%A1nh+T%C3%A2y\/@10.9852567,106.5529686,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d34379218d63:0x8811df9cc123d507!8m2!3d10.9852567!4d106.5529686!16s%2Fg%2F11cs31v90h?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ12LJuR8zCzEReu94XwBu8ns",
+      "title":"Trung tâm Giáo dục nghề nghiệp Mê Kông",
+      "categoryName":"Trường học",
+      "location\/lat":11.0697012,
+      "location\/lng":106.459974,
+      "address":"387 Đường An Nhơn Tây, An Nhơn Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+t%C3%A2m+Gi%C3%A1o+d%E1%BB%A5c+ngh%E1%BB%81+nghi%E1%BB%87p+M%C3%AA+K%C3%B4ng\/@11.0697012,106.459974,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b331fb9c962d7:0x7bf26e005f78ef7a!8m2!3d11.0697012!4d106.459974!16s%2Fg%2F11fkthkg_q?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJScLYY3QyCzERddahxgEyJ-0",
+      "title":"Mái Ấm Thiện Phước Nhân Ái",
+      "categoryName":"Trường học",
+      "location\/lat":11.0682268,
+      "location\/lng":106.4671499,
+      "address":"339\/19 Đ. Đỗ Đăng Tuyển, An Nhơn Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/M%C3%A1i+%E1%BA%A4m+Thi%E1%BB%87n+Ph%C6%B0%E1%BB%9Bc+Nh%C3%A2n+A%CC%81i\/@11.0682268,106.4671499,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b327463d8c249:0xed273201c6a1d675!8m2!3d11.0682268!4d106.4671499!16s%2Fg%2F11c7t3v463?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJTW0KpnYyCzERpmSpkxxaluI",
+      "title":"Trường Mầm non An Nhơn Tây điểm Ấp Lô 6",
+      "categoryName":"Trường mẫu giáo",
+      "location\/lat":11.0685431,
+      "location\/lng":106.4704495,
+      "address":"70 Đ. Đỗ Đăng Tuyển, An Nhơn Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+non+An+Nh%C6%A1n+T%C3%A2y+%C4%91i%E1%BB%83m+%E1%BA%A4p+L%C3%B4+6\/@11.0685431,106.4704495,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b3276a60a6d4d:0xe2965a1c93a964a6!8m2!3d11.0685431!4d106.4704495!16s%2Fg%2F1hc2fqrb7?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ2-1TS0krCzER9hUYFJPBH0U",
+      "title":"Trường THPT Tân Thông Hội",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.9568784,
+      "location\/lng":106.5278017,
+      "address":"XG4H+Q43, đường Suối Lội, ấp Bầu Sim, Tân Thông Hội, Củ Chi, Suối Lội, Tân Thông Hội, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+T%C3%A2n+Th%C3%B4ng+H%E1%BB%99i\/@10.9568784,106.5278017,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2b494b53eddb:0x451fc193141815f6!8m2!3d10.9568784!4d106.5278017!16s%2Fg%2F1wk7nb5s?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJlYn6wgDVdDER5Z0YcZDjP4I",
+      "title":"Trường Tiểu học Tân Phú",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.9597906,
+      "location\/lng":106.5462919,
+      "address":"180 Hồ Văn Tắng, Tân Phú Trung, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+T%C3%A2n+Ph%C3%BA\/@10.9597906,106.5462919,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d500c2fa8995:0x823fe39071189de5!8m2!3d10.9597906!4d106.5462919!16s%2Fg%2F11h2d6xvdn?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJMzAYB9LUdDERJsESRUXkLAc",
+      "title":"THCS Tân Phú Trung (CS1)",
+      "categoryName":"Trường học",
+      "location\/lat":10.9416887,
+      "location\/lng":106.5406445,
+      "address":"Số 4 đường 77, tổ 29 Ap Dinh, Tân Phú Trung, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/THCS+T%C3%A2n+Ph%C3%BA+Trung+(CS1)\/@10.9416887,106.5406445,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d4d207183033:0x72ce4454512c126!8m2!3d10.9416887!4d106.5406445!16s%2Fg%2F1tq8g10c?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJkc7iIv0sCzERDrepF5ImA_8",
+      "title":"Trung tâm HTPTGDHN Khai Trí",
+      "categoryName":"Trường học",
+      "location\/lat":11.0163378,
+      "location\/lng":106.4983929,
+      "address":"129 đường 511, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+t%C3%A2m+HTPTGDHN+Khai+Tr%C3%AD\/@11.0163378,106.4983929,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2cfd22e2ce91:0xff03269217a9b70e!8m2!3d11.0163378!4d106.4983929!16s%2Fg%2F11dfttljc8?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJR-aYrjQrCzERRJBqCtPSoTw",
+      "title":"Trường Tiểu Học Tân Phú Trung",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.9460709,
+      "location\/lng":106.5348905,
+      "address":"WGWM+CXC, Ap Dinh, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+H%E1%BB%8Dc+T%C3%A2n+Ph%C3%BA+Trung\/@10.9460709,106.5348905,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2b34ae98e647:0x3ca1d2d30a6a9044!8m2!3d10.9460709!4d106.5348905!16s%2Fg%2F11btrsfgvy?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ1YelYMfUdDER8RbkleZOlMY",
+      "title":"Trường tiểu học Tân Phú (phân hiệu Giòng Sao)",
+      "categoryName":"Trường học",
+      "location\/lat":10.9467227,
+      "location\/lng":106.5522877,
+      "address":"157 Nguyễn Thị Lắng, Tân Phú Trung, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+ti%E1%BB%83u+h%E1%BB%8Dc+T%C3%A2n+Ph%C3%BA+(ph%C3%A2n+hi%E1%BB%87u+Gi%C3%B2ng+Sao)\/@10.9467227,106.5522877,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d4c760a587d5:0xc6944ee695e416f1!8m2!3d10.9467227!4d106.5522877!16s%2Fg%2F11c37_9xh4?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJRYQJlXjUdDERXnS0C7YL1X4",
+      "title":"Trường THCS Tân Thạnh Đông",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.9682634,
+      "location\/lng":106.5891043,
+      "address":"581 Đ. Tỉnh Lộ 15, Tân Thạnh Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+T%C3%A2n+Th%E1%BA%A1nh+%C4%90%C3%B4ng\/@10.9682634,106.5891043,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d47895098445:0x7ed50bb60bb4745e!8m2!3d10.9682634!4d106.5891043!16s%2Fg%2F1hc6p6cs6?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ6fnRWdAuCzERgDw8bGhWhnA",
+      "title":"Trường THCS Nguyễn Văn Xơ",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.9890535,
+      "location\/lng":106.4023523,
+      "address":"XCQ2+JWH, Tỉnh lộ 7, Thái Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Nguy%E1%BB%85n+V%C4%83n+X%C6%A1\/@10.9890535,106.4023523,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2ed059d1f9e9:0x708656686c3c3c80!8m2!3d10.9890535!4d106.4023523!16s%2Fg%2F1hc12jln6?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJQZJRPYcvCzERtQNcrRf94a8",
+      "title":"Cơ sở dạy thêm học thêm Thế Kỳ 2",
+      "categoryName":"Trường học",
+      "location\/lat":10.9893075,
+      "location\/lng":106.4169928,
+      "address":"02 Nguyễn Thị Thi, Mỹ Khánh A, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/C%C6%A1+s%E1%BB%9F+d%E1%BA%A1y+th%C3%AAm+h%E1%BB%8Dc+th%C3%AAm+Th%E1%BA%BF+K%E1%BB%B3+2\/@10.9893075,106.4169928,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2f873d519241:0xafe1fd17ad5c03b5!8m2!3d10.9893075!4d106.4169928!16s%2Fg%2F11tsp2tf9r?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJpYkmjP0xCzERTTrwpK-xHVA",
+      "title":"Trường Mầm Non Trung Lập Thượng",
+      "categoryName":"Trường học",
+      "location\/lat":11.066354,
+      "location\/lng":106.4328767,
+      "address":"3C8M+G5R, Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+Trung+L%E1%BA%ADp+Th%C6%B0%E1%BB%A3ng\/@11.066354,106.4328767,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b31fd8c2689a5:0x501db1afa4f03a4d!8m2!3d11.066354!4d106.4328767!16s%2Fg%2F11cst1dxp2?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJlb3TJZUyCzERVqAKMsHCeQA",
+      "title":"Trường THPT An Nhơn Tây",
+      "categoryName":"Trường học",
+      "location\/lat":11.0830761,
+      "location\/lng":106.5084132,
+      "address":"7, An Nhơn Tây, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+An+Nh%C6%A1n+T%C3%A2y\/@11.0830761,106.5084132,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b329525d3bd95:0x79c2c1320aa056!8m2!3d11.0830761!4d106.5084132!16s%2Fg%2F1hd_xcqqg?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJB-CEAJQyCzERRcLQUFfSa_Q",
+      "title":"Thcs An Nhơn Tây",
+      "categoryName":"Trường học",
+      "location\/lat":11.0785154,
+      "location\/lng":106.5051622,
+      "address":"THCS An Nhơn Tây, Tỉnh lộ 7, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Thcs+An+Nh%C6%A1n+T%C3%A2y\/@11.0785154,106.5051622,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b32940084e007:0xf46bd25750d0c245!8m2!3d11.0785154!4d106.5051622!16s%2Fg%2F11c1ww44rh?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJpRroYg8zCzERw5MliCCtidI",
+      "title":"Trường Tiểu Học An Phú 2- Củ Chi",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":11.124703,
+      "location\/lng":106.494053,
+      "address":"4FFV+VJM, Ấp Phú Bình, Xã An Phú, Huyện Củ Chi, Thành Phố Hồ Chí Minh, An Phú, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+H%E1%BB%8Dc+An+Ph%C3%BA+2-+C%E1%BB%A7+Chi\/@11.124703,106.494053,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b330f62e81aa5:0xd289ad20882593c3!8m2!3d11.124703!4d106.494053!16s%2Fg%2F11c5sr9qpw?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJZYQibzAsCzER0y4vM7GBOCY",
+      "title":"Trường Mầm Non Phước Hiệp",
+      "categoryName":"Trường học",
+      "location\/lat":11.0109745,
+      "location\/lng":106.4544273,
+      "address":"Phước Hiệp, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+Ph%C6%B0%E1%BB%9Bc+Hi%E1%BB%87p\/@11.0109745,106.4544273,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2c306f228465:0x263881b1332f2ed3!8m2!3d11.0109745!4d106.4544273!16s%2Fg%2F11kn6sgb05?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJqeww8_gxCzERx0Sj4hDlM74",
+      "title":"Trường Tiểu Học Trung Lập Thượng",
+      "categoryName":"Trường học",
+      "location\/lat":11.078798,
+      "location\/lng":106.4385598,
+      "address":"499Trung Lập, Trung Lập Thượng, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+H%E1%BB%8Dc+Trung+L%E1%BA%ADp+Th%C6%B0%E1%BB%A3ng\/@11.078798,106.4385598,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b31f8f330eca9:0xbe33e510e2a344c7!8m2!3d11.078798!4d106.4385598!16s%2Fg%2F11g839v3b5?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJjVscPaQyCzER4ZziUES2L3U",
+      "title":"Trường Quân Sự Thành Phố Cơ Sở Hai",
+      "categoryName":"Trường học",
+      "location\/lat":11.0674803,
+      "location\/lng":106.5190752,
+      "address":"3G89+XJW, Phạm Văn Cội, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Qu%C3%A2n+S%E1%BB%B1+Th%C3%A0nh+Ph%E1%BB%91+C%C6%A1+S%E1%BB%9F+Hai\/@11.0674803,106.5190752,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b32a43d1c5b8d:0x752fb64450e29ce1!8m2!3d11.0674803!4d106.5190752!16s%2Fg%2F11cm6w933x?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJw6qLXqQyCzER9qZlvN0t090",
+      "title":"Trường Quân sự Bộ Tư lệnh TPHCM",
+      "categoryName":"Trường học",
+      "location\/lat":11.06904,
+      "location\/lng":106.5188315,
+      "address":"3G99+JG8, ấp Bến Đình, xã Nhuận Đức, huyện Củ Chi, TP Hồ Chí Minh., Phạm Văn Cội, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Qu%C3%A2n+s%E1%BB%B1+B%E1%BB%99+T%C6%B0+l%E1%BB%87nh+TPHCM\/@11.06904,106.5188315,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b32a45e8baac3:0xddd32dddbc65a6f6!8m2!3d11.06904!4d106.5188315!16s%2Fg%2F11b6b2q2ch?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJKznhoKXTdDERC88FJB3ikBU",
+      "title":"Trường Tiểu học Trung An",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.995303,
+      "location\/lng":106.5935018,
+      "address":"XHWV+4CC, Đò, Trung An, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Trung+An\/@10.995303,106.5935018,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d3a5a0e1392b:0x1590e21d2405cf0b!8m2!3d10.995303!4d106.5935018!16s%2Fg%2F11gzf8l3z?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJM3HHBoHTdDERvVYJpqIYO50",
+      "title":"Trường Tiểu Học Tân Thạnh Đông 3",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.9730488,
+      "location\/lng":106.5850617,
+      "address":"655 Đ. Tỉnh Lộ 15, Tân Thạnh Đông, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+H%E1%BB%8Dc+T%C3%A2n+Th%E1%BA%A1nh+%C4%90%C3%B4ng+3\/@10.9730488,106.5850617,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d38106c77133:0x9d3b18a2a60956bd!8m2!3d10.9730488!4d106.5850617!16s%2Fg%2F1hc4b96x8?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJi9OGh5ctCzER0B1YDeQnMz8",
+      "title":"Bãi tập xe Trường dạy lái xe Sài Gòn",
+      "categoryName":"Trường đào tạo lái xe",
+      "location\/lat":11.0230925,
+      "location\/lng":106.4829248,
+      "address":"497 Nguyễn Thị Rành, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/B%C3%A3i+t%E1%BA%ADp+xe+Tr%C6%B0%E1%BB%9Dng+d%E1%BA%A1y+l%C3%A1i+xe+S%C3%A0i+G%C3%B2n\/@11.0230925,106.4829248,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d978786d38b:0x3f3327e40d581dd0!8m2!3d11.0230925!4d106.4829248!16s%2Fg%2F11n32rxtrt?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJw5uK3hgtCzEROjEq6rGft6M",
+      "title":"Trung tâm sát hạch lái xe Củ Chi",
+      "categoryName":"Trường đào tạo lái xe",
+      "location\/lat":11.0326241,
+      "location\/lng":106.4873192,
+      "address":"10 Bà Thiên, Nhuận Đức, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+t%C3%A2m+s%C3%A1t+h%E1%BA%A1ch+l%C3%A1i+xe+C%E1%BB%A7+Chi\/@11.0326241,106.4873192,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d18de8a9bc3:0xa3b79fb1ea2a313a!8m2!3d11.0326241!4d106.4873192!16s%2Fg%2F11h7cvzj2k?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ_____2vTdDERK9P2fDWU66w",
+      "title":"Trường THCS Tân Thạnh Tây",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.988342,
+      "location\/lng":106.5658057,
+      "address":"38 Đường Láng The, Ấp 2, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+T%C3%A2n+Th%E1%BA%A1nh+T%C3%A2y\/@10.988342,106.5658057,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d36bffffffff:0xaceb94357cf6d32b!8m2!3d10.988342!4d106.5658057!16s%2Fg%2F1pzsnk030?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJRw7_SZHWdDERPg7lS2cPyDI",
+      "title":"Trung Tâm Sát Hạch Lái Xe Hoàn Cầu",
+      "categoryName":"Trường đào tạo lái xe",
+      "location\/lat":10.9390169,
+      "location\/lng":106.645355,
+      "address":"WJQW+J45, Hà Duy Phiên, Bình Mỹ, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+S%C3%A1t+H%E1%BA%A1ch+L%C3%A1i+Xe+Ho%C3%A0n+C%E1%BA%A7u\/@10.9390169,106.645355,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174d69149ff0e47:0x32c80f674be50e3e!8m2!3d10.9390169!4d106.645355!16s%2Fg%2F11h9wp2c6j?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJgXA7GX8rCzERP668r49PFwk",
+      "title":"Trường THPT Củ Chi",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.9708624,
+      "location\/lng":106.4902569,
+      "address":"712 QL22, TT. Củ Chi, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+C%E1%BB%A7+Chi\/@10.9708624,106.4902569,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2b7f193b7081:0x9174f8fafbcae3f!8m2!3d10.9708624!4d106.4902569!16s%2Fg%2F11c1s26fqb?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJYyAu9bosCzERaHRKMpbC66U",
+      "title":"Trường THCS Phước Vĩnh An",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.9867913,
+      "location\/lng":106.5215663,
+      "address":"Ấp 5,, Đường 418, Phước Vĩnh An, Củ Chi, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Ph%C6%B0%E1%BB%9Bc+V%C4%A9nh+An\/@10.9867913,106.5215663,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2cbaf52e2063:0xa5ebc296324a7468!8m2!3d10.9867913!4d106.5215663!16s%2Fg%2F11c6ql9rc_?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJebbzkFEtCzERd93_qmntR_I",
+      "title":"Bãi dạy lái xe cty Thái Sơn",
+      "categoryName":"Trường học",
+      "location\/lat":11.006617,
+      "location\/lng":106.5057403,
+      "address":"2G44+J7X, Tân An Hội, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/B%C3%A3i+d%E1%BA%A1y+l%C3%A1i+xe+cty+Th%C3%A1i+S%C6%A1n\/@11.006617,106.5057403,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2d5190f3b679:0xf247ed69aaffdd77!8m2!3d11.006617!4d106.5057403!16s%2Fg%2F11kf03svm1?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJXUEl_BksCzER0bx9bWz-Rxs",
+      "title":"Trường Trung Học Cơ Sở Phước Hiệp",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.9941973,
+      "location\/lng":106.4517978,
+      "address":"XFV2+MPF, Đ. Nguyễn Thị NỊ, Phước Hiệp, Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Trung+H%E1%BB%8Dc+C%C6%A1+S%E1%BB%9F+Ph%C6%B0%E1%BB%9Bc+Hi%E1%BB%87p\/@10.9941973,106.4517978,17z\/data=!3m1!4b1!4m6!3m5!1s0x310b2c19fc25415d:0x1b47fe6c6d7dbcd1!8m2!3d10.9941973!4d106.4517978!16s%2Fg%2F11c1s2668_?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJj9hInlQodTERG-hr4pr4C6w",
+      "title":"Trường Tiểu học Trần Quang Khải",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8402466,
+      "location\/lng":106.6725345,
+      "address":"43\/31 Nguyễn Văn Lượng, Phường 17, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Tr%E1%BA%A7n+Quang+Kh%E1%BA%A3i\/@10.8402466,106.6725345,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528549e48d88f:0xac0bf89ae26be81b!8m2!3d10.8402466!4d106.6725345!16s%2Fg%2F11cly8cpqv?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJoayuTZspdTERlVqtcegccNg",
+      "title":"Trường Mầm Non Dế Mèn",
+      "categoryName":"Trường học tư nhân",
+      "location\/lat":10.8358208,
+      "location\/lng":106.6428238,
+      "address":"vào trường Tân Sơn là đến, 162\/37\/5 Nguyễn Duy Cung, phường 12. Nên đi hẻm 997 Phạm Văn Bạch cũng vào, được Hoặc đến, 218 Nguyễn Duy Cung, rẽ phải, Gò Vấp, 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+D%E1%BA%BF+M%C3%A8n\/@10.8358208,106.6428238,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299b4daeaca1:0xd8701ce871ad5a95!8m2!3d10.8358208!4d106.6428238!16s%2Fg%2F11dfj9k64r?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJS3xCHq4pdTERfBDJQ_5TUU8",
+      "title":"Trường Tiểu học Võ Thị Sáu",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8451736,
+      "location\/lng":106.6691066,
+      "address":"450\/19A Đ. Lê Đức Thọ, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+V%C3%B5+Th%E1%BB%8B+S%C3%A1u\/@10.8451736,106.6691066,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ae1e427c4b:0x4f5153fe43c9107c!8m2!3d10.8451736!4d106.6691066!16s%2Fg%2F1tdk2npm?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJWRs1gFModTERO_z-wnRhIUo",
+      "title":"Trường Mầm Non Mai Anh",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.8423745,
+      "location\/lng":106.6705631,
+      "address":"467\/111, Đ. Lê Đức Thọ, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+Mai+Anh\/@10.8423745,106.6705631,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175285380351b59:0x4a216174c2fefc3b!8m2!3d10.8423745!4d106.6705631!16s%2Fg%2F1vspn_dn?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJUZr3QZ0pdTERpHbLVM6K3vA",
+      "title":"Trường THCS Tân Sơn - Q.Gò Vấp",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8369358,
+      "location\/lng":106.6423804,
+      "address":"162\/27 Nguyễn Duy Cung, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+T%C3%A2n+S%C6%A1n+-+Q.G%C3%B2+V%E1%BA%A5p\/@10.8369358,106.6423804,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175299d41f79a51:0xf0de8ace54cb76a4!8m2!3d10.8369358!4d106.6423804!16s%2Fg%2F11b5phss9w?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJazipdk4odTERc7fbqW6AyCk",
+      "title":"Trường THPT Trần Hưng Đạo",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8462838,
+      "location\/lng":106.6825531,
+      "address":"88\/955E Đ. Lê Đức Thọ, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Tr%E1%BA%A7n+H%C6%B0ng+%C4%90%E1%BA%A1o\/@10.8462838,106.6825531,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175284e76a9386b:0x29c8806ea9dbb773!8m2!3d10.8462838!4d106.6825531!16s%2Fg%2F1thqd7gt?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJexa7rlIpdTERgpoZqY8J73I",
+      "title":"Trường Trung cấp Bách Khoa Sài Gòn - Cơ sở Gò Vấp",
+      "categoryName":"Trường dạy nghề",
+      "location\/lat":10.8389702,
+      "location\/lng":106.6819577,
+      "address":"1A Nguyễn Văn Lượng, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Trung+c%E1%BA%A5p+B%C3%A1ch+Khoa+S%C3%A0i+G%C3%B2n+-+C%C6%A1+s%E1%BB%9F+G%C3%B2+V%E1%BA%A5p\/@10.8389702,106.6819577,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752952aebb167b:0x72ef098fa9199a82!8m2!3d10.8389702!4d106.6819577!16s%2Fg%2F11rysld_9f?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJdU0k_PoodTERUH1H04T37zU",
+      "title":"Trường THCS Gò Vấp",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8254303,
+      "location\/lng":106.6853259,
+      "address":"1 Đường Nguyễn Du, Phường 7, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+G%C3%B2+V%E1%BA%A5p\/@10.8254303,106.6853259,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528fafc244d75:0x35eff784d3477d50!8m2!3d10.8254303!4d106.6853259!16s%2Fg%2F1td4xbpz?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJEesffE0odTER2gabLXPVkS8",
+      "title":"Trường THCS An Nhơn",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8408041,
+      "location\/lng":106.680603,
+      "address":"Hẻm 110 Số 30, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+An+Nh%C6%A1n\/@10.8408041,106.680603,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175284d7c1feb11:0x2f91d5732d9b06da!8m2!3d10.8408041!4d106.680603!16s%2Fg%2F1td9y577?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJZYU1_bopdTER10wbo_Mmqds",
+      "title":"Trường Tiểu Học Phan Chu Trinh - Cơ Sở 2",
+      "categoryName":"Trường học",
+      "location\/lat":10.8477705,
+      "location\/lng":106.6617489,
+      "address":"59 Đ. Số 2, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+H%E1%BB%8Dc+Phan+Chu+Trinh+-+C%C6%A1+S%E1%BB%9F+2\/@10.8477705,106.6617489,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bafd358565:0xdba926f3a31b4cd7!8m2!3d10.8477705!4d106.6617489!16s%2Fg%2F11dyqz9759?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJffNzTLEpdTERSA6Nzz5L4OE",
+      "title":"KIM TUYẾN SPA",
+      "categoryName":"Trường dạy làm đẹp",
+      "location\/lat":10.817178,
+      "location\/lng":106.674137,
+      "address":"159\/1\/7 Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/KIM+TUY%E1%BA%BEN+SPA\/@10.817178,106.674137,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b14c73f37d:0xe1e04b3ecf8d0e48!8m2!3d10.817178!4d106.674137!16s%2Fg%2F11l34p26dj?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJLbHLF6UpdTERFjLAlFD-aZY",
+      "title":"Trường THCS Nguyễn Du",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8442683,
+      "location\/lng":106.662382,
+      "address":"119 Đ. Thống Nhất, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Nguy%E1%BB%85n+Du\/@10.8442683,106.662382,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a517cbb12d:0x9669fe5094c03216!8m2!3d10.8442683!4d106.662382!16s%2Fg%2F113g33bcy?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJS_5dYbMpdTERMydDwZW6SOY",
+      "title":"Trường Tiểu học Lê Đức Thọ",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8493379,
+      "location\/lng":106.6753226,
+      "address":"688\/57\/44 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+L%C3%AA+%C4%90%E1%BB%A9c+Th%E1%BB%8D\/@10.8493379,106.6753226,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b3615dfe4b:0xe648ba95c1432733!8m2!3d10.8493379!4d106.6753226!16s%2Fg%2F11b8t4_5bf?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ3STWyfIpdTER8eDKCYA246I",
+      "title":"Trung Tâm Luyện Thi Tuyển Sinh Vào Lớp 10 - Đại Học | NQH Quận Gò Vấp Lê Đức Thọ",
+      "categoryName":"Trường học",
+      "location\/lat":10.8491297,
+      "location\/lng":106.673999,
+      "address":"To 6 Hẻm 688 Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+Luy%E1%BB%87n+Thi+Tuy%E1%BB%83n+Sinh+V%C3%A0o+L%E1%BB%9Bp+10+-+%C4%90%E1%BA%A1i+H%E1%BB%8Dc+%7C+NQH+Qu%E1%BA%ADn+G%C3%B2+V%E1%BA%A5p+L%C3%AA+%C4%90%E1%BB%A9c+Th%E1%BB%8D\/@10.8491297,106.673999,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f2c9d624dd:0xa2e3368009cae0f1!8m2!3d10.8491297!4d106.673999!16s%2Fg%2F11kk_n47k3?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJC3Z-eUwodTERn1c-9CzVI6g",
+      "title":"Trường THPT Lý Thái Tổ",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8499274,
+      "location\/lng":106.6788756,
+      "address":"640 Nguyễn Oanh, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+L%C3%BD+Th%C3%A1i+T%E1%BB%95\/@10.8499274,106.6788756,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175284c797e760b:0xa823d52cf43e579f!8m2!3d10.8499274!4d106.6788756!16s%2Fg%2F11cs18q8yn?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ7W6lWwApdTERomlQV0YaDWA",
+      "title":"Trường Ngô Thời Nhiệm Gò Vấp",
+      "categoryName":"Trường học",
+      "location\/lat":10.832355,
+      "location\/lng":106.6738585,
+      "address":"2A Đ. Phan Văn Trị, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ng%C3%B4+Th%E1%BB%9Di+Nhi%E1%BB%87m+G%C3%B2+V%E1%BA%A5p\/@10.832355,106.6738585,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529005ba56eed:0x600d1a46575069a2!8m2!3d10.832355!4d106.6738585!16s%2Fg%2F11c5hxv9yj?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJh3rhSrcpdTER-5WFVfJanqs",
+      "title":"Trường Tiểu Học Pathway Tuệ Đức - Cơ sở Hà Huy Giáp, Quận 12",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8519163,
+      "location\/lng":106.679068,
+      "address":"6 Hà Huy Giáp, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+H%E1%BB%8Dc+Pathway+Tu%E1%BB%87+%C4%90%E1%BB%A9c+-+C%C6%A1+s%E1%BB%9F+H%C3%A0+Huy+Gi%C3%A1p,+Qu%E1%BA%ADn+12\/@10.8519163,106.679068,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b74ae17a87:0xab9e5af2558595fb!8m2!3d10.8519163!4d106.679068!16s%2Fg%2F11kz0dx32r?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJMW9T77PedDERexVWybe4e4s",
+      "title":"Trường Đại học Công nghiệp TP.HCM",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8221589,
+      "location\/lng":106.6868454,
+      "address":"12 Nguyễn Văn Bảo, Phường 4, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+C%C3%B4ng+nghi%E1%BB%87p+TP.HCM\/@10.8221589,106.6868454,17z\/data=!3m1!4b1!4m6!3m5!1s0x3174deb3ef536f31:0x8b7bb8b7c956157b!8m2!3d10.8221589!4d106.6868454!16s%2Fm%2F02pyzdj?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ-Rd_-bopdTERyOIqKukkIuU",
+      "title":"Trường Tiểu học Phan Chu Trinh - Cơ sở 1",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8495799,
+      "location\/lng":106.662668,
+      "address":"112 Đ. Thống Nhất, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Phan+Chu+Trinh+-+C%C6%A1+s%E1%BB%9F+1\/@10.8495799,106.662668,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529baf97f17f9:0xe52224e92a2ae2c8!8m2!3d10.8495799!4d106.662668!16s%2Fg%2F1tdlrs1v?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJX_DumLEpdTERzhfrOni7iJU",
+      "title":"Trường THPT Nguyễn Trung Trực",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8475575,
+      "location\/lng":106.6690345,
+      "address":"168 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Nguy%E1%BB%85n+Trung+Tr%E1%BB%B1c\/@10.8475575,106.6690345,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b198eef05f:0x9588bb783aeb17ce!8m2!3d10.8475575!4d106.6690345!16s%2Fg%2F1tnmp6cw?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ73UVkropdTERPJDiEHAKWcw",
+      "title":"Trường THCS Phan Tây Hồ",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8475614,
+      "location\/lng":106.6632074,
+      "address":"18B\/27 Đ. Thống Nhất, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Phan+T%C3%A2y+H%E1%BB%93\/@10.8475614,106.6632074,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ba921575ef:0xcc590a7010e2903c!8m2!3d10.8475614!4d106.6632074!16s%2Fg%2F1tcz5tpq?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ_xGnVeEodTER4J-_dP_Swh8",
+      "title":"Trường THCS Nguyễn Văn Trỗi",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8172812,
+      "location\/lng":106.681971,
+      "address":"24 Nguyễn Tuân, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Nguy%E1%BB%85n+V%C4%83n+Tr%E1%BB%97i\/@10.8172812,106.681971,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528e155a711ff:0x1fc2d2ff74bf9fe0!8m2!3d10.8172812!4d106.681971!16s%2Fg%2F1tgc7081?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJo_hAIOYodTERo-sFcZkqJr4",
+      "title":"Trường Tiểu học Nguyễn Thượng Hiền",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8145395,
+      "location\/lng":106.6858592,
+      "address":"76 Nguyễn Thượng Hiền, Phường 1, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Nguy%E1%BB%85n+Th%C6%B0%E1%BB%A3ng+Hi%E1%BB%81n\/@10.8145395,106.6858592,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528e62040f8a3:0xbe262a997105eba3!8m2!3d10.8145395!4d106.6858592!16s%2Fg%2F11b7q7pxkt?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJlaF7mIYpdTERtVBxQrnwVhw",
+      "title":"Bệnh viện quân y 175",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8164482,
+      "location\/lng":106.6799163,
+      "address":"80-90 Nguyễn Thái Sơn, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BB%87nh+vi%E1%BB%87n+qu%C3%A2n+y+175\/@10.8164482,106.6799163,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752986987ba195:0x1c56f0b9427150b5!8m2!3d10.8164482!4d106.6799163!16s%2Fg%2F11s8kngjh_?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJC2dfeNkpdTERzVmpccK8Y58",
+      "title":"Trường Cao Đẳng Bách Khoa Sài Gòn",
+      "categoryName":"Trường cao đẳng\/đại học tư thục",
+      "location\/lat":10.8171372,
+      "location\/lng":106.6873116,
+      "address":"32 Nguyễn Bỉnh Khiêm, Phường 01, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%90%E1%BA%B3ng+B%C3%A1ch+Khoa+S%C3%A0i+G%C3%B2n\/@10.8171372,106.6873116,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d9785f670b:0x9f63bcc271a959cd!8m2!3d10.8171372!4d106.6873116!16s%2Fg%2F11jcf7sl06?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJMWFBorApdTER1D1QIL_gucQ",
+      "title":"Trường Mầm Non Hồng Ân",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.8503532,
+      "location\/lng":106.6677231,
+      "address":"201 Đ. Lê Đức Thọ, Phường 15, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+H%E1%BB%93ng+%C3%82n\/@10.8503532,106.6677231,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b0a2416131:0xc4b9e0bf20503dd4!8m2!3d10.8503532!4d106.6677231!16s%2Fg%2F1tk_g60j?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJsefHhC4pdTER5J1rG34v-uk",
+      "title":"TRƯỜNG CAO ĐẲNG NGHỀ SỐ 21",
+      "categoryName":"Trường cao đẳng nghề",
+      "location\/lat":10.8309179,
+      "location\/lng":106.6873766,
+      "address":"103 Đ. Dương Quảng Hàm, Phường 7, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/TR%C6%AF%E1%BB%9CNG+CAO+%C4%90%E1%BA%B2NG+NGH%E1%BB%80+S%E1%BB%90+21\/@10.8309179,106.6873766,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292e84c7e7b1:0xe9fa2f7e1b6b9de4!8m2!3d10.8309179!4d106.6873766!16s%2Fg%2F11tf3vfxjm?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ8wmfDqcpdTERJWLtUEx7Aog",
+      "title":"Luyện Thi Hồ Thành",
+      "categoryName":"Trường luyện thi",
+      "location\/lat":10.8378382,
+      "location\/lng":106.6610198,
+      "address":"638\/61\/24 Quang Trung, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh 720000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Luy%E1%BB%87n+Thi+H%E1%BB%93+Th%C3%A0nh\/@10.8378382,106.6610198,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a70e9f09f3:0x88027b4c50ed6225!8m2!3d10.8378382!4d106.6610198!16s%2Fg%2F11fy4vpps8?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ10pe2QkpdTERtxXq5TB_EIM",
+      "title":"Trường Tiểu học Chi Lăng",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8344043,
+      "location\/lng":106.6603188,
+      "address":"Hẻm 645 Quang Trung, Phường 11, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Chi+L%C4%83ng\/@10.8344043,106.6603188,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752909d95e4ad7:0x83107f30e5ea15b7!8m2!3d10.8344043!4d106.6603188!16s%2Fg%2F11cs138ncr?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ_Wv0W6cpdTERst_LFCgbph0",
+      "title":"Trung Tâm Đào Tạo Việt Kế Toán",
+      "categoryName":"Trường kế toán",
+      "location\/lat":10.8379807,
+      "location\/lng":106.6545798,
+      "address":"Số 12, Đường 19, Phường 8, Quận Gò Vấp Đường 19 giao với Đường, Quang Trung, Phường 8, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+%C4%90%C3%A0o+T%E1%BA%A1o+Vi%E1%BB%87t+K%E1%BA%BF+To%C3%A1n\/@10.8379807,106.6545798,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529a75bf46bfd:0x1da61b2814cbdfb2!8m2!3d10.8379807!4d106.6545798!16s%2Fg%2F11clw2rd46?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJj4y9U1QodTERt6M0mVtaX7w",
+      "title":"Trường Cao đẳng Bách khoa Bách Việt | Bách Việt Polytechnic College",
+      "categoryName":"Trường cao đẳng\/đại học tư thục",
+      "location\/lat":10.8371218,
+      "location\/lng":106.6809328,
+      "address":"194 Đ. Lê Đức Thọ, Phường 6, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%91%E1%BA%B3ng+B%C3%A1ch+khoa+B%C3%A1ch+Vi%E1%BB%87t+%7C+B%C3%A1ch+Vi%E1%BB%87t+Polytechnic+College\/@10.8371218,106.6809328,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175285453bd8c8f:0xbc5f5a5b9934a3b7!8m2!3d10.8371218!4d106.6809328!16s%2Fg%2F11c53rm1hz?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJcWbbGr8pdTERuKgycilGeEw",
+      "title":"Trường THCS Nguyễn Trãi",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8551558,
+      "location\/lng":106.6567652,
+      "address":"1370 Đ. Lê Đức Thọ, Phường 13, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Nguy%E1%BB%85n+Tr%C3%A3i\/@10.8551558,106.6567652,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bf1adb6671:0x4c7846297232a8b8!8m2!3d10.8551558!4d106.6567652!16s%2Fg%2F11btxclxkq?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ_aGEG78pdTERyW8CBhHIsek",
+      "title":"Trường Tiểu học Lê Văn Thọ",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8526633,
+      "location\/lng":106.6599466,
+      "address":"1115 Đ. Lê Đức Thọ, Phường 13, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+L%C3%AA+V%C4%83n+Th%E1%BB%8D\/@10.8526633,106.6599466,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529bf1b84a1fd:0xe9b1c81106026fc9!8m2!3d10.8526633!4d106.6599466!16s%2Fg%2F11bwf6c4ds?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJJz0So5QpdTER4lcuakToxR0",
+      "title":"Trường THCS Huỳnh Văn Nghệ",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.855434,
+      "location\/lng":106.6470909,
+      "address":"237\/65 Phạm Văn Chiêu, Phường 14, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Hu%E1%BB%B3nh+V%C4%83n+Ngh%E1%BB%87\/@10.855434,106.6470909,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752994a3123d27:0x1dc5e8446a2e57e2!8m2!3d10.855434!4d106.6470909!16s%2Fg%2F11bw4k5cjd?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJXeKXWP0pdTERkKoBOKT2z0k",
+      "title":"Bonnie makeup",
+      "categoryName":"Trường dạy nghề",
+      "location\/lat":10.8513876,
+      "location\/lng":106.6595414,
+      "address":"564\/3c Phạm Văn Chiêu, Phường 16, Gò Vấp, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Bonnie+makeup\/@10.8513876,106.6595414,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529fd5897e25d:0x49cff6a43801aa90!8m2!3d10.8513876!4d106.6595414!16s%2Fg%2F11h10vfh0p?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJkUQGobkpdTERkkPkQ-cHezY",
+      "title":"Trường Tiểu học Lê Thị Hồng Gấm 1",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8528049,
+      "location\/lng":106.6614301,
+      "address":"54\/11 Phạm Văn Chiêu, Phường 13, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+L%C3%AA+Th%E1%BB%8B+H%E1%BB%93ng+G%E1%BA%A5m+1\/@10.8528049,106.6614301,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b9a1064491:0x367b07e743e44392!8m2!3d10.8528049!4d106.6614301!16s%2Fg%2F1tmbsm6y?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJy943U4ApdTER9Ut3oADka6A",
+      "title":"Trung tâm Giáo dục nghề nghiệp Thái Sơn",
+      "categoryName":"Trường dạy nghề",
+      "location\/lat":10.8267564,
+      "location\/lng":106.6911057,
+      "address":"364\/1A Đ. Phan Văn Trị, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+t%C3%A2m+Gi%C3%A1o+d%E1%BB%A5c+ngh%E1%BB%81+nghi%E1%BB%87p+Th%C3%A1i+S%C6%A1n\/@10.8267564,106.6911057,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529805337decb:0xa06be400a0774bf5!8m2!3d10.8267564!4d106.6911057!16s%2Fg%2F11sqkbd5rq?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJlzGCZ_EodTERd0mb1AM9O0A",
+      "title":"Trường tiểu học Nguyễn Viết Xuân",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8262419,
+      "location\/lng":106.6933486,
+      "address":"116 Đ. Dương Quảng Hàm, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+ti%E1%BB%83u+h%E1%BB%8Dc+Nguy%E1%BB%85n+Vi%E1%BA%BFt+Xu%C3%A2n\/@10.8262419,106.6933486,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528f167823197:0x403b3d03d49b4977!8m2!3d10.8262419!4d106.6933486!16s%2Fg%2F1tjgxw1v?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJs-DE-7gqdTERriQpvvVy9Vw",
+      "title":"Trung tâm Giáo dục nghề nghiệp cho người khuyết tật và trẻ mồ côi TP.HCM",
+      "categoryName":"Trường học",
+      "location\/lat":10.8675378,
+      "location\/lng":106.5504131,
+      "address":"Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJs-DE-7gqdTERriQpvvVy9Vw",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJfwc1MlbVdDERrrdwLuI5iXM",
+      "title":"Trung Tâm Giáo Dục Thường Xuyên Thanh Niên Xung Phong Thành Phố Hồ Chí Minh",
+      "categoryName":"Trường học",
+      "location\/lat":10.8856972,
+      "location\/lng":106.5433368,
+      "address":"189E Đặng Công Bỉnh, ấp 5, xã Xuân Thới Sơn, huyện Hóc Môn, Thành phố Hồ Chí Minh., Thanh Niên, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfwc1MlbVdDERrrdwLuI5iXM",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJUznsP5DVdDERMbrLqMsIuH4",
+      "title":"Trường THCS Đỗ Văn Dậy",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.9090988,
+      "location\/lng":106.5829747,
+      "address":"Đường Đường Huỳnh Thị Mài, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUznsP5DVdDERMbrLqMsIuH4",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJkxV39rzVdDER3BmEfaPCrL0",
+      "title":"Trường Tiểu học Cầu Xáng",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.9078262,
+      "location\/lng":106.5965262,
+      "address":"50 ấp Thới Tây 2, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJkxV39rzVdDER3BmEfaPCrL0",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJSfP9mmYqdTERspml2JK6TK0",
+      "title":"Trường Tiểu Học Trần Văn Mười",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8655321,
+      "location\/lng":106.589922,
+      "address":"70 Trần Văn Mười, Xuân Thới Đông, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJSfP9mmYqdTERspml2JK6TK0",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJMSFiezordTERF0V54yjvp6E",
+      "title":"Bamboo School Hóc Môn - Trường Hội nhập Quốc tế",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8620159,
+      "location\/lng":106.5839302,
+      "address":"24\/25 M-N-P, Xuân Thới Đông, Hóc Môn, 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJMSFiezordTERF0V54yjvp6E",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJWRSLt9jXdDERCW-bRvPHuw0",
+      "title":"Trường mầm non Bé Thông Minh",
+      "categoryName":"Trường mẫu giáo",
+      "location\/lat":10.8974755,
+      "location\/lng":106.6499573,
+      "address":"VJWX+XXW, Đường Đông Thạnh 8.1, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWRSLt9jXdDERCW-bRvPHuw0",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJYd5XZhPWdDERGSzAN_1aHZY",
+      "title":"Trung tâm dạy nghề lái xe Trường An",
+      "categoryName":"Trường đào tạo lái xe",
+      "location\/lat":10.895434,
+      "location\/lng":106.649051,
+      "address":"Cầu Dừa, lê văn khương,(12\/40\/37 Ấp 5, Đông Thạnh), Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJYd5XZhPWdDERGSzAN_1aHZY",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJUeISSbIqdTER7ywb3FuxVks",
+      "title":"Trường Tiểu học Nhị Xuân",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8728495,
+      "location\/lng":106.5387584,
+      "address":"03, XTS10B, ấp 5, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUeISSbIqdTER7ywb3FuxVks",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJE3a6NEgqdTERPUliTlpX0xc",
+      "title":"Trường Tiểu học Tây Bắc Lân",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8463792,
+      "location\/lng":106.6042626,
+      "address":"51\/2 Đ. Nguyễn Thị Huê, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJE3a6NEgqdTERPUliTlpX0xc",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJByGjYd7VdDER9HZYsajL0eM",
+      "title":"Trường THCS Đông Thạnh",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.9028101,
+      "location\/lng":106.6236172,
+      "address":"3\/18 ấp 1, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJByGjYd7VdDER9HZYsajL0eM",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJK79jAPUqdTERCqZfafWAr48",
+      "title":"Trường THPT Phạm Văn Sáng",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8594301,
+      "location\/lng":106.5791444,
+      "address":"26\/1C Nguyễn Thị Thử, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJK79jAPUqdTERCqZfafWAr48",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJSW0jCtErdTERHfMk28XNu0c",
+      "title":"Trường mầm non Xuân Thới Thượng",
+      "categoryName":"Trường học",
+      "location\/lat":10.8567347,
+      "location\/lng":106.5935767,
+      "address":"VH4V+MCW, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJSW0jCtErdTERHfMk28XNu0c",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJZ7WUO1PWdDERvaEo-VTY86U",
+      "title":"Trường Mẫu Giáo Sơn Ca 3",
+      "categoryName":"Trường học",
+      "location\/lat":10.9139923,
+      "location\/lng":106.6752799,
+      "address":"WM7G+H4R, Nhị Bình, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZ7WUO1PWdDERvaEo-VTY86U",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ-UjbfUwqdTERbzy9sKpEpfI",
+      "title":"Trường THCS Phan Công Hớn",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8407855,
+      "location\/lng":106.599327,
+      "address":"18\/6 ấp Trung Lân, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-UjbfUwqdTERbzy9sKpEpfI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ42lYIPQqdTERobALPs0tCHI",
+      "title":"Trường Mầm Non Tí Hon",
+      "categoryName":"Trường học",
+      "location\/lat":10.8558587,
+      "location\/lng":106.5776529,
+      "address":"91\/1 Đ. XTT 53C, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ42lYIPQqdTERobALPs0tCHI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJz-6SINordTERJciF2VodYjk",
+      "title":"Trường THCS Bùi Văn Thủ",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8338853,
+      "location\/lng":106.5984908,
+      "address":"1 Ấp Tiền lân, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJz-6SINordTERJciF2VodYjk",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJrW1eS4vVdDERFE9aN3-hTjI",
+      "title":"Trường Tiểu học Nguyễn Thị Nuôi",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8857347,
+      "location\/lng":106.6053969,
+      "address":"148\/1A, 148\/1A Tô Ký, Thới Tam Thôn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrW1eS4vVdDERFE9aN3-hTjI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJs32dcpzVdDERuxjQtxwxKVg",
+      "title":"Trường THPT Hồ Thị Bi",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8976967,
+      "location\/lng":106.5875634,
+      "address":"Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJs32dcpzVdDERuxjQtxwxKVg",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJH6NC-1IqdTERvB_LDzEVcpM",
+      "title":"Trường Tiểu học Bùi Văn Ngữ",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8406186,
+      "location\/lng":106.5911767,
+      "address":"Đường Bà Điểm 4\/21 Ấp Tiền Lân, Tiền Lân, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJH6NC-1IqdTERvB_LDzEVcpM",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJhSSkGZwrdTER5q8Lp3pMQzM",
+      "title":"Anh Ngữ Master English",
+      "categoryName":"Trường học",
+      "location\/lat":10.8382876,
+      "location\/lng":106.5841708,
+      "address":"5\/15V XTT4, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh 71700, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJhSSkGZwrdTER5q8Lp3pMQzM",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ49LK90MrdTERrQsFOmkuxac",
+      "title":"Trường THCS - THPT Bắc Sơn",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.8382866,
+      "location\/lng":106.5887177,
+      "address":"373 Đường Bà Điểm 4, Bà Điểm, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ49LK90MrdTERrQsFOmkuxac",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJAVYFCDzVCjERnneKPIfeSsc",
+      "title":"Công Ty TNHH Kỹ Thuật Thiên Long",
+      "categoryName":"Trường kỹ thuật",
+      "location\/lat":10.8519865,
+      "location\/lng":106.5294297,
+      "address":"H, 7A106, An Hạ, Phạm Văn Hai, Bình Chánh, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJAVYFCDzVCjERnneKPIfeSsc",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJjbLVCHjVdDERljUtO1lF-cg",
+      "title":"Trường THCS Lý Chính Thắng 1",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8929844,
+      "location\/lng":106.5817103,
+      "address":"VHVJ+5MW, ĐH60B, Tân Thới Nhì, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJjbLVCHjVdDERljUtO1lF-cg",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ5ddM_ikrdTERZicNmZP6dho",
+      "title":"Xuan Thoi Thuong Middle School",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.862338,
+      "location\/lng":106.5692062,
+      "address":"35 Phan Văn Hớn, Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh 731000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ5ddM_ikrdTERZicNmZP6dho",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJd4rVK4cqdTER5iTN7gvsvvM",
+      "title":"Trường THCS Nguyễn Hồng Đào",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8776895,
+      "location\/lng":106.5786052,
+      "address":"228\/2d Nguyễn Văn Bứa, Xuân Thới Sơn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJd4rVK4cqdTER5iTN7gvsvvM",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJtcBYcobVdDER2UfYIwPpiA8",
+      "title":"Trường trung học cơ sở Nguyễn An Khương",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.888325,
+      "location\/lng":106.5861914,
+      "address":"Tổ 32\/66\/6 Đ. Lê Thị Hồng Gấm, Khu Phố 3, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtcBYcobVdDER2UfYIwPpiA8",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ97IQu4rVdDERmZt3jrC9NGQ",
+      "title":"Trường THCS Tô Ký",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8825475,
+      "location\/lng":106.6048626,
+      "address":"12 Đ. Tân Xuân 2, Tân Xuân, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ97IQu4rVdDERmZt3jrC9NGQ",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJm298puHVdDERxjX0cj-Ixo8",
+      "title":"Trường Tiểu học Thới Thạnh",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8988896,
+      "location\/lng":106.6271454,
+      "address":"363 Đ. Đặng Thúc Vịnh, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJm298puHVdDERxjX0cj-Ixo8",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJvQCWcW0qdTERaO8sGxs51jI",
+      "title":"Trường Tiểu học Mỹ Hòa",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8698269,
+      "location\/lng":106.6033618,
+      "address":"58\/8d Tân Xuân 6, Tân Xuân, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJvQCWcW0qdTERaO8sGxs51jI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJV2b8zb3VdDERWx6Nn-yMixg",
+      "title":"Trường mầm non Ngôi Nhà Tuổi Thơ",
+      "categoryName":"Trường học",
+      "location\/lat":10.8885987,
+      "location\/lng":106.6269004,
+      "address":"VJQG+CQJ, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJV2b8zb3VdDERWx6Nn-yMixg",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJKQae-GzWdDERg2BZACmlwn4",
+      "title":"Mầm Non Khánh An",
+      "categoryName":"Trường học",
+      "location\/lat":10.9027421,
+      "location\/lng":106.6435094,
+      "address":"189\/13 Đông Thạnh 6, Âp 5, Hóc Môn, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKQae-GzWdDERg2BZACmlwn4",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJz7nkj6_VdDERL-KeyEA11GE",
+      "title":"Trường trung học",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.9091912,
+      "location\/lng":106.5746124,
+      "address":"1\/157Q, Tân Thới 3, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJz7nkj6_VdDERL-KeyEA11GE",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ318xHWkqdTERDUw8BGVGm_E",
+      "title":"Trường Mầm Non Xuân Thới Đông",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.8631839,
+      "location\/lng":106.5966233,
+      "address":"VH7W+7JH, Xuân Thới Đông, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ318xHWkqdTERDUw8BGVGm_E",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJKy1efkYqdTERq0sbY9NmvhE",
+      "title":"Trường THPT Bà Điểm",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8516318,
+      "location\/lng":106.5999414,
+      "address":"7 Nguyễn Thị Sóc, Ap Bac Lân, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKy1efkYqdTERq0sbY9NmvhE",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJk0Gy67_XdDERfSEgyfvnY8w",
+      "title":"THCS Đặng Thúc Vịnh",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.9154533,
+      "location\/lng":106.6484553,
+      "address":"WJ8X+59P, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJk0Gy67_XdDERfSEgyfvnY8w",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ1Y5iPy3XdDER3pwJ2QIKyVE",
+      "title":"Trường Tiểu Học Thới Thạnh",
+      "categoryName":"Trường học",
+      "location\/lat":10.9145447,
+      "location\/lng":106.6485166,
+      "address":"1489\/1 Đặng Thúc Vịnh, ấp3, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1Y5iPy3XdDER3pwJ2QIKyVE",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJaScliffVdDER2hpkUUy4LIs",
+      "title":"Trường Tiểu học Tam Đông",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8825222,
+      "location\/lng":106.6171663,
+      "address":"152\/5B ấp Tam Đông 2, Thới Tam Thôn, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJaScliffVdDER2hpkUUy4LIs",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ5a-RT2jWdDERFHK_ohEv6NE",
+      "title":"Trường mầm non Phương Anh",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.9097535,
+      "location\/lng":106.650604,
+      "address":"Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ5a-RT2jWdDERFHK_ohEv6NE",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJN3A7_nYrdTERkGXCVrD3iFs",
+      "title":"Trường THPT Nguyễn Hữu Cầu",
+      "categoryName":"Trường học",
+      "location\/lat":10.8682637,
+      "location\/lng":106.6147724,
+      "address":"Tô Ký, Tân Chánh Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJN3A7_nYrdTERkGXCVrD3iFs",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJuRwT-hAqdTERDU2SFhO7aRM",
+      "title":"Trường THCS Trung Mỹ Tây 1",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8668851,
+      "location\/lng":106.6146942,
+      "address":"3A Đ. Nguyễn Ảnh Thủ, Trung Chánh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJuRwT-hAqdTERDU2SFhO7aRM",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJhSxlPGM7dTERmPSjnrHRyR0",
+      "title":"Trường Mầm Non Anh Đào",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.6963489,
+      "location\/lng":106.7336256,
+      "address":"MPWM+GFJ, khu phố 5 Huỳnh Tấn Phát, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJhSxlPGM7dTERmPSjnrHRyR0",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJwc4tHsc6dTER5E5fYkOazJM",
+      "title":"Trường Mầm Non Tư Thục Hoa Hồng",
+      "categoryName":"Trường mẫu giáo",
+      "location\/lat":10.6848958,
+      "location\/lng":106.7502158,
+      "address":"24 Đ. Đào Tông Nguyên, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJwc4tHsc6dTER5E5fYkOazJM",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ0TG-IygvdTERk15Pr1wJTQg",
+      "title":"Carbon Sport Bike",
+      "categoryName":"Đi xe đạp đường trường",
+      "location\/lat":10.699113,
+      "location\/lng":106.7409974,
+      "address":"76\/49 D. Cát Lợi, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh 73206, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0TG-IygvdTERk15Pr1wJTQg",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJtfj-j_g7dTERiNWwBMe7n5Q",
+      "title":"THCS Nguyễn Bỉnh Khiêm (Cơ sở 2)",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.6988023,
+      "location\/lng":106.7416148,
+      "address":"MPXR+GJH, Hẻm 1979\/23 Huỳnh Tấn Phát, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJtfj-j_g7dTERiNWwBMe7n5Q",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ0Vm-bLM6dTERJo8uAZwei5M",
+      "title":"Trường Tiểu học Trần Thị Ngọc Hân - Cơ sở 2",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.6980725,
+      "location\/lng":106.7398373,
+      "address":"MPXQ+6WG, Huỳnh Tấn Phát, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0Vm-bLM6dTERJo8uAZwei5M",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJRRob1bY6dTERejysS_ipBFc",
+      "title":"Trường Tiểu học Lâm Văn Bền",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.6920291,
+      "location\/lng":106.7418297,
+      "address":"373 Huỳnh Tấn Phát, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRRob1bY6dTERejysS_ipBFc",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJYXTTDuc6dTER82JMYzYoaHs",
+      "title":"Trường THCS Nguyễn Bỉnh Khiêm",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.6896214,
+      "location\/lng":106.7425012,
+      "address":"421 Huỳnh Tấn Phát, TT. Nhà Bè, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJYXTTDuc6dTER82JMYzYoaHs",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJCeFWs646dTERxkuOqNT832c",
+      "title":"KDC Hồng Lĩnh",
+      "categoryName":"Trường học",
+      "location\/lat":10.6940104,
+      "location\/lng":106.7293949,
+      "address":"MPVH+JQ2, đường 14m, Phú Xuân, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCeFWs646dTERxkuOqNT832c",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJb5wiatkodTERIsjr_SubAIU",
+      "title":"Trường Tiểu học Cổ Loa",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.80529,
+      "location\/lng":106.6806218,
+      "address":"RM4J+469, Lê Tự Tài, Phường 4, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+C%E1%BB%95+Loa\/@10.80529,106.6806218,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d96a229c6f:0x85009b2bfdebc822!8m2!3d10.80529!4d106.6806218!16s%2Fg%2F1hc37njc3?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJTU4eqy4pdTERSt_RQHIBO-8",
+      "title":"Trường THCS Ngô Tất Tố",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.796544,
+      "location\/lng":106.670021,
+      "address":"17 Đ. Đặng Văn Ngữ, Phường 10, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Ng%C3%B4+T%E1%BA%A5t+T%E1%BB%91\/@10.796544,106.670021,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292eab1e4e4d:0xef3b017240d1df4a!8m2!3d10.796544!4d106.670021!16s%2Fg%2F1tdmmk0n?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ-QYJCN8odTERQv2ET5kbo1k",
+      "title":"Trường THCS & THPT Đức Trí - Cơ sở 2",
+      "categoryName":"Trường học",
+      "location\/lat":10.8086575,
+      "location\/lng":106.6793134,
+      "address":"10 Hẻm 742 Nguyễn Kiệm, Phường 4, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+%26+THPT+%C4%90%E1%BB%A9c+Tr%C3%AD+-+C%C6%A1+s%E1%BB%9F+2\/@10.8086575,106.6793134,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528df080906f9:0x59a31b994f84fd42!8m2!3d10.8086575!4d106.6793134!16s%2Fg%2F11x9lrmtx?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ_9Z35iApdTERjbBTfh4YEMk",
+      "title":"Trường Tiểu học Hồ Văn Huê",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8087947,
+      "location\/lng":106.6741874,
+      "address":"9 Hoàng Minh Giám, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+H%E1%BB%93+V%C4%83n+Hu%C3%AA\/@10.8087947,106.6741874,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752920e677d6ff:0xc910181e7e53b08d!8m2!3d10.8087947!4d106.6741874!16s%2Fg%2F1tgtbzz2?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJQ3Dq9ggvdTERaXFJolThpow",
+      "title":"Zurno Việt Nam",
+      "categoryName":"Trường dạy nghề",
+      "location\/lat":10.8082039,
+      "location\/lng":106.6736044,
+      "address":"19 Hoàng Minh Giám, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Zurno+Vi%E1%BB%87t+Nam\/@10.8082039,106.6736044,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f08f6ea7043:0x8ca6e154a2497169!8m2!3d10.8082039!4d106.6736044!16s%2Fg%2F11s8dfl8k3?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJwdwbSCApdTERKGa445vFd5Q",
+      "title":"Trường THPT Phú Nhuận",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.8096836,
+      "location\/lng":106.6758634,
+      "address":"5 Hoàng Minh Giám, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Ph%C3%BA+Nhu%E1%BA%ADn\/@10.8096836,106.6758634,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752920481bdcc1:0x9477c59be3b86628!8m2!3d10.8096836!4d106.6758634!16s%2Fg%2F11jslqr34q?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJmQrYdiwpdTERm1UWAch5z8Q",
+      "title":"Trường THPT Hàn Thuyên",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.7943239,
+      "location\/lng":106.6699932,
+      "address":"37 Đ. Đặng Văn Ngữ, Phường 10, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+H%C3%A0n+Thuy%C3%AAn\/@10.7943239,106.6699932,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292c76d80a99:0xc4cf79c80116559b!8m2!3d10.7943239!4d106.6699932!16s%2Fg%2F1tfjn5p1?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJT3QAwtYodTERxf2iFLNY19Q",
+      "title":"Trường cao đẳng Kinh Tế Đối Ngoại",
+      "categoryName":"Trường cao đẳng cộng đồng",
+      "location\/lat":10.7974484,
+      "location\/lng":106.6808339,
+      "address":"287 Phan Đình Phùng, Phường 15, Phú Nhuận, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+cao+%C4%91%E1%BA%B3ng+Kinh+T%E1%BA%BF+%C4%90%E1%BB%91i+Ngo%E1%BA%A1i\/@10.7974484,106.6808339,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d6c200744f:0xd4d758b314a2fdc5!8m2!3d10.7974484!4d106.6808339!16s%2Fm%2F0cpbd4m?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJPYkbfNkodTERowzqAXwvR60",
+      "title":"Trường THCS Trần Huy Liệu",
+      "categoryName":"Trường học",
+      "location\/lat":10.8044489,
+      "location\/lng":106.6818558,
+      "address":"89 Nguyễn Đình Chiểu, Phường 4, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Tr%E1%BA%A7n+Huy+Li%E1%BB%87u\/@10.8044489,106.6818558,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d97c1b893d:0xad472f7c01ea0ca3!8m2!3d10.8044489!4d106.6818558!16s%2Fg%2F11c57ckzrn?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJm1MoCNgodTERTIvfKqc8bho",
+      "title":"Trung Tâm Nhật Ngữ Đông Du",
+      "categoryName":"Trường ngoại ngữ",
+      "location\/lat":10.8036365,
+      "location\/lng":106.6756134,
+      "address":"43D\/46 Hồ Văn Huê, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+Nh%E1%BA%ADt+Ng%E1%BB%AF+%C4%90%C3%B4ng+Du\/@10.8036365,106.6756134,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528d80828539b:0x1a6e3ca72adf8b4c!8m2!3d10.8036365!4d106.6756134!16s%2Fg%2F1thvq5fw?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJZ6p1a9wudTER4IC8QJ6Ufac",
+      "title":"Trường Đại học Y khoa Phạm Ngọc Thạch",
+      "categoryName":"Trường y",
+      "location\/lat":10.7735398,
+      "location\/lng":106.6658946,
+      "address":"2 Đ. Dương Quang Trung, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+Y+khoa+Ph%E1%BA%A1m+Ng%E1%BB%8Dc+Th%E1%BA%A1ch\/@10.7735398,106.6658946,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752edc6b75aa67:0xa77d949e40bc80e0!8m2!3d10.7735398!4d106.6658946!16s%2Fm%2F0z8y9w8?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJb0EnuNgudTERQZ7TB2gTHXM",
+      "title":"Khoa Quản Trị Kinh Doanh Quốc Tế - HUFLIT",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7750353,
+      "location\/lng":106.674895,
+      "address":"304 Đ. Cao Thắng, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Khoa+Qu%E1%BA%A3n+Tr%E1%BB%8B+Kinh+Doanh+Qu%E1%BB%91c+T%E1%BA%BF+-+HUFLIT\/@10.7750353,106.674895,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ed8b827416f:0x731d136807d39e41!8m2!3d10.7750353!4d106.674895!16s%2Fg%2F11cs1w3k22?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJByQOK0IvdTERBaWZUSch06s",
+      "title":"PennSchool - Pennsylvania American International School",
+      "categoryName":"Trường quốc tế",
+      "location\/lat":10.7734304,
+      "location\/lng":106.675572,
+      "address":"10 Đ. 3 Tháng 2, Phường 12, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/PennSchool+-+Pennsylvania+American+International+School\/@10.7734304,106.675572,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f422b0e2407:0xabd321275199a505!8m2!3d10.7734304!4d106.675572!16s%2Fg%2F11pwwxtsh5?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ_1Dwi3wvdTERDMwk0ZV1qE8",
+      "title":"Trường Đại học Hoa Sen - Cơ sở Thành Thái",
+      "categoryName":"Đại học tư thục",
+      "location\/lat":10.7692996,
+      "location\/lng":106.6650068,
+      "address":"7\/1 Đ. Thành Thái, Phường 14, Quận 10, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+Hoa+Sen+-+C%C6%A1+s%E1%BB%9F+Th%C3%A0nh+Th%C3%A1i\/@10.7692996,106.6650068,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f7c8bf050ff:0x4fa87595d124cc0c!8m2!3d10.7692996!4d106.6650068!16s%2Fg%2F11lgblbwzy?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJf56kQN0udTERDzkbZ2F5ivA",
+      "title":"Trường THCS & THPT Diên Hồng",
+      "categoryName":"Trường học",
+      "location\/lat":10.770551,
+      "location\/lng":106.6654767,
+      "address":"11 Đ. Thành Thái, Phường 14, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+%26+THPT+Di%C3%AAn+H%E1%BB%93ng\/@10.770551,106.6654767,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752edd40a49e7f:0xf08a7961671b390f!8m2!3d10.770551!4d106.6654767!16s%2Fg%2F1tmkhg9n?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJJVxbdtsudTERo4Varb0ZNZo",
+      "title":"Trường Đại học Ngoại ngữ - Tin học Thành phố Hồ Chí Minh (HUFLIT)",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7760147,
+      "location\/lng":106.6673648,
+      "address":"828 Đ. Sư Vạn Hạnh, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+Ngo%E1%BA%A1i+ng%E1%BB%AF+-+Tin+h%E1%BB%8Dc+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh+(HUFLIT)\/@10.7760147,106.6673648,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752edb765b5c25:0x9a3519bdad5a85a3!8m2!3d10.7760147!4d106.6673648!16s%2Fm%2F02qhhny?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJn-MxqtcudTERvwLCZ6DNqbs",
+      "title":"Trường Tiểu học Lê Thị Riêng",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7800658,
+      "location\/lng":106.6719623,
+      "address":"493 Đ. Cách Mạng Tháng 8, Phường 13, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+L%C3%AA+Th%E1%BB%8B+Ri%C3%AAng\/@10.7800658,106.6719623,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ed7aa31e39f:0xbba9cda067c202bf!8m2!3d10.7800658!4d106.6719623!16s%2Fg%2F1wnbvhq7?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJzxhq6rsrdTER8ywzrhmq5Y4",
+      "title":"Trường THPT Trường Chinh",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.8414669,
+      "location\/lng":106.6247864,
+      "address":"1 DN11, Khu Phố 4, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Tr%C6%B0%E1%BB%9Dng+Chinh\/@10.8414669,106.6247864,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bbbea6a18cf:0x8ee5aa19ae332cf3!8m2!3d10.8414669!4d106.6247864!16s%2Fg%2F11t928cb5c?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJdewdnRYodTERMaNWAecdXUY",
+      "title":"Trường Tiểu học Trần Văn Ơn",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8383656,
+      "location\/lng":106.6208704,
+      "address":"325 Nguyễn Văn Quá, KP7, Quận 12, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Tr%E1%BA%A7n+V%C4%83n+%C6%A0n\/@10.8383656,106.6208704,17z\/data=!3m1!4b1!4m6!3m5!1s0x317528169d1dec75:0x465d1de70156a331!8m2!3d10.8383656!4d106.6208704!16s%2Fg%2F1vpq4bzz?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ-TuuIyoodTERDH2GWpozcG4",
+      "title":"Trường THPT Thạnh Lộc",
+      "categoryName":"Trường học",
+      "location\/lat":10.8758183,
+      "location\/lng":106.6816382,
+      "address":"116 Đ. Nguyễn Thị Sáu, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Th%E1%BA%A1nh+L%E1%BB%99c\/@10.8758183,106.6816382,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175282a23ae3bf9:0x6e70339a5a867d0c!8m2!3d10.8758183!4d106.6816382!16s%2Fg%2F11h0s9s5_?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJHRzdev4pdTERo2wkFCHAros",
+      "title":"Trung học cơ sở Nguyễn Chí Thanh",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8773749,
+      "location\/lng":106.6341472,
+      "address":"VJGM+WMR, 11, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+h%E1%BB%8Dc+c%C6%A1+s%E1%BB%9F+Nguy%E1%BB%85n+Ch%C3%AD+Thanh\/@10.8773749,106.6341472,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529fe7add1c1d:0x8baec02114246ca3!8m2!3d10.8773749!4d106.6341472!16s%2Fg%2F11cs2wtf6s?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJObVWftEpdTERLWrn8OAlAS0",
+      "title":"Trường mầm non Duy Nhật Tân Quận 12",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.8700357,
+      "location\/lng":106.6707022,
+      "address":"Đ. Thạnh Xuân 22, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+m%E1%BA%A7m+non+Duy+Nh%E1%BA%ADt+T%C3%A2n+Qu%E1%BA%ADn+12\/@10.8700357,106.6707022,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d17e56b539:0x2d0125e0f0e76a2d!8m2!3d10.8700357!4d106.6707022!16s%2Fg%2F11d_ylghtq?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJYQj1UMspdTER1POc1s6qwQ4",
+      "title":"Trường Đại Học Văn Hiến",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8610836,
+      "location\/lng":106.6754938,
+      "address":"Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+H%E1%BB%8Dc+V%C4%83n+Hi%E1%BA%BFn\/@10.8610836,106.6754938,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529cb50f50861:0xec1aaced69cf3d4!8m2!3d10.8610836!4d106.6754938!16s%2Fg%2F12xqqvjr_?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJH-T-RcUrdTERnVs4ZW-t_Yc",
+      "title":"Trường THCS Trần Quang Khải",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8723984,
+      "location\/lng":106.6217148,
+      "address":"641 Tân Chánh Hiệp 10, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Tr%E1%BA%A7n+Quang+Kh%E1%BA%A3i\/@10.8723984,106.6217148,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752bc545fee41f:0x87fdad6f65385b9d!8m2!3d10.8723984!4d106.6217148!16s%2Fg%2F11rgnkhhl1?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ7zfqMEYpdTERd2xWLwnvsM8",
+      "title":"Trường Mầm Non Ánh Sao Mai (Hệ thống Úc Châu)",
+      "categoryName":"Trường học",
+      "location\/lat":10.8696883,
+      "location\/lng":106.6696765,
+      "address":"16 Đ. Thạnh Xuân 22, Kp 6, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+%C3%81nh+Sao+Mai+(H%E1%BB%87+th%E1%BB%91ng+%C3%9Ac+Ch%C3%A2u)\/@10.8696883,106.6696765,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294630ea37ef:0xcfb0ef092f566c77!8m2!3d10.8696883!4d106.6696765!16s%2Fg%2F11l42_yr33?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJbeOTtTMpdTERLkInLij2BCo",
+      "title":"Bamboo School Thạnh Xuân - Trường Hội nhập Quốc tế",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8740585,
+      "location\/lng":106.6691994,
+      "address":"140\/17 Thạnh Xuân 22, Khu Phó 7, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Bamboo+School+Th%E1%BA%A1nh+Xu%C3%A2n+-+Tr%C6%B0%E1%BB%9Dng+H%E1%BB%99i+nh%E1%BA%ADp+Qu%E1%BB%91c+t%E1%BA%BF\/@10.8740585,106.6691994,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752933b593e36d:0x2a04f6282e27422e!8m2!3d10.8740585!4d106.6691994!16s%2Fg%2F11jcy31hdk?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ3UaifT4qdTERqSUWb0iAuyk",
+      "title":"Trường Cao đẳng Giao thông Vận tải TP. HCM",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8577355,
+      "location\/lng":106.6098436,
+      "address":"8 Đ. Nguyễn Ảnh Thủ, Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%91%E1%BA%B3ng+Giao+th%C3%B4ng+V%E1%BA%ADn+t%E1%BA%A3i+TP.+HCM\/@10.8577355,106.6098436,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752a3e7da246dd:0x29bb80486f1625a9!8m2!3d10.8577355!4d106.6098436!16s%2Fg%2F1hc36fgg6?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJLxmr7CUodTERtf_ffSoudbw",
+      "title":"Lớp Mầm Non Tư Thục Kha Ly",
+      "categoryName":"Trường học",
+      "location\/lat":10.870203,
+      "location\/lng":106.6890235,
+      "address":"23 Đ. TL 29, Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/L%E1%BB%9Bp+M%E1%BA%A7m+Non+T%C6%B0+Th%E1%BB%A5c+Kha+Ly\/@10.870203,106.6890235,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752825ecab192f:0xbc752e2a7ddfffb5!8m2!3d10.870203!4d106.6890235!16s%2Fg%2F11d_yp6ltd?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJmbpboFwpdTERKRN5EAymj1k",
+      "title":"Trường Tiểu học Võ Thị Thừa",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8569523,
+      "location\/lng":106.7049914,
+      "address":"VP43+QXQ, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+V%C3%B5+Th%E1%BB%8B+Th%E1%BB%ABa\/@10.8569523,106.7049914,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175295ca05bba99:0x598fa60c10791329!8m2!3d10.8569523!4d106.7049914!16s%2Fg%2F11gtyl3p10?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJM28c3QQpdTEReXoxel-BOeU",
+      "title":"Trường THCS và THPT Lạc Hồng",
+      "categoryName":"Trường học",
+      "location\/lat":10.8818556,
+      "location\/lng":106.6542916,
+      "address":"556\/4 Đ. Lê Thị Riêng, Thới An, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+v%C3%A0+THPT+L%E1%BA%A1c+H%E1%BB%93ng\/@10.8818556,106.6542916,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752904dd1c6f33:0xe539815f7a317a79!8m2!3d10.8818556!4d106.6542916!16s%2Fg%2F11ghpytmk_?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ3VaXdScqdTERAGNahzK2Ork",
+      "title":"Trường Cao đẳng Phát thanh - Truyền hình II (Cơ sở 02)",
+      "categoryName":"Đại học công lập",
+      "location\/lat":10.8479928,
+      "location\/lng":106.6303211,
+      "address":"1 Đông Hưng Thuận 27, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%91%E1%BA%B3ng+Ph%C3%A1t+thanh+-+Truy%E1%BB%81n+h%C3%ACnh+II+(C%C6%A1+s%E1%BB%9F+02)\/@10.8479928,106.6303211,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752a27759756dd:0xb93ab632875a6300!8m2!3d10.8479928!4d106.6303211!16s%2Fg%2F11xftc5sk?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJY3m63JcpdTERWBPiEXblIGo",
+      "title":"Trường Đại học Nguyễn Tất Thành (cơ sở An Phú Đông)",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8598939,
+      "location\/lng":106.7065509,
+      "address":"1165 QL1A, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+Nguy%E1%BB%85n+T%E1%BA%A5t+Th%C3%A0nh+(c%C6%A1+s%E1%BB%9F+An+Ph%C3%BA+%C4%90%C3%B4ng)\/@10.8598939,106.7065509,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752997dcba7963:0x6a20e57611e21358!8m2!3d10.8598939!4d106.7065509!16s%2Fg%2F11ryf5z0hx?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJhTMvkbYpdTER4nzXSL_YBHc",
+      "title":"Trung Tâm Sát Hạch Lái Xe TW3",
+      "categoryName":"Trường đào tạo lái xe",
+      "location\/lat":10.8673291,
+      "location\/lng":106.6579922,
+      "address":"218\/42 Đ. Lê Thị Riêng, Thới An, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+S%C3%A1t+H%E1%BA%A1ch+L%C3%A1i+Xe+TW3\/@10.8673291,106.6579922,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b6912f3385:0x7704d8bf48d77ce2!8m2!3d10.8673291!4d106.6579922!16s%2Fg%2F11stz32n1l?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJDZV-vB8rdTER3MWtXU9r42M",
+      "title":"Trường Cao Đẳng Y Dược Sài Gòn",
+      "categoryName":"Trường y",
+      "location\/lat":10.855289,
+      "location\/lng":106.6250342,
+      "address":"Công viên phần mềm, Toà nhà PTT - Lô số 07 76000, Hồ Chí Minh, Quận 12, TP, Thành phố Hồ Chí Minh 76000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%90%E1%BA%B3ng+Y+D%C6%B0%E1%BB%A3c+S%C3%A0i+G%C3%B2n\/@10.855289,106.6250342,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752b1fbc7e950d:0x63e36b4f5dadc5dc!8m2!3d10.855289!4d106.6250342!16s%2Fg%2F11f8fz7l13?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJq6qqqt4pdTEROo48FCUKgM4",
+      "title":"Trường Cao đẳng Sài Gòn",
+      "categoryName":"Trường cao đẳng\/đại học tư thục",
+      "location\/lat":10.8559976,
+      "location\/lng":106.6298297,
+      "address":"Công viên Phần mềm Quang Trung, Tòa nhà SaigonTech, Lô 14 Đường Số 5, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%91%E1%BA%B3ng+S%C3%A0i+G%C3%B2n\/@10.8559976,106.6298297,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529deaaaaaaab:0xce800a25143c8e3a!8m2!3d10.8559976!4d106.6298297!16s%2Fg%2F1hd_pn02b?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ7wAh_ewpdTER0YZZXHThG2U",
+      "title":"Trường THPT Việt Âu",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8597505,
+      "location\/lng":106.6440395,
+      "address":"AH1, Tân Thới Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Vi%E1%BB%87t+%C3%82u\/@10.8597505,106.6440395,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ecfd2100ef:0x651be1745c5986d1!8m2!3d10.8597505!4d106.6440395!16s%2Fg%2F1hhwx2cyt?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ1XEcNvkpdTER1_AxYRnx9Wc",
+      "title":"Trường Tiểu học Võ Thị Sáu",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8741717,
+      "location\/lng":106.6335311,
+      "address":"18 Tổ 37 Kp3, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+V%C3%B5+Th%E1%BB%8B+S%C3%A1u\/@10.8741717,106.6335311,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529f9361c71d5:0x67f5f1196131f0d7!8m2!3d10.8741717!4d106.6335311!16s%2Fg%2F11csbs65ph?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ-wpjerYpdTERzxrtmJ_IFC0",
+      "title":"Bamboo School Tân Chánh Hiệp - Trường Hội nhập Quốc tế",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8742675,
+      "location\/lng":106.6263427,
+      "address":"41\/6 Tổ 46 Kp4, P, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Bamboo+School+T%C3%A2n+Ch%C3%A1nh+Hi%E1%BB%87p+-+Tr%C6%B0%E1%BB%9Dng+H%E1%BB%99i+nh%E1%BA%ADp+Qu%E1%BB%91c+t%E1%BA%BF\/@10.8742675,106.6263427,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b67a630afb:0x2d14c89f98ed1acf!8m2!3d10.8742675!4d106.6263427!16s%2Fg%2F11rv374j67?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJhwrexxsqdTER-OCFUu4PaCE",
+      "title":"Trường Mầm Non Khương Đức",
+      "categoryName":"Trường mẫu giáo",
+      "location\/lat":10.8655068,
+      "location\/lng":106.6224019,
+      "address":"VJ8C+FVR, 31 Đường Tân Chánh Hiệp 13, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+Kh%C6%B0%C6%A1ng+%C4%90%E1%BB%A9c\/@10.8655068,106.6224019,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752a1bc7de0a87:0x21680fee5285e0f8!8m2!3d10.8655068!4d106.6224019!16s%2Fg%2F11fnwhg22s?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJPTXblBAqdTER_R1g3VTiDFg",
+      "title":"Trường Đại học Lao động Xã hội - Cơ sở 2",
+      "categoryName":"Đại học công lập",
+      "location\/lat":10.8669557,
+      "location\/lng":106.6179041,
+      "address":"1018 Tô Ký, Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+Lao+%C4%91%E1%BB%99ng+X%C3%A3+h%E1%BB%99i+-+C%C6%A1+s%E1%BB%9F+2\/@10.8669557,106.6179041,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752a1094db353d:0x580ce254dd601dfd!8m2!3d10.8669557!4d106.6179041!16s%2Fg%2F11ksh2646?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJq6qqh-8pdTERqro867-VSfU",
+      "title":"Trường Tiểu học Lê Văn Thọ",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.868405,
+      "location\/lng":106.6433146,
+      "address":"225 Nguyễn Thị Kiểu, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+L%C3%AA+V%C4%83n+Th%E1%BB%8D\/@10.868405,106.6433146,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529ef87aaaaab:0xf54995bfeb3cbaaa!8m2!3d10.868405!4d106.6433146!16s%2Fg%2F1tkkrc41?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJmeMdOUsvdTERo0aUs6G2x9s",
+      "title":"Trường Tiểu học Nguyễn Bỉnh Khiêm",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7883959,
+      "location\/lng":106.7041396,
+      "address":"2Bis Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJmeMdOUsvdTERo0aUs6G2x9s",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJfVkif0svdTERE4er6tVNLvc",
+      "title":"Trường THCS Võ Trường Toản",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.786621,
+      "location\/lng":106.7055384,
+      "address":"11 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfVkif0svdTERE4er6tVNLvc",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJF3UZqksvdTERfG-iJoXacog",
+      "title":"Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia TP.HCM (Cơ sở Quận 1)",
+      "categoryName":"Đại học công lập",
+      "location\/lat":10.7858607,
+      "location\/lng":106.7027086,
+      "address":"10-12 Đ. Đinh Tiên Hoàng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJF3UZqksvdTERfG-iJoXacog",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJLcxgnykvdTERu2hqJaLFpks",
+      "title":"Trường THPT Trưng Vương",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.7854177,
+      "location\/lng":106.7066801,
+      "address":"3a Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLcxgnykvdTERu2hqJaLFpks",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJQRAeWEkvdTERBQazF04RBRk",
+      "title":"Đại học Sài Gòn - Cơ sở 2",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7830382,
+      "location\/lng":106.7062212,
+      "address":"4 Đ. Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQRAeWEkvdTERBQazF04RBRk",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJWZ60o0AvdTER2wKmg-QUvaE",
+      "title":"Trường Cao đẳng Kỹ thuật Cao Thắng",
+      "categoryName":"Trường cao đẳng nghề",
+      "location\/lat":10.7718941,
+      "location\/lng":106.7012497,
+      "address":"65 Đ. Huỳnh Thúc Kháng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWZ60o0AvdTER2wKmg-QUvaE",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJrTS9bUEvdTEREE1cXAd9mvY",
+      "title":"Trường Đại học Ngân hàng TP.HCM - Trụ sở chính",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7701603,
+      "location\/lng":106.7039075,
+      "address":"36 Tôn Thất Đạm, Phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJrTS9bUEvdTEREE1cXAd9mvY",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJn7vQ-EEvdTERYQReWzT8jYg",
+      "title":"Trường Đại học Luật TP.HCM",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7675549,
+      "location\/lng":106.70552,
+      "address":"2 Nguyễn Tất Thành, Phường 13, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJn7vQ-EEvdTERYQReWzT8jYg",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJG06fFEgvdTERKPlimW0EBnI",
+      "title":"Trường THPT Chuyên Trần Đại Nghĩa",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.7791439,
+      "location\/lng":106.7014049,
+      "address":"20 Lý Tự Trọng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJG06fFEgvdTERKPlimW0EBnI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJGzeGrRYvdTER8rEIlYwlnZQ",
+      "title":"Trường Đại học Văn Lang - Cơ sở 1",
+      "categoryName":"Đại học tư thục",
+      "location\/lat":10.7627591,
+      "location\/lng":106.6933065,
+      "address":"45 Nguyễn Khắc Nhu, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGzeGrRYvdTER8rEIlYwlnZQ",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJf3AUQBEvdTER35-lDJiLGT8",
+      "title":"Trường Đại học Mở TP.HCM - Cơ sở 2",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7611471,
+      "location\/lng":106.6923099,
+      "address":"37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJf3AUQBEvdTER35-lDJiLGT8",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJjVad1GYvdTERqYtMxrSJRHU",
+      "title":"Trường mầm non 3",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7551998,
+      "location\/lng":106.6989297,
+      "address":"73 Đ. Tôn Thất Thuyết, Phường 3, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+m%E1%BA%A7m+non+3\/@10.7551998,106.6989297,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f66d49d568d:0x754489b4c64c8ba9!8m2!3d10.7551998!4d106.6989297!16s%2Fg%2F11fmx38jmr?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJH-zdNgwvdTERY3FViVVvIHQ",
+      "title":"Trường THCS Nguyễn Huệ",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7544435,
+      "location\/lng":106.6948721,
+      "address":"42 Nguyễn Khoái, Phường 2, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Nguy%E1%BB%85n+Hu%E1%BB%87\/@10.7544435,106.6948721,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0c36ddec1f:0x74206f5589557163!8m2!3d10.7544435!4d106.6948721!16s%2Fg%2F1x5f7w3l?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJTXjAzQwvdTERL4jDVRdP_hM",
+      "title":"Trường THCS Quang Trung",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7546857,
+      "location\/lng":106.6980968,
+      "address":"209 Đường 14, Phường 3, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Quang+Trung\/@10.7546857,106.6980968,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0ccdc0784d:0x13fe4f1755c3882f!8m2!3d10.7546857!4d106.6980968!16s%2Fg%2F1xpwg8f0?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJe5yAfLovdTERjMDkRgJd7IQ",
+      "title":"Trường THCS Vân Đồn",
+      "categoryName":"Trường học",
+      "location\/lat":10.76164,
+      "location\/lng":106.7083876,
+      "address":"276 Nguyễn Tất Thành, Phường 13, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+V%C3%A2n+%C4%90%E1%BB%93n\/@10.76164,106.7083876,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fba7c809c7b:0x84ec5d0246e4c08c!8m2!3d10.76164!4d106.7083876!16s%2Fg%2F11jghlbhtp?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJrWQnFWsvdTERxSLhMz0PSKU",
+      "title":"Trường Tiểu học Nguyễn Văn Trỗi",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7633907,
+      "location\/lng":106.7016388,
+      "address":"02 Vĩnh Khánh, Phường 9, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Nguy%E1%BB%85n+V%C4%83n+Tr%E1%BB%97i\/@10.7633907,106.7016388,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f6b152764ad:0xa5480f3d33e122c5!8m2!3d10.7633907!4d106.7016388!16s%2Fg%2F1tgnjksl?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ-9ED42QvdTERyNpqGhFc0is",
+      "title":"Trường Trung học Kỹ thuật Hải quân",
+      "categoryName":"Trường học",
+      "location\/lat":10.7575485,
+      "location\/lng":106.714773,
+      "address":"301 HQ\/14 Đoàn Văn Bơ, Phường 18, Quận 4, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Trung+h%E1%BB%8Dc+K%E1%BB%B9+thu%E1%BA%ADt+H%E1%BA%A3i+qu%C3%A2n\/@10.7575485,106.714773,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f64e303d1fb:0x2bd25c111a6adac8!8m2!3d10.7575485!4d106.714773!16s%2Fg%2F1tdd7bf8?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJidI-fBsvdTERiOSYRYlRZqA",
+      "title":"Trường Đại học Sài Gòn",
+      "categoryName":"Đại học công lập",
+      "location\/lat":10.7599171,
+      "location\/lng":106.6822583,
+      "address":"273 Đ. An Dương Vương, Phường 3, Quận 5, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+S%C3%A0i+G%C3%B2n\/@10.7599171,106.6822583,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f1b7c3ed289:0xa06651894598e488!8m2!3d10.7599171!4d106.6822583!16s%2Fm%2F02qvnkv?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJYZyUjRwvdTERGpOEIZagdv4",
+      "title":"Trường Mầm non Họa Mi 3",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7596421,
+      "location\/lng":106.6810287,
+      "address":"285 Đ. An Dương Vương, Phường 3, Quận 5, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+non+H%E1%BB%8Da+Mi+3\/@10.7596421,106.6810287,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f1c8d949c61:0xfe76a0962184931a!8m2!3d10.7596421!4d106.6810287!16s%2Fg%2F1wj_3jzd?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ2TtUnFgudTER1_xEE6hjdg4",
+      "title":"Trường Tiểu học Lý Thái Tổ",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7486854,
+      "location\/lng":106.6621674,
+      "address":"PMX6+FVF, Đ. Bình Đông, Phường 11, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+L%C3%BD+Th%C3%A1i+T%E1%BB%95\/@10.7486854,106.6621674,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e589c543bd9:0xe7663a81344fcd7!8m2!3d10.7486854!4d106.6621674!16s%2Fg%2F11c1qsgmvx?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ35bYjvUudTERh4ZxhaMy0io",
+      "title":"Trường Tiểu học Lê Đình Chinh",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7485893,
+      "location\/lng":106.6566789,
+      "address":"15 Đ. Vạn Tượng, Phường 13, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+L%C3%AA+%C4%90%C3%ACnh+Chinh\/@10.7485893,106.6566789,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ef58ed896df:0x2ad232a385718687!8m2!3d10.7485893!4d106.6566789!16s%2Fg%2F1x5f7w36?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJCU8jzfoudTERlw3gHCHr_pU",
+      "title":"Trung Tâm Giáo dục Thường xuyên Chu Văn An",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.7573925,
+      "location\/lng":106.666529,
+      "address":"546 Ng Gia Tự, Phường 9, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+Gi%C3%A1o+d%E1%BB%A5c+Th%C6%B0%E1%BB%9Dng+xuy%C3%AAn+Chu+V%C4%83n+An\/@10.7573925,106.666529,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752efacd234f09:0x95feeb211ce00d97!8m2!3d10.7573925!4d106.666529!16s%2Fm%2F0ddh39d?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJQynhfcgvdTERdLw_KtqOLNU",
+      "title":"Đại Học Hùng Vương",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7517715,
+      "location\/lng":106.6670563,
+      "address":"28-30 Đ. Ngô Quyền, Phường 6, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%A1i+H%E1%BB%8Dc+H%C3%B9ng+V%C6%B0%C6%A1ng\/@10.7517715,106.6670563,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fc87de12943:0xd52c8eda2a3fbc74!8m2!3d10.7517715!4d106.6670563!16s%2Fg%2F11pz9b3fcm?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJiRbwy4svdTERBVQhdaHw47c",
+      "title":"Đại học Fulbright Việt Nam",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7271261,
+      "location\/lng":106.7204887,
+      "address":"105 Đ Tôn Dật Tiên, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/%C4%90%E1%BA%A1i+h%E1%BB%8Dc+Fulbright+Vi%E1%BB%87t+Nam\/@10.7271261,106.7204887,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8bcbf01689:0xb7e3f0a175215405!8m2!3d10.7271261!4d106.7204887!16s%2Fg%2F11cncny7l_?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJAwbzxv4ldTERseJwO9LLSMY",
+      "title":"BẰNG LÁI A1 KHU CHẾ XUẤT TÂN THUẬN",
+      "categoryName":"Trường đào tạo lái xe",
+      "location\/lat":10.7525596,
+      "location\/lng":106.7296024,
+      "address":"Khu chế xuất, Đường Tân Thuận, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh 08438, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/B%E1%BA%B0NG+L%C3%81I+A1+KHU+CH%E1%BA%BE+XU%E1%BA%A4T+T%C3%82N+THU%E1%BA%ACN\/@10.7525596,106.7296024,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525fec6f30603:0xc648cbd23b70e2b1!8m2!3d10.7525596!4d106.7296024!16s%2Fg%2F11h10wh18l?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ4XiMNW4ldTERSlZ4tZIFbQo",
+      "title":"Trường Mầm Non Hoa Hồng",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7313245,
+      "location\/lng":106.7384836,
+      "address":"203\/2 Gò Ô Môi, Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+Hoa+H%E1%BB%93ng\/@10.7313245,106.7384836,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175256e358c78e1:0xa6d0592b578564a!8m2!3d10.7313245!4d106.7384836!16s%2Fg%2F1tf33f_3?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJu-veLH0vdTERzSD1HUIWP-4",
+      "title":"Trường THCS Trần Quốc Tuấn",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7502555,
+      "location\/lng":106.7078552,
+      "address":"16\/1 Bế Văn Cấm, Tân Kiểng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Tr%E1%BA%A7n+Qu%E1%BB%91c+Tu%E1%BA%A5n\/@10.7502555,106.7078552,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f7d2cdeebbb:0xee3f16421df520cd!8m2!3d10.7502555!4d106.7078552!16s%2Fg%2F1trqdpzf?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJNyDy7HcvdTERgnL9erQ_Whw",
+      "title":"Trường Tiểu học Lương Thế Vinh",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7462008,
+      "location\/lng":106.7107486,
+      "address":"12 Đ. Số 10, Tân Kiểng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+L%C6%B0%C6%A1ng+Th%E1%BA%BF+Vinh\/@10.7462008,106.7107486,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f77ecf22037:0x1c5a3fb47afd7282!8m2!3d10.7462008!4d106.7107486!16s%2Fg%2F1v6p6bxn?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJG-Qx4ncvdTERWrsMqiDsbCM",
+      "title":"Trường THPT Lê Thánh Tôn",
+      "categoryName":"Trường học",
+      "location\/lat":10.7451799,
+      "location\/lng":106.7106259,
+      "address":"31A Số 17, Tân Quy, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+L%C3%AA+Th%C3%A1nh+T%C3%B4n\/@10.7451799,106.7106259,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f77e231e41b:0x236cec20aa0cbb5a!8m2!3d10.7451799!4d106.7106259!16s%2Fg%2F11c5wmfp42?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJRUCp4-gldTERiYQE79WwM1g",
+      "title":"Hệ thống trường quốc tế Việt Úc - Riverside Mega Campus",
+      "categoryName":"Trường quốc tế",
+      "location\/lat":10.7368096,
+      "location\/lng":106.7267133,
+      "address":"99 Nguyễn Thị Thập, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%87+th%E1%BB%91ng+tr%C6%B0%E1%BB%9Dng+qu%E1%BB%91c+t%E1%BA%BF+Vi%E1%BB%87t+%C3%9Ac+-+Riverside+Mega+Campus\/@10.7368096,106.7267133,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525e8e3a94045:0x5833b0d5ef048489!8m2!3d10.7368096!4d106.7267133!16s%2Fg%2F11qnzdk8l2?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJt4loV9QvdTERrw1l4VBpomU",
+      "title":"PPU's Center for Foreign Languages ​​- Informatics",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7360012,
+      "location\/lng":106.6967897,
+      "address":"Cầu D1 Him Lam, 164 Đ. D1, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/PPU's+Center+for+Foreign+Languages+%E2%80%8B%E2%80%8B-+Informatics\/@10.7360012,106.6967897,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fd4576889b7:0x65a26950e1650daf!8m2!3d10.7360012!4d106.6967897!16s%2Fg%2F11rcqsmj4g?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJdTv0AwsvdTERbZoccVpdJBU",
+      "title":"Trường Đại học Cảnh sát nhân dân - Trụ sở chính",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7341107,
+      "location\/lng":106.6972094,
+      "address":"36 Đ. Nguyễn Hữu Thọ, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+C%E1%BA%A3nh+s%C3%A1t+nh%C3%A2n+d%C3%A2n+-+Tr%E1%BB%A5+s%E1%BB%9F+ch%C3%ADnh\/@10.7341107,106.6972094,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0b03f43b75:0x15245d5a711c9a6d!8m2!3d10.7341107!4d106.6972094!16s%2Fg%2F11ssjr5nzl?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJO0-PTnYvdTERYAygGGleono",
+      "title":"Trường Đại Học Cảnh Sát",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7335436,
+      "location\/lng":106.6964895,
+      "address":"19 Đ. Nguyễn Hữu Thọ, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+H%E1%BB%8Dc+C%E1%BA%A3nh+S%C3%A1t\/@10.7335436,106.6964895,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f764e8f4f3b:0x7aa25e6918a00c60!8m2!3d10.7335436!4d106.6964895!16s%2Fg%2F11tt8drlwr?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJuybJjzwvdTERqriF-8L8ThQ",
+      "title":"Cổng 3 Trường Đại học Cảnh sát Nhân dân",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7338706,
+      "location\/lng":106.6957694,
+      "address":"PMMW+G8R, Đường D6, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%95ng+3+Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+C%E1%BA%A3nh+s%C3%A1t+Nh%C3%A2n+d%C3%A2n\/@10.7338706,106.6957694,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f3c8fc926bb:0x144efcc2fb85b8aa!8m2!3d10.7338706!4d106.6957694!16s%2Fg%2F11t82nby0y?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJLwX0iiAvdTER4z3lu5XpcVg",
+      "title":"Trạm điện 4",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7303346,
+      "location\/lng":106.6983559,
+      "address":"PMJX+48Q, Unnamed Road, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%E1%BA%A1m+%C4%91i%E1%BB%87n+4\/@10.7303346,106.6983559,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f208af4052f:0x5871e995bbe53de3!8m2!3d10.7303346!4d106.6983559!16s%2Fg%2F11mtd5kph_?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJObX1m74vdTERTcxf5tiWLu4",
+      "title":"RMIT Vietnam Academic Building 2",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7295037,
+      "location\/lng":106.6960337,
+      "address":"702 Đ. Nguyễn Văn Linh, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/RMIT+Vietnam+Academic+Building+2\/@10.7295037,106.6960337,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fbe9bf5b539:0xee2e96d8e65fcc4d!8m2!3d10.7295037!4d106.6960337!16s%2Fg%2F11cs12f2pn?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJzXWea_kvdTERXNAprc2Ym8g",
+      "title":"RMIT's Car Parking",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.729283,
+      "location\/lng":106.6980167,
+      "address":"58A ĐH34, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/RMIT's+Car+Parking\/@10.729283,106.6980167,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ff96b9e75cd:0xc89b98cdad29d05c!8m2!3d10.729283!4d106.6980167!16s%2Fg%2F11rvfz7dnp?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJvc9zLjQvdTER03Qv4Ce0KQI",
+      "title":"Trường Quốc Tế Việt Nam - Phần Lan",
+      "categoryName":"Trường học",
+      "location\/lat":10.7325401,
+      "location\/lng":106.6949992,
+      "address":"01 Đ. D1, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Qu%E1%BB%91c+T%E1%BA%BF+Vi%E1%BB%87t+Nam+-+Ph%E1%BA%A7n+Lan\/@10.7325401,106.6949992,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f342e73cfbd:0x229b427e02f74d3!8m2!3d10.7325401!4d106.6949992!16s%2Fg%2F11hzskk87t?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ89E23SoldTERj4w85nqsVVE",
+      "title":"Kids World 3 - Trường mầm non quận 7 - mầm non song ngữ quận 7",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7361432,
+      "location\/lng":106.7261833,
+      "address":"Land P, 4 Số 1, KDC City, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Kids+World+3+-+Tr%C6%B0%E1%BB%9Dng+m%E1%BA%A7m+non+qu%E1%BA%ADn+7+-+m%E1%BA%A7m+non+song+ng%E1%BB%AF+qu%E1%BA%ADn+7\/@10.7361432,106.7261833,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175252add36d1f3:0x5155ac7ae63c8c8f!8m2!3d10.7361432!4d106.7261833!16s%2Fg%2F11s3y0h8yp?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ8fvKCiIvdTERtBleyEQTUIc",
+      "title":"Trường tiểu học Tân Hưng - Cơ sở 1",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7515861,
+      "location\/lng":106.6957211,
+      "address":"7 Trần Xuân Soạn, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+ti%E1%BB%83u+h%E1%BB%8Dc+T%C3%A2n+H%C6%B0ng+-+C%C6%A1+s%E1%BB%9F+1\/@10.7515861,106.6957211,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f220acafbf1:0x87501344c85e19b4!8m2!3d10.7515861!4d106.6957211!16s%2Fg%2F11rmnp3ct8?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ8xlbs3gldTERsZOGFshZ5mE",
+      "title":"Trường THCS Huỳnh Tấn Phát",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.74318,
+      "location\/lng":106.7291169,
+      "address":"488 Huỳnh Tấn Phát, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Hu%E1%BB%B3nh+T%E1%BA%A5n+Ph%C3%A1t\/@10.74318,106.7291169,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752578b35b19f3:0x61e659c8168693b1!8m2!3d10.74318!4d106.7291169!16s%2Fg%2F1td_2nwb?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJs0iCkocldTER6ppyycF6388",
+      "title":"Cổng 2 BCIS",
+      "categoryName":"Trường học",
+      "location\/lat":10.7145439,
+      "location\/lng":106.7288642,
+      "address":"PP7H+RG9, Đường G, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/C%E1%BB%95ng+2+BCIS\/@10.7145439,106.7288642,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752587928248b3:0xcfdf7ac1c9729aea!8m2!3d10.7145439!4d106.7288642!16s%2Fg%2F11v4myq_b6?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJmSmmdRAudTER-Y4QI5-IAGI",
+      "title":"Trường Quốc Tế Canada",
+      "categoryName":"Trường quốc tế",
+      "location\/lat":10.7137917,
+      "location\/lng":106.7287651,
+      "address":"07 Đ. Số 23, Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Qu%E1%BB%91c+T%E1%BA%BF+Canada\/@10.7137917,106.7287651,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e1075a62999:0x6200889f23108ef9!8m2!3d10.7137917!4d106.7287651!16s%2Fg%2F1tk_lsbg?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJNcSTEe0vdTERiBfFQfKIptk",
+      "title":"Trường THCS & THPT Đinh Thiện Lý",
+      "categoryName":"Trường học tư nhân",
+      "location\/lat":10.7216074,
+      "location\/lng":106.7103338,
+      "address":"80 Nguyễn Đức Cảnh, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+%26+THPT+%C4%90inh+Thi%E1%BB%87n+L%C3%BD\/@10.7216074,106.7103338,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fed1193c435:0xd9a688f241c51788!8m2!3d10.7216074!4d106.7103338!16s%2Fm%2F0gyvddg?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ3QaoGpAvdTERFoLI7C2tsnQ",
+      "title":"Trường Tiểu học Võ Thị Sáu",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7332395,
+      "location\/lng":106.7107583,
+      "address":"Lô R6 Đặng Đại Độ, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+V%C3%B5+Th%E1%BB%8B+S%C3%A1u\/@10.7332395,106.7107583,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f901aa806dd:0x74b2ad2decc88216!8m2!3d10.7332395!4d106.7107583!16s%2Fg%2F11b745v1vy?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ9957ob4vdTER3ZyoO9Oz8To",
+      "title":"Trường Song ngữ Quốc tế Hoàng Gia - ROYAL SCHOOL",
+      "categoryName":"Trường học",
+      "location\/lat":10.7324348,
+      "location\/lng":106.7111178,
+      "address":"08 Đặng Đại Độ, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Song+ng%E1%BB%AF+Qu%E1%BB%91c+t%E1%BA%BF+Ho%C3%A0ng+Gia+-+ROYAL+SCHOOL\/@10.7324348,106.7111178,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fbea17bdef7:0x3af1b3d33ba89cdd!8m2!3d10.7324348!4d106.7111178!16s%2Fg%2F11h5l_cfvz?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ7-gQcesvdTERYM-DoNKHhfM",
+      "title":"The ABC International School Secondary Campus",
+      "categoryName":"Trường học",
+      "location\/lat":10.7216598,
+      "location\/lng":106.7049319,
+      "address":"2 Đường số 9, KDC, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/The+ABC+International+School+Secondary+Campus\/@10.7216598,106.7049319,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752feb7110e8ef:0xf38587d2a083cf60!8m2!3d10.7216598!4d106.7049319!16s%2Fm%2F04jhy5x?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJeYEIyeIldTERDG-Z0AimsHg",
+      "title":"Trường Kinh doanh Sài Gòn - SBS",
+      "categoryName":"Trường học",
+      "location\/lat":10.7134614,
+      "location\/lng":106.7279756,
+      "address":"The Audri Building, 7 Đ. Số 23, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Kinh+doanh+S%C3%A0i+G%C3%B2n+-+SBS\/@10.7134614,106.7279756,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525e2c9088179:0x78b0a608d0996f0c!8m2!3d10.7134614!4d106.7279756!16s%2Fg%2F11try5x5tb?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJz43xHr0ldTER0t0iUcrKMx8",
+      "title":"Trường Song Ngữ Quốc Tế Canada BCIS - Bilingual Canadian International School",
+      "categoryName":"Trường quốc tế",
+      "location\/lat":10.7142012,
+      "location\/lng":106.7282858,
+      "address":"86 Đ. Số 23, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Song+Ng%E1%BB%AF+Qu%E1%BB%91c+T%E1%BA%BF+Canada+BCIS+-+Bilingual+Canadian+International+School\/@10.7142012,106.7282858,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525bd1ef18dcf:0x1f33caca5122ddd2!8m2!3d10.7142012!4d106.7282858!16s%2Fg%2F11jybk8b2l?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJt2W3KO0vdTERbyuoGyvn79I",
+      "title":"Trường Quốc tế Nam Sài Gòn",
+      "categoryName":"Trường quốc tế",
+      "location\/lat":10.7222995,
+      "location\/lng":106.7087845,
+      "address":"78 Nguyễn Đức Cảnh, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Qu%E1%BB%91c+t%E1%BA%BF+Nam+S%C3%A0i+G%C3%B2n\/@10.7222995,106.7087845,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fed28b765b7:0xd2efe72b1ba82b6f!8m2!3d10.7222995!4d106.7087845!16s%2Fm%2F05zrblp?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJBXSHcwMsdTERGWqhUikEEWI",
+      "title":"Trung tâm Anh ngữ ILA - Phú Mỹ Hưng",
+      "categoryName":"Trường dạy tiếng Anh",
+      "location\/lat":10.7259241,
+      "location\/lng":106.7069783,
+      "address":"10, RiverPark Residence, 17-19 Đ. Phạm Văn Nghị, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+t%C3%A2m+Anh+ng%E1%BB%AF+ILA+-+Ph%C3%BA+M%E1%BB%B9+H%C6%B0ng\/@10.7259241,106.7069783,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752c0373877405:0x6211042952a16a19!8m2!3d10.7259241!4d106.7069783!16s%2Fg%2F11bcclyw2z?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJe310aH4ldTER7jMkfAnJvzU",
+      "title":"Trường THCS Nguyễn Hiền",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7399471,
+      "location\/lng":106.725491,
+      "address":"66 Số 1, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Nguy%E1%BB%85n+Hi%E1%BB%81n\/@10.7399471,106.725491,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175257e68747d7b:0x35bfc9097c2433ee!8m2!3d10.7399471!4d106.725491!16s%2Fg%2F1tkqxryx?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ____EJIvdTERCWVwAxbgFrc",
+      "title":"Trường dạy lái xe Đại Phúc Phú Mỹ Hưng quận 7",
+      "categoryName":"Trường học",
+      "location\/lat":10.7281936,
+      "location\/lng":106.7106154,
+      "address":"Mỹ Phước, E002, Đ. Nguyễn Văn Linh, Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+d%E1%BA%A1y+l%C3%A1i+xe+%C4%90%E1%BA%A1i+Ph%C3%BAc+Ph%C3%BA+M%E1%BB%B9+H%C6%B0ng+qu%E1%BA%ADn+7\/@10.7281936,106.7106154,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9210ffffff:0xb716e01603706509!8m2!3d10.7281936!4d106.7106154!16s%2Fg%2F11f5h9wfz_?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJUwCQy3gldTEROyiL1fba4-I",
+      "title":"Trường Trung cấp Kinh tế - Kỹ thuật Nguyễn Hữu Cảnh",
+      "categoryName":"Trường dạy nghề",
+      "location\/lat":10.7422857,
+      "location\/lng":106.7294295,
+      "address":"502 Huỳnh Tấn Phát, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Trung+c%E1%BA%A5p+Kinh+t%E1%BA%BF+-+K%E1%BB%B9+thu%E1%BA%ADt+Nguy%E1%BB%85n+H%E1%BB%AFu+C%E1%BA%A3nh\/@10.7422857,106.7294295,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752578cb900053:0xe2e3daf6d58b283b!8m2!3d10.7422857!4d106.7294295!16s%2Fg%2F1td0khfq?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJpzTTRwAvdTERq7rsgFmNBLI",
+      "title":"Xưởng Cơ Khí CTIM",
+      "categoryName":"Trường cao đẳng nghề",
+      "location\/lat":10.7233102,
+      "location\/lng":106.7228004,
+      "address":"15 Đ. Trần Văn Trà, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/X%C6%B0%E1%BB%9Fng+C%C6%A1+Kh%C3%AD+CTIM\/@10.7233102,106.7228004,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f0047d334a7:0xb2048d5980ecbaab!8m2!3d10.7233102!4d106.7228004!16s%2Fg%2F11vptw0_xp?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJNedaLwAvdTERvEzcG9ZQvLI",
+      "title":"Xưởng Điện CTIM (Khoa Công Nghệ",
+      "categoryName":"Trường cao đẳng nghề",
+      "location\/lat":10.7234807,
+      "location\/lng":106.7224043,
+      "address":"15 Đ. Trần Văn Trà, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/X%C6%B0%E1%BB%9Fng+%C4%90i%E1%BB%87n+CTIM+(Khoa+C%C3%B4ng+Ngh%E1%BB%87\/@10.7234807,106.7224043,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f002f5ae735:0xb2bc50d61bdc4cbc!8m2!3d10.7234807!4d106.7224043!16s%2Fg%2F11vr_3nmjk?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ89ewAEMvdTERAfP04oq4Eus",
+      "title":"Trường Mầm non Nam Sài gòn",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7228853,
+      "location\/lng":106.7246341,
+      "address":"Lô P3 Khu A, Đô thị mới Nam, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%C6%A1%CC%80ng+M%C3%A2%CC%80m+non+Nam+Sa%CC%80i+go%CC%80n\/@10.7228853,106.7246341,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f4300b0d7f3:0xeb12b88ae2f4f301!8m2!3d10.7228853!4d106.7246341!16s%2Fg%2F11ryq_v229?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJDWr3iUgldTERo20-wAWxvfg",
+      "title":"Trường Cao Đẳng Giao Thông Vận Tải Đường thủy II",
+      "categoryName":"Trường cao đẳng cộng đồng",
+      "location\/lat":10.7096551,
+      "location\/lng":106.7441038,
+      "address":"33 Đ. Đào Trí, P, Quận 7, Thành phố Hồ Chí Minh 72906, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%90%E1%BA%B3ng+Giao+Th%C3%B4ng+V%E1%BA%ADn+T%E1%BA%A3i+%C4%90%C6%B0%E1%BB%9Dng+th%E1%BB%A7y+II\/@10.7096551,106.7441038,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175254889f76a0d:0xf8bdb105c03e6da3!8m2!3d10.7096551!4d106.7441038!16s%2Fg%2F1hhhnsj39?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJiy-3oZ8vdTERUpCU2wgMeCY",
+      "title":"Trường Đại học Nguyễn Tất Thành - Cơ sở Nguyễn Hữu Thọ",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7431428,
+      "location\/lng":106.7015354,
+      "address":"3F Đ. Nguyễn Hữu Thọ, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+Nguy%E1%BB%85n+T%E1%BA%A5t+Th%C3%A0nh+-+C%C6%A1+s%E1%BB%9F+Nguy%E1%BB%85n+H%E1%BB%AFu+Th%E1%BB%8D\/@10.7431428,106.7015354,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9fa1b72f8b:0x26780c08db949052!8m2!3d10.7431428!4d106.7015354!16s%2Fg%2F11c1p1pqxn?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJAZrkM6AvdTERNP0isfhIO3E",
+      "title":"Trường Tiểu Học - THCS & THPT Sao Việt",
+      "categoryName":"Trường học",
+      "location\/lat":10.7430419,
+      "location\/lng":106.6994789,
+      "address":"650\/15Q Đ. Nguyễn Hữu Thọ, KDC Him Lam, Khu phố 5, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+H%E1%BB%8Dc+-+THCS+%26+THPT+Sao+Vi%E1%BB%87t\/@10.7430419,106.6994789,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fa033e49a01:0x713b48f8b122fd34!8m2!3d10.7430419!4d106.6994789!16s%2Fg%2F1hc3sg7j2?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJSfscubAldTERSB2qSsvGDaI",
+      "title":"IGC Kiddy Cơ sở Quận 7",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.737228,
+      "location\/lng":106.7389895,
+      "address":"Jamona City, Đ. Đào Trí, P. Phú Thuận, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/IGC+Kiddy+C%C6%A1+s%E1%BB%9F+Qu%E1%BA%ADn+7\/@10.737228,106.7389895,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525b0b91cfb49:0xa20dc6cb4aaa1d48!8m2!3d10.737228!4d106.7389895!16s%2Fg%2F11h3spztdp?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ1YQZxIovdTERVv51cdRyGTE",
+      "title":"Trường Cao đẳng CTIM",
+      "categoryName":"Trường cao đẳng cộng đồng",
+      "location\/lat":10.7240923,
+      "location\/lng":106.7218533,
+      "address":"15 Đ. Trần Văn Trà, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%91%E1%BA%B3ng+CTIM\/@10.7240923,106.7218533,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8ac41984d5:0x311972d47175fe56!8m2!3d10.7240923!4d106.7218533!16s%2Fg%2F1tl0tvgb?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ11g4m4ovdTERRyEk9ewo5Xc",
+      "title":"Trường Tiểu Học - THCS - THPT Nam Sài Gòn",
+      "categoryName":"Trường học",
+      "location\/lat":10.7247634,
+      "location\/lng":106.7232796,
+      "address":"Nguyễn Lương Bằng, Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+H%E1%BB%8Dc+-+THCS+-+THPT+Nam+S%C3%A0i+G%C3%B2n\/@10.7247634,106.7232796,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8a9b3858d7:0x77e528ecf5242147!8m2!3d10.7247634!4d106.7232796!16s%2Fg%2F1tzgg45b?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ2dLA0GYldTERPymksos7gTQ",
+      "title":"Trường Quốc Tế Nhật Bản",
+      "categoryName":"Trường quốc tế",
+      "location\/lat":10.725318,
+      "location\/lng":106.730032,
+      "address":"M9 Tân Phú, P, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Qu%E1%BB%91c+T%E1%BA%BF+Nh%E1%BA%ADt+B%E1%BA%A3n\/@10.725318,106.730032,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752566d0c0d2d9:0x34813b8bb2a4293f!8m2!3d10.725318!4d106.730032!16s%2Fg%2F121c9_n2?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJa_z5Q_kldTERMsbrnpg1mX8",
+      "title":"Lawrence S Ting School (High School)",
+      "categoryName":"Trường học",
+      "location\/lat":10.7283249,
+      "location\/lng":106.7266931,
+      "address":"PPHG+8MG, Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Lawrence+S+Ting+School+(High+School)\/@10.7283249,106.7266931,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525f943f9fc6b:0x7f9935989eebc632!8m2!3d10.7283249!4d106.7266931!16s%2Fg%2F11tcc61wyp?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJpWb8qL4vdTERym500EYMhKE",
+      "title":"Beanland Library - RMIT University SGS",
+      "categoryName":"Thư viện đại học",
+      "location\/lat":10.7293558,
+      "location\/lng":106.6947545,
+      "address":"702 Đ. Nguyễn Văn Linh, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Beanland+Library+-+RMIT+University+SGS\/@10.7293558,106.6947545,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fbea8fc66a5:0xa1840c46d0746eca!8m2!3d10.7293558!4d106.6947545!16s%2Fg%2F1ptxqmxdr?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJfakhT1MldTEREZAwf2VkCM8",
+      "title":"Trường Tiểu học Phạm Hữu Lầu",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7005375,
+      "location\/lng":106.7295797,
+      "address":"53 Lô M, Đ. D7, khu tái định cư, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Ph%E1%BA%A1m+H%E1%BB%AFu+L%E1%BA%A7u\/@10.7005375,106.7295797,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525534f21a97d:0xcf0864657f309011!8m2!3d10.7005375!4d106.7295797!16s%2Fg%2F11f33qpkqv?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJC8otTlMldTERrscNguUHeHM",
+      "title":"Trường THCS Phạm Hữu Lầu",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7015887,
+      "location\/lng":106.7309875,
+      "address":"K19 Đường D1, Phạm Hữu Lầu, KDC, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Ph%E1%BA%A1m+H%E1%BB%AFu+L%E1%BA%A7u\/@10.7015887,106.7309875,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525534e2dca0b:0x737807e5820dc7ae!8m2!3d10.7015887!4d106.7309875!16s%2Fg%2F1pp2v1l62?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJg3tcJGcldTERBe77TQKvnrw",
+      "title":"Trường Quốc tế Đài Loan TP.HCM",
+      "categoryName":"Trường quốc tế",
+      "location\/lat":10.7238178,
+      "location\/lng":106.7310006,
+      "address":"Lô S3 Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Qu%E1%BB%91c+t%E1%BA%BF+%C4%90%C3%A0i+Loan+TP.HCM\/@10.7238178,106.7310006,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752567245c7b83:0xbc9eaf024dfbee05!8m2!3d10.7238178!4d106.7310006!16s%2Fg%2F11clfxd6_c?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ598RYpkvdTER91BiG6JZmOk",
+      "title":"Nhà Thiếu nhi quận 7 cơ sở mới",
+      "categoryName":"Trường học",
+      "location\/lat":10.7380419,
+      "location\/lng":106.7057176,
+      "address":"Số 193 Đường số 30, Tân Quy Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Nh%C3%A0+Thi%E1%BA%BFu+nhi+qu%E1%BA%ADn+7+c%C6%A1+s%E1%BB%9F+m%E1%BB%9Bi\/@10.7380419,106.7057176,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f996211dfe7:0xe99859a21b6250f7!8m2!3d10.7380419!4d106.7057176!16s%2Fg%2F11c59_l_0r?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJK8VnzIQvdTER-Fy23WUvWmU",
+      "title":"Trường THCS Nguyễn Thị Thập",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.737755,
+      "location\/lng":106.712385,
+      "address":"3 Nguyễn Thị Thập, Khu dân cư Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Nguy%E1%BB%85n+Th%E1%BB%8B+Th%E1%BA%ADp\/@10.737755,106.712385,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f84cc67c52b:0x655a2f65ddb65cf8!8m2!3d10.737755!4d106.712385!16s%2Fg%2F1tdf8lw4?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJNWBvmHAbQjERAAFHlRNnpvw",
+      "title":"Thầy Cảnh Dạy Lái Xe",
+      "categoryName":"Trường đào tạo lái xe",
+      "location\/lat":10.743465,
+      "location\/lng":106.7095796,
+      "address":"67B Số 25, Tân Quy, Quận 7, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Th%E1%BA%A7y+C%E1%BA%A3nh+D%E1%BA%A1y+L%C3%A1i+Xe\/@10.743465,106.7095796,17z\/data=!3m1!4b1!4m6!3m5!1s0x31421b70986f6035:0xfca6671395470100!8m2!3d10.743465!4d106.7095796!16s%2Fg%2F11ks12f995?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJq6qqf10ldTERwubtkrKy_sU",
+      "title":"Trường Quốc Tế Hàn Quốc",
+      "categoryName":"Trường quốc tế",
+      "location\/lat":10.7219425,
+      "location\/lng":106.7324489,
+      "address":"21 Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Qu%E1%BB%91c+T%E1%BA%BF+H%C3%A0n+Qu%E1%BB%91c\/@10.7219425,106.7324489,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175255d7faaaaab:0xc5feb2b292ede6c2!8m2!3d10.7219425!4d106.7324489!16s%2Fg%2F11bt_n_m_q?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJbf83TQAldTERoYgZXD1wXsw",
+      "title":"Lớp Mầm Non Đồng Dao",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7226688,
+      "location\/lng":106.7307676,
+      "address":"402\/5 Khu Phố Mỹ Gia 2, Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/L%E1%BB%9Bp+M%E1%BA%A7m+Non+%C4%90%E1%BB%93ng+Dao\/@10.7226688,106.7307676,17z\/data=!3m1!4b1!4m6!3m5!1s0x317525004d37ff6d:0xcc5e703d5c1988a1!8m2!3d10.7226688!4d106.7307676!16s%2Fg%2F11ld3crk0r?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJDxqaTG8ldTERWadaP59O8eg",
+      "title":"Trường Mầm Non Hoa Thủy Tiên",
+      "categoryName":"Trường học",
+      "location\/lat":10.7273862,
+      "location\/lng":106.7363222,
+      "address":"Phú Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+Hoa+Th%E1%BB%A7y+Ti%C3%AAn\/@10.7273862,106.7363222,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175256f4c9a1a0f:0xe8f14e9f3f5aa759!8m2!3d10.7273862!4d106.7363222!16s%2Fg%2F11kn6kpsl3?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJawz7oXMudTERa1sAkAynQ9o",
+      "title":"Trường Mầm Non Hoa Phượng",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7309629,
+      "location\/lng":106.6356581,
+      "address":"Số 1, đường số 2, Đường Rạch Cát, khu Dân Cư, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+Hoa+Ph%C6%B0%E1%BB%A3ng\/@10.7309629,106.6356581,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e73a1fb0c6b:0xda43a70c90005b6b!8m2!3d10.7309629!4d106.6356581!16s%2Fg%2F11f11z48b0?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJD3Sj-W8udTERXKjRJOsahrU",
+      "title":"Trường Tiểu học Nguyễn Nhược Thị",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7302403,
+      "location\/lng":106.6342006,
+      "address":"Số 2 Đường số 7, Khu dân cư Rạch Lào, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Nguy%E1%BB%85n+Nh%C6%B0%E1%BB%A3c+Th%E1%BB%8B\/@10.7302403,106.6342006,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e6ff9a3740f:0xb5861aeb24d1a85c!8m2!3d10.7302403!4d106.6342006!16s%2Fg%2F1tg37lgf?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJQ5jyOlcudTERZhps26nJhCs",
+      "title":"Trường THCS Chánh Hưng",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7424812,
+      "location\/lng":106.6664276,
+      "address":"995 Phạm Thế Hiển, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Ch%C3%A1nh+H%C6%B0ng\/@10.7424812,106.6664276,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e573af29843:0x2b84c9a9db6c1a66!8m2!3d10.7424812!4d106.6664276!16s%2Fg%2F1tr79918?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJJ2NHb1EudTERsQhvFZ5DQ0s",
+      "title":"Trường THPT Lương Văn Can",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.7401101,
+      "location\/lng":106.6695962,
+      "address":"173 Đ. Phạm Hùng, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+L%C6%B0%C6%A1ng+V%C4%83n+Can\/@10.7401101,106.6695962,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e516f476327:0x4b43439e156f08b1!8m2!3d10.7401101!4d106.6695962!16s%2Fg%2F11vj7j1pv?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJO_wbIlUudTER9Oe8QSQ-gC8",
+      "title":"Trường Tiểu học Vàm Cỏ Đông",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7442358,
+      "location\/lng":106.6743934,
+      "address":"771-795 Phạm Thế Hiển, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%C6%A1%CC%80ng+Ti%C3%AA%CC%89u+ho%CC%A3c+Va%CC%80m+Co%CC%89+%C4%90%C3%B4ng\/@10.7442358,106.6743934,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e55221bfc3b:0x2f803e2441bce7f4!8m2!3d10.7442358!4d106.6743934!16s%2Fg%2F11c1q9wqbr?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJlwIkD1YudTERf_ZNyOFMJJQ",
+      "title":"Trường Tiểu học Lý Nhân Tông",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7461557,
+      "location\/lng":106.6714036,
+      "address":"575 Đ. Hưng Phú, Phường 9, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+L%C3%BD+Nh%C3%A2n+T%C3%B4ng\/@10.7461557,106.6714036,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e560f240297:0x94244ce1c84df67f!8m2!3d10.7461557!4d106.6714036!16s%2Fg%2F1tcy6clk?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ-yS8aFwudTERyC3iLLq6csw",
+      "title":"Trường Mầm Non Bình Minh Quận 8",
+      "categoryName":"Trường học",
+      "location\/lat":10.733252,
+      "location\/lng":106.667247,
+      "address":"24 Phạm Thế Hiển, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+B%C3%ACnh+Minh+Qu%E1%BA%ADn+8\/@10.733252,106.667247,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5c68bc24fb:0xcc72baba2ce22dc8!8m2!3d10.733252!4d106.667247!16s%2Fg%2F11h6g4tbv2?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJA7qn_lEudTERmbvj4Wcrlyw",
+      "title":"Trường THPT Tạ Quang Bửu",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.7337327,
+      "location\/lng":106.6606568,
+      "address":"909, Tạ Quang Bửu, P.5, Q.8, 909 Đ. Tạ Quang Bửu, District 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+T%E1%BA%A1+Quang+B%E1%BB%ADu\/@10.7337327,106.6606568,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e51fea7ba03:0x2c972b67e1e3bb99!8m2!3d10.7337327!4d106.6606568!16s%2Fg%2F1tdmx_m0?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJy66DCXEudTER6ENo8GBRIgk",
+      "title":"Trường THPT Ngô Gia Tự",
+      "categoryName":"Trường học",
+      "location\/lat":10.7345425,
+      "location\/lng":106.6376785,
+      "address":"TPHCM, 360E Đ. Bình Đông, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Ng%C3%B4+Gia+T%E1%BB%B1\/@10.7345425,106.6376785,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e710983aecb:0x9225160f06843e8!8m2!3d10.7345425!4d106.6376785!16s%2Fg%2F1td30jw5?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJPzXUedsvdTERvegwRp9Wk84",
+      "title":"Trường THCS Sương Nguyệt Anh",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.735783,
+      "location\/lng":106.658085,
+      "address":"53 Đ. Bùi Minh Trực, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+S%C6%B0%C6%A1ng+Nguy%E1%BB%87t+Anh\/@10.735783,106.658085,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fdb79d4353f:0xce93569f4630e8bd!8m2!3d10.735783!4d106.658085!16s%2Fg%2F11q3x4cd6h?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJpXW3yFoudTERvHT1I5UBokc",
+      "title":"Trường Tiểu học Hoàng Minh Đạo",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7372619,
+      "location\/lng":106.6626891,
+      "address":"252 Bông Sao, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Ho%C3%A0ng+Minh+%C4%90%E1%BA%A1o\/@10.7372619,106.6626891,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5ac8b775a5:0x47a2019523f574bc!8m2!3d10.7372619!4d106.6626891!16s%2Fg%2F11c1r1hvz9?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJTcpnpdIzdTERfEez3ugKQkc",
+      "title":"Trường mầm non Mặt Trời 4",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7017782,
+      "location\/lng":106.6240207,
+      "address":"3643 Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+m%E1%BA%A7m+non+M%E1%BA%B7t+Tr%E1%BB%9Di+4\/@10.7017782,106.6240207,17z\/data=!3m1!4b1!4m6!3m5!1s0x317533d2a567ca4d:0x47420ae8deb3477c!8m2!3d10.7017782!4d106.6240207!16s%2Fg%2F11y1h97npn?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ87uy7AYydTERlpFuYX5UPgM",
+      "title":"Trường THPT Nguyễn Văn Linh",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.7022813,
+      "location\/lng":106.6216828,
+      "address":"Trường THPT Nguyễn Văn Linh, Phường 7, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Nguy%E1%BB%85n+V%C4%83n+Linh\/@10.7022813,106.6216828,17z\/data=!3m1!4b1!4m6!3m5!1s0x31753206ecb2bbf3:0x33e547e616e9196!8m2!3d10.7022813!4d106.6216828!16s%2Fg%2F11cjkgx8v9?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJaUzFQHAudTERsHmR-SP9SnI",
+      "title":"Trường THCS Lê Lai",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7375259,
+      "location\/lng":106.6413219,
+      "address":"236 Đ. Bình Đông, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+L%C3%AA+Lai\/@10.7375259,106.6413219,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e7040c54c69:0x724afd23f99179b0!8m2!3d10.7375259!4d106.6413219!16s%2Fg%2F1w97rx7w?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJxTWEgk0vdTERkFZwaWDdJUs",
+      "title":"Anh Văn Hội Việt Mỹ VUS - Green River - Phạm Thế Hiển",
+      "categoryName":"Trường dạy tiếng Anh",
+      "location\/lat":10.733549,
+      "location\/lng":106.6443763,
+      "address":"Chung cư Green River, 2225 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Anh+V%C4%83n+H%E1%BB%99i+Vi%E1%BB%87t+M%E1%BB%B9+VUS+-+Green+River+-+Ph%E1%BA%A1m+Th%E1%BA%BF+Hi%E1%BB%83n\/@10.733549,106.6443763,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f4d828435c5:0x4b25dd6069705690!8m2!3d10.733549!4d106.6443763!16s%2Fg%2F11sb6l210l?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJEwFlKGwudTEReRnd-3Idmfk",
+      "title":"Trường Tiểu học Bùi Minh Trực",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7323056,
+      "location\/lng":106.6445932,
+      "address":"2225 Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+B%C3%B9i+Minh+Tr%E1%BB%B1c\/@10.7323056,106.6445932,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e6c28650113:0xf9991d72fbdd1979!8m2!3d10.7323056!4d106.6445932!16s%2Fg%2F11f4t6pzxz?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJxfvlbWkvdTERHYhdvdexTLk",
+      "title":"Trường Cao đẳng Bách khoa Nam Sài Gòn",
+      "categoryName":"Trường học",
+      "location\/lat":10.7357971,
+      "location\/lng":106.680745,
+      "address":"47 Đ. Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh 790000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%91%E1%BA%B3ng+B%C3%A1ch+khoa+Nam+S%C3%A0i+G%C3%B2n\/@10.7357971,106.680745,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f696de5fbc5:0xb94cb1d7bd5d881d!8m2!3d10.7357971!4d106.680745!16s%2Fg%2F11g23385_8?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJVcR2fnkvdTER5Q_HLpDVG54",
+      "title":"Trường Mầm non Hoa Trà My Quận 8 (cơ sở 4)",
+      "categoryName":"Trường mẫu giáo",
+      "location\/lat":10.735638,
+      "location\/lng":106.6755327,
+      "address":"Hẻm sổ, 9, đường Đ. Phạm Hùng, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+non+Hoa+Tr%C3%A0+My+Qu%E1%BA%ADn+8+(c%C6%A1+s%E1%BB%9F+4)\/@10.735638,106.6755327,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f797e76c455:0x9e1bd5902ec70fe5!8m2!3d10.735638!4d106.6755327!16s%2Fg%2F11ggmmxlyr?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJEbz7GiovdTERhm9lOxnIYn0",
+      "title":"Mầm Non Sắc Màu",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7359169,
+      "location\/lng":106.6480958,
+      "address":"1929B Phạm Thế Hiển, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/M%E1%BA%A7m+Non+S%E1%BA%AFc+M%C3%A0u\/@10.7359169,106.6480958,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f2a1afbbc11:0x7d62c8193b656f86!8m2!3d10.7359169!4d106.6480958!16s%2Fg%2F11v5wx8xrw?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJiUnt3pkvdTERBxgSOqfHZEE",
+      "title":"Trường mầm non Bông Hồng",
+      "categoryName":"Trường mẫu giáo",
+      "location\/lat":10.7363112,
+      "location\/lng":106.6452263,
+      "address":"1458 Hoài Thanh, Phường 14, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+m%E1%BA%A7m+non+B%C3%B4ng+H%E1%BB%93ng\/@10.7363112,106.6452263,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f99deed4989:0x4164c7a73a121807!8m2!3d10.7363112!4d106.6452263!16s%2Fg%2F11frhqbzr2?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJH5ad82UudTERGKa0WGUc7iQ",
+      "title":"Trường Mầm Non 162",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.738098,
+      "location\/lng":106.645531,
+      "address":"132\/37B Hoài Thanh, Phường 14, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+162\/@10.738098,106.645531,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e65f39d961f:0x24ee1c6558b4a618!8m2!3d10.738098!4d106.645531!16s%2Fg%2F11h7s4kqr1?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ8dtgDAkudTERyONrbuW6guY",
+      "title":"Trường Cao đẳng Lương thực - Thực phẩm, Phân hiệu tại TP Hồ Chí Minh",
+      "categoryName":"Trường dạy nghề",
+      "location\/lat":10.7206343,
+      "location\/lng":106.6323476,
+      "address":"296 Đ. Lưu Hữu Phước, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Cao+%C4%91%E1%BA%B3ng+L%C6%B0%C6%A1ng+th%E1%BB%B1c+-+Th%E1%BB%B1c+ph%E1%BA%A9m,+Ph%C3%A2n+hi%E1%BB%87u+t%E1%BA%A1i+TP+H%E1%BB%93+Ch%C3%AD+Minh\/@10.7206343,106.6323476,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e090c60dbf1:0xe682bae56e6be3c8!8m2!3d10.7206343!4d106.6323476!16s%2Fg%2F1w3443kq?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ3Ze7K-MtdTERyYY3oQ_Ywjk",
+      "title":"Trường THCS Bình Đông",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7173697,
+      "location\/lng":106.6259043,
+      "address":"58 Phú Định, Phường 16, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+B%C3%ACnh+%C4%90%C3%B4ng\/@10.7173697,106.6259043,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752de32bbb97dd:0x39c2d80fa13786c9!8m2!3d10.7173697!4d106.6259043!16s%2Fg%2F1tcwt6lx?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJH9fjjeItdTERyfoIJ-FldVY",
+      "title":"Trường Tiểu học Lưu Hữu Phước",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7187747,
+      "location\/lng":106.6280356,
+      "address":"145 Mễ Cốc, Phường 15, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+L%C6%B0u+H%E1%BB%AFu+Ph%C6%B0%E1%BB%9Bc\/@10.7187747,106.6280356,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752de28de3d71f:0x567565e12708fac9!8m2!3d10.7187747!4d106.6280356!16s%2Fg%2F12vtyybc9?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJnd5XbQgvdTERnn3ebS9K7nI",
+      "title":"Trường THCS Dương Bá Trạc",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7477066,
+      "location\/lng":106.6879919,
+      "address":"134 D. Bá Trạc, Phường 2, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+D%C6%B0%C6%A1ng+B%C3%A1+Tr%E1%BA%A1c\/@10.7477066,106.6879919,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f086d57de9d:0x72ee4a2f6dde7d9e!8m2!3d10.7477066!4d106.6879919!16s%2Fg%2F1td2jzqg?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJk9uQMF4udTERXp3CQUa3OGw",
+      "title":"Trường THPT Võ Văn Kiệt",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.7446689,
+      "location\/lng":106.6534097,
+      "address":"629 Đ. Bình Đông, Phường 13, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+V%C3%B5+V%C4%83n+Ki%E1%BB%87t\/@10.7446689,106.6534097,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e5e3090db93:0x6c38b74641c29d5e!8m2!3d10.7446689!4d106.6534097!16s%2Fg%2F11bw5w87c7?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJqXO10IovdTERGZepJI5GdHM",
+      "title":"Trường Mầm Non STEAM KINDERGARTEN",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7431265,
+      "location\/lng":106.6522052,
+      "address":"17 Đ. Bùi Huy Bích, Phường 13, Quận 8, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+STEAM+KINDERGARTEN\/@10.7431265,106.6522052,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f8ad0b573a9:0x7374468e24a99719!8m2!3d10.7431265!4d106.6522052!16s%2Fg%2F11hyk1vtph?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJmaC_yi4vdTER-LtUKQASdQE",
+      "title":"Trường Mầm non Hoa Trà My Quận 8 ( cơ sở 3)",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7342261,
+      "location\/lng":106.6549403,
+      "address":"PMM3+XW3, 962 Đ. Tạ Quang Bửu, Phường 6, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+non+Hoa+Tr%C3%A0+My+Qu%E1%BA%ADn+8+(+c%C6%A1+s%E1%BB%9F+3)\/@10.7342261,106.6549403,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f2ecabfa099:0x17512002954bbf8!8m2!3d10.7342261!4d106.6549403!16s%2Fg%2F11gjp463rx?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ0f_312cudTERhAYmh4jVBsw",
+      "title":"Trường Tiểu học Phan Đăng Lưu",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.737724,
+      "location\/lng":106.6510183,
+      "address":"1755 Phạm Thế Hiển, Phường 6, 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Phan+%C4%90%C4%83ng+L%C6%B0u\/@10.737724,106.6510183,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752e67d7f7ffd1:0xcc06d58887260684!8m2!3d10.737724!4d106.6510183!16s%2Fg%2F1tftnl81?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJY39oEpEvdTERQZZtqM6hVsI",
+      "title":"Trường Mầm non Bình Minh",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7453423,
+      "location\/lng":106.6805784,
+      "address":"154\/6 Đ. Âu Dương Lân, Phường 3, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+non+B%C3%ACnh+Minh\/@10.7453423,106.6805784,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f9112687f63:0xc256a1cea86d9641!8m2!3d10.7453423!4d106.6805784!16s%2Fg%2F11gr5zzs6l?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJSVVGGKkvdTERpxejuAX-mDM",
+      "title":"Trường THCS Khánh Bình",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7424802,
+      "location\/lng":106.6844894,
+      "address":"314b Đ. Âu Dương Lân, Phường 3, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Kh%C3%A1nh+B%C3%ACnh\/@10.7424802,106.6844894,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752fa918465549:0x3398fe05b8a317a7!8m2!3d10.7424802!4d106.6844894!16s%2Fg%2F1tgtb_1x?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJvV0OqWIvdTERlbI9USZRTWc",
+      "title":"Trường Đại học Công nghệ Sài Gòn",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7379972,
+      "location\/lng":106.6778321,
+      "address":"180 Đ. Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+C%C3%B4ng+ngh%E1%BB%87+S%C3%A0i+G%C3%B2n\/@10.7379972,106.6778321,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752f62a90e5dbd:0x674d5126513db295!8m2!3d10.7379972!4d106.6778321!16s%2Fm%2F02x4g7t?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJRbri8MwudTER2vekTvxmhG0",
+      "title":"Trường Tiểu học Phạm Văn Hai",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7904803,
+      "location\/lng":106.6609178,
+      "address":"370A Phạm Văn Hai, Phường 5, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Ph%E1%BA%A1m+V%C4%83n+Hai\/@10.7904803,106.6609178,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eccf0e2ba45:0x6d8466fc4ea4f7da!8m2!3d10.7904803!4d106.6609178!16s%2Fg%2F1tgfmm6s?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJPV3xjLUudTERZDecE0msGfs",
+      "title":"Trường THCS Quang Trung",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7878332,
+      "location\/lng":106.6522033,
+      "address":"14-16 Tân Lập, Phường 8, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Quang+Trung\/@10.7878332,106.6522033,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb58cf15d3d:0xfb19ac49139c3764!8m2!3d10.7878332!4d106.6522033!16s%2Fg%2F1tfl74fn?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJe1DKEcwudTERWi27nPXL25c",
+      "title":"Trường THCS Trần Văn Quang",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7841311,
+      "location\/lng":106.6495554,
+      "address":"Đường Ni Sư Huỳnh Liên, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Tr%E1%BA%A7n+V%C4%83n+Quang\/@10.7841311,106.6495554,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ecc11ca507b:0x97dbcbf59cbb2d5a!8m2!3d10.7841311!4d106.6495554!16s%2Fg%2F1hc8973hc?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJPak7uM4udTERqwr4QK1UPgE",
+      "title":"Trường THCS Trần Văn Đang",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7868102,
+      "location\/lng":106.659523,
+      "address":"27 Đ. Nghĩa Hòa, Phường 6, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Tr%E1%BA%A7n+V%C4%83n+%C4%90ang\/@10.7868102,106.659523,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eceb83ba93d:0x13e54ad40f80aab!8m2!3d10.7868102!4d106.659523!16s%2Fg%2F11f3tvvcf9?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJpUCWn7YudTERpu39_yht6as",
+      "title":"Trường Mầm Non 10",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7855684,
+      "location\/lng":106.6481471,
+      "address":"39 Bùi Thế Mỹ, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+M%E1%BA%A7m+Non+10\/@10.7855684,106.6481471,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb69f9640a5:0xabe96d28fffdeda6!8m2!3d10.7855684!4d106.6481471!16s%2Fg%2F1tyytm5q?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ32AwdrYudTERcJtaURXQ0Fk",
+      "title":"Trường Tiểu học Lạc Long Quân (Q. Tân Bình)",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7863731,
+      "location\/lng":106.6507005,
+      "address":"12 Lạc Long Quân, Phường 11, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+L%E1%BA%A1c+Long+Qu%C3%A2n+(Q.+T%C3%A2n+B%C3%ACnh)\/@10.7863731,106.6507005,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb6763060df:0x59d0d015515a9b70!8m2!3d10.7863731!4d106.6507005!16s%2Fg%2F1v3hxgks?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ8VavorMudTER13GEJFu4PE0",
+      "title":"Trường THCS Võ Văn Tần - Cơ sở 2",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7887043,
+      "location\/lng":106.6452114,
+      "address":"62 Phan Sào Nam, Phường 11, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+V%C3%B5+V%C4%83n+T%E1%BA%A7n+-+C%C6%A1+s%E1%BB%9F+2\/@10.7887043,106.6452114,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb3a2af56f1:0x4d3cb85b248471d7!8m2!3d10.7887043!4d106.6452114!16s%2Fg%2F11c3trq7tr?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJlWpy7UspdTER-yZTeNNWhPU",
+      "title":"Trường THCS Trường Chinh",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7964333,
+      "location\/lng":106.6475723,
+      "address":"162T Đ. Trường Chinh, Phường 12, Tân Bình, Thành phố Hồ Chí Minh 78000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Tr%C6%B0%E1%BB%9Dng+Chinh\/@10.7964333,106.6475723,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294bed726a95:0xf58456d3785326fb!8m2!3d10.7964333!4d106.6475723!16s%2Fg%2F1tgcpc5b?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJfUU_RLUudTERWNujKe7tqAw",
+      "title":"Trường Tiểu học Nguyễn Văn Trỗi",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7909831,
+      "location\/lng":106.651768,
+      "address":"25 Đ. Tái Thiết, Phường 11, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Nguy%E1%BB%85n+V%C4%83n+Tr%E1%BB%97i\/@10.7909831,106.651768,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb5443f457d:0xca8edee29a3db58!8m2!3d10.7909831!4d106.651768!16s%2Fg%2F1tds45x2?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJffNzTLEpdTERSA6Nzz5L4OE",
+      "title":"KIM TUYẾN SPA",
+      "categoryName":"Trường dạy làm đẹp",
+      "location\/lat":10.817178,
+      "location\/lng":106.674137,
+      "address":"159\/1\/7 Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/KIM+TUY%E1%BA%BEN+SPA\/@10.817178,106.674137,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529b14c73f37d:0xe1e04b3ecf8d0e48!8m2!3d10.817178!4d106.674137!16s%2Fg%2F11l34p26dj?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJfbQbqrQudTERyQR-gtM3pmY",
+      "title":"HP ACADEMY - Trung tâm IELTS Tân Bình",
+      "categoryName":"Trường học",
+      "location\/lat":10.7912415,
+      "location\/lng":106.6471279,
+      "address":"134 Trần Mai Ninh, Phường 11, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/HP+ACADEMY+-+Trung+t%C3%A2m+IELTS+T%C3%A2n+B%C3%ACnh\/@10.7912415,106.6471279,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb4aa1bb47d:0x66a637d3827e04c9!8m2!3d10.7912415!4d106.6471279!16s%2Fg%2F11ggbr_c5d?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJUcxZ-EopdTERJJLr25UaoJE",
+      "title":"Trung Tâm Giáo Dục Thường Xuyên Quận Tân Bình",
+      "categoryName":"Trường học",
+      "location\/lat":10.7934257,
+      "location\/lng":106.6498174,
+      "address":"55 Đ. Trường Chinh, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+Gi%C3%A1o+D%E1%BB%A5c+Th%C6%B0%E1%BB%9Dng+Xuy%C3%AAn+Qu%E1%BA%ADn+T%C3%A2n+B%C3%ACnh\/@10.7934257,106.6498174,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294af859cc51:0x91a01a95dbeb9224!8m2!3d10.7934257!4d106.6498174!16s%2Fg%2F1w15wygv?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJoxq9_0opdTERcunUfylx-js",
+      "title":"Trường THCS Ngô Quyền",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7944899,
+      "location\/lng":106.649659,
+      "address":"97 Đ. Trường Chinh, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Ng%C3%B4+Quy%E1%BB%81n\/@10.7944899,106.649659,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294affbd1aa3:0x3bfa71297fd4e972!8m2!3d10.7944899!4d106.649659!16s%2Fg%2F1tkqxr_c?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJDROq4jUpdTERinvVyQi6UlM",
+      "title":"Trường TH, THCS và THPT Thanh Bình",
+      "categoryName":"Trường học tư nhân",
+      "location\/lat":10.7971205,
+      "location\/lng":106.6536706,
+      "address":"12 Nguyễn Thái Bình, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+TH,+THCS+v%C3%A0+THPT+Thanh+B%C3%ACnh\/@10.7971205,106.6536706,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752935e2aa130d:0x5352ba08c9d57b8a!8m2!3d10.7971205!4d106.6536706!16s%2Fg%2F1tdl3mvk?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJrcteutkpdTERlGCta5KH1V4",
+      "title":"Trung tâm Huấn luyện Bay-FTC",
+      "categoryName":"Trường dạy lái máy bay",
+      "location\/lat":10.8115272,
+      "location\/lng":106.6710786,
+      "address":"117 Hồng Hà, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+t%C3%A2m+Hu%E1%BA%A5n+luy%E1%BB%87n+Bay-FTC\/@10.8115272,106.6710786,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529d9ba5ecbad:0x5ed587926bad6094!8m2!3d10.8115272!4d106.6710786!16s%2Fg%2F11rgc1m7wh?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJd66JOjYpdTERsLSxr_nm25A",
+      "title":"Trường Quốc tế Á Châu (Cong Hoa Campus)",
+      "categoryName":"Trường học",
+      "location\/lat":10.7995185,
+      "location\/lng":106.6536941,
+      "address":"18A1 Đ. Cộng Hòa, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Qu%E1%BB%91c+t%E1%BA%BF+%C3%81+Ch%C3%A2u+(Cong+Hoa+Campus)\/@10.7995185,106.6536941,17z\/data=!3m1!4b1!4m6!3m5!1s0x317529363a89ae77:0x90dbe6f9afb1b4b0!8m2!3d10.7995185!4d106.6536941!16s%2Fg%2F11b6b60q2t?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJrRfBdikpdTERhB8FIYvzswU",
+      "title":"Học viện Hàng không Việt Nam - CS2",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8000211,
+      "location\/lng":106.6544162,
+      "address":"1 Đ. Cộng Hòa, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%8Dc+vi%E1%BB%87n+H%C3%A0ng+kh%C3%B4ng+Vi%E1%BB%87t+Nam+-+CS2\/@10.8000211,106.6544162,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175292976c117ad:0x5b3f38b21051f84!8m2!3d10.8000211!4d106.6544162!16s%2Fg%2F1td1mcc1?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJFb2dFTcpdTERS8ZTshYqbyg",
+      "title":"Học Viện Kỹ Thuật Mật Mã - Miền Nam (KMP)",
+      "categoryName":"Trường học",
+      "location\/lat":10.8007879,
+      "location\/lng":106.6572813,
+      "address":"17A Đ. Cộng Hòa, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/H%E1%BB%8Dc+Vi%E1%BB%87n+K%E1%BB%B9+Thu%E1%BA%ADt+M%E1%BA%ADt+M%C3%A3+-+Mi%E1%BB%81n+Nam+(KMP)\/@10.8007879,106.6572813,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752937159dbd15:0x286f2a16b253c64b!8m2!3d10.8007879!4d106.6572813!16s%2Fg%2F1hc4b9jpl?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJRTAHMLkudTER6Nj8w18IID8",
+      "title":"Trường THCS & THPT Bác Ái",
+      "categoryName":"Trường học",
+      "location\/lat":10.7769182,
+      "location\/lng":106.6484682,
+      "address":"187 Đ. Gò Cẩm Đệm, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+%26+THPT+B%C3%A1c+%C3%81i\/@10.7769182,106.6484682,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb930073045:0x3f20085fc3fcd8e8!8m2!3d10.7769182!4d106.6484682!16s%2Fg%2F11h0j08r7?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJNRdbkUYpdTERIqVVZW2gO1k",
+      "title":"Trường THPT Nguyễn Chí Thanh",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.8062997,
+      "location\/lng":106.6461118,
+      "address":"1A Nguyễn Hiến Lê, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THPT+Nguy%E1%BB%85n+Ch%C3%AD+Thanh\/@10.8062997,106.6461118,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752946915b1735:0x593ba06d6555a522!8m2!3d10.8062997!4d106.6461118!16s%2Fg%2F1tgf58jc?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJJ_Vf8kgpdTERl3Bjqm2GUUQ",
+      "title":"Trường Tiểu học Trần Quốc Tuấn",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8013596,
+      "location\/lng":106.6490877,
+      "address":"19 Đ. Cộng Hòa, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+Tr%E1%BA%A7n+Qu%E1%BB%91c+Tu%E1%BA%A5n\/@10.8013596,106.6490877,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752948f25ff527:0x4451866daa637097!8m2!3d10.8013596!4d106.6490877!16s%2Fg%2F1xgz88rt?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJOT-QB0YpdTERF0t6f-HHiP8",
+      "title":"Trường THCS Hoàng Hoa Thám",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8035992,
+      "location\/lng":106.6467463,
+      "address":"135 Hoàng Hoa Thám, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+THCS+Ho%C3%A0ng+Hoa+Th%C3%A1m\/@10.8035992,106.6467463,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294607903f39:0xff88c7e17f7a4b17!8m2!3d10.8035992!4d106.6467463!16s%2Fg%2F1tgmss13?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJC2MC2rgudTER33i_0N64Idk",
+      "title":"Trung Tâm Bồi Dưỡng Chính Trị Quận Tân Bình",
+      "categoryName":"Trường học",
+      "location\/lat":10.7763154,
+      "location\/lng":106.6501799,
+      "address":"730\/9 Lạc Long Quân, Phường 9, Tân Bình, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Trung+T%C3%A2m+B%E1%BB%93i+D%C6%B0%E1%BB%A1ng+Ch%C3%ADnh+Tr%E1%BB%8B+Qu%E1%BA%ADn+T%C3%A2n+B%C3%ACnh\/@10.7763154,106.6501799,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752eb8da02630b:0xd921b8ded0bf78df!8m2!3d10.7763154!4d106.6501799!16s%2Fg%2F11xc92jhf?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ2TKoEUQpdTERp7HOBAuBPY0",
+      "title":"Trường Tiểu học Sơn Cang",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8085063,
+      "location\/lng":106.646074,
+      "address":"42 Văn Chung, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Tr%C6%B0%E1%BB%9Dng+Ti%E1%BB%83u+h%E1%BB%8Dc+S%C6%A1n+Cang\/@10.8085063,106.646074,17z\/data=!3m1!4b1!4m6!3m5!1s0x3175294411a832d9:0x8d3d810b04ceb1a7!8m2!3d10.8085063!4d106.646074!16s%2Fg%2F1tgj69zh?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJvV4dxfYvdTERK7kpwibhA0Q",
+      "title":"Swinburne Vietnam Alliance Program - HCMC location",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.816202,
+      "location\/lng":106.669006,
+      "address":"A35 Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/place\/Swinburne+Vietnam+Alliance+Program+-+HCMC+location\/@10.816202,106.669006,17z\/data=!3m1!4b1!4m6!3m5!1s0x31752ff6c51d5ebd:0x4403e126c229b92b!8m2!3d10.816202!4d106.669006!16s%2Fg%2F11fszkyqgr?hl=vi&entry=ttu",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJcaIRv30ndTERP05JmUvjZ0U",
+      "title":"Trường Đại học Kinh tế - Luật, Đại học Quốc gia Thành phố Hồ Chí Minh",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8705048,
+      "location\/lng":106.7782705,
+      "address":"669 QL1A, khu phố 3, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJcaIRv30ndTERP05JmUvjZ0U",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJPWqILpMldTERoIVVsl-3Tn0",
+      "title":"UMT Trường Đại học Quản lý và Công nghệ TP.HCM",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7738027,
+      "location\/lng":106.7978241,
+      "address":"Đ. 60 - CL, Cát Lái, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPWqILpMldTERoIVVsl-3Tn0",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJYbcgdnYodTERpXSjaRs3g8w",
+      "title":"Trường THPT Hiệp Bình",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8478544,
+      "location\/lng":106.7221146,
+      "address":"63 Đ. Hiệp Bình, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJYbcgdnYodTERpXSjaRs3g8w",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ3_dQUAgodTER7a7UnJxAOeg",
+      "title":"Trường tiểu học Đặng Thị Rành",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8621275,
+      "location\/lng":106.7211603,
+      "address":"VP6C+VF3, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3_dQUAgodTER7a7UnJxAOeg",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJkzMEcXYodTERZYMfvqHXRcE",
+      "title":"Trường tiểu học Đào Sơn Tây",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8461882,
+      "location\/lng":106.7214807,
+      "address":"61 Đ. Hiệp Bình, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJkzMEcXYodTERZYMfvqHXRcE",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJzePqGkgpdTER36g_0tZuwEY",
+      "title":"Trường Song ngữ Quốc tế EMASI Vạn Phúc - EMASI Schools",
+      "categoryName":"Trường song ngữ",
+      "location\/lat":10.8424879,
+      "location\/lng":106.7136453,
+      "address":"2 Đ. Số 5, Khu đô Thị Vạn Phúc, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJzePqGkgpdTER36g_0tZuwEY",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ3WJBXKEpdTER_lSypZB9cK4",
+      "title":"VATC - Trung tâm huấn luyện kỹ thuật Ô Tô Việt Nam",
+      "categoryName":"Trường dạy nghề",
+      "location\/lat":10.840802,
+      "location\/lng":106.7180739,
+      "address":"4-6 Đường Số 4, khu phố 6, TP. Thủ Đức, Thành phố Hồ Chí Minh 720000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3WJBXKEpdTER_lSypZB9cK4",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJxTeIo9cndTERW8i_jaEC9-s",
+      "title":"Trường mầm non Sơn Ca",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.8403986,
+      "location\/lng":106.7258556,
+      "address":"157 Đ. B, khu phố 6, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxTeIo9cndTERW8i_jaEC9-s",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJBbSMUnsodTERyTIEpWVLk_Q",
+      "title":"Trường THCS - THPT Nguyễn Khuyến",
+      "categoryName":"Trường học",
+      "location\/lat":10.8386797,
+      "location\/lng":106.7129138,
+      "address":"TP. HCM ĐT: 08.5.422.4911, Hiệp Bình Phước, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJBbSMUnsodTERyTIEpWVLk_Q",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJxaq-DVbfdDERcsKN26Z9T-M",
+      "title":"Trường Quốc tế Pháp Marguerite Duras",
+      "categoryName":"Trường học tư nhân",
+      "location\/lat":10.8708815,
+      "location\/lng":106.8250958,
+      "address":"260 Đường 11, Long Bình, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJxaq-DVbfdDERcsKN26Z9T-M",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJSQChol8ndTERT-rD__drcog",
+      "title":"Trường Đại học Nguyễn Tất Thành - Cơ sở Quận 9",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8378744,
+      "location\/lng":106.8096428,
+      "address":"Đ. Võ Chí Công, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJSQChol8ndTERT-rD__drcog",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJScYVYCondTEREyfccJTOtZA",
+      "title":"Trường THCS Trường Thạnh",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8274659,
+      "location\/lng":106.8147761,
+      "address":"3\/1 KP PHƯỚC HIỆP ĐƯỜNG 3, Ích Thạnh, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJScYVYCondTEREyfccJTOtZA",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ0TAVhbYmdTERrg-r9LdYQS8",
+      "title":"Trường THCS Long Trường",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.801432,
+      "location\/lng":106.8112606,
+      "address":"1292 Đ. Nguyễn Duy Trinh, Long Trường, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0TAVhbYmdTERrg-r9LdYQS8",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJkd-zTsoldTERgGiCz5Vd-JA",
+      "title":"Trường THCS Cát Lái",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7700022,
+      "location\/lng":106.7912529,
+      "address":"Số 15 Đường 69, khu phố 3, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJkd-zTsoldTERgGiCz5Vd-JA",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJb9lFOzwkdTER5PxzrqVxoKY",
+      "title":"Trường Tiểu học Mỹ Thủy",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7686565,
+      "location\/lng":106.7912685,
+      "address":"số 24 Đường số 68, Khu dân cư Cát Lái, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJb9lFOzwkdTER5PxzrqVxoKY",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJCV2BRkckdTERPZYTGu5cLhc",
+      "title":"Trường Cao đẳng Kỹ thuật Hải quân",
+      "categoryName":"Trường quân sự",
+      "location\/lat":10.7616343,
+      "location\/lng":106.7875908,
+      "address":"1295A Nguyễn Thị Định, Cát Lái, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCV2BRkckdTERPZYTGu5cLhc",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJiUI7W5QndTERYzJDVVV-zaA",
+      "title":"Trường THCS Linh Đông",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8531802,
+      "location\/lng":106.7473307,
+      "address":"Trường THCS Linh Đông, Đ. Linh Đông, Linh Đông, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiUI7W5QndTERYzJDVVV-zaA",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJWQr5UqAndTERrG5MmYV0Z58",
+      "title":"THPT Nguyễn Hữu Huân",
+      "categoryName":"Trường học",
+      "location\/lat":10.8485539,
+      "location\/lng":106.7680472,
+      "address":"11 Đoàn Kết, Bình Thọ, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJWQr5UqAndTERrG5MmYV0Z58",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJzXDP_9ondTERr0hUmzo9nEk",
+      "title":"Trường Mầm Non Hiếu Trung",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.8444736,
+      "location\/lng":106.7324842,
+      "address":"30 Đường 40, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJzXDP_9ondTERr0hUmzo9nEk",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJTzQgs7EvdTERjG-KOpBmH88",
+      "title":"Anhle English",
+      "categoryName":"Trường học",
+      "location\/lat":10.841448,
+      "location\/lng":106.7718914,
+      "address":"4\/6 Tú Xương, Hiệp Phú, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJTzQgs7EvdTERjG-KOpBmH88",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJYVsVMQYndTERl_GiIxf0pDM",
+      "title":"THCS Hoa Lư",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8384727,
+      "location\/lng":106.7734447,
+      "address":"97 Quang Trung, Tăng Nhơn Phú B, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJYVsVMQYndTERl_GiIxf0pDM",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJjcwHqOMldTERSOIxVQCcroc",
+      "title":"Trường THPT Chuyên Trần Đại Nghĩa - Cơ sở 2",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.7835723,
+      "location\/lng":106.737795,
+      "address":"2 \/ 6A Lương Định Của, Phường Bình Khánh, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJjcwHqOMldTERSOIxVQCcroc",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ-4g6HAkhdTERXft3IUdqyjc",
+      "title":"Trường THCS Long Phước",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8097546,
+      "location\/lng":106.8609826,
+      "address":"RV56+W95, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ-4g6HAkhdTERXft3IUdqyjc",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJmXCkrrnZdDERZ0qrDkLEq6w",
+      "title":"Trường THPT Bình Chiểu - TP.Thủ Đức",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8767587,
+      "location\/lng":106.7405003,
+      "address":"88B Đường Lê Thị Hoa, Bình Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJmXCkrrnZdDERZ0qrDkLEq6w",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJH3BlfAAndTERqv-bHuP0LsY",
+      "title":"Harmony Music",
+      "categoryName":"Trường học",
+      "location\/lat":10.7985321,
+      "location\/lng":106.7370784,
+      "address":"15 Nguyễn Quý Cảnh, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJH3BlfAAndTERqv-bHuP0LsY",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ6QY_gQ0mdTERv71jbekdczs",
+      "title":"Trường THPT Thủ Thiêm",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.797361,
+      "location\/lng":106.7438798,
+      "address":"1 Đ. Vũ Tông Phan, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ6QY_gQ0mdTERv71jbekdczs",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJXTK0CAAndTERiUpsdwqd_CE",
+      "title":"Trường Mầm Non Yêu Con - Loving Space",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7961581,
+      "location\/lng":106.7335583,
+      "address":"19 Đ. số 3, Khu phố 2, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJXTK0CAAndTERiUpsdwqd_CE",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ7SOZtAgmdTERimu2ryiAKdA",
+      "title":"Trường THCS Trần Quốc Toản 1",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.79292,
+      "location\/lng":106.7374551,
+      "address":"218 Đ. Vũ Tông Phan, Khu đô thị An Phú An Khánh, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ7SOZtAgmdTERimu2ryiAKdA",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJe2Uk0AkmdTERPuSJ9E8ZHzU",
+      "title":"Sân bóng đá Phước Tiến",
+      "categoryName":"Trường học",
+      "location\/lat":10.7876645,
+      "location\/lng":106.7388257,
+      "address":"Đường Số 8, Phường Bình Khánh, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJe2Uk0AkmdTERPuSJ9E8ZHzU",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJUznsuEMmdTERPJ0tASYIHRE",
+      "title":"Green Bamboo",
+      "categoryName":"Trường mẫu giáo",
+      "location\/lat":10.8032495,
+      "location\/lng":106.7597581,
+      "address":"17, Số 12, An Phú, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUznsuEMmdTERPJ0tASYIHRE",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJOzQGfM8hdTERQktatPJqsxw",
+      "title":"Vinschool CS2 Vinhomes Grand Park",
+      "categoryName":"Trường học",
+      "location\/lat":10.8362641,
+      "location\/lng":106.8436621,
+      "address":"RRPV+GF, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOzQGfM8hdTERQktatPJqsxw",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJcSNhgkYndTERC1Dsa7eSt8g",
+      "title":"The American School",
+      "categoryName":"Trường quốc tế",
+      "location\/lat":10.7946024,
+      "location\/lng":106.7638446,
+      "address":"6 Song Hanh Road, ĐCT Thành phố Hồ Chí Minh - Long Thành - Dầu Giây, Freeway, Quận 2, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJcSNhgkYndTERC1Dsa7eSt8g",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJd2ep1S0ndTER9NhPjtjyVXw",
+      "title":"Trường Mầm Non Rạch Chiếc",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7915042,
+      "location\/lng":106.7702644,
+      "address":"1A Đường Số 3, khu phố 3, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJd2ep1S0ndTER9NhPjtjyVXw",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJOSJfXtAndTERrGQ_RdfDakg",
+      "title":"Trường tiểu học Bình Trưng Đông",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7906963,
+      "location\/lng":106.7721331,
+      "address":"12 Hồ Thị Nhung, Khu Phố 4, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJOSJfXtAndTERrGQ_RdfDakg",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJj3UWtV_fdDERcyaBHcxfGTQ",
+      "title":"Trường tiểu học Long Bình",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8517775,
+      "location\/lng":106.835581,
+      "address":"VR2P+P68, Nguyễn Xiển, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJj3UWtV_fdDERcyaBHcxfGTQ",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJBX8KtV_fdDERtfpWWVaNuo0",
+      "title":"Trường THPT Nguyễn Văn Tăng",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.850795,
+      "location\/lng":106.8386662,
+      "address":"Trường THPT Nguyễn Văn Tăng, Đường 9A, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJBX8KtV_fdDERtfpWWVaNuo0",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJoTX8HZEhdTERIGwngFxvoPY",
+      "title":"Mầm non Halona - Montessori",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.8499085,
+      "location\/lng":106.8401259,
+      "address":"26 Đường 6A, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJoTX8HZEhdTERIGwngFxvoPY",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ4dErMvMndTERPLxfjArH7_U",
+      "title":"Trường THCS Thái Văn Lung",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8664002,
+      "location\/lng":106.7466986,
+      "address":"35 Phú Châu, Tam Phú, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4dErMvMndTERPLxfjArH7_U",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ4dErMvMndTERnLkJBcGpKgc",
+      "title":"Trường Tiểu học Thái Văn Lung",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8662849,
+      "location\/lng":106.7443812,
+      "address":"93\/6 Đ. Tam Châu, Tam Phú, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4dErMvMndTERnLkJBcGpKgc",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJpclwB70ndTER-XYpPtMwg18",
+      "title":"Trường THCS Tam Bình",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8660179,
+      "location\/lng":106.7350177,
+      "address":"2 Đường số 10, Tam Binh, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpclwB70ndTER-XYpPtMwg18",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJu92eFPgndTERm2g0c8oWWmY",
+      "title":"Trường THCS Bình Chiểu",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8734058,
+      "location\/lng":106.7329184,
+      "address":"2 Đ. Bình Chiểu, Bình Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJu92eFPgndTERm2g0c8oWWmY",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJRx6KLnghdTER2lTB-3DtzNA",
+      "title":"Dragon Farm - Nông Trại Rồng",
+      "categoryName":"Trường thương mại",
+      "location\/lat":10.781733,
+      "location\/lng":106.8598388,
+      "address":"873 Long Phước, Khu Phố, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRx6KLnghdTER2lTB-3DtzNA",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJowvhLIfYdDERJtU1pEM3CWw",
+      "title":"Trường THPT Đào Sơn Tây",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.8775854,
+      "location\/lng":106.7732739,
+      "address":"VQHF+28J, Đường Số 10, Linh Xuân, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJowvhLIfYdDERJtU1pEM3CWw",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ4TchjBDZdDERNYK6QeCgaew",
+      "title":"Công ty TNHH Phan Anh Quân",
+      "categoryName":"Dịch vụ sức khỏe môi trường",
+      "location\/lat":10.8783915,
+      "location\/lng":106.7234826,
+      "address":"19 Đường 1B, KP2, Thủ Đức, Thành phố Hồ Chí Minh 71313, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4TchjBDZdDERNYK6QeCgaew",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJR7Jh7__XdDERbP0nMQCaB-c",
+      "title":"Trường tiểu học Nguyễn Văn Tây",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.875814,
+      "location\/lng":106.7226203,
+      "address":"36a Đường số 4, Khu phố 2, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJR7Jh7__XdDERbP0nMQCaB-c",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ8YPkg4DYdDERJBNeCr9RPeI",
+      "title":"Trường mầm non Hoa Đào",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.8755082,
+      "location\/lng":106.77099,
+      "address":"33 Đường số 6, khu phố 3, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8YPkg4DYdDERJBNeCr9RPeI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJhTBeEVMmdTERZMELaT85sSA",
+      "title":"Trường THCS-THPT Hồng Đức, cơ sở B Trường Tư thục tốt nhất",
+      "categoryName":"Trường học",
+      "location\/lat":10.8271813,
+      "location\/lng":106.7631046,
+      "address":"118 Đ. Nam Hoà, Phước Long A, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJhTBeEVMmdTERZMELaT85sSA",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJRzl1ORkndTERyNmtLB2VHYo",
+      "title":"Học Nghề Mộc",
+      "categoryName":"Trường học",
+      "location\/lat":10.8516825,
+      "location\/lng":106.8154434,
+      "address":"Sau cây xăng, 02 Hoàng Hữu Nam, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRzl1ORkndTERyNmtLB2VHYo",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ2WXLQzIndTERH59fpkyVE1k",
+      "title":"Trường ĐH Tài chính - Marketing (Cơ sở Long Trường)",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8141404,
+      "location\/lng":106.8079035,
+      "address":"306 Võ Văn Hát, Long Trường, Tp.Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2WXLQzIndTERH59fpkyVE1k",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJsQdrFzEndTERXq6bN0uyUrc",
+      "title":"Trường Đại học FPT TP. HCM",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8411276,
+      "location\/lng":106.809883,
+      "address":"Lô E2a-7, Đường D1, Đ. D1, Long Thạnh Mỹ, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJsQdrFzEndTERXq6bN0uyUrc",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ83onDJEndTERnREYGMxQBo8",
+      "title":"Viện Ứng dụng Công nghệ và Phát triển Bền vững -Trường Đại học Nguyễn Tất Thành",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8386841,
+      "location\/lng":106.8084054,
+      "address":"14 Đường D6, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ83onDJEndTERnREYGMxQBo8",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJd-oRwqnYdDERDSZartmFwBw",
+      "title":"Trường Trung Cấp Kỹ Thuật Nông Nghiệp Tp. Hcm",
+      "categoryName":"Trường học",
+      "location\/lat":10.8683468,
+      "location\/lng":106.8110096,
+      "address":"52 Đường Số 400, Long Thạnh Mỹ, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJd-oRwqnYdDERDSZartmFwBw",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJC6GuvqMgdTERGRUgANY93i8",
+      "title":"Mẫu giáo Long Bửu",
+      "categoryName":"Trường mẫu giáo",
+      "location\/lat":10.8615366,
+      "location\/lng":106.8373818,
+      "address":"28915 Nguyễn Xiển, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJC6GuvqMgdTERGRUgANY93i8",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ12k3YPwhdTERaYeKonBonZ8",
+      "title":"Sân tập lái xe Huy Hoàng",
+      "categoryName":"Trường đào tạo lái xe",
+      "location\/lat":10.8608581,
+      "location\/lng":106.8410165,
+      "address":"39 Đ. số 9, Long Bình, Quận 9, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ12k3YPwhdTERaYeKonBonZ8",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJfaHWaKAgdTERdHn1nvyy5VU",
+      "title":"Trường Mầm Non Long Bình",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.8557348,
+      "location\/lng":106.8376096,
+      "address":"02 Trần Trọng Khiêm, Long Bình, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJfaHWaKAgdTERdHn1nvyy5VU",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJpQyxYrkgdTERqLS3MlgQdXY",
+      "title":"Trường Trung Học Cơ Sở Hưng Bình",
+      "categoryName":"Trường học",
+      "location\/lat":10.8502404,
+      "location\/lng":106.8304171,
+      "address":"819 Nguyễn Xiển, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpQyxYrkgdTERqLS3MlgQdXY",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ2QsBUi0kdTEReGVoI3Ak_LI",
+      "title":"THCS Thạnh Mỹ Lợi",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.77493,
+      "location\/lng":106.7706115,
+      "address":"42 Đường Số 5, Cát Lái, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2QsBUi0kdTEReGVoI3Ak_LI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJu-e418ogdTER1mg5gduapBA",
+      "title":"Trường THPT Nguyễn Huệ",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.8451107,
+      "location\/lng":106.8186276,
+      "address":"13 Đường số 13, Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJu-e418ogdTER1mg5gduapBA",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJadZ0gtgldTERIYTxcB0Cbns",
+      "title":"Trường THPT Giồng Ông Tố",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.7859291,
+      "location\/lng":106.7553475,
+      "address":"10 Nguyễn Thị Định, Phường Bình Trưng Tây, TP Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJadZ0gtgldTERIYTxcB0Cbns",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJuXJs2dcldTEREyKK7nFM3z0",
+      "title":"Trường tiểu học Giồng Ông Tố",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7855251,
+      "location\/lng":106.7608172,
+      "address":"159 Đường số 6, Khu Phố 4, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJuXJs2dcldTEREyKK7nFM3z0",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJiTRvumwndTERdEe_Kj3iJIQ",
+      "title":"Học viện Chính trị Khu vực II",
+      "categoryName":"Trường học",
+      "location\/lat":10.8491663,
+      "location\/lng":106.7849026,
+      "address":"99 Đ. Man Thiện, Hiệp Phú, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh 800000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiTRvumwndTERdEe_Kj3iJIQ",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ8d9FsnIndTERnUE9f5c4uAA",
+      "title":"Học viện Công nghệ BCVT cơ sở tại TP.HCM",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.847987,
+      "location\/lng":106.7866647,
+      "address":"97 Đ. Man Thiện, Hiệp Phú, Thủ Đức, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8d9FsnIndTERnUE9f5c4uAA",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJE3PYFRQndTERs2cMULvTTh0",
+      "title":"ĐH Tài chính - Marketing Cơ sở Thủ Đức",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8477503,
+      "location\/lng":106.790995,
+      "address":"1A Đ. Số 385, Tăng Nhơn Phú A, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJE3PYFRQndTERs2cMULvTTh0",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ4zaXobYldTERwZulEr9b_SQ",
+      "title":"Saigon Star International School",
+      "categoryName":"Trường quốc tế",
+      "location\/lat":10.7660452,
+      "location\/lng":106.7610396,
+      "address":"2 Sử Hy Nhan, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ4zaXobYldTERwZulEr9b_SQ",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJgVsKihUndTERFwVYrDRdXPQ",
+      "title":"Phân hiệu Trường Đại học GTVT tại Tp. Hồ Chí Minh",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.845696,
+      "location\/lng":106.794172,
+      "address":"450-451 Lê Văn Việt, Phường Tăng Nhơn Phú A, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJgVsKihUndTERFwVYrDRdXPQ",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJE65lHj8ndTERe9e0lLqbH3c",
+      "title":"Trường THCS Trần Quốc Toản",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8448705,
+      "location\/lng":106.7890503,
+      "address":"381 Lê Văn Việt, Tăng Nhơn Phú A, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJE65lHj8ndTERe9e0lLqbH3c",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ209RYtsldTERw3ftmT6H9kM",
+      "title":"Trường THCS Lương Định Của",
+      "categoryName":"Trường học",
+      "location\/lat":10.7769937,
+      "location\/lng":106.7535552,
+      "address":"37 Lê Hiến Mai, Phường Thạnh Mỹ Lợi, TP. Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ209RYtsldTERw3ftmT6H9kM",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJdVQ5GnsndTERWys8HFEceMA",
+      "title":"Trường THPT Dương Văn Thì",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8404891,
+      "location\/lng":106.7930912,
+      "address":"161 Lã Xuân Oai, Tăng Nhơn Phú A, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJdVQ5GnsndTERWys8HFEceMA",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJGfL2FD0ndTERHQqFe844r8Q",
+      "title":"Trường Tiểu học Trương Văn Thành",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8395354,
+      "location\/lng":106.7957809,
+      "address":"236 Lã Xuân Oai, Tăng Nhơn Phú A, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGfL2FD0ndTERHQqFe844r8Q",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJX11KowEndTERZYVm3y9rBTA",
+      "title":"Trường Cao Đẳng Công Thương TP.HCM",
+      "categoryName":"Trường cao đẳng cộng đồng",
+      "location\/lat":10.8306805,
+      "location\/lng":106.774999,
+      "address":"20 Tăng Nhơn Phú, Phước Long B, Thủ Đức, Thành phố Hồ Chí Minh 715939, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJX11KowEndTERZYVm3y9rBTA",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJa2yzPwAhdTERiPVes-6Z3NY",
+      "title":"Bổ Túc Tay Lái",
+      "categoryName":"Trường đào tạo lái xe",
+      "location\/lat":10.8224441,
+      "location\/lng":106.8228257,
+      "address":"44\/9 Đường Số 8, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJa2yzPwAhdTERiPVes-6Z3NY",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJW8MSllYmdTERNziS9pte8t8",
+      "title":"Trường THCS Đặng Tấn Tài",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8226178,
+      "location\/lng":106.7662275,
+      "address":"RQF8+2FX, Đ. Số 128, Phước Long A, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW8MSllYmdTERNziS9pte8t8",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJR7-1BFYmdTER-j_n_F9UBxs",
+      "title":"Trường Đại học Văn hóa TP.HCM - Cơ sở 2",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8222414,
+      "location\/lng":106.7709118,
+      "address":"288 Đỗ Xuân Hợp, Phước Long B, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJR7-1BFYmdTER-j_n_F9UBxs",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJk8Dsxn8ndTER_Goc8yMLJII",
+      "title":"Trường mầm non Song ngữ Kidzone - Quận 9",
+      "categoryName":"Trường học",
+      "location\/lat":10.789703,
+      "location\/lng":106.793713,
+      "address":"7 Đ. 816, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJk8Dsxn8ndTER_Goc8yMLJII",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJz_X6naEmdTER4qgwnR3-4o0",
+      "title":"Trường Tiểu Học Phú Hữu (mới)",
+      "categoryName":"Trường học",
+      "location\/lat":10.7883033,
+      "location\/lng":106.7971091,
+      "address":"QQQW+8RH, Đ. 836, Phường Phú Hữu, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJz_X6naEmdTER4qgwnR3-4o0",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ3wOhfm4ndTERJ5NxfbsQz7Y",
+      "title":"HUTECH - Đại học Công nghệ TP.HCM (Thu Duc Campus)",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.8555669,
+      "location\/lng":106.7851098,
+      "address":"Khu Công nghệ cao Xa Lộ Hà Nội, Hiệp Phú, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3wOhfm4ndTERJ5NxfbsQz7Y",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJb9FsTtUhdTERomFTYIkseaI",
+      "title":"Trường Đại học Luật cơ sở 3",
+      "categoryName":"Trường học",
+      "location\/lat":10.7941391,
+      "location\/lng":106.8547591,
+      "address":"QVV3+MW2, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJb9FsTtUhdTERomFTYIkseaI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJXYF2xXEhdTEReDOf1kSflB4",
+      "title":"Trường Đại học luật TP.HCM - Cơ sở 3",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7941275,
+      "location\/lng":106.855386,
+      "address":"QVV4+M52, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJXYF2xXEhdTEReDOf1kSflB4",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJDQLXokQndTER2QIY0zXeJMM",
+      "title":"Trường THCS Tân Phú",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.858694,
+      "location\/lng":106.8010288,
+      "address":"119 Đ. Nam Cao, Phường Tân Phú, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJDQLXokQndTER2QIY0zXeJMM",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJS2z_VnQmdTERTFdQFvspjJ8",
+      "title":"Trường Quốc tế Úc",
+      "categoryName":"Trường quốc tế",
+      "location\/lat":10.7899744,
+      "location\/lng":106.7505428,
+      "address":"264 Đ. Mai Chí Thọ, An Phú, Quận 9, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJS2z_VnQmdTERTFdQFvspjJ8",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJZ1G6opcudTER7fMZJGHk794",
+      "title":"Trường THCS Lê Quý Đôn",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7683331,
+      "location\/lng":106.6425466,
+      "address":"343D Lạc Long Quân, Phường 5, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJZ1G6opcudTER7fMZJGHk794",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJhw-KNZgudTER5kvQW6-Xppw",
+      "title":"Trường Tiểu học Hòa Bình",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7682941,
+      "location\/lng":106.6395502,
+      "address":"66 Hòa Bình, Phường 05, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJhw-KNZgudTER5kvQW6-Xppw",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJm_DuzJAudTERmeAhEBsIkvU",
+      "title":"Hệ thống trường Việt Mỹ",
+      "categoryName":"Trường học",
+      "location\/lat":10.7648717,
+      "location\/lng":106.6426155,
+      "address":"252 Lạc Long Quân, Phường 10, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJm_DuzJAudTERmeAhEBsIkvU",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJpVx9kpoudTERkYXjHVMx340",
+      "title":"Trường THCS Nguyễn Văn Phú",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.761799,
+      "location\/lng":106.6396878,
+      "address":"161B\/112 Lạc Long Quân, Phường 3, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpVx9kpoudTERkYXjHVMx340",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJnx7HbowudTER371rMGvGwoU",
+      "title":"Trường THCS Hậu Giang",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7548213,
+      "location\/lng":106.6487596,
+      "address":"8 Đ. Lò Siêu, Phường 16, Quận 11, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJnx7HbowudTER371rMGvGwoU",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJQzAhSu0udTERjdADdOA9c4I",
+      "title":"Trường THCS Phú Thọ",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.760349,
+      "location\/lng":106.653155,
+      "address":"1122A Đ. 3 Tháng 2, Phường 12, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJQzAhSu0udTERjdADdOA9c4I",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ5aSPDo0udTEReCGtfda6HNA",
+      "title":"Trường THPT Nam Kỳ Khởi Nghĩa",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.7575063,
+      "location\/lng":106.6502227,
+      "address":"269\/8 Nguyễn Thị Nhỏ, Phường 16, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ5aSPDo0udTEReCGtfda6HNA",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJsW_c8IwudTER08dnedy4zto",
+      "title":"Trường Tiểu học Lê Đình Chinh",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7557556,
+      "location\/lng":106.6500393,
+      "address":"203 Nguyễn Thị Nhỏ, Phường 16, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJsW_c8IwudTER08dnedy4zto",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJD91MJIgvdTERgc7WrWBv3vQ",
+      "title":"NVH.Phụ Nữ TPHCM",
+      "categoryName":"Trường dạy nghề",
+      "location\/lat":10.7833576,
+      "location\/lng":106.6837598,
+      "address":"194 Lý Chính Thắng, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJD91MJIgvdTERgc7WrWBv3vQ",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJVVVVWi8vdTERNhrinlrziaI",
+      "title":"Hội trường Thành uỷ",
+      "categoryName":"Hội trường",
+      "location\/lat":10.7797075,
+      "location\/lng":106.6831092,
+      "address":"QMHM+V6Q, Bà Huyện Thanh Quan, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVVVVWi8vdTERNhrinlrziaI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJUTNWOC8vdTERDjtIJ9XHr-I",
+      "title":"Trường Đại học Sài Gòn - Cơ Sở 1",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7795228,
+      "location\/lng":106.6849637,
+      "address":"105 Bà Huyện Thanh Quan, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUTNWOC8vdTERDjtIJ9XHr-I",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJRV9wWCUvdTERcGErqkcAp0g",
+      "title":"Trường THPT Nguyễn Thị Minh Khai",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.7790508,
+      "location\/lng":106.6872147,
+      "address":"275 Đ. Điện Biên Phủ, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJRV9wWCUvdTERcGErqkcAp0g",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJCzCLByYvdTERbo3FG0LgegM",
+      "title":"Trường THCS Lê Lợi",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7781876,
+      "location\/lng":106.6819919,
+      "address":"282 Đ. Võ Thị Sáu, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCzCLByYvdTERbo3FG0LgegM",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJG3fspTIvdTERnFWZnIDD9lg",
+      "title":"Trường THPT Nguyễn Thị Diệu",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.7893622,
+      "location\/lng":106.689155,
+      "address":"12 Trần Quốc Toản, Phường 8, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJG3fspTIvdTERnFWZnIDD9lg",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ61ArJTQvdTER8ka83mioMXU",
+      "title":"Canalis Club",
+      "categoryName":"Vũ trường",
+      "location\/lat":10.7873557,
+      "location\/lng":106.6868219,
+      "address":"264 Đ. Nam Kỳ Khởi Nghĩa, Phường 8, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ61ArJTQvdTER8ka83mioMXU",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJzRi81TMvdTERGB0D7AToX3o",
+      "title":"Trường THPT Lê Thị Hồng Gấm",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.7842692,
+      "location\/lng":106.6912991,
+      "address":"147 Pasteur, Đ. Võ Thị Sáu, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJzRi81TMvdTERGB0D7AToX3o",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJmapMxzYvdTERpSDvLmpEPHQ",
+      "title":"Đại học Kinh tế TP.HCM (UEH) - Cơ sở A",
+      "categoryName":"Đại học công lập",
+      "location\/lat":10.7830898,
+      "location\/lng":106.6947434,
+      "address":"59C Nguyễn Đình Chiểu, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJmapMxzYvdTERpSDvLmpEPHQ",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ89zzpjEvdTERynQKtR2HnxU",
+      "title":"Trường THPT Marie Curie",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.7824378,
+      "location\/lng":106.6908122,
+      "address":"159 Đ. Nam Kỳ Khởi Nghĩa, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ89zzpjEvdTERynQKtR2HnxU",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJD9mBNDEvdTERh77KVQLke4U",
+      "title":"Đại học Kiến trúc Thành phố Hồ Chí Minh (UAH)",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7819872,
+      "location\/lng":106.6944895,
+      "address":"196 Pasteur, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJD9mBNDEvdTERh77KVQLke4U",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJl99iSzcvdTERWxFokg44iiI",
+      "title":"Trường THPT Lê Quý Đôn",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.7792688,
+      "location\/lng":106.6945111,
+      "address":"110 Đ. Nguyễn Thị Minh Khai, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJl99iSzcvdTERWxFokg44iiI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ__8_gTAvdTERMJ_t2GZ0gcU",
+      "title":"Nhà trẻ Thành Phố",
+      "categoryName":"Trường mẫu giáo",
+      "location\/lat":10.7790007,
+      "location\/lng":106.6913085,
+      "address":"Trần Quốc Thảo, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ__8_gTAvdTERMJ_t2GZ0gcU",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJUww7lysvdTERsW7YvbwKZxI",
+      "title":"Đại học Sư phạm TP.HCM - Cơ sở 2",
+      "categoryName":"Trường đại học",
+      "location\/lat":10.7865253,
+      "location\/lng":106.680667,
+      "address":"222 Đ. Lê Văn Sỹ, Phường 14, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJUww7lysvdTERsW7YvbwKZxI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJddLv04gudTERLdF0ygXA37E",
+      "title":"Trường THCS Nguyễn Đức Cảnh",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7539293,
+      "location\/lng":106.6434208,
+      "address":"242 Đ. Minh Phụng, Phường 6, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJddLv04gudTERLdF0ygXA37E",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJo039hoQudTER5cwIyaqMsts",
+      "title":"Trường THPT Trần Nhân Tông",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.7605915,
+      "location\/lng":106.6239664,
+      "address":"200 Tân Hòa Đông, Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJo039hoQudTER5cwIyaqMsts",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ3Y5_ESgsdTERFfhjAFtnoDk",
+      "title":"Trường Tiểu học Trương Công Định",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7582786,
+      "location\/lng":106.6288009,
+      "address":"205\/42\/2 Tân Hòa Đông, Phường 14, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3Y5_ESgsdTERFfhjAFtnoDk",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJlet2GIgudTERfk_r1dTZfMc",
+      "title":"Trường Tiểu học Châu Văn Liêm",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7481789,
+      "location\/lng":106.6460735,
+      "address":"157 Đ. Phan Văn Khỏe, Phường 5, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJlet2GIgudTERfk_r1dTZfMc",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJLf5M-YMudTEROz69rM55WO4",
+      "title":"Trường THPT Mạc Đĩnh Chi",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.7547937,
+      "location\/lng":106.6346505,
+      "address":"4 Tân Hòa Đông, Phường 14, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLf5M-YMudTEROz69rM55WO4",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJJXOUrIYudTERu_mNF8dlz8w",
+      "title":"Trung tâm Anh ngữ ILA - Phú Lâm",
+      "categoryName":"Trường dạy tiếng Anh",
+      "location\/lat":10.7541297,
+      "location\/lng":106.6352554,
+      "address":"1039 Đ. Hồng Bàng, Phường 9, Quận 6, Thành phố Hồ Chí Minh 703000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJJXOUrIYudTERu_mNF8dlz8w",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ8WZnYmEudTER_iKsulUPkBI",
+      "title":"Trường Tiểu học Nhật Tảo",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.745148,
+      "location\/lng":106.646753,
+      "address":"206 Đ. Phạm Văn Chí, Phường 4, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8WZnYmEudTER_iKsulUPkBI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJW1ofTF0vdTERy3q_UGMQ06E",
+      "title":"Anh Văn Hội Việt Mỹ VUS - Kinh Dương Vương",
+      "categoryName":"Trường dạy tiếng Anh",
+      "location\/lat":10.7512804,
+      "location\/lng":106.6312211,
+      "address":"73A Đ. Kinh Dương Vương, Phường 12, Quận 6, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW1ofTF0vdTERy3q_UGMQ06E",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJKUxC2n0udTERWIbuzJveVZw",
+      "title":"Trường THPT Nguyễn Tất Thành",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.7471727,
+      "location\/lng":106.6362312,
+      "address":"249 Đ. Nguyễn Văn Luông, Phường 11, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKUxC2n0udTERWIbuzJveVZw",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJGQ4-qWUudTERpo-jNmqYfsc",
+      "title":"Trường Tiểu học Kim Đồng",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7407162,
+      "location\/lng":106.6441178,
+      "address":"321 Trần Văn Kiểu, Phường 3, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGQ4-qWUudTERpo-jNmqYfsc",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ0TGVJnsudTERoXCpPRiYapI",
+      "title":"Trường Tiểu học Phạm Văn Chí",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7408878,
+      "location\/lng":106.6390509,
+      "address":"634 Đ. Phạm Văn Chí, Phường 8, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0TGVJnsudTERoXCpPRiYapI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJwb316HcudTERMvISN2DXNv0",
+      "title":"Trường THCS Phú Định",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7377521,
+      "location\/lng":106.6303553,
+      "address":"94 Bis Đ. Lý Chiêu Hoàng, Phường 10, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJwb316HcudTERMvISN2DXNv0",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJGev1IdgtdTERjJH6PBoXB3E",
+      "title":"Trường THPT Bình Phú",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.7355657,
+      "location\/lng":106.6275357,
+      "address":"102 Đ. Trần Văn Kiểu, Phường 10, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGev1IdgtdTERjJH6PBoXB3E",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJKwUGpKUudTERd7pdzrdVe84",
+      "title":"Trường Tiểu học Huỳnh Văn Chính",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7798786,
+      "location\/lng":106.6385402,
+      "address":"39 Huỳnh Thiện Lộc, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJKwUGpKUudTERd7pdzrdVe84",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJNeqNEQAvdTER-DcTt6KFU5w",
+      "title":"trung học cơ sở lê anh xuân",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7782655,
+      "location\/lng":106.6340682,
+      "address":"553\/16\/1 Đ. Lũy Bán Bích, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJNeqNEQAvdTER-DcTt6KFU5w",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJVZQ9rgcsdTERRboO9Rp8hJI",
+      "title":"Trường Tiểu học Tô Vĩnh Diện",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7913423,
+      "location\/lng":106.6198897,
+      "address":"13 Đô Đốc Lộc, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVZQ9rgcsdTERRboO9Rp8hJI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJW1Vx0qYudTEROhZNgCidMoA",
+      "title":"Trường THCS Đồng Khởi",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7765826,
+      "location\/lng":106.6326482,
+      "address":"20 Thạch Lam, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJW1Vx0qYudTEROhZNgCidMoA",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ0V7a_gYsdTERGU8SIAu-T60",
+      "title":"Trường THCS Võ Thành Trang",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7905731,
+      "location\/lng":106.6203312,
+      "address":"218 Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ0V7a_gYsdTERGU8SIAu-T60",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ9b-dJJ4vdTER4dmltGXAiXo",
+      "title":"TRUNG TÂM IELTS THE TUTORS",
+      "categoryName":"Trường học",
+      "location\/lat":10.776061,
+      "location\/lng":106.632257,
+      "address":"4 Trần Văn Giáp, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ9b-dJJ4vdTER4dmltGXAiXo",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJDWwA87wudTER8QdE0Xz1ti4",
+      "title":"Trường Tiểu học Lê Thánh Tông (Q.Tân Phú)",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7756488,
+      "location\/lng":106.6401005,
+      "address":"199 Trịnh Đình Trọng, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJDWwA87wudTER8QdE0Xz1ti4",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ8Z6DRKEudTERsCIFzb0ZiHk",
+      "title":"Trường Cao Đẳng Công Nghệ Thông Tin Tp.Hồ Chí Minh",
+      "categoryName":"Trường cao đẳng cộng đồng",
+      "location\/lat":10.7746873,
+      "location\/lng":106.6343342,
+      "address":"12 Trịnh Đình Thảo, Hoà Thanh, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8Z6DRKEudTERsCIFzb0ZiHk",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJAQDwZaEudTER6_K-6oJOsLk",
+      "title":"Nhật Ngữ Tâm Việt",
+      "categoryName":"Trường học",
+      "location\/lat":10.774207,
+      "location\/lng":106.632416,
+      "address":"399 Đ. Lũy Bán Bích, P, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJAQDwZaEudTER6_K-6oJOsLk",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJK3QOqCcrdTERfHXqqfWmOUw",
+      "title":"Lớp Nhạc LÊVI",
+      "categoryName":"Trường học",
+      "location\/lat":10.7960587,
+      "location\/lng":106.6147203,
+      "address":"366\/25 Gò Dầu, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh 550000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJK3QOqCcrdTERfHXqqfWmOUw",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ10P3XwQsdTERpWxAGk2Wkck",
+      "title":"Trường Cao đẳng GTVT Trung ương III",
+      "categoryName":"Trường cao đẳng cộng đồng",
+      "location\/lat":10.7867176,
+      "location\/lng":106.621773,
+      "address":"73 Văn Cao, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ10P3XwQsdTERpWxAGk2Wkck",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJCYJWPQ8sdTERz0ncOqA9rvk",
+      "title":"Trường Tiểu học Thiên Ân",
+      "categoryName":"Trường học",
+      "location\/lat":10.786027,
+      "location\/lng":106.615032,
+      "address":"65 Đ. số 5A, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCYJWPQ8sdTERz0ncOqA9rvk",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJPylDZOcrdTEREEQDByCCV6s",
+      "title":"Trường Mầm Non Trí Đức 1",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.8148567,
+      "location\/lng":106.6213569,
+      "address":"2 Đường C1, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJPylDZOcrdTEREEQDByCCV6s",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJF6D7IucrdTERy9dY5z0pWho",
+      "title":"Trường THPT Tây Thạnh",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8144264,
+      "location\/lng":106.6217346,
+      "address":"27 Đường C2, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJF6D7IucrdTERy9dY5z0pWho",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJVRTXF-crdTER6wHFMM7M7YM",
+      "title":"Trường THCS Lê Lợi",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8136334,
+      "location\/lng":106.6217165,
+      "address":"47 Đường S11, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJVRTXF-crdTER6wHFMM7M7YM",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJP5O26AQsdTERvIyHwCrFdKE",
+      "title":"Trường Tiểu học Võ Thị Sáu",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7842523,
+      "location\/lng":106.6211259,
+      "address":"343 Nguyễn Sơn, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJP5O26AQsdTERvIyHwCrFdKE",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJEYW1ifgrdTER13KVNaycdD4",
+      "title":"Trường Tiểu học Tân Hương",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7934697,
+      "location\/lng":106.6216721,
+      "address":"167\/29 Tân Quý, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJEYW1ifgrdTER13KVNaycdD4",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJgR6MjQcsdTERIUkvgXPB6as",
+      "title":"Trường Mẫu giáo Tư thục Ánh sáng - MTG Tân Việt",
+      "categoryName":"Trường học",
+      "location\/lat":10.7929454,
+      "location\/lng":106.6189722,
+      "address":"65 Lê Sát, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJgR6MjQcsdTERIUkvgXPB6as",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJjXuTIOcrdTER5ijuPOIvvso",
+      "title":"Trường Tiểu học Lê Lai",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.8125903,
+      "location\/lng":106.6218172,
+      "address":"150 Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJjXuTIOcrdTER5ijuPOIvvso",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJLcntw7wtdTERgn9dQXLvQ3E",
+      "title":"Trường Trung cấp Tổng hợp Sài Gòn - Cơ Sở Bình Tân",
+      "categoryName":"Trường học",
+      "location\/lat":10.7832105,
+      "location\/lng":106.6169076,
+      "address":"49A Đ. số 3, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLcntw7wtdTERgn9dQXLvQ3E",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJicsclQcsdTERMYaJ5ejuWnc",
+      "title":"Trường Tiểu học Tân Thới",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7922512,
+      "location\/lng":106.6168575,
+      "address":"61 Đỗ Thừa Luông, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJicsclQcsdTERMYaJ5ejuWnc",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ6ZrQZeUrdTERfNgJtNw_IgE",
+      "title":"Trường THCS Tôn Thất Tùng",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.8062988,
+      "location\/lng":106.6178545,
+      "address":"3 Đường D2, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ6ZrQZeUrdTERfNgJtNw_IgE",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJsUFEqPIrdTERWl14C5pZrmc",
+      "title":"Mầm non quốc tế Canada Maple Bear - Cơ sở Celadon, Tân Phú",
+      "categoryName":"Trường học",
+      "location\/lat":10.8055719,
+      "location\/lng":106.6181091,
+      "address":"1 Đường D2, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJsUFEqPIrdTERWl14C5pZrmc",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ3Wk1nOUrdTERCkZIVIhju5g",
+      "title":"Trường THPT Lê Trọng Tấn",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.8069201,
+      "location\/lng":106.6181055,
+      "address":"5 Đường D2, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ3Wk1nOUrdTERCkZIVIhju5g",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJTeyXZLgvdTERS5QUrXfTi0Y",
+      "title":"Trường Đào Tạo Thẩm Mỹ Seoul Academy",
+      "categoryName":"Trường dạy làm đẹp",
+      "location\/lat":10.7991641,
+      "location\/lng":106.6297636,
+      "address":"69\/39 Nguyễn Cửu Đàm, P, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJTeyXZLgvdTERS5QUrXfTi0Y",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJFb0o4_0rdTERN7Xb1DDy7-o",
+      "title":"Trường THPT Tân Bình",
+      "categoryName":"Trường trung học phổ thông",
+      "location\/lat":10.79874,
+      "location\/lng":106.6282507,
+      "address":"19 Hoa Bằng, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJFb0o4_0rdTERN7Xb1DDy7-o",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJLVF--vYmdTER58ai9KbX6aM",
+      "title":"Trường THCS THPT Trần Cao Vân",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.7694881,
+      "location\/lng":106.627274,
+      "address":"126 Tô Hiệu, Hiệp Tân, Tân Phú, Thành phố Hồ Chí Minh 002084, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJLVF--vYmdTER58ai9KbX6aM",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ1bMdfaoudTERSjA0pUwlokA",
+      "title":"Trung tâm GDTX quận Tân Phú",
+      "categoryName":"Trường học",
+      "location\/lat":10.7899547,
+      "location\/lng":106.6299698,
+      "address":"78\/2\/45 Phan Đình Phùng, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ1bMdfaoudTERSjA0pUwlokA",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ2ffES6oudTER7zerBo2krhE",
+      "title":"Trường Mầm Non Nhiêu Lộc A",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7890822,
+      "location\/lng":106.6318013,
+      "address":"2 Đường Lê Đình Thụ, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ2ffES6oudTER7zerBo2krhE",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJCfOl1EstdTER3koHmQewOzk",
+      "title":"Trường Cao đẳng Công Thương Việt Nam",
+      "categoryName":"Trường cao đẳng cộng đồng",
+      "location\/lat":10.7883144,
+      "location\/lng":106.6248569,
+      "address":"302A Đ. Vườn Lài, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJCfOl1EstdTER3koHmQewOzk",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJcdW2uaoudTERR_4yo3TjVXs",
+      "title":"Trường Tiểu học Lê Văn Tám",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7924139,
+      "location\/lng":106.6305016,
+      "address":"QJVJ+288, 145 Đ. Độc Lập, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJcdW2uaoudTERR_4yo3TjVXs",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJx5iVzwMsdTERVg6BlRqJ2VI",
+      "title":"Trường THPT Trần Phú",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.7869507,
+      "location\/lng":106.6256531,
+      "address":"18 Đ. Lê Thúc Hoạch, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJx5iVzwMsdTERVg6BlRqJ2VI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJy-0G6akudTERB4n-uhQdmwk",
+      "title":"Trường THCS Lê Anh Xuân",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.786356,
+      "location\/lng":106.6301299,
+      "address":"211\/53 Đ. Vườn Lài, Phú Thọ Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJy-0G6akudTERB4n-uhQdmwk",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJt8mf6lcpdTER9oMGvCy3mbo",
+      "title":"Trường THCS Đặng Trần Côn",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.798779,
+      "location\/lng":106.6239204,
+      "address":"35 Đ. Hà Thị Đát, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJt8mf6lcpdTER9oMGvCy3mbo",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJk1mPoSEsdTERRzNX1gyXW_8",
+      "title":"Trường Tiểu học Hiệp Tân",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7689628,
+      "location\/lng":106.6248488,
+      "address":"252\/16 Phan Anh, Hiệp Tân, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJk1mPoSEsdTERRzNX1gyXW_8",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ8W92yx0sdTERo-sItPPJ7DU",
+      "title":"Trường Tiểu học Phan Chu Trinh",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7780818,
+      "location\/lng":106.6267103,
+      "address":"193A Thạch Lam, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ8W92yx0sdTERo-sItPPJ7DU",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJHeHr568udTER6Ws8N8vgqG0",
+      "title":"Trường TH-THCS-THPT Tân Phú",
+      "categoryName":"Trường cấp ba",
+      "location\/lat":10.7830295,
+      "location\/lng":106.6401139,
+      "address":"519 Đ. Kênh Tân Hóa, P, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJHeHr568udTER6Ws8N8vgqG0",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJh_Wq-CAsdTER0TnyRuP_gCw",
+      "title":"Trường THCS Tân Thới Hòa",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7658967,
+      "location\/lng":106.6259049,
+      "address":"15 Lý Thánh Tông, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJh_Wq-CAsdTER0TnyRuP_gCw",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJiaaGc_UtdTER7XF7uOtuZJg",
+      "title":"Trường Nam Úc Scotch AGS - Cơ Sở Tây Sài Gòn",
+      "categoryName":"Trường quốc tế",
+      "location\/lat":10.7730955,
+      "location\/lng":106.6239842,
+      "address":"300 Hòa Bình, Phú Thạnh, Tân Phú, Thành phố Hồ Chí Minh 70000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJiaaGc_UtdTER7XF7uOtuZJg",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJsXg24SssdTERcHNcip04SBs",
+      "title":"Dạy Lái Xe Ô Tô Và Bổ Túc Tay Lái Bảo Ngọc",
+      "categoryName":"Trường đào tạo lái xe",
+      "location\/lat":10.801023,
+      "location\/lng":106.6115665,
+      "address":"A1.27 Chung cư Ruby, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJsXg24SssdTERcHNcip04SBs",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ7yTn8rwudTERjEzfK-I4cQ4",
+      "title":"Trường Tiểu học Hồ Văn Cường",
+      "categoryName":"Trường tiểu học",
+      "location\/lat":10.7744872,
+      "location\/lng":106.6434067,
+      "address":"51 - 53 Trịnh Đình Trọng, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ7yTn8rwudTERjEzfK-I4cQ4",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJAT5n57wudTER4U2oxQ9TwkI",
+      "title":"Trường Mầm Non Quỳnh Anh",
+      "categoryName":"Trường mầm non",
+      "location\/lat":10.7736607,
+      "location\/lng":106.6424237,
+      "address":"49\/40 18 Trịnh Đình Trọng, Phú Trung, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJAT5n57wudTER4U2oxQ9TwkI",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJ40PfE1QpdTEROAZdWY5bTqw",
+      "title":"Trường THCS Trần Quang Khải",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7955644,
+      "location\/lng":106.6332297,
+      "address":"94\/3 Nguyễn Thế Truyện, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJ40PfE1QpdTEROAZdWY5bTqw",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJGbriGXwpdTERI66xRJdZZEc",
+      "title":"IECS - Du học nghề Đức Hàng Đầu Việt Nam",
+      "categoryName":"Trường học",
+      "location\/lat":10.7939936,
+      "location\/lng":106.6342262,
+      "address":"48 Nguyễn Xuân Khoát, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh 72008, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJGbriGXwpdTERI66xRJdZZEc",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJpXRkuawudTERy9C8z9dTOtE",
+      "title":"Trường THCS Phan Bội Châu",
+      "categoryName":"Trường THCS",
+      "location\/lat":10.7916269,
+      "location\/lng":106.6342315,
+      "address":"35 Đ. Độc Lập, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJpXRkuawudTERy9C8z9dTOtE",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJeaSg1EopdTERPWn_qiN06CE",
+      "title":"Trường Trung Cấp Giao Thông Tiến Bộ",
+      "categoryName":"Trường đào tạo lái xe",
+      "location\/lat":10.8012526,
+      "location\/lng":106.6337167,
+      "address":"111 Đ. Tân Sơn Nhì, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJeaSg1EopdTERPWn_qiN06CE",
+      "category_group":"df_schools"
+  },
+  {
+      "placeId":"ChIJx-bSm9srdTERUrKQGXXDq2s",
+      "title":"Anh Văn Hội Việt Mỹ VUS - Lê Trọng Tấn",
+      "categoryName":"Trường dạy tiếng Anh",
+      "location\/lat":10.8104645,
+      "location\/lng":106.6117981,
+      "address":"475D Đ. Lê Trọng Tấn, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 700000, Việt Nam",
+      "permanentlyClosed":"False",
+      "url":"https:\/\/www.google.com\/maps\/search\/?api=1&query=all_places_no_search_ocr&query_place_id=ChIJx-bSm9srdTERUrKQGXXDq2s",
+      "category_group":"df_schools"
   }
 ]
 

@@ -8,6 +8,12 @@ import schools from './schools/index.js';
 import shops from './shops/index.js';
 import templates from './temples/index.js';
 import theaters from './theaters/index.js';
+import salons from './salons/index.js';
+import apartments from './apartments/index.js';
+import companies from './companies/index.js';
+import garas from './garas/index.js';
+import factories from './factories/index.js';
+import markets from './markets/index.js';
 
 
 export default [
@@ -21,4 +27,10 @@ export default [
   shops,
   templates,
   theaters,
+  apartments,
+  companies,
+  salons,
+  markets, 
+  factories,
+  garas
 ]
