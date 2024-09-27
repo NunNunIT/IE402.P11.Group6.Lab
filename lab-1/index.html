@@ -1,162 +1,172 @@
 <html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="initial-scale=1, maximum-scale=1, user-scalable=no"
+    />
+    <title>Nhóm 6 - ...</title>
+    <style>
+      html,
+      body,
+      #viewDiv {
+        padding: 0;
+        margin: 0;
+        height: 100%;
+        width: 100%;
+      }
+    </style>
 
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
-  <title>Nhóm 6 - ... </title>
-  <style>
-    html,
-    body,
-    #viewDiv {
-      padding: 0;
-      margin: 0;
-      height: 100%;
-      width: 100%;
-    }
-  </style>
+    <link
+      rel="stylesheet"
+      href="https://js.arcgis.com/4.15/esri/themes/light/main.css"
+    />
+    <link rel="stylesheet" href="./index.css" />
+    <script src="https://js.arcgis.com/4.15/"></script>
 
-  <link rel="stylesheet" href="https://js.arcgis.com/4.15/esri/themes/light/main.css" />
-  <link rel="stylesheet" href="./index.css" />
-  <script src="https://js.arcgis.com/4.15/"></script>
+    <script type="module">
+      // import
+      // import schools from "./schools/index.js";
+      import places from "./places/index.js";
+      import streets from "./streets/index.js";
+      import districts from "./districts/index.js";
+      import cities from "./cities/index.js";
+      import towns from "./towns/index.js";
 
-  <script type="module">
-    // import
-    // import schools from "./schools/index.js";
-    import places from "./places/index.js";
-    import streets from "./streets/index.js";
-    import districts from "./districts/index.js";
-    import cities from "./cities/index.js";
-    import towns from "./towns/index.js";
-
-    // Debounce function for scroll events
-    function debounce(func, delay) {
-      let debounceTimeout;
-      return function (...args) {
-        clearTimeout(debounceTimeout);
-        debounceTimeout = setTimeout(() => func.apply(this, args), delay);
-      };
-    }
-
-    require(["esri/Map", "esri/views/MapView", "esri/Graphic", "esri/layers/GraphicsLayer"], function (Map, MapView, Graphic, GraphicsLayer) {
-      // create map
-      var map = new Map({
-        basemap: "topo-vector",
-      });
-
-      // enable mouse event on map
-      map.on("load", function () {
-        map.graphics.enableMouseEvents();
-      });
-
-      // create view
-      var view = new MapView({
-        container: "viewDiv",
-        map: map,
-        center: [106.69508635065, 10.851985339727143],
-        zoom: 10,
-        highlightOptions: {
-          color: "rgb(123, 211, 234)",
-        },
-      });
-
-      // create graphic
-      var createGraphic = function (data) {
-        return new Graphic({
-          geometry: data,
-          symbol: data.symbol,
-          attributes: data,
-          popupTemplate: data.popupTemplate,
-        });
-      };
-
-      // create graphics layer
-      var graphicsLayer = new GraphicsLayer();
-
-      // add districts
-      districts.forEach(function (data) {
-        graphicsLayer.add(createGraphic(data));
-      });
-
-      // add streets
-      streets.forEach(function (data) {
-        graphicsLayer.add(createGraphic(data));
-      });
-
-      map.add(graphicsLayer);
-
-      // create points layer
-      // Tạo pointsLayer
-      var pointsLayer = new GraphicsLayer();
-      pointsLayer.visible = false; // Ẩn các điểm ban đầu
-
-      places.forEach(function (place) {
-        place.forEach(function (data) {
-          pointsLayer.add(createGraphic(data));
-        });
-      });
-
-      map.add(pointsLayer);
-
-      // Xử lý ẩn/hiển điểm
-      var isPointsVisible = false; // Ban đầu, các điểm bị ẩn
-      var toggleButton = document.getElementById('toggleButton');
-
-      toggleButton.addEventListener('click', function () {
-        isPointsVisible = !isPointsVisible; // Chuyển đổi trạng thái
-        pointsLayer.visible = isPointsVisible; // Cập nhật trạng thái visible của layer
-
-        // Cập nhật nút theo trạng thái
-        toggleButton.textContent = isPointsVisible ? "Ẩn địa điểm" : "Hiển địa điểm";
-      });
-
-      // hide pont layer when zoom out
-      const MIN_ZOOM_TO_SHOW_POINTS = 11;
-      // view.watch("zoom", debounce(function (newValue) {
-      //   pointsLayer.visible = newValue >= MIN_ZOOM_TO_SHOW_POINTS;
-      // }, 500)); // Adjust delay as needed
-
-      // get point
-      // var map;
-      var list_points = [];
-      var string_points = "";
-
-      function copyTextToClipboard(text) {
-        if (!navigator.clipboard) {
-          fallbackCopyTextToClipboard(text);
-          return;
-        }
-        navigator.clipboard.writeText(text).then(
-          function () {
-            console.log("Async: Copying to clipboard was successful!");
-          },
-          function (err) {
-            console.error("Async: Could not copy text: ", err);
-          }
-        );
+      // Debounce function for scroll events
+      function debounce(func, delay) {
+        let debounceTimeout;
+        return function (...args) {
+          clearTimeout(debounceTimeout);
+          debounceTimeout = setTimeout(() => func.apply(this, args), delay);
+        };
       }
 
-      view.popup.autoOpenEnabled = true; // Disable the default popup behavior
-      view.on("click", function (event) {
-        view.hitTest(event).then(function (hitTestResults) {
-          if (!hitTestResults.results)
-            return;
+      require([
+        "esri/Map",
+        "esri/views/MapView",
+        "esri/Graphic",
+        "esri/layers/GraphicsLayer",
+      ], function (Map, MapView, Graphic, GraphicsLayer) {
+        // create map
+        var map = new Map({
+          basemap: "topo-vector",
+        });
 
-          const lng = event.mapPoint.longitude.toFixed(8);
-          const lat = event.mapPoint.latitude.toFixed(8);
-          // list_points.push([lng, lat]);
-          string_points += "[" + lng + ", " + lat + "],";
-          // copyTextToClipboard("[" + lng + ", " + lat + "],");
-          copyTextToClipboard(string_points);
+        // enable mouse event on map
+        map.on("load", function () {
+          map.graphics.enableMouseEvents();
+        });
+
+        // create view
+        var view = new MapView({
+          container: "viewDiv",
+          map: map,
+          center: [106.69508635065, 10.851985339727143],
+          zoom: 10,
+          highlightOptions: {
+            color: "rgb(123, 211, 234)",
+          },
+        });
+
+        // create graphic
+        var createGraphic = function (data) {
+          return new Graphic({
+            geometry: data,
+            symbol: data.symbol,
+            attributes: data,
+            popupTemplate: data.popupTemplate,
+          });
+        };
+
+        // create graphics layer
+        var graphicsLayer = new GraphicsLayer();
+
+        // add districts
+        districts.forEach(function (data) {
+          graphicsLayer.add(createGraphic(data));
+        });
+
+        // add streets
+        streets.forEach(function (data) {
+          graphicsLayer.add(createGraphic(data));
+        });
+
+        map.add(graphicsLayer);
+
+        // create points layer
+        // Tạo pointsLayer
+        var pointsLayer = new GraphicsLayer();
+        pointsLayer.visible = false; // Ẩn các điểm ban đầu
+
+        places.forEach(function (place) {
+          place.forEach(function (data) {
+            pointsLayer.add(createGraphic(data));
+          });
+        });
+
+        map.add(pointsLayer);
+
+        // Xử lý ẩn/hiển điểm
+        var isPointsVisible = false; // Ban đầu, các điểm bị ẩn
+        var toggleButton = document.getElementById("toggleButton");
+
+        toggleButton.addEventListener("click", function () {
+          isPointsVisible = !isPointsVisible; // Chuyển đổi trạng thái
+          pointsLayer.visible = isPointsVisible; // Cập nhật trạng thái visible của layer
+
+          // Cập nhật nút theo trạng thái
+          toggleButton.textContent = isPointsVisible
+            ? "Ẩn địa điểm"
+            : "Hiển địa điểm";
+        });
+
+        // hide pont layer when zoom out
+        const MIN_ZOOM_TO_SHOW_POINTS = 11;
+        // view.watch("zoom", debounce(function (newValue) {
+        //   pointsLayer.visible = newValue >= MIN_ZOOM_TO_SHOW_POINTS;
+        // }, 500)); // Adjust delay as needed
+
+        // get point
+        // var map;
+        var list_points = [];
+        var string_points = "";
+
+        function copyTextToClipboard(text) {
+          if (!navigator.clipboard) {
+            fallbackCopyTextToClipboard(text);
+            return;
+          }
+          navigator.clipboard.writeText(text).then(
+            function () {
+              console.log("Async: Copying to clipboard was successful!");
+            },
+            function (err) {
+              console.error("Async: Could not copy text: ", err);
+            }
+          );
+        }
+
+        view.popup.autoOpenEnabled = false; // Disable the default popup behavior
+        view.on("click", function (event) {
+          view.hitTest(event).then(function (hitTestResults) {
+            if (!hitTestResults.results) return;
+
+            const lng = event.mapPoint.longitude.toFixed(8);
+            const lat = event.mapPoint.latitude.toFixed(8);
+            // list_points.push([lng, lat]);
+            string_points += "[" + lng + ", " + lat + "],";
+            // copyTextToClipboard("[" + lng + ", " + lat + "],");
+            copyTextToClipboard(string_points);
+          });
         });
       });
-    });
-  </script>
-</head>
+    </script>
+  </head>
 
-<body>
-  <div id="viewDiv"></div>
-  <button id="toggleButton">Ẩn địa điểm</button>
-</body>
-<script></script>
-
+  <body>
+    <div id="viewDiv"></div>
+    <button id="toggleButton">Ẩn địa điểm</button>
+  </body>
+  <script></script>
 </html>
