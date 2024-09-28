@@ -4,7 +4,7 @@ const Name = "QL52";
 const Location = "TP. Hồ Chí Minh";
 const symbol = {
   // Chỉnh màu ở đây
-  color: [255, 0, 0],
+  color: [0, 255, 0],
 }
 
 const paths = [

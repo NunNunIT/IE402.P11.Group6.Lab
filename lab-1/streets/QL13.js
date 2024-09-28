@@ -4,7 +4,7 @@ const Name = "QL13";
 const Location = "Thành phố Hồ Chí Minh";
 const symbol = {
   // Chỉnh màu ở đây
-  color: [0, 255, 0],
+  color: [255, 0, 0],
 };
 
 const paths = [
