@@ -14,6 +14,7 @@ const factories = datas.map((data) => ({
   Location: data.address,
   symbol: FACTORY_SYMBOL,
   popupTemplate: POINT_TEMPLATE_FACTORY,
+  ...data,
 }))
 
 export default factories;

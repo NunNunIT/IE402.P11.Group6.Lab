@@ -14,6 +14,7 @@ const salons = datas.map((data) => ({
   Location: data.address,
   symbol: SALON_SYMBOL,
   popupTemplate: POINT_TEMPLATE_SALON,
+  ...data,
 }))
 
 export default salons;

@@ -14,6 +14,8 @@ const schools = datas.map((data) => ({
   Location: data.address,
   symbol: SCHOOL_SYMBOL,
   popupTemplate: POINT_TEMPLATE_SCHOOL,
+  ...data,
+
 }))
 
 export default schools;

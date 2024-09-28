@@ -367,4 +367,10 @@ const rings = [
   [106.77618326245297, 10.674680552668885],
 ];
 
-export default { name, population, area, rings, symbol };
+export default {
+  name,
+  population,
+  area,
+  rings,
+  symbol
+};

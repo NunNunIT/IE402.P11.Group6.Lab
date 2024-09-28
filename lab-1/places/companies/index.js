@@ -14,6 +14,7 @@ const companies = datas.map((data) => ({
   Location: data.address,
   symbol: COMPANY_SYMBOL,
   popupTemplate: POINT_TEMPLATE_COMPANY,
+  ...data,
 }))
 
 export default companies;

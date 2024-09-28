@@ -14,6 +14,7 @@ const hospitals = datas.map((data) => ({
   Location: data.address,
   symbol: HOSPITAL_SYMBOL,
   popupTemplate: POINT_TEMPLATE_HOSPITAL,
+  ...data,
 }))
 
 export default hospitals;
