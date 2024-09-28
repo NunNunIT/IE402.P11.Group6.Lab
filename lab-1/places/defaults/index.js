@@ -14,6 +14,7 @@ const defaults = datas.map((data) => ({
   Location: data.address,
   symbol: DEFAULT_SYMBOL,
   popupTemplate: POINT_TEMPLATE_DEFAULT,
+  ...data,
 }))
 
 export default defaults;

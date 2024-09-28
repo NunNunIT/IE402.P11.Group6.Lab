@@ -14,6 +14,8 @@ const parks = datas.map((data) => ({
   Location: data.address,
   symbol: PARK_SYMBOL,
   popupTemplate: POINT_TEMPLATE_PARK,
+  ...data,
+
 }))
 
 export default parks;

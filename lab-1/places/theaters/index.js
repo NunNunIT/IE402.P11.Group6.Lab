@@ -14,6 +14,8 @@ const theaters = datas.map((data) => ({
   Location: data.address,
   symbol: THEATER_SYMBOL,
   popupTemplate: POINT_TEMPLATE_THEATER,
+  ...data,
+
 }))
 
 export default theaters;

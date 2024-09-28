@@ -14,6 +14,7 @@ const garas = datas.map((data) => ({
   Location: data.address,
   symbol: GARA_SYMBOL,
   popupTemplate: POINT_TEMPLATE_GARA,
+  ...data,
 }))
 
 export default garas;

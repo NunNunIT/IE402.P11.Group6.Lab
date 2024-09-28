@@ -14,6 +14,7 @@ const hotels = datas.map((data) => ({
   Location: data.address,
   symbol: HOTEL_SYMBOL,
   popupTemplate: POINT_TEMPLATE_HOTEL,
+  ...data,
 }))
 
 export default hotels;

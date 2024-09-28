@@ -14,6 +14,7 @@ const markets = datas.map((data) => ({
   Location: data.address,
   symbol: MARKET_SYMBOL,
   popupTemplate: POINT_TEMPLATE_MARKET,
+  ...data,
 }))
 
 export default markets;
