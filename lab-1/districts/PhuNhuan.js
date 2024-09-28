@@ -1,9 +1,9 @@
 // Chỉnh tên đia điểm
 const name = "Quận Phú Nhuận"
 // Chỉnh số dân ở đây
-const population = 100000
+const population = 163961
 // Chỉnh diện tích ở đây
-const area = 123.45
+const area = 4.86
 const symbol = {
   // Chỉnh vùng màu ở chỗ này
   color: [228, 208, 10, 0.35],
