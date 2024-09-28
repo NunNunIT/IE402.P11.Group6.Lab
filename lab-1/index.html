@@ -1,4 +1,6 @@
-<html></html>
+<html>
+
+</html>
 
 <head>
   <meta charset="utf-8" />
@@ -231,6 +233,67 @@
         }
       });
 
+      // Symbol cho điểm tìm kiếm
+      const FINDPLACE_SYMBOL = {
+        type: "simple-marker",
+        color: [255, 0, 0],  // Màu đỏ
+        size: 8,
+        outline: {
+          color: [0, 0, 0],
+          width: 1
+        }
+      };
+
+      // Lớp đồ họa để hiển thị điểm
+      var findPlaceLayer = new GraphicsLayer();
+      map.add(findPlaceLayer);
+
+      // Xử lý sự kiện Enter để tìm tọa độ
+      document.getElementById('findLocated').addEventListener('keypress', function (event) {
+        if (event.key === 'Enter') {
+          var input = event.target.value;
+
+          // Xử lý chuỗi tọa độ và chuyển thành array [lng, lat]
+          try {
+            var coords = JSON.parse(input);
+            if (Array.isArray(coords) && coords.length === 2) {
+              var lng = parseFloat(coords[0]);
+              var lat = parseFloat(coords[1]);
+
+              if (!isNaN(lng) && !isNaN(lat)) {
+                // Xóa các điểm trước đó nếu có
+                findPlaceLayer.removeAll();
+
+                // Tạo điểm mới với tọa độ được nhập
+                var pointGraphic = new Graphic({
+                  geometry: {
+                    type: "point",
+                    longitude: lng,
+                    latitude: lat
+                  },
+                  symbol: FINDPLACE_SYMBOL
+                });
+
+                // Thêm điểm vào layer và hiển thị
+                findPlaceLayer.add(pointGraphic);
+
+                // Zoom tới vị trí điểm vừa tìm
+                view.goTo({
+                  center: [lng, lat],
+                  zoom: 15  // Bạn có thể thay đổi mức zoom tùy ý
+                });
+              } else {
+                alert("Tọa độ không hợp lệ");
+              }
+            } else {
+              alert("Vui lòng nhập tọa độ đúng định dạng [lng, lat]");
+            }
+          } catch (error) {
+            alert("Lỗi khi phân tích tọa độ. Vui lòng nhập tọa độ dưới dạng [lng, lat]");
+          }
+        }
+      });
+
 
       // Copy text to clipboard function
       // function copyTextToClipboard(text) {
@@ -250,6 +313,7 @@
 <body>
   <div id="viewDiv"></div>
   <div class="button-action">
+    <input id="findLocated" name="findLocated" placeholder="Tìm tọa độ" />
     <button id="toggleButton">👁️ Hiện địa điểm</button>
     <button id="toggleAreaButton"> Ẩn vùng</button>
     <button id="drawLineButton">✏️ Vẽ</button>
