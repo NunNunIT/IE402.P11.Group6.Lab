@@ -73,7 +73,7 @@
       toggleAreaButton.addEventListener('click', function () {
         isDistrictVisible = !isDistrictVisible;
         districtLayer.visible = isDistrictVisible;
-        toggleAreaButton.textContent = isDistrictVisible ? "Ẩn vùng" : "Hiện vùng";
+        toggleAreaButton.textContent = isDistrictVisible ? "Ẩn vùng" : "👁️ Hiện vùng";
       });
 
       // Thêm lớp huyện vào bản đồ
@@ -111,7 +111,7 @@
       toggleButton.addEventListener('click', function () {
         isPointsVisible = !isPointsVisible;
         pointsLayer.visible = isPointsVisible;
-        toggleButton.textContent = isPointsVisible ? "Ẩn địa điểm" : "Hiển địa điểm";
+        toggleButton.textContent = isPointsVisible ? "Ẩn địa điểm" : "👁️ Hiển địa điểm";
       });
 
       // Copy text to clipboard function
@@ -138,7 +138,7 @@
       // Toggle drawing mode
       drawLineButton.addEventListener('click', function () {
         isDrawing = !isDrawing;
-        drawLineButton.textContent = isDrawing ? "Đang vẽ" : "Vẽ";
+        drawLineButton.textContent = isDrawing ? "✍️ Đang vẽ" : "✏️ Vẽ";
 
         // Khi kết thúc chế độ vẽ, không reset polylinePoints và string_points.
         // Chỉ cần reset khi người dùng muốn bắt đầu vẽ lại một line mới (không phải khi tắt chế độ vẽ).
@@ -178,8 +178,8 @@
               geometry: polyline,
               symbol: {
                 type: "simple-line",
-                color: [226, 119, 40], // Orange
-                width: 2,
+                color: [0, 0, 0], // Black
+                width: 1,
               },
             });
 
@@ -217,7 +217,7 @@
                 geometry: polyline,
                 symbol: {
                   type: "simple-line",
-                  color: [226, 119, 40], // Orange
+                  color: [0, 0, 0], // Black
                   width: 1,
                 },
               });
@@ -250,9 +250,9 @@
 <body>
   <div id="viewDiv"></div>
   <div class="button-action">
-    <button id="toggleButton">Ẩn địa điểm</button>
-    <button id="toggleAreaButton">Ẩn vùng</button>
-    <button id="drawLineButton">Vẽ</button>
+    <button id="toggleButton">👁️ Hiện địa điểm</button>
+    <button id="toggleAreaButton"> Ẩn vùng</button>
+    <button id="drawLineButton">✏️ Vẽ</button>
   </div>
 </body>
 

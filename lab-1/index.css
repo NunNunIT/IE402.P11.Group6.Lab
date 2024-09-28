@@ -4,7 +4,7 @@
     right: 10px;
     z-index: 100!important;
     display: grid;
-    gap: 1rem;
+    gap: .5rem;
 }
 
 button {
@@ -15,8 +15,10 @@ button {
     cursor: pointer;
     border-radius: 8px;
     transition: 0.3s;
-    padding: 0.75rem;
-    font-size: 1.5rem;
+    padding: 0.25rem;
+    width: 10rem;
+    height: 3rem;
+    font-size: 1rem;
     font-weight: bold;
 }
 
