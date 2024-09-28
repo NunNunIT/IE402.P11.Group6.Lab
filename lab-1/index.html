@@ -151,10 +151,10 @@
         }
       });
 
-      // Handle map double-clicks for drawing
-      view.on("double-click", function (event) {
+      // Handle map clicks for drawing
+      view.on("click", function (event) {
         if (isDrawing) {
-          event.stopPropagation(); // Prevent default zoom on double-click
+          event.stopPropagation(); // Prevent default zoom on click
 
           // Get coordinates of clicked point
           const lng = event.mapPoint.longitude.toFixed(8);
