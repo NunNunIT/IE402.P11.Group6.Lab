@@ -14,6 +14,8 @@ const temples = datas.map((data) => ({
   Location: data.address,
   symbol: TEMPLE_SYMBOL,
   popupTemplate: POINT_TEMPLATE_TEMPLE,
+  ...data,
+
 }))
 
 export default temples;

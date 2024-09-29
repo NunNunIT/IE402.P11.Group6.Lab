@@ -14,6 +14,7 @@ const drinks = datas.map((data) => ({
   Location: data.address,
   symbol: DRINK_SYMBOL,
   popupTemplate: POINT_TEMPLATE_DRINK,
+  ...data,
 }))
 
 export default drinks;

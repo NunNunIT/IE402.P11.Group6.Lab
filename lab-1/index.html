@@ -1,172 +1,332 @@
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="initial-scale=1, maximum-scale=1, user-scalable=no"
-    />
-    <title>Nhóm 6 - ...</title>
-    <style>
-      html,
-      body,
-      #viewDiv {
-        padding: 0;
-        margin: 0;
-        height: 100%;
-        width: 100%;
-      }
-    </style>
 
-    <link
-      rel="stylesheet"
-      href="https://js.arcgis.com/4.15/esri/themes/light/main.css"
-    />
-    <link rel="stylesheet" href="./index.css" />
-    <script src="https://js.arcgis.com/4.15/"></script>
+</html>
 
-    <script type="module">
-      // import
-      // import schools from "./schools/index.js";
-      import places from "./places/index.js";
-      import streets from "./streets/index.js";
-      import districts from "./districts/index.js";
-      import cities from "./cities/index.js";
-      import towns from "./towns/index.js";
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <title>IE402.P11.Group6.Lab1 </title>
+  <style>
+    html,
+    body,
+    #viewDiv {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+  </style>
 
-      // Debounce function for scroll events
-      function debounce(func, delay) {
-        let debounceTimeout;
-        return function (...args) {
-          clearTimeout(debounceTimeout);
-          debounceTimeout = setTimeout(() => func.apply(this, args), delay);
-        };
-      }
+  <link rel="stylesheet" href="https://js.arcgis.com/4.15/esri/themes/light/main.css" />
+  <link rel="stylesheet" href="./index.css" />
+  <script src="https://js.arcgis.com/4.15/"></script>
 
-      require([
-        "esri/Map",
-        "esri/views/MapView",
-        "esri/Graphic",
-        "esri/layers/GraphicsLayer",
-      ], function (Map, MapView, Graphic, GraphicsLayer) {
-        // create map
-        var map = new Map({
-          basemap: "topo-vector",
+  <script type="module">
+    // import data layers
+    import places from "./places/index.js";
+    import streets from "./streets/index.js";
+    import districts from "./districts/index.js";
+
+    // Debounce function for scroll events
+    function debounce(func, delay) {
+      let debounceTimeout;
+      return function (...args) {
+        clearTimeout(debounceTimeout);
+        debounceTimeout = setTimeout(() => func.apply(this, args), delay);
+      };
+    }
+
+    require(["esri/Map", "esri/views/MapView", "esri/Graphic", "esri/layers/GraphicsLayer", "esri/geometry/Polyline"], function (Map, MapView, Graphic, GraphicsLayer, Polyline) {
+      // create map
+      var map = new Map({
+        basemap: "topo-vector",
+      });
+
+      // create view
+      var view = new MapView({
+        container: "viewDiv",
+        map: map,
+        center: [106.69508635065, 10.851985339727143],
+        zoom: 10,
+        highlightOptions: {
+          color: "rgb(123, 211, 234)",
+        },
+      });
+
+      // Hiển thị độ zoom
+      var zoomSizeElement = document.getElementById('zoomSize');
+
+      // Lắng nghe sự kiện zoom và cập nhật độ zoom
+      view.watch("zoom", function () {
+        zoomSizeElement.textContent = `Độ zoom: ${view.zoom.toFixed(2)}`;
+      });
+
+      // create graphic
+      var createGraphic = function (data) {
+        return new Graphic({
+          geometry: data,
+          symbol: data.symbol,
+          attributes: data,
+          popupTemplate: data.popupTemplate,
         });
+      };
 
-        // enable mouse event on map
-        map.on("load", function () {
-          map.graphics.enableMouseEvents();
-        });
+      // Tạo lớp huyện (graphicsLayer cho huyện)
+      var districtLayer = new GraphicsLayer();
+      districts.forEach(function (data) {
+        districtLayer.add(createGraphic(data));
+      });
 
-        // create view
-        var view = new MapView({
-          container: "viewDiv",
-          map: map,
-          center: [106.69508635065, 10.851985339727143],
-          zoom: 10,
-          highlightOptions: {
-            color: "rgb(123, 211, 234)",
-          },
-        });
+      // Hàm xử ẩn/hiện huyện
+      var isDistrictVisible = true;
+      var toggleAreaButton = document.getElementById('toggleAreaButton');
+      toggleAreaButton.addEventListener('click', function () {
+        isDistrictVisible = !isDistrictVisible;
+        districtLayer.visible = isDistrictVisible;
+        toggleAreaButton.textContent = isDistrictVisible ? "Ẩn vùng" : "👁️ Hiện vùng";
+      });
 
-        // create graphic
-        var createGraphic = function (data) {
-          return new Graphic({
-            geometry: data,
-            symbol: data.symbol,
-            attributes: data,
-            popupTemplate: data.popupTemplate,
-          });
-        };
+      // Thêm lớp huyện vào bản đồ
+      map.add(districtLayer);
 
-        // create graphics layer
-        var graphicsLayer = new GraphicsLayer();
+      var streetLayer = new GraphicsLayer();
 
-        // add districts
-        districts.forEach(function (data) {
-          graphicsLayer.add(createGraphic(data));
-        });
+      // Thêm lớp vẽ street vào bản đồ
+      map.add(streetLayer);
 
-        // add streets
-        streets.forEach(function (data) {
-          graphicsLayer.add(createGraphic(data));
-        });
+      // add streets
+      streets.forEach(function (data) {
+        streetLayer.add(createGraphic(data));
+      });
 
-        map.add(graphicsLayer);
+      map.add(streetLayer);
 
-        // create points layer
-        // Tạo pointsLayer
-        var pointsLayer = new GraphicsLayer();
-        pointsLayer.visible = false; // Ẩn các điểm ban đầu
+      // create points layer
+      var pointsLayer = new GraphicsLayer();
+      pointsLayer.visible = false; // Hidden initially
 
-        places.forEach(function (place) {
-          place.forEach(function (data) {
-            pointsLayer.add(createGraphic(data));
-          });
-        });
-
-        map.add(pointsLayer);
-
-        // Xử lý ẩn/hiển điểm
-        var isPointsVisible = false; // Ban đầu, các điểm bị ẩn
-        var toggleButton = document.getElementById("toggleButton");
-
-        toggleButton.addEventListener("click", function () {
-          isPointsVisible = !isPointsVisible; // Chuyển đổi trạng thái
-          pointsLayer.visible = isPointsVisible; // Cập nhật trạng thái visible của layer
-
-          // Cập nhật nút theo trạng thái
-          toggleButton.textContent = isPointsVisible
-            ? "Ẩn địa điểm"
-            : "Hiển địa điểm";
-        });
-
-        // hide pont layer when zoom out
-        const MIN_ZOOM_TO_SHOW_POINTS = 11;
-        // view.watch("zoom", debounce(function (newValue) {
-        //   pointsLayer.visible = newValue >= MIN_ZOOM_TO_SHOW_POINTS;
-        // }, 500)); // Adjust delay as needed
-
-        // get point
-        // var map;
-        var list_points = [];
-        var string_points = "";
-
-        function copyTextToClipboard(text) {
-          if (!navigator.clipboard) {
-            fallbackCopyTextToClipboard(text);
-            return;
-          }
-          navigator.clipboard.writeText(text).then(
-            function () {
-              console.log("Async: Copying to clipboard was successful!");
-            },
-            function (err) {
-              console.error("Async: Could not copy text: ", err);
-            }
-          );
-        }
-
-        view.popup.autoOpenEnabled = true; // Disable the default popup behavior
-        view.on("click", function (event) {
-          view.hitTest(event).then(function (hitTestResults) {
-            if (!hitTestResults.results) return;
-
-            const lng = event.mapPoint.longitude.toFixed(8);
-            const lat = event.mapPoint.latitude.toFixed(8);
-            // list_points.push([lng, lat]);
-            string_points += "[" + lng + ", " + lat + "],";
-            // copyTextToClipboard("[" + lng + ", " + lat + "],");
-            copyTextToClipboard(string_points);
-          });
+      places.forEach(function (place) {
+        place.forEach(function (data) {
+          pointsLayer.add(createGraphic(data));
         });
       });
-    </script>
-  </head>
 
-  <body>
-    <div id="viewDiv"></div>
-    <button id="toggleButton">Ẩn địa điểm</button>
-  </body>
-  <script></script>
+      map.add(pointsLayer);
+
+
+      // Toggle points visibility
+      var isPointsVisible = false;
+      var toggleButton = document.getElementById('toggleButton');
+
+      toggleButton.addEventListener('click', function () {
+        isPointsVisible = !isPointsVisible;
+        pointsLayer.visible = isPointsVisible;
+        toggleButton.textContent = isPointsVisible ? "Ẩn địa điểm" : "👁️ Hiển địa điểm";
+      });
+
+      // Copy text to clipboard function
+      function copyTextToClipboard(text) {
+        navigator.clipboard.writeText(text).then(
+          function () {
+            console.log("Copying to clipboard was successful!");
+          },
+          function (err) {
+            console.error("Could not copy text: ", err);
+          }
+        );
+      }
+
+      // Drawing line functionality
+      // Drawing line functionality
+      var isDrawing = false;
+      var polylinePoints = []; // Store clicked points
+      var string_points = ""; // String format for clipboard
+      var lineGraphic = null; // Reference to the current line graphic
+      var lineLayer = new GraphicsLayer();
+      map.add(lineLayer);
+
+      // Toggle drawing mode
+      drawLineButton.addEventListener('click', function () {
+        isDrawing = !isDrawing;
+        drawLineButton.textContent = isDrawing ? "✍️ Đang vẽ" : "✏️ Vẽ";
+
+        // Khi kết thúc chế độ vẽ, không reset polylinePoints và string_points.
+        // Chỉ cần reset khi người dùng muốn bắt đầu vẽ lại một line mới (không phải khi tắt chế độ vẽ).
+        if (!isDrawing) {
+          // Bạn có thể giữ nguyên các line đã vẽ trên bản đồ mà không xóa đi.
+          // Không xóa lineGraphic ở đây
+          console.log("Kết thúc chế độ vẽ, các line vẫn giữ nguyên.");
+        }
+      });
+
+      // Handle map clicks for drawing
+      view.on("click", function (event) {
+        if (isDrawing) {
+          event.stopPropagation(); // Prevent default zoom on click
+
+          // Get coordinates of clicked point
+          const lng = event.mapPoint.longitude.toFixed(8);
+          const lat = event.mapPoint.latitude.toFixed(8);
+          const point = [lng, lat];
+
+          // Add point to the polyline and string format
+          polylinePoints.push([parseFloat(lng), parseFloat(lat)]);
+          string_points += `[${lng}, ${lat}],`;
+
+          // Remove the old line if it exists (chỉ xóa line nếu bạn muốn vẽ mới)
+          if (lineGraphic) {
+            lineLayer.remove(lineGraphic);
+          }
+
+          // If there are at least two points, draw the line
+          if (polylinePoints.length > 1) {
+            var polyline = new Polyline({
+              paths: [polylinePoints],
+            });
+
+            lineGraphic = new Graphic({
+              geometry: polyline,
+              symbol: {
+                type: "simple-line",
+                color: [0, 0, 0], // Black
+                width: 1,
+              },
+            });
+
+            // Add the line to the map
+            lineLayer.add(lineGraphic);
+          }
+
+          // Copy points to clipboard
+          copyTextToClipboard(string_points);
+        }
+      });
+
+      // Handle Ctrl+Z to undo the last point
+      document.addEventListener('keydown', function (event) {
+        if (event.ctrlKey && event.key === 'z') {
+          if (polylinePoints.length > 0) {
+            // Remove the last point from polylinePoints
+            polylinePoints.pop();
+
+            // Update the string_points for clipboard
+            string_points = polylinePoints.map(pt => `[${pt[0].toFixed(8)}, ${pt[1].toFixed(8)}]`).join(",") + ",";
+
+            // Remove the old line graphic
+            if (lineGraphic) {
+              lineLayer.remove(lineGraphic);
+            }
+
+            // If there are at least two points, draw the updated line
+            if (polylinePoints.length > 1) {
+              var polyline = new Polyline({
+                paths: [polylinePoints],
+              });
+
+              lineGraphic = new Graphic({
+                geometry: polyline,
+                symbol: {
+                  type: "simple-line",
+                  color: [0, 0, 0], // Black
+                  width: 1,
+                },
+              });
+
+              lineLayer.add(lineGraphic);
+            }
+
+            // Update clipboard with new points
+            copyTextToClipboard(string_points);
+          }
+        }
+      });
+
+      // Symbol cho điểm tìm kiếm
+      const FINDPLACE_SYMBOL = {
+        type: "simple-marker",
+        color: [255, 0, 0],  // Màu đỏ
+        size: 8,
+        outline: {
+          color: [0, 0, 0],
+          width: 1
+        }
+      };
+
+      // Lớp đồ họa để hiển thị điểm
+      var findPlaceLayer = new GraphicsLayer();
+      map.add(findPlaceLayer);
+
+      // Xử lý sự kiện Enter để tìm tọa độ
+      document.getElementById('findLocated').addEventListener('keypress', function (event) {
+        if (event.key === 'Enter') {
+          var input = event.target.value;
+
+          // Xử lý chuỗi tọa độ và chuyển thành array [lng, lat]
+          try {
+            var coords = JSON.parse(input);
+            if (Array.isArray(coords) && coords.length === 2) {
+              var lng = parseFloat(coords[0]);
+              var lat = parseFloat(coords[1]);
+
+              if (!isNaN(lng) && !isNaN(lat)) {
+                // Xóa các điểm trước đó nếu có
+                findPlaceLayer.removeAll();
+
+                // Tạo điểm mới với tọa độ được nhập
+                var pointGraphic = new Graphic({
+                  geometry: {
+                    type: "point",
+                    longitude: lng,
+                    latitude: lat
+                  },
+                  symbol: FINDPLACE_SYMBOL
+                });
+
+                // Thêm điểm vào layer và hiển thị
+                findPlaceLayer.add(pointGraphic);
+
+                // Zoom tới vị trí điểm vừa tìm
+                view.goTo({
+                  center: [lng, lat],
+                  zoom: 15  // Bạn có thể thay đổi mức zoom tùy ý
+                });
+              } else {
+                alert("Tọa độ không hợp lệ");
+              }
+            } else {
+              alert("Vui lòng nhập tọa độ đúng định dạng [lng, lat]");
+            }
+          } catch (error) {
+            alert("Lỗi khi phân tích tọa độ. Vui lòng nhập tọa độ dưới dạng [lng, lat]");
+          }
+        }
+      });
+
+
+      // Copy text to clipboard function
+      // function copyTextToClipboard(text) {
+      //   navigator.clipboard.writeText(text).then(
+      //     function () {
+      //       console.log("Copying to clipboard was successful!");
+      //     },
+      //     function (err) {
+      //       console.error("Could not copy text: ", err);
+      //     }
+      //   );
+      // }
+    });
+  </script>
+</head>
+
+<body>
+  <div id="viewDiv"></div>
+  <div class="button-action">
+    <input id="findLocated" name="findLocated" placeholder="Tìm một tọa độ" />
+    <button id="toggleButton">👁️ Hiện địa điểm</button>
+    <button id="toggleAreaButton"> Ẩn vùng</button>
+    <button id="drawLineButton">✏️ Vẽ</button>
+    <span id="zoomSize">Độ zoom: 10</span>
+  </div>
+</body>
+
 </html>

@@ -14,6 +14,8 @@ const realEstates = datas.map((data) => ({
   Location: data.address,
   symbol: REAL_ESTATE_SYMBOL,
   popupTemplate: POINT_TEMPLATE_REAL_ESTATE,
+  ...data,
+
 }))
 
 export default realEstates;
