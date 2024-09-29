@@ -53,6 +53,14 @@
         },
       });
 
+      // Hiển thị độ zoom
+      var zoomSizeElement = document.getElementById('zoomSize');
+
+      // Lắng nghe sự kiện zoom và cập nhật độ zoom
+      view.watch("zoom", function () {
+        zoomSizeElement.textContent = `Độ zoom: ${view.zoom.toFixed(2)}`;
+      });
+
       // create graphic
       var createGraphic = function (data) {
         return new Graphic({
@@ -313,10 +321,11 @@
 <body>
   <div id="viewDiv"></div>
   <div class="button-action">
-    <input id="findLocated" name="findLocated" placeholder="Tìm tọa độ" />
+    <input id="findLocated" name="findLocated" placeholder="Tìm một tọa độ" />
     <button id="toggleButton">👁️ Hiện địa điểm</button>
     <button id="toggleAreaButton"> Ẩn vùng</button>
     <button id="drawLineButton">✏️ Vẽ</button>
+    <span id="zoomSize">Độ zoom: 10</span>
   </div>
 </body>
 
