@@ -1,9 +1,9 @@
 // Chỉnh tên đia điểm
 const name = "Huyện Nhà Bè";
 // Chỉnh số dân ở đây
-const population = 100000;
+const population = 175360;
 // Chỉnh diện tích ở đây
-const area = 123.45;
+const area = 100.43;
 const symbol = {
   // Chỉnh vùng màu ở chỗ này
   color: [248, 152, 128, 0.4],
