@@ -1,7 +1,7 @@
 // Chỉnh tên đia điểm
 const name = "Quận 11"
 // Chỉnh số dân ở đây
-const population = 332.536
+const population = 332536
 // Chỉnh diện tích ở đây
 const area = 5.14
 const symbol = {

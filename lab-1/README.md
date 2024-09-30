@@ -63,7 +63,6 @@ VD: [106.68729295, 10.75351909]
 2. Ẩn/ Hiện địa điểm đánh dấu trên bản đồ.
 3. Ẩn/ Hiện vùng/ quận.
 4. Vẽ bản đồ.
-5. Hiện thị độ phóng to của bản đồ.
 
 ![Giao diện của các tính năng xây dụng](./assets/note-1.png "Giao diện của các tính năng xây dụng")
 
