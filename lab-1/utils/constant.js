@@ -6,6 +6,12 @@ const MAP_VIEW_TEMPLATE_INFO = {
   },
 }
 
+const POINT_TEMPLATE_STREET = {
+  title: "{Name}",
+  content: "Đường này là <b>{Name}</b>",
+};
+
+
 const POINT_TEMPLATE_TOWN = {
   title: "{Name}",
   content: "Thị xã <b>{Name}</b>, <b>{Location}</b>.",

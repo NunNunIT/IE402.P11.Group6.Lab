@@ -26,14 +26,11 @@ import { POINT_TEMPLATE_AREA } from "../utils/constant.js";
 
 const districts = [
   CanGio,
-  Quan3,
   Quan11,
-  QuanTanBinh,
   TPThuDuc,
   Quan4,
   Quan7,
   Quan6,
-  PhuNhuan,
   Quan12,
   TanPhu,
   BinhThanh,
