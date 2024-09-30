@@ -1,5 +1,5 @@
 // Chỉnh tên ở đây
-const Name = "Đường Phạm Văn Đồng";
+const Name = "Phạm Văn Đồng";
 // Chỉnh tên ở đây
 const Location = "Thành phố Hồ Chí Minh";
 const symbol = {
