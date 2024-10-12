@@ -34,6 +34,7 @@ const districts = [
   Quan12,
   TanPhu,
   BinhThanh,
+  QuanBinhTan
 ].map((data) => ({
   type: "polygon",
   popupTemplate: POINT_TEMPLATE_AREA,
