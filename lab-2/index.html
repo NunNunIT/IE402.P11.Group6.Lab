@@ -1,0 +1,140 @@
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <title>IE402.P11.Group6.Lab2 </title>
+
+  <style>
+    html,
+    body,
+    #viewDiv {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+
+    #modelSelector {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      z-index: 10;
+      background: white;
+      padding: 5px;
+      border-radius: 4px;
+      border: 1px solid #ddd;
+    }
+  </style>
+
+  <link rel="stylesheet" href="https://js.arcgis.com/4.15/esri/themes/light/main.css" />
+  <link rel="stylesheet" href="./index.css" />
+  <script src="https://js.arcgis.com/4.15/"></script>
+
+  <script type="module">
+    import { models } from "./mess/index.js";
+    require([
+      "esri/Map",
+      "esri/views/SceneView",
+      "esri/layers/GraphicsLayer",
+      "esri/geometry/Mesh",
+      "esri/geometry/Point",
+      "esri/Graphic"
+    ], function (
+      Map,
+      SceneView,
+      GraphicsLayer,
+      Mesh,
+      Point,
+      Graphic
+    ) {
+      const sketchLayer = new GraphicsLayer({
+        elevationInfo: {
+          mode: "absolute-height"
+        },
+        title: "Sketched geometries"
+      });
+      const map = new Map({
+        basemap: "topo-vector",
+        ground: "world-elevation"
+      });
+
+      const view = new SceneView({
+        container: "viewDiv",
+        map: map,
+        camera: {
+          position: [106.8008663430442, 10.863971396764873, 300], // Default camera position
+          heading: 0,
+          tilt: 50
+        }
+      });
+
+      // Populate the dropdown with model keys
+      const modelSelector = document.getElementById("modelSelector");
+      Object.keys(models).forEach(function (modelName) {
+        const option = document.createElement("option");
+        option.value = modelName;
+        option.text = modelName;
+        modelSelector.appendChild(option);
+      });
+
+      // Listen for selection changes and update the SceneView camera
+      modelSelector.addEventListener("change", function (event) {
+        const selectedModel = models[event.target.value];
+        if (selectedModel) {
+          const newCameraPosition = [selectedModel.map.x, selectedModel.map.y, selectedModel.map.z];
+          view.goTo({
+            position: newCameraPosition,
+            tilt: 50
+          }, {
+            duration: 1000  // Transition duration in milliseconds
+          });
+        }
+      });
+
+      // Function to load a model
+      function loadModel(modelName) {
+        const model = models[modelName];
+        const location = new Point(model.position);
+
+        // Load the GLTF model using createFromGLTF
+        Mesh.createFromGLTF(location, model.path)
+          .then(function (geometry) {
+            geometry.scale(model.scale, { origin: location });
+            geometry.rotate(model.rotation.x, model.rotation.y, model.rotation.z);
+
+            const graphic = new Graphic({
+              geometry: geometry,
+              symbol: {
+                type: "mesh-3d",
+                symbolLayers: [{
+                  type: "fill",
+                  size: model.scale
+                }]
+              }
+            });
+
+            sketchLayer.add(graphic);
+          })
+          .catch(function (error) {
+            console.error(`Error loading model ${modelName}:`, error);
+          });
+      }
+
+      // Loop through the models dictionary and load each model by name
+      Object.keys(models).forEach(loadModel);
+
+      // Add the sketch layer to the map
+      map.add(sketchLayer);
+    });
+  </script>
+</head>
+
+<body>
+  <!-- Dropdown for model selection -->
+  <select id="modelSelector">
+    <option value="">Select a model</option>
+  </select>
+
+  <div id="viewDiv"></div>
+</body>
+</html>
