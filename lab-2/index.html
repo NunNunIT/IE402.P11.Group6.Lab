@@ -1,8 +1,9 @@
 <html>
+
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
-  <title>IE402.P11.Group6.Lab2 </title>
+  <title>IE402.P11.Group6.Lab2</title>
 
   <style>
     html,
@@ -32,6 +33,7 @@
 
   <script type="module">
     import { models } from "./mess/index.js";
+
     require([
       "esri/Map",
       "esri/views/SceneView",
@@ -53,6 +55,7 @@
         },
         title: "Sketched geometries"
       });
+
       const map = new Map({
         basemap: "topo-vector",
         ground: "world-elevation"
@@ -62,7 +65,7 @@
         container: "viewDiv",
         map: map,
         camera: {
-          position: [106.8008663430442, 10.863971396764873, 300], // Default camera position
+          position: [106.8008663430442, 10.863971396764873, 150],
           heading: 0,
           tilt: 50
         }
@@ -119,9 +122,53 @@
             console.error(`Error loading model ${modelName}:`, error);
           });
       }
-
       // Loop through the models dictionary and load each model by name
       Object.keys(models).forEach(loadModel);
+      /*
+      // Example Pyramid Model - Louvre Pyramid
+      let pyramidMesh = new Mesh({
+        vertexAttributes: {
+          position: [
+            // Base of the pyramid (adjusted z for elevation)
+            106.8008, 10.8639, 20,  // Vertex 0: Base - South-West
+            106.8009, 10.8639, 20,  // Vertex 1: Base - South-East
+            106.8009, 10.8640, 20,  // Vertex 2: Base - North-East
+            106.8008, 10.8640, 20,  // Vertex 3: Base - North-West
+            // Apex of the pyramid
+            106.80085, 10.86395, 40   // Vertex 4: Apex of the pyramid
+          ]
+        },
+        components: [
+          {
+            faces: [
+              // Define triangular faces for the pyramid sides
+              0, 4, 3,  // Side face 1 (South-West)
+              0, 1, 4,  // Side face 2 (South-East)
+              1, 2, 4,  // Side face 3 (North-East)
+              2, 3, 4   // Side face 4 (North-West)
+            ]
+          }
+        ]
+      });
+
+
+      // Add pyramid mesh to the scene
+      let pyramidGraphic = new Graphic({
+        geometry: pyramidMesh,
+        symbol: {
+          type: "mesh-3d",
+          symbolLayers: [{
+            type: "fill",
+            material: {
+              color: "blue"
+            }
+          }]
+        }
+      });
+
+      sketchLayer.add(pyramidGraphic);
+      */
+
 
       // Add the sketch layer to the map
       map.add(sketchLayer);
@@ -137,4 +184,5 @@
 
   <div id="viewDiv"></div>
 </body>
+
 </html>
