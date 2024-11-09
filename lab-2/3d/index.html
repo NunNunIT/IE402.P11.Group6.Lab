@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <title>3D - Building Map</title>
+
+    <style>
+        html,
+        body,
+        #viewDiv {
+            padding: 0;
+            margin: 0;
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+
+    <link rel="stylesheet" href="https://js.arcgis.com/4.29/esri/themes/light/main.css" />
+    <script src="https://js.arcgis.com/4.29/"></script>
+
+    <script>
+        require([
+            "esri/Map",
+            "esri/views/SceneView",
+            "esri/layers/GeoJSONLayer",
+            "esri/layers/SceneLayer", "esri/layers/GraphicsLayer", "esri/Graphic", "esri/request"
+        ], function (Map, SceneView, GeoJSONLayer, SceneLayer,
+            GraphicsLayer, Graphic, esriRequest) {
+            var createGraphic = function (data) {
+                return new Graphic({
+                    geometry: data,
+                    symbol: data.symbol,
+                    attributes: data,
+                    popupTemplate: data.popupTemplate
+                });
+            };
+
+            const map = new Map({
+                basemap: "topo-vector",
+                ground: "world-elevation",
+            });
+
+            const view = new SceneView({
+                container: "viewDiv",
+                map: map,
+                camera: {
+                    position: [121.50146209183711, 31.23558696467253, 300],
+                    heading: 0,
+                    tilt: 75
+                }
+            });
+
+            function addGeoJSONLayer(url, color, textureUrl = null) {
+                const geojsonLayer = new GeoJSONLayer({
+                    url: url
+                });
+
+                // Set a renderer for the layer
+                const symbolLayerConfig = {
+                    type: "extrude",
+                    material: {
+                        color: color
+                    }
+                };
+
+                // Only add the texture if textureUrl is provided
+                if (textureUrl) {
+                    symbolLayerConfig.material.texture = {
+                        url: textureUrl
+                    };
+                }
+
+                geojsonLayer.renderer = {
+                    type: "simple",
+                    symbol: {
+                        type: "polygon-3d",
+                        symbolLayers: [symbolLayerConfig]
+                    },
+                    visualVariables: [
+                        {
+                            type: "size",
+                            field: "height",
+                            valueUnit: "meters"
+                        }
+                    ]
+                };
+
+                // Add the layer to the map
+                map.add(geojsonLayer);
+            }
+            // Add main building
+            addGeoJSONLayer("./main.geojson", [153, 217, 234, 0.8], "./glass.jpg");
+            // Add mechanical floor
+            addGeoJSONLayer("./mechanical.geojson", [255, 255, 255, 1]);
+
+            var geojsonLayer = new GeoJSONLayer({
+                url: "./cube.geojson",
+                renderer: {
+                    type: "simple",  // autocasts as new SimpleRenderer()
+                    symbol: {
+                        type: "polygon-3d",  // Enables 3D polygon styling
+                        symbolLayers: [{
+                            type: "extrude",  // Use ExtrudeSymbol3DLayer for extrusion effect
+                            material: {
+                                color: [153, 217, 234, 0.8]  // Base color with transparency
+                            },
+                            size: 4,  // Set the extrusion height in meters
+                        }]
+                    }
+                }
+            });
+
+
+            map.add(geojsonLayer);
+
+            view.popup.defaultPopupTemplateEnabled = true;
+        });
+
+    </script>
+</head>
+
+<body>
+    <div id="viewDiv"></div>
+</body>
+
+</html>
