@@ -20,14 +20,17 @@
 
 ## Mô tả
 
-Trong dự án này, nhóm hiện thực bản đồ vị trí một số quận của [Thành phố Hồ Chí
-Minh - Việt Nam](https://vi.wikipedia.org/wiki/Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh), đánh dấu một số thực thể như quận, đường, tòa nhà, công ty,
-quán nước,... cùng một số [tính năng](#tính-năng) được xây dựng bên dưới.
+Trong dự án này, nhóm hiện thực bản đồ 3D Tòa nhà Shanghai China
+
+[Tài liệu Shanghai Tower](https://www.slideshare.net/slideshow/shanghai-tower-facadedesignprocess11102011/31069337?fbclid=IwY2xjawGkJsJleHRuA2FlbQIxMAABHegYGvYl1g-nkjXQGJpM-tVOgiwk8uNEz1b7cyVsbknYI-Y_qHp3sZ5zNw_aem_zHQgI7d4zz-X290iiDCv6A#2)
+
+![image](https://github.com/user-attachments/assets/d2e77168-63ab-4550-b5ea-20dde9284b83)
 
 ## Công cụ sử dụng
 
 - [Visual Studio Code](https://code.visualstudio.com/Download)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- Python
 
 ## Cách sử dụng
 
@@ -37,7 +40,7 @@ quán nước,... cùng một số [tính năng](#tính-năng) được xây d�
    ```
 2. Chuyển sang thư mục dự án:
    ```
-   cd ./IE402.P11.Group6.Lab/lab-1
+   cd ./IE402.P11.Group6.Lab/lab-2
    ```
 3. Mở dự án bằng Visual Studio Code
    ```
@@ -50,3 +53,8 @@ quán nước,... cùng một số [tính năng](#tính-năng) được xây d�
 2. Mở [index.html](./index.html) bằng Live Server
 
 # Một số hình ảnh
+![image](https://github.com/user-attachments/assets/b7356989-4b81-4f4d-aeeb-914c7a61d2ec)
+![image](https://github.com/user-attachments/assets/315e7b22-2bff-4f80-a50d-986b9a0aa7ab)
+
+![image](https://github.com/user-attachments/assets/aa65f997-0df9-4b51-9b9a-1ba791596ad5)
+![image](https://github.com/user-attachments/assets/4354b109-091f-4173-8534-787076e9c7e4)
