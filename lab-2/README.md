@@ -24,7 +24,7 @@ Trong dự án này, nhóm hiện thực bản đồ 3D Tòa nhà Shanghai China
 
 [Tài liệu Shanghai Tower](https://www.slideshare.net/slideshow/shanghai-tower-facadedesignprocess11102011/31069337?fbclid=IwY2xjawGkJsJleHRuA2FlbQIxMAABHegYGvYl1g-nkjXQGJpM-tVOgiwk8uNEz1b7cyVsbknYI-Y_qHp3sZ5zNw_aem_zHQgI7d4zz-X290iiDCv6A#2)
 
-![alt text](/texture/shanghai.png)
+![alt text](texture/shanghai.png)
 
 ## Công cụ sử dụng
 
@@ -53,8 +53,8 @@ Trong dự án này, nhóm hiện thực bản đồ 3D Tòa nhà Shanghai China
 2. Mở [index.html](./index.html) bằng Live Server
 
 # Một số hình ảnh
-![alt text](/texture/image-1.png)
-![alt text](/texture/image.png)
+![alt text](texture/image-1.png)
+![alt text](texture/image.png)
 
-![alt text](/texture/image-3.png)
-![alt text](/texture/image-2.png)
+![alt text](texture/image-3.png)
+![alt text](texture/image-2.png)
