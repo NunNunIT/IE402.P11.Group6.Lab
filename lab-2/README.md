@@ -1,4 +1,4 @@
-# VNU-UIT - IE402.P11 - Nhóm 6 - Bài thực hành số 1
+# VNU-UIT - IE402.P11 - Nhóm 6 - Bài thực hành số 2
 
 ## Thông tin chung
 
@@ -24,7 +24,7 @@ Trong dự án này, nhóm hiện thực bản đồ 3D Tòa nhà Shanghai China
 
 [Tài liệu Shanghai Tower](https://www.slideshare.net/slideshow/shanghai-tower-facadedesignprocess11102011/31069337?fbclid=IwY2xjawGkJsJleHRuA2FlbQIxMAABHegYGvYl1g-nkjXQGJpM-tVOgiwk8uNEz1b7cyVsbknYI-Y_qHp3sZ5zNw_aem_zHQgI7d4zz-X290iiDCv6A#2)
 
-![image](https://github.com/user-attachments/assets/d2e77168-63ab-4550-b5ea-20dde9284b83)
+![alt text](/texture/shanghai.png)
 
 ## Công cụ sử dụng
 
@@ -53,8 +53,8 @@ Trong dự án này, nhóm hiện thực bản đồ 3D Tòa nhà Shanghai China
 2. Mở [index.html](./index.html) bằng Live Server
 
 # Một số hình ảnh
-![image](https://github.com/user-attachments/assets/b7356989-4b81-4f4d-aeeb-914c7a61d2ec)
-![image](https://github.com/user-attachments/assets/315e7b22-2bff-4f80-a50d-986b9a0aa7ab)
+![alt text](/texture/image-1.png)
+![alt text](/texture/image.png)
 
-![image](https://github.com/user-attachments/assets/aa65f997-0df9-4b51-9b9a-1ba791596ad5)
-![image](https://github.com/user-attachments/assets/4354b109-091f-4173-8534-787076e9c7e4)
+![alt text](/texture/image-3.png)
+![alt text](/texture/image-2.png)
