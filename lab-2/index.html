@@ -1,188 +1,176 @@
+<!DOCTYPE html>
 <html>
 
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
-  <title>IE402.P11.Group6.Lab2</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <title>Group 6 - IE402.P11 - 3D </title>
 
-  <style>
-    html,
-    body,
-    #viewDiv {
-      padding: 0;
-      margin: 0;
-      height: 100%;
-      width: 100%;
-    }
-
-    #modelSelector {
-      position: absolute;
-      top: 10px;
-      right: 10px;
-      z-index: 10;
-      background: white;
-      padding: 5px;
-      border-radius: 4px;
-      border: 1px solid #ddd;
-    }
-  </style>
-
-  <link rel="stylesheet" href="https://js.arcgis.com/4.15/esri/themes/light/main.css" />
-  <link rel="stylesheet" href="./index.css" />
-  <script src="https://js.arcgis.com/4.15/"></script>
-
-  <script type="module">
-    import { models } from "./mess/index.js";
-
-    require([
-      "esri/Map",
-      "esri/views/SceneView",
-      "esri/layers/GraphicsLayer",
-      "esri/geometry/Mesh",
-      "esri/geometry/Point",
-      "esri/Graphic"
-    ], function (
-      Map,
-      SceneView,
-      GraphicsLayer,
-      Mesh,
-      Point,
-      Graphic
-    ) {
-      const sketchLayer = new GraphicsLayer({
-        elevationInfo: {
-          mode: "absolute-height"
-        },
-        title: "Sketched geometries"
-      });
-
-      const map = new Map({
-        basemap: "topo-vector",
-        ground: "world-elevation"
-      });
-
-      const view = new SceneView({
-        container: "viewDiv",
-        map: map,
-        camera: {
-          position: [106.8008663430442, 10.863971396764873, 150],
-          heading: 0,
-          tilt: 50
+    <style>
+        html,
+        body,
+        #viewDiv {
+            padding: 0;
+            margin: 0;
+            height: 100%;
+            width: 100%;
         }
-      });
+    </style>
 
-      // Populate the dropdown with model keys
-      const modelSelector = document.getElementById("modelSelector");
-      Object.keys(models).forEach(function (modelName) {
-        const option = document.createElement("option");
-        option.value = modelName;
-        option.text = modelName;
-        modelSelector.appendChild(option);
-      });
+    <link rel="stylesheet" href="./index.css" />
+    <link rel="stylesheet" href="https://js.arcgis.com/4.29/esri/themes/light/main.css" />
+    <script src="https://js.arcgis.com/4.29/"></script>
 
-      // Listen for selection changes and update the SceneView camera
-      modelSelector.addEventListener("change", function (event) {
-        const selectedModel = models[event.target.value];
-        if (selectedModel) {
-          const newCameraPosition = [selectedModel.map.x, selectedModel.map.y, selectedModel.map.z];
-          view.goTo({
-            position: newCameraPosition,
-            tilt: 50
-          }, {
-            duration: 1000  // Transition duration in milliseconds
-          });
-        }
-      });
+    <script>
+        require([
+            "esri/Map",
+            "esri/views/SceneView",
+            "esri/layers/GeoJSONLayer",
+        ], function (Map, SceneView, GeoJSONLayer) {
 
-      // Function to load a model
-      function loadModel(modelName) {
-        const model = models[modelName];
-        const location = new Point(model.position);
-
-        // Load the GLTF model using createFromGLTF
-        Mesh.createFromGLTF(location, model.path)
-          .then(function (geometry) {
-            geometry.scale(model.scale, { origin: location });
-            geometry.rotate(model.rotation.x, model.rotation.y, model.rotation.z);
-
-            const graphic = new Graphic({
-              geometry: geometry,
-              symbol: {
-                type: "mesh-3d",
-                symbolLayers: [{
-                  type: "fill",
-                  size: model.scale
-                }]
-              }
+            const map = new Map({
+                basemap: "topo-vector",
+                ground: "world-elevation",
             });
 
-            sketchLayer.add(graphic);
-          })
-          .catch(function (error) {
-            console.error(`Error loading model ${modelName}:`, error);
-          });
-      }
-      // Loop through the models dictionary and load each model by name
-      Object.keys(models).forEach(loadModel);
-      /*
-      // Example Pyramid Model - Louvre Pyramid
-      let pyramidMesh = new Mesh({
-        vertexAttributes: {
-          position: [
-            // Base of the pyramid (adjusted z for elevation)
-            106.8008, 10.8639, 20,  // Vertex 0: Base - South-West
-            106.8009, 10.8639, 20,  // Vertex 1: Base - South-East
-            106.8009, 10.8640, 20,  // Vertex 2: Base - North-East
-            106.8008, 10.8640, 20,  // Vertex 3: Base - North-West
-            // Apex of the pyramid
-            106.80085, 10.86395, 40   // Vertex 4: Apex of the pyramid
-          ]
-        },
-        components: [
-          {
-            faces: [
-              // Define triangular faces for the pyramid sides
-              0, 4, 3,  // Side face 1 (South-West)
-              0, 1, 4,  // Side face 2 (South-East)
-              1, 2, 4,  // Side face 3 (North-East)
-              2, 3, 4   // Side face 4 (North-West)
-            ]
-          }
-        ]
-      });
+            const view = new SceneView({
+                container: "viewDiv",
+                map: map,
+                camera: {
+                    position: [121.501490, 31.220918, 650],
+                    heading: 0,
+                    tilt: 75
+                }
+            });
 
+            function addGeoJSONLayer(url, color, textureUrl = null) {
+                const geojsonLayer = new GeoJSONLayer({
+                    url: url
+                });
 
-      // Add pyramid mesh to the scene
-      let pyramidGraphic = new Graphic({
-        geometry: pyramidMesh,
-        symbol: {
-          type: "mesh-3d",
-          symbolLayers: [{
-            type: "fill",
-            material: {
-              color: "blue"
+                const symbolLayerConfig = {
+                    type: "extrude",
+                    material: {
+                        color: color
+                    }
+                };
+
+                if (textureUrl) {
+                    symbolLayerConfig.material.texture = {
+                        url: textureUrl
+                    };
+                }
+
+                geojsonLayer.renderer = {
+                    type: "simple",
+                    symbol: {
+                        type: "polygon-3d",
+                        symbolLayers: [symbolLayerConfig]
+                    },
+                    visualVariables: [
+                        {
+                            type: "size",
+                            field: "height",
+                            valueUnit: "meters"
+                        }
+                    ]
+                };
+
+                map.add(geojsonLayer);
+                return geojsonLayer;
             }
-          }]
-        }
-      });
 
-      sketchLayer.add(pyramidGraphic);
-      */
+            // Add all layers
+            const glassLayers = [];
+            // Main building
+            glassLayers.push(addGeoJSONLayer("./geojsonobj/main.geojson", [153, 217, 234, 0.8], "./texture/glass.jpg"));
+            // Glass windows
+            glassLayers.push(addGeoJSONLayer("./geojsonobj/window_geo.geojson", [118, 168, 232, 1], "./texture/glass.jpg"));
+            glassLayers.push(addGeoJSONLayer("./geojsonobj/non_window_geo.geojson", [153, 217, 234, 0.8], "./texture/glass.jpg"));
+            // Top curve
+            const topCurveLayer = new GeoJSONLayer({
+                url: "./geojsonobj/top_curve.geojson",
+                renderer: {
+                    type: "simple", // autocasts as new SimpleRenderer()
+                    symbol: {
+                        type: "polygon-3d", // Enables 3D polygon styling
+                        symbolLayers: [{
+                            type: "extrude", // Use ExtrudeSymbol3DLayer for extrusion effect
+                            material: {
+                                color: [153, 217, 234, 0.8] // Base color with transparency
+                            },
+                            size: 4, // Set the extrusion height in meters
+                        }]
+                    }
+                }
+            });
+            map.add(topCurveLayer);
+            glassLayers.push(topCurveLayer);
+
+            // Mechanical floor
+            addGeoJSONLayer("./geojsonobj/mechanical.geojson", [255, 255, 255, 1]);
+            // Top object
+            addGeoJSONLayer("./geojsonobj/top_obj.geojson", [200, 200, 200, 1]);
+            // Inside building
+            addGeoJSONLayer("./geojsonobj/inside.geojson", [255, 255, 255, 1]);
+
+            // Button logic for toggling glass layers
+            const button = document.getElementById("removeGlass");
+            let isGlassVisible = true;
+
+            button.addEventListener("click", function () {
+                isGlassVisible = !isGlassVisible;
+
+                glassLayers.forEach(layer => {
+                    layer.visible = isGlassVisible;
+                });
+
+                button.textContent = isGlassVisible ? "👁️ Ẩn lớp kính" : "👁️ Hiện lớp kính";
+            });
+
+            // Logic nút "Xem tòa nhà"
+            const resetCameraButton = document.getElementById("viewObject");
+
+            resetCameraButton.addEventListener("click", function () {
+                view.goTo({
+                    position: [121.501490, 31.220918, 650],
+                    heading: 0,
+                    tilt: 75
+                });
+            });
+
+            // // Lắng nghe sự kiện click
+            // view.on("click", function (event) {
+            //     const { latitude, longitude } = event.mapPoint;
+
+            //     // Hiển thị tọa độ
+            //     const coordinatesDiv = document.getElementById("coordinates");
+            //     coordinatesDiv.textContent = `Tọa độ: ${latitude.toFixed(6)}, ${longitude.toFixed(6)}`;
+
+            //     // Lưu tọa độ vào clipboard
+            //     const coords = `${latitude.toFixed(6)}, ${longitude.toFixed(6)}`;
+            //     navigator.clipboard.writeText(coords)
+            //         .then(() => {
+            //             console.log("Tọa độ đã được sao chép vào clipboard:", coords);
+            //         })
+            //         .catch(err => {
+            //             console.error("Không thể sao chép tọa độ:", err);
+            //         });
+            // });
 
 
-      // Add the sketch layer to the map
-      map.add(sketchLayer);
-    });
-  </script>
+            view.popup.defaultPopupTemplateEnabled = true;
+        });
+    </script>
 </head>
 
 <body>
-  <!-- Dropdown for model selection -->
-  <select id="modelSelector">
-    <option value="">Select a model</option>
-  </select>
-
-  <div id="viewDiv"></div>
+    <div id="viewDiv"></div>
+    <div class="button-action">
+        <button id="removeGlass">👁️ Ẩn lớp kính</button>
+        <button id="viewObject">Xem tòa nhà</button>
+        <!-- <div id="coordinates" class="coordinates">Nhấp vào bản đồ để sao chép tọa độ</div> -->
+    </div>
 </body>
 
 </html>
