@@ -91,12 +91,20 @@
                 map.add(geojsonLayer);
             }
             // Add main building
-            addGeoJSONLayer("./main.geojson", [153, 217, 234, 0.8], "./glass.jpg");
+            addGeoJSONLayer("./geojsonobj/main.geojson", [153, 217, 234, 0.8], "./texture/glass.jpg");
             // Add mechanical floor
-            addGeoJSONLayer("./mechanical.geojson", [255, 255, 255, 1]);
+            addGeoJSONLayer("./geojsonobj/mechanical.geojson", [255, 255, 255, 1]);
+            // Add top object
+            addGeoJSONLayer("./geojsonobj/top_obj.geojson", [200, 200, 200, 1]);
+            // Add inside building
+            addGeoJSONLayer("./geojsonobj/inside.geojson", [255, 255, 255, 1]);
+            // Add observation floor 
+            addGeoJSONLayer("./geojsonobj/window_geo.geojson", [118, 168, 232, 1], "./texture/glass.jpg");
+            addGeoJSONLayer("./geojsonobj/non_window_geo.geojson", [153, 217, 234, 0.8], "./texture/glass.jpg");
 
+            // Add top curve
             var geojsonLayer = new GeoJSONLayer({
-                url: "./cube.geojson",
+                url: "./geojsonobj/top_curve.geojson",
                 renderer: {
                     type: "simple",  // autocasts as new SimpleRenderer()
                     symbol: {
